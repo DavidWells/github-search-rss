@@ -6,39 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11516302?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Add <code>example-good</code> style to CSS examples</p>\n<h4 dir=\"auto\">Motivation</h4>\n<p dir=\"auto\">There are mixed samples which have a <code>example-good</code> style.<br>\nAdd it to examples as a counterpart of <code>example-bad</code>.</p>\n<h4 dir=\"auto\">Supporting details</h4>\n\n<h4 dir=\"auto\">Related issues</h4>\n\n<h4 dir=\"auto\">Metadata</h4>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Adds a new document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Rewrites (or significantly expands) a document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fixes a typo, bug, or other error</li>\n</ul>\n",
-            "url": "https://github.com/mdn/content/pull/10677",
-            "title": "Add example-good style to CSS examples",
-            "date_modified": "2021-11-21T12:37:40.000Z",
-            "date_published": "2021-11-21T12:35:55.000Z",
-            "author": {
-                "name": "mfuji09",
-                "url": "https://github.com/mfuji09"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11516302?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Fix typo in CSS/time-percentage</p>\n<h4 dir=\"auto\">Motivation</h4>\n<p dir=\"auto\">Space not allowed between the number and the percentage sign, not the space.</p>\n<h4 dir=\"auto\">Supporting details</h4>\n\n<h4 dir=\"auto\">Related issues</h4>\n\n<h4 dir=\"auto\">Metadata</h4>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Adds a new document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Rewrites (or significantly expands) a document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fixes a typo, bug, or other error</li>\n</ul>\n",
-            "url": "https://github.com/mdn/content/pull/10676",
-            "title": "Fix typo",
-            "date_modified": "2021-11-21T12:32:50.000Z",
-            "date_published": "2021-11-21T12:31:00.000Z",
-            "author": {
-                "name": "mfuji09",
-                "url": "https://github.com/mfuji09"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11516302?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Update links to documents which slug is changed.</p>\n<h4 dir=\"auto\">Motivation</h4>\n\n<h4 dir=\"auto\">Supporting details</h4>\n\n<h4 dir=\"auto\">Related issues</h4>\n\n<h4 dir=\"auto\">Metadata</h4>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Adds a new document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Rewrites (or significantly expands) a document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fixes a typo, bug, or other error</li>\n</ul>\n",
-            "url": "https://github.com/mdn/content/pull/10675",
-            "title": "Update links",
-            "date_modified": "2021-11-21T12:29:29.000Z",
-            "date_published": "2021-11-21T12:20:48.000Z",
-            "author": {
-                "name": "mfuji09",
-                "url": "https://github.com/mfuji09"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9212605?u=56fef047e888a1d687c157495f26ac04e6fc45d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Removed links to personal blogs and a online course. Two polyfill links as well, no need for having <em>three</em> independant polyfills.</p>\n<h4 dir=\"auto\">Motivation</h4>\n<p dir=\"auto\">Some of the links are potentially for promotions. Even though the said online course itself is free, the platform contains many paid contents.</p>\n<p dir=\"auto\">Though not all personal blogs should be considered promotional, I removed all of them in this one to not discriminate, as no one was <em>directly related</em>. (i.e. contributed in the spec)</p>\n<p dir=\"auto\">Notes:</p>\n<ul dir=\"auto\">\n<li>\"Jake Archibald: JavaScript Promises: There and Back Again\" -&gt; Redirecting to <code>web.dev</code>. Updated.</li>\n<li>\"Domenic Denicola: Callbacks, Promises, and Coroutines – Asynchronous Programming Patterns in JavaScript\" -&gt; Not a blog. AFAIK he was one of Promises/A+ spec contributor, didn't remove. Fixed link being dutch.</li>\n<li>\"Forbes Lindesay: promisejs.org\" -&gt; Didn't consider it as a personal blog, but it's outdated. Removed.</li>\n</ul>\n<h4 dir=\"auto\">Supporting details</h4>\n<h4 dir=\"auto\">Related issues</h4>\n\n<h4 dir=\"auto\">Metadata</h4>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Adds a new document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Rewrites (or significantly expands) a document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fixes a typo, bug, or other error</li>\n</ul>\n",
             "url": "https://github.com/mdn/content/pull/10674",
             "title": "Remove redundant links from Promise",
@@ -220,6 +187,39 @@
             "title": "Fix developer.google.com links",
             "date_modified": "2021-11-19T21:17:20.000Z",
             "date_published": "2021-11-19T04:52:38.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2392803?u=592fed23ae28e14a8222f9e1121119898ba4b72a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Adds a note about <code>const</code> and <code>let</code> that they don't affect the <code>window</code> object</p>\n<h4 dir=\"auto\">Motivation</h4>\n<p dir=\"auto\">I agree with <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1021541214\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/9684\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/9684/hovercard?comment_id=939573191&amp;comment_type=issue_comment\" href=\"https://github.com/mdn/content/issues/9684#issuecomment-939573191\">#9684 (comment)</a>. Creating a PR to draw attn towards closure. And this is a low hanging <g-emoji class=\"g-emoji\" alias=\"mango\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f96d.png\">🥭</g-emoji></p>\n<h4 dir=\"auto\">Supporting details</h4>\n<blockquote>\n<p dir=\"auto\">Just like const the let does not create properties of the window object when declared globally (in the top-most scope).</p>\n</blockquote>\n<p dir=\"auto\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let</a></p>\n<h4 dir=\"auto\">Related issues</h4>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #9684.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1021541214\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/9684\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/9684/hovercard\" href=\"https://github.com/mdn/content/issues/9684\">#9684</a></p>\n<h4 dir=\"auto\">Metadata</h4>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fixes a typo, bug, or other error</li>\n</ul>\n",
+            "url": "https://github.com/mdn/content/pull/10634",
+            "title": "Adds note about `const` and `let`",
+            "date_modified": "2021-11-19T04:11:58.000Z",
+            "date_published": "2021-11-19T02:28:27.000Z",
+            "author": {
+                "name": "himanshugarg",
+                "url": "https://github.com/himanshugarg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Adds a new document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Rewrites (or significantly expands) a document</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Fixes a typo, bug, or other error</li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/10633",
+            "title": "New Page: aria-live",
+            "date_modified": "2021-11-19T01:16:45.000Z",
+            "date_published": "2021-11-19T01:15:04.000Z",
+            "author": {
+                "name": "estelle",
+                "url": "https://github.com/estelle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Copied from <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1055329119\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/10574\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/10574/hovercard\" href=\"https://github.com/mdn/content/pull/10574\">#10574</a>:</p>\n<blockquote>\n<p dir=\"auto\">For a web developer audience, the term \"void\" does not describe a value--it is the name of a rarely-used unary operator which happens to produce the value undefined. This makes its use in the context of function return values somewhat confusing. Replace the term \"void\" with the term \"undefined\", and use the project's cross-linking capabilities to relate this to the canonical definition of the \"undefined\" language value.</p>\n</blockquote>\n<p dir=\"auto\">Upshot, void is not helpful, but <code>undefined</code> is.</p>",
+            "url": "https://github.com/mdn/content/pull/10632",
+            "title": "API method template: return undefined not void",
+            "date_modified": "2021-11-19T01:07:26.000Z",
+            "date_published": "2021-11-19T01:05:07.000Z",
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
