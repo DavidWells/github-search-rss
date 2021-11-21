@@ -4,7 +4,7 @@
  **/
 import { RSSItem } from "./index";
 
-const BASE_URL = "https://azu.github.io/github-search-rss";
+const BASE_URL = "https://davidwells.github.io/github-search-rss";
 // Query references
 // https://docs.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax
 // https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
@@ -12,13 +12,6 @@ const BASE_URL = "https://azu.github.io/github-search-rss";
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
     // Issue
-    {
-        title: "microsoft/TypeScript Iteration Plan",
-        query: "repo:microsoft/TypeScript is:issue label:Planning",
-        TYPE: "ISSUE",
-        link: `${BASE_URL}/typescript-iterator-plan.json`,
-        homepage: "https://github.com/search?q=repo%3Amicrosoft%2FTypeScript+is%3Aissue+label%3APlanning"
-    },
     {
         title: "w3ctag/design-reviews Design Issues",
         query: "repo:w3ctag/design-reviews is:issue",
@@ -44,6 +37,12 @@ export const SEARCH_ITEMS: RSSItem[] = [
         link: `${BASE_URL}/mdn-content.json`
     },
     // Repository
+    {
+        title: "Serverless repositories",
+        query: "serverless language:javascript language:typescript sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/serverless-javascript-repo.json`
+    },
     {
         title: "LightWeight JavaScript repositories",
         query: "lightweight language:javascript language:typescript sort:updated-desc",
