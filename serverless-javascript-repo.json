@@ -1,10 +1,43 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Serverless repositories",
-    "home_page_url": "https://davidwells.github.io/github-search-rss/serverless-javascript-repo.json",
+    "home_page_url": "https://github.com/search?o=desc&q=serverless+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&s=updated&type=Repositories",
     "feed_url": "https://davidwells.github.io/github-search-rss/serverless-javascript-repo.json",
     "description": "Serverless repositories on GitHub",
     "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32524021?u=9ecd76f0aa5ddd14b76854327456c8bcd2a81e7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ahmednkhan24/serverless-api",
+            "title": "ahmednkhan24/serverless-api",
+            "date_modified": "2021-11-21T20:33:05.000Z",
+            "date_published": "2021-09-17T03:10:28.000Z",
+            "author": {
+                "name": "ahmednkhan24",
+                "url": "https://github.com/ahmednkhan24"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.</div>",
+            "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js",
+            "title": "NordicSemiconductor/asset-tracker-cloud-aws-js: A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.",
+            "date_modified": "2021-11-21T20:26:36.000Z",
+            "date_published": "2021-01-26T15:44:54.000Z",
+            "author": {
+                "name": "NordicSemiconductor",
+                "url": "https://github.com/NordicSemiconductor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10875360?u=7b7d67fd262aed0140b01c17f8000292ca69f7b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extremely lightweight but powerful Node.js logger that's great for modern cloud/serverless applications.</div>",
+            "url": "https://github.com/chriswells0/node-sitka",
+            "title": "chriswells0/node-sitka: An extremely lightweight but powerful Node.js logger that's great for modern cloud/serverless applications.",
+            "date_modified": "2021-11-21T20:25:17.000Z",
+            "date_published": "2018-09-08T20:19:41.000Z",
+            "author": {
+                "name": "chriswells0",
+                "url": "https://github.com/chriswells0"
+            }
+        },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2101743?u=c14b3642cd8f1569c5fe4166e1d89bce3f9bd449&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless plugin that replaces 'latest' version tag to actual lambda layer version</div>",
             "url": "https://github.com/mooyoul/serverless-latest-layer-version",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "mooyoul",
                 "url": "https://github.com/mooyoul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.</div>",
-            "url": "https://github.com/aws-amplify/amplify-cli",
-            "title": "aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.",
-            "date_modified": "2021-11-21T18:14:35.000Z",
-            "date_published": "2018-08-23T16:33:10.000Z",
-            "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2289638?u=94f2a0a0af8860e4f923f4f539e56e6235a2d38b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple rest server with serverless and jwt</div>",
-            "url": "https://github.com/mhero/js-serverless",
-            "title": "mhero/js-serverless: Simple rest server with serverless and jwt",
-            "date_modified": "2021-11-21T18:13:28.000Z",
-            "date_published": "2018-12-27T20:17:52.000Z",
-            "author": {
-                "name": "mhero",
-                "url": "https://github.com/mhero"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29252705?u=6f01d8a0e9790886c578831135e433831634b4e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RBAC authorization serverless microservice (AWS + NodeJS)</div>",
-            "url": "https://github.com/msoffredi/ms-auth",
-            "title": "msoffredi/ms-auth: RBAC authorization serverless microservice (AWS + NodeJS)",
-            "date_modified": "2021-11-21T18:11:44.000Z",
-            "date_published": "2021-10-14T17:14:54.000Z",
-            "author": {
-                "name": "msoffredi",
-                "url": "https://github.com/msoffredi"
             }
         }
     ]
