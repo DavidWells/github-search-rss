@@ -257,7 +257,7 @@ if (require.main === module) {
         const opml = convertJsonToOPML(SEARCH_ITEMS);
         await fs.writeFile(path.join(distDir, "index.opml"), opml, "utf-8");
         const links = SEARCH_ITEMS.map((feed) => {
-            return `<li><code>${escapeSpecialChars(feed.query)}</code>: <a href="${feed.link}">${feed.link}</a></li>`;
+            return `<li><strong><a href="${feed.homepage}">${feed.title}</a></strong> (<a href="${feed.link}">link</a>) <code>${escapeSpecialChars(feed.query)}</code></a> </li>`;
         }).join("\n");
         const index = {
             html: `
