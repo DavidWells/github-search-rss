@@ -6,14 +6,124 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95507094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Worker to handle OAuth exchange with AWS Cognito Identity Service.</div>",
+            "url": "https://github.com/FlickrGroupAddr/cognito-oauth-callback-worker",
+            "title": "FlickrGroupAddr/cognito-oauth-callback-worker: Worker to handle OAuth exchange with AWS Cognito Identity Service.",
+            "date_modified": "2021-12-04T20:54:16.000Z",
+            "date_published": "2021-12-04T19:07:40.000Z",
+            "author": {
+                "name": "FlickrGroupAddr",
+                "url": "https://github.com/FlickrGroupAddr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2021-12-04T19:18:51.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58341194?u=b1853a4d16689be3609aeccce52c95a65474d408&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/django2python3/django-aws-cognito",
+            "title": "django2python3/django-aws-cognito",
+            "date_modified": "2021-12-04T11:39:00.000Z",
+            "date_published": "2021-12-04T06:22:10.000Z",
+            "author": {
+                "name": "django2python3",
+                "url": "https://github.com/django2python3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1649505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Creates AWS Cognito resources for using SAML authentication</div>",
+            "url": "https://github.com/trussworks/terraform-aws-saml-cognito",
+            "title": "trussworks/terraform-aws-saml-cognito: Creates AWS Cognito resources for using SAML authentication",
+            "date_modified": "2021-12-04T11:01:47.000Z",
+            "date_published": "2021-01-14T15:36:32.000Z",
+            "author": {
+                "name": "trussworks",
+                "url": "https://github.com/trussworks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
+            "url": "https://github.com/aws-amplify/amplify-js",
+            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
+            "date_modified": "2021-12-04T16:47:44.000Z",
+            "date_published": "2017-10-02T22:17:14.000Z",
+            "author": {
+                "name": "aws-amplify",
+                "url": "https://github.com/aws-amplify"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>",
+            "url": "https://github.com/tillkuhn/angkor",
+            "title": "tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS",
+            "date_modified": "2021-12-04T10:13:37.000Z",
+            "date_published": "2019-11-05T10:03:24.000Z",
+            "author": {
+                "name": "tillkuhn",
+                "url": "https://github.com/tillkuhn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/693198?u=a58156cbe79793a9bbfed9ed069a6c4122fd3b14&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple fake AWS Cognito User Pool API server for development.</div>",
+            "url": "https://github.com/naokirin/fakey-cognito",
+            "title": "naokirin/fakey-cognito: Simple fake AWS Cognito User Pool API server for development.",
+            "date_modified": "2021-12-04T09:11:44.000Z",
+            "date_published": "2021-09-20T05:05:58.000Z",
+            "author": {
+                "name": "naokirin",
+                "url": "https://github.com/naokirin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23386648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/diegomalta/admin-queries-cognito",
+            "title": "diegomalta/admin-queries-cognito",
+            "date_modified": "2021-12-04T05:26:00.000Z",
+            "date_published": "2021-08-31T03:17:10.000Z",
+            "author": {
+                "name": "diegomalta",
+                "url": "https://github.com/diegomalta"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32473932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ericgmoon/cognito-app",
+            "title": "ericgmoon/cognito-app",
+            "date_modified": "2021-12-04T04:26:41.000Z",
+            "date_published": "2021-11-24T04:22:03.000Z",
+            "author": {
+                "name": "ericgmoon",
+                "url": "https://github.com/ericgmoon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1024717?u=c8770acb139644f08b34315a2ecaadf44b084d2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ract 17 + typescript, aws Cognito </div>",
             "url": "https://github.com/kuc-arc-f/react_ts3_cognito",
             "title": "kuc-arc-f/react_ts3_cognito: Ract 17 + typescript, aws Cognito ",
-            "date_modified": "2021-12-03T23:44:50.000Z",
+            "date_modified": "2021-12-04T07:24:44.000Z",
             "date_published": "2021-12-03T23:42:51.000Z",
             "author": {
                 "name": "kuc-arc-f",
                 "url": "https://github.com/kuc-arc-f"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80353935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Export your AWS Cognito client secrets to a Secrets Manager secrets.</div>",
+            "url": "https://github.com/rayova/cdk-cognito-secret",
+            "title": "rayova/cdk-cognito-secret: Export your AWS Cognito client secrets to a Secrets Manager secrets.",
+            "date_modified": "2021-12-04T00:11:48.000Z",
+            "date_published": "2021-10-14T18:41:59.000Z",
+            "author": {
+                "name": "rayova",
+                "url": "https://github.com/rayova"
             }
         },
         {
@@ -28,36 +138,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95507094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cloudflare Worker to handle OAuth callback from AWS Cognito</div>",
-            "url": "https://github.com/FlickrGroupAddr/oauth-callback",
-            "title": "FlickrGroupAddr/oauth-callback: Cloudflare Worker to handle OAuth callback from AWS Cognito",
-            "date_modified": "2021-12-03T22:40:43.000Z",
-            "date_published": "2021-12-03T22:20:43.000Z",
-            "author": {
-                "name": "FlickrGroupAddr",
-                "url": "https://github.com/FlickrGroupAddr"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83479901?u=4791b57bbb428b870196926371f3cce1305b5061&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> AdicionandoSegurançaAPIsAWSAmazonCognito</div>",
             "url": "https://github.com/VagnerBellacosa/086_AdicionandoSegurancaAPIsAWSAmazonCognito",
             "title": "VagnerBellacosa/086_AdicionandoSegurancaAPIsAWSAmazonCognito:  AdicionandoSegurançaAPIsAWSAmazonCognito",
-            "date_modified": "2021-12-03T21:46:48.000Z",
+            "date_modified": "2021-12-04T13:48:53.000Z",
             "date_published": "2021-12-03T20:03:11.000Z",
             "author": {
                 "name": "VagnerBellacosa",
                 "url": "https://github.com/VagnerBellacosa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23386648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/diegomalta/admin-queries-cognito",
-            "title": "diegomalta/admin-queries-cognito",
-            "date_modified": "2021-12-03T21:20:58.000Z",
-            "date_published": "2021-08-31T03:17:10.000Z",
-            "author": {
-                "name": "diegomalta",
-                "url": "https://github.com/diegomalta"
             }
         },
         {
@@ -127,28 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
-            "url": "https://github.com/aws-amplify/amplify-js",
-            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2021-12-03T14:39:03.000Z",
-            "date_published": "2017-10-02T22:17:14.000Z",
-            "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80353935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Export your AWS Cognito client secrets to a Secrets Manager secrets.</div>",
-            "url": "https://github.com/rayova/cdk-cognito-secret",
-            "title": "rayova/cdk-cognito-secret: Export your AWS Cognito client secrets to a Secrets Manager secrets.",
-            "date_modified": "2021-12-03T00:14:18.000Z",
-            "date_published": "2021-10-14T18:41:59.000Z",
-            "author": {
-                "name": "rayova",
-                "url": "https://github.com/rayova"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53596277?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognito Sample CloudFormation Template</div>",
             "url": "https://github.com/shigezooooo/simple-cf-template",
             "title": "shigezooooo/simple-cf-template: Cognito Sample CloudFormation Template",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "shigezooooo",
                 "url": "https://github.com/shigezooooo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65521074?u=a27c28842d573797080e9163a3eb6bc42a85f500&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quiz Application Using DynamoDB, Cognito and Other AWS Services</div>",
-            "url": "https://github.com/onlytruejeremy/quiz",
-            "title": "onlytruejeremy/quiz: Quiz Application Using DynamoDB, Cognito and Other AWS Services",
-            "date_modified": "2021-12-02T23:20:13.000Z",
-            "date_published": "2021-11-21T08:08:19.000Z",
-            "author": {
-                "name": "onlytruejeremy",
-                "url": "https://github.com/onlytruejeremy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>",
-            "url": "https://github.com/tillkuhn/angkor",
-            "title": "tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS",
-            "date_modified": "2021-12-02T20:03:07.000Z",
-            "date_published": "2019-11-05T10:03:24.000Z",
-            "author": {
-                "name": "tillkuhn",
-                "url": "https://github.com/tillkuhn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89690636?u=4fe516ec662789cc437a5b552f9ba3e56c5eafc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adicionando Segurança em APIs na AWS com Amazon Cognito</div>",
-            "url": "https://github.com/AldemirFaria/dio-seguranca-api-aws-cognito",
-            "title": "AldemirFaria/dio-seguranca-api-aws-cognito: Adicionando Segurança em APIs na AWS com Amazon Cognito",
-            "date_modified": "2021-12-02T18:34:16.000Z",
-            "date_published": "2021-12-02T18:28:51.000Z",
-            "author": {
-                "name": "AldemirFaria",
-                "url": "https://github.com/AldemirFaria"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65130590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adicionando Segurança em APIs na AWS com Amazon Cognito</div>",
-            "url": "https://github.com/alfredogelk/Cogintio",
-            "title": "alfredogelk/Cogintio: Adicionando Segurança em APIs na AWS com Amazon Cognito",
-            "date_modified": "2021-12-02T18:25:25.000Z",
-            "date_published": "2021-12-02T18:24:14.000Z",
-            "author": {
-                "name": "alfredogelk",
-                "url": "https://github.com/alfredogelk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86466651?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/tilotech/terraform-aws-tilores-cognito",
-            "title": "tilotech/terraform-aws-tilores-cognito",
-            "date_modified": "2021-12-02T15:24:14.000Z",
-            "date_published": "2021-12-01T10:45:26.000Z",
-            "author": {
-                "name": "tilotech",
-                "url": "https://github.com/tilotech"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1694409?u=d6801b270eea5d0b89390c449839c9a75a9fd18c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Cognito와 네이버 로그인을 연동하는 예제</div>",
-            "url": "https://github.com/odg0318/cognito-with-naver",
-            "title": "odg0318/cognito-with-naver: AWS Cognito와 네이버 로그인을 연동하는 예제",
-            "date_modified": "2021-12-02T10:36:54.000Z",
-            "date_published": "2021-12-02T06:37:09.000Z",
-            "author": {
-                "name": "odg0318",
-                "url": "https://github.com/odg0318"
             }
         }
     ]
