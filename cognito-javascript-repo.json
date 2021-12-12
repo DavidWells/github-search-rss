@@ -1,10 +1,21 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Cognito repositories",
-    "home_page_url": "https://github.com/search?o=desc&q=analytics+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&s=updated&type=Repositories",
+    "home_page_url": "https://github.com/search?o=desc&q=cognito+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&s=updated&type=Repositories",
     "feed_url": "https://davidwells.github.io/github-search-rss/cognito-javascript-repo.json",
     "description": "Cognito repositories on GitHub",
     "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29002558?u=ed2535d5e7813924ad48d358a0f7cfacd2397825&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Projeto construído para mostrar como criar um processo de authorization de usuários utilizando AWS Cognito e Nodejs</div>",
+            "url": "https://github.com/brduarte/authorization-cognito-exemple",
+            "title": "brduarte/authorization-cognito-exemple: Projeto construído para mostrar como criar um processo de authorization de usuários utilizando AWS Cognito e Nodejs",
+            "date_modified": "2021-12-12T02:00:52.000Z",
+            "date_published": "2021-12-08T22:35:52.000Z",
+            "author": {
+                "name": "brduarte",
+                "url": "https://github.com/brduarte"
+            }
+        },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88480355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/vini-vici/front-end",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "awslabs",
                 "url": "https://github.com/awslabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74998389?u=91d1a154a88f83b2196ff2f28ebc047470bfd756&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>aws cognito and sentry implementation demo app</div>",
-            "url": "https://github.com/capb90/demo-sentry-awscognito",
-            "title": "capb90/demo-sentry-awscognito: aws cognito and sentry implementation demo app",
-            "date_modified": "2021-12-10T03:44:21.000Z",
-            "date_published": "2021-12-10T03:39:37.000Z",
-            "author": {
-                "name": "capb90",
-                "url": "https://github.com/capb90"
             }
         }
     ]
