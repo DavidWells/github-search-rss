@@ -213,11 +213,10 @@ export const generateRSS = (items: Item[], options: GenerateRSSOptions) => {
             date: dayjs(item.updatedAt).toDate()
         });
     });
-    if (path.extname(options.link) === ".json") {
-        return feed.json1();
-    } else {
-        return feed.atom1();
-    }
+    return {
+        atom: feed.atom1(),
+        json: feed.json1()
+    };
 };
 
 export type RSSItem = {
@@ -252,20 +251,29 @@ if (require.main === module) {
                 updated: new Date()
             });
             const fileName = path.basename(item.link);
-            await fs.writeFile(path.join(distDir, fileName), rss, "utf-8");
+            await fs.writeFile(path.join(distDir, fileName.replace(/\.json/, ".xml")), rss.atom, "utf-8");
+            await fs.writeFile(path.join(distDir, fileName), rss.json, "utf-8");
         }
         const opml = convertJsonToOPML(SEARCH_ITEMS);
         await fs.writeFile(path.join(distDir, "index.opml"), opml, "utf-8");
         const links = SEARCH_ITEMS.map((feed) => {
-            return `<li><strong><a href="${feed.homepage}">${feed.title}</a></strong> (<a href="${feed.link}">link</a>) <code>${escapeSpecialChars(feed.query)}</code></a> </li>`;
+            return `
+<li>
+  <strong>
+    <a href="${feed.homepage}">${feed.title}</a>
+  </strong> 
+  (<a href="${feed.link}">json</a>) 
+  - (<a href="${feed.link.replace(/\.json/, ".xml")}">atom</a>) 
+  <code>${escapeSpecialChars(feed.query)}</code>
+</li>`;
         }).join("\n");
         const index = {
             html: `
-            <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>github-search-rss</title>
+  <meta charset="UTF-8">
+  <title>github-search-rss</title>
 </head>
 <body>
 <p>These RSS Feed is search result of GitHub. Your RSS reader need to support JSON RSS.</p>

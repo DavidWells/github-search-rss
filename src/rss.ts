@@ -78,6 +78,6 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/cognito-javascript-repo.json`,
         homepage:
-            "https://github.com/search?o=desc&q=analytics+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&s=updated&type=Repositories"
+            "https://github.com/search?o=desc&q=cognito+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&s=updated&type=Repositories"
     }
 ];
