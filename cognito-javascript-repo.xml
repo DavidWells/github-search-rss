@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/cognito-javascript-repo.json</id>
     <title>Cognito repositories</title>
-    <updated>2021-12-18T00:10:22.422Z</updated>
+    <updated>2021-12-18T07:10:10.922Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=cognito+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Cognito repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS]]></title>
+        <id>https://github.com/tillkuhn/angkor</id>
+        <link href="https://github.com/tillkuhn/angkor"/>
+        <updated>2021-12-18T02:43:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4" width="64" height="64" alt=""/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>]]></content>
+        <author>
+            <name>tillkuhn</name>
+            <email>tillkuhn@noreply.github.com</email>
+            <uri>https://github.com/tillkuhn</uri>
+        </author>
+        <published>2019-11-05T10:03:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK]]></title>
+        <id>https://github.com/henrist/cdk-cloudfront-auth</id>
+        <link href="https://github.com/henrist/cdk-cloudfront-auth"/>
+        <updated>2021-12-18T01:50:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/703354?v=4" width="64" height="64" alt=""/><br/><div>CloudFront authorization with Cognito for CDK</div>]]></content>
+        <author>
+            <name>henrist</name>
+            <email>henrist@noreply.github.com</email>
+            <uri>https://github.com/henrist</uri>
+        </author>
+        <published>2020-07-11T01:58:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jsclarridge/apigw-cognito-example]]></title>
+        <id>https://github.com/jsclarridge/apigw-cognito-example</id>
+        <link href="https://github.com/jsclarridge/apigw-cognito-example"/>
+        <updated>2021-12-18T00:16:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2491291?u=4119dfbded1f693b9a32fac6bc2ee54952a5a63b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jsclarridge</name>
+            <email>jsclarridge@noreply.github.com</email>
+            <uri>https://github.com/jsclarridge</uri>
+        </author>
+        <published>2021-10-23T16:25:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
+        <id>https://github.com/aws-amplify/amplify-js</id>
+        <link href="https://github.com/aws-amplify/amplify-js"/>
+        <updated>2021-12-18T03:51:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
+        <author>
+            <name>aws-amplify</name>
+            <email>aws-amplify@noreply.github.com</email>
+            <uri>https://github.com/aws-amplify</uri>
+        </author>
+        <published>2017-10-02T22:17:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[joshchang1112/login_cognito_flask: Login service using flask and AWS Cognito]]></title>
         <id>https://github.com/joshchang1112/login_cognito_flask</id>
@@ -97,19 +149,6 @@
             <uri>https://github.com/conda-forge</uri>
         </author>
         <published>2020-05-27T19:45:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK]]></title>
-        <id>https://github.com/henrist/cdk-cloudfront-auth</id>
-        <link href="https://github.com/henrist/cdk-cloudfront-auth"/>
-        <updated>2021-12-17T04:23:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/703354?v=4" width="64" height="64" alt=""/><br/><div>CloudFront authorization with Cognito for CDK</div>]]></content>
-        <author>
-            <name>henrist</name>
-            <email>henrist@noreply.github.com</email>
-            <uri>https://github.com/henrist</uri>
-        </author>
-        <published>2020-07-11T01:58:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[open-coders-org/oauth_cognito]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/ohpensource</uri>
         </author>
         <published>2021-11-18T13:04:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dan-mba/aws-sam-dynamodb-api: AWS SAM template and Lambda code for a skills API]]></title>
-        <id>https://github.com/dan-mba/aws-sam-dynamodb-api</id>
-        <link href="https://github.com/dan-mba/aws-sam-dynamodb-api"/>
-        <updated>2021-12-16T10:10:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35927536?u=47458cff442c134d1a89df2e4bf5ad5aff5be25c&v=4" width="64" height="64" alt=""/><br/><div>AWS SAM template and Lambda code for a skills API</div>]]></content>
-        <author>
-            <name>dan-mba</name>
-            <email>dan-mba@noreply.github.com</email>
-            <uri>https://github.com/dan-mba</uri>
-        </author>
-        <published>2020-08-11T11:56:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JB-AssetChain/inf.member.hooks: Contains the lambdas to be used by Cognito triggers for the member Identity Pools]]></title>
-        <id>https://github.com/JB-AssetChain/inf.member.hooks</id>
-        <link href="https://github.com/JB-AssetChain/inf.member.hooks"/>
-        <updated>2021-12-16T05:56:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30100976?v=4" width="64" height="64" alt=""/><br/><div>Contains the lambdas to be used by Cognito triggers for the member Identity Pools</div>]]></content>
-        <author>
-            <name>JB-AssetChain</name>
-            <email>JB-AssetChain@noreply.github.com</email>
-            <uri>https://github.com/JB-AssetChain</uri>
-        </author>
-        <published>2021-12-14T01:19:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[psibal23/cognitolambdatriggertest]]></title>
-        <id>https://github.com/psibal23/cognitolambdatriggertest</id>
-        <link href="https://github.com/psibal23/cognitolambdatriggertest"/>
-        <updated>2021-12-16T02:38:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29048231?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>psibal23</name>
-            <email>psibal23@noreply.github.com</email>
-            <uri>https://github.com/psibal23</uri>
-        </author>
-        <published>2021-12-16T02:38:00.000Z</published>
     </entry>
 </feed>

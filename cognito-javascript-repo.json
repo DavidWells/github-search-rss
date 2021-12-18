@@ -6,6 +6,50 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>",
+            "url": "https://github.com/tillkuhn/angkor",
+            "title": "tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS",
+            "date_modified": "2021-12-18T02:43:01.000Z",
+            "date_published": "2019-11-05T10:03:24.000Z",
+            "author": {
+                "name": "tillkuhn",
+                "url": "https://github.com/tillkuhn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2021-12-18T01:50:41.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2491291?u=4119dfbded1f693b9a32fac6bc2ee54952a5a63b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jsclarridge/apigw-cognito-example",
+            "title": "jsclarridge/apigw-cognito-example",
+            "date_modified": "2021-12-18T00:16:16.000Z",
+            "date_published": "2021-10-23T16:25:17.000Z",
+            "author": {
+                "name": "jsclarridge",
+                "url": "https://github.com/jsclarridge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
+            "url": "https://github.com/aws-amplify/amplify-js",
+            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
+            "date_modified": "2021-12-18T03:51:11.000Z",
+            "date_published": "2017-10-02T22:17:14.000Z",
+            "author": {
+                "name": "aws-amplify",
+                "url": "https://github.com/aws-amplify"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22185543?u=bb63ecb606187921a12d6ccb8959616d404602c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Login service using flask and AWS Cognito</div>",
             "url": "https://github.com/joshchang1112/login_cognito_flask",
             "title": "joshchang1112/login_cognito_flask: Login service using flask and AWS Cognito",
@@ -80,17 +124,6 @@
             "author": {
                 "name": "conda-forge",
                 "url": "https://github.com/conda-forge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2021-12-17T04:23:44.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
-            "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ohpensource",
                 "url": "https://github.com/ohpensource"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35927536?u=47458cff442c134d1a89df2e4bf5ad5aff5be25c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS SAM template and Lambda code for a skills API</div>",
-            "url": "https://github.com/dan-mba/aws-sam-dynamodb-api",
-            "title": "dan-mba/aws-sam-dynamodb-api: AWS SAM template and Lambda code for a skills API",
-            "date_modified": "2021-12-16T10:10:36.000Z",
-            "date_published": "2020-08-11T11:56:22.000Z",
-            "author": {
-                "name": "dan-mba",
-                "url": "https://github.com/dan-mba"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30100976?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Contains the lambdas to be used by Cognito triggers for the member Identity Pools</div>",
-            "url": "https://github.com/JB-AssetChain/inf.member.hooks",
-            "title": "JB-AssetChain/inf.member.hooks: Contains the lambdas to be used by Cognito triggers for the member Identity Pools",
-            "date_modified": "2021-12-16T05:56:43.000Z",
-            "date_published": "2021-12-14T01:19:56.000Z",
-            "author": {
-                "name": "JB-AssetChain",
-                "url": "https://github.com/JB-AssetChain"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29048231?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/psibal23/cognitolambdatriggertest",
-            "title": "psibal23/cognitolambdatriggertest",
-            "date_modified": "2021-12-16T02:38:04.000Z",
-            "date_published": "2021-12-16T02:38:00.000Z",
-            "author": {
-                "name": "psibal23",
-                "url": "https://github.com/psibal23"
             }
         }
     ]
