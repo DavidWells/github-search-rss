@@ -282,7 +282,10 @@ if (require.main === module) {
 ${links}
 </ul>
 <footer>
-<a href="https://github.com/azu/github-search-rss">Source Code</a>
+<br/><a href="https://github.com/azu/github-search-rss">Source Code</a>
+<br/><a href="https://trends.vercel.app/?language=javascript">Github Trends</a>
+<br/><a href="https://npmaddict.com/">NPM Addict</a>
+<br/><a href="https://kamranahmed.info/githunt/">Githunt</a>
 </footer>
 </body>
 </html>
