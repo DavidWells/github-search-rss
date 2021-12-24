@@ -6,21 +6,21 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21992475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi</div>",
-            "url": "https://github.com/pulumi/examples",
-            "title": "pulumi/examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
-            "date_modified": "2021-12-23T00:10:32.000Z",
-            "date_published": "2017-10-27T19:50:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1290287?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS CDK Serverless Toolsuite</div>",
+            "url": "https://github.com/taimos/cdk-serverless",
+            "title": "taimos/cdk-serverless: AWS CDK Serverless Toolsuite",
+            "date_modified": "2021-12-24T00:09:43.000Z",
+            "date_published": "2021-03-09T01:14:53.000Z",
             "author": {
-                "name": "pulumi",
-                "url": "https://github.com/pulumi"
+                "name": "taimos",
+                "url": "https://github.com/taimos"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278432?u=dd437e74427fddade6146e47ada192213310eff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CDK Constructs for Serverless Demo</div>",
             "url": "https://github.com/pahud/cdk-simple-serverless",
             "title": "pahud/cdk-simple-serverless: CDK Constructs for Serverless Demo",
-            "date_modified": "2021-12-23T00:10:12.000Z",
+            "date_modified": "2021-12-24T00:09:24.000Z",
             "date_published": "2021-11-08T13:20:41.000Z",
             "author": {
                 "name": "pahud",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A JSII construct lib to build AWS Serverless LAMP with AWS CDK </div>",
             "url": "https://github.com/aws-samples/cdk-serverless-lamp",
             "title": "aws-samples/cdk-serverless-lamp: A JSII construct lib to build AWS Serverless LAMP with AWS CDK ",
-            "date_modified": "2021-12-23T00:08:48.000Z",
+            "date_modified": "2021-12-24T00:07:49.000Z",
             "date_published": "2020-08-17T07:28:38.000Z",
             "author": {
                 "name": "aws-samples",
@@ -39,22 +39,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1290287?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS CDK Serverless Toolsuite</div>",
-            "url": "https://github.com/taimos/cdk-serverless",
-            "title": "taimos/cdk-serverless: AWS CDK Serverless Toolsuite",
-            "date_modified": "2021-12-23T00:08:36.000Z",
-            "date_published": "2021-03-09T01:14:53.000Z",
-            "author": {
-                "name": "taimos",
-                "url": "https://github.com/taimos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"construction\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png\">🚧</g-emoji> WORK IN PROGRESS <g-emoji class=\"g-emoji\" alias=\"construction\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png\">🚧</g-emoji> A reference implementation of a serverless backend for an IoT product developed in TypeScript.</div>",
-            "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-azure-js",
-            "title": "NordicSemiconductor/asset-tracker-cloud-azure-js: :construction: WORK IN PROGRESS :construction: A reference implementation of a serverless backend for an IoT product developed in TypeScript.",
-            "date_modified": "2021-12-22T23:32:57.000Z",
-            "date_published": "2021-01-26T15:45:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.</div>",
+            "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js",
+            "title": "NordicSemiconductor/asset-tracker-cloud-aws-js: A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.",
+            "date_modified": "2021-12-24T00:07:42.000Z",
+            "date_published": "2021-01-26T15:44:54.000Z",
             "author": {
                 "name": "NordicSemiconductor",
                 "url": "https://github.com/NordicSemiconductor"
@@ -64,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7892489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Intelligently prepare Node.js Lambda functions for deployment</div>",
             "url": "https://github.com/netlify/zip-it-and-ship-it",
             "title": "netlify/zip-it-and-ship-it: Intelligently prepare Node.js Lambda functions for deployment",
-            "date_modified": "2021-12-22T23:25:46.000Z",
+            "date_modified": "2021-12-23T23:59:19.000Z",
             "date_published": "2018-12-19T08:20:40.000Z",
             "author": {
                 "name": "netlify",
@@ -72,21 +61,76 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14326940?u=e3daf0dd6e8e764d207d6a0444cd8df9212be53f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal portfolio and playground</div>",
-            "url": "https://github.com/NBruhno/homepage",
-            "title": "NBruhno/homepage: My personal portfolio and playground",
-            "date_modified": "2021-12-22T23:25:14.000Z",
-            "date_published": "2020-07-10T16:51:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16674538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DynamoDB access and management for one table designs with NodeJS</div>",
+            "url": "https://github.com/sensedeep/dynamodb-onetable",
+            "title": "sensedeep/dynamodb-onetable: DynamoDB access and management for one table designs with NodeJS",
+            "date_modified": "2021-12-23T23:56:27.000Z",
+            "date_published": "2021-01-11T05:14:56.000Z",
             "author": {
-                "name": "NBruhno",
-                "url": "https://github.com/NBruhno"
+                "name": "sensedeep",
+                "url": "https://github.com/sensedeep"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17331876?u=09765a4e69d46ba6b92c81673b3a4e06be110bc6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bhopals/aws-serverless-space-finder-backend",
+            "title": "bhopals/aws-serverless-space-finder-backend",
+            "date_modified": "2021-12-23T23:55:38.000Z",
+            "date_published": "2021-12-07T18:48:04.000Z",
+            "author": {
+                "name": "bhopals",
+                "url": "https://github.com/bhopals"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66570915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"boom\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png\">💥</g-emoji> SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. <a href=\"https://serverless-stack.com\" rel=\"nofollow\">https://serverless-stack.com</a>\n</div>",
+            "url": "https://github.com/serverless-stack/serverless-stack",
+            "title": "serverless-stack/serverless-stack: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com",
+            "date_modified": "2021-12-23T23:51:49.000Z",
+            "date_published": "2020-08-04T20:28:14.000Z",
+            "author": {
+                "name": "serverless-stack",
+                "url": "https://github.com/serverless-stack"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Packages TypeScript functions and layers for AWS lambda</div>",
+            "url": "https://github.com/NordicSemiconductor/cloud-aws-package-layered-lambdas-js",
+            "title": "NordicSemiconductor/cloud-aws-package-layered-lambdas-js: Packages TypeScript functions and layers for AWS lambda",
+            "date_modified": "2021-12-23T23:40:49.000Z",
+            "date_published": "2021-01-26T15:47:02.000Z",
+            "author": {
+                "name": "NordicSemiconductor",
+                "url": "https://github.com/NordicSemiconductor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92484794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To build a serverless, progressive web application (PWA) with React using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.</div>",
+            "url": "https://github.com/mrumenov-cyber/MeetMe",
+            "title": "mrumenov-cyber/MeetMe: To build a serverless, progressive web application (PWA) with React using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.",
+            "date_modified": "2021-12-23T23:26:43.000Z",
+            "date_published": "2021-12-18T13:32:27.000Z",
+            "author": {
+                "name": "mrumenov-cyber",
+                "url": "https://github.com/mrumenov-cyber"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1909440?u=61dfcf156b602af7d050f20397adeafe3d9a86b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of a three-tier serverless web application using AWS CDK and React</div>",
+            "url": "https://github.com/elthrasher/cdk-three-tier-serverless",
+            "title": "elthrasher/cdk-three-tier-serverless: Example of a three-tier serverless web application using AWS CDK and React",
+            "date_modified": "2021-12-23T23:21:36.000Z",
+            "date_published": "2021-12-12T19:00:05.000Z",
+            "author": {
+                "name": "elthrasher",
+                "url": "https://github.com/elthrasher"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7892489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JavaScript and TypeScript utilities for Netlify Functions.</div>",
             "url": "https://github.com/netlify/functions",
             "title": "netlify/functions: JavaScript and TypeScript utilities for Netlify Functions.",
-            "date_modified": "2021-12-22T23:21:38.000Z",
+            "date_modified": "2021-12-23T23:01:28.000Z",
             "date_published": "2021-02-22T12:35:13.000Z",
             "author": {
                 "name": "netlify",
@@ -94,76 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75117692?u=1ebcf51b2e370d29f9c3b3f698f21ee85bbb4ded&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/chuongtang/Watchkeeping-MongoDB-Serverless",
-            "title": "chuongtang/Watchkeeping-MongoDB-Serverless",
-            "date_modified": "2021-12-22T23:16:17.000Z",
-            "date_published": "2021-12-17T05:53:57.000Z",
-            "author": {
-                "name": "chuongtang",
-                "url": "https://github.com/chuongtang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75164517?u=0424420cfcaf57d7a1e91b1c7c3a029ffe1a5f25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/blue-luke/serverless-tutorial",
-            "title": "blue-luke/serverless-tutorial",
-            "date_modified": "2021-12-22T23:08:26.000Z",
-            "date_published": "2021-12-22T23:07:39.000Z",
-            "author": {
-                "name": "blue-luke",
-                "url": "https://github.com/blue-luke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50221243?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This sample showcases how to complement an existing business process in an SAP solution – currently SAP S/4HANA, with additional business process steps. This involves adding major logic and/or additional data.</div>",
-            "url": "https://github.com/SAP-samples/cloud-extension-s4hana-business-process",
-            "title": "SAP-samples/cloud-extension-s4hana-business-process: This sample showcases how to complement an existing business process in an SAP solution – currently SAP S/4HANA, with additional business process steps. This involves adding major logic and/or additional data.",
-            "date_modified": "2021-12-22T22:43:21.000Z",
-            "date_published": "2020-08-14T16:13:43.000Z",
-            "author": {
-                "name": "SAP-samples",
-                "url": "https://github.com/SAP-samples"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13276705?u=3b4ee06d2d154412a44cdb5708757a6e44493cf1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"card_file_box\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png\">🗃️</g-emoji> Serverless functions to bookmark media to Airtable.</div>",
-            "url": "https://github.com/fourjuaneight/bookmarker",
-            "title": "fourjuaneight/bookmarker: :card_file_box: Serverless functions to bookmark media to Airtable.",
-            "date_modified": "2021-12-22T22:30:52.000Z",
-            "date_published": "2021-11-04T20:06:12.000Z",
-            "author": {
-                "name": "fourjuaneight",
-                "url": "https://github.com/fourjuaneight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4487493?u=30028011990c94385945e36e15ab469e8df66cc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless, AWS, NestJS, GraphQL and DynamoDB starter</div>",
-            "url": "https://github.com/hardyscc/aws-nestjs-starter",
-            "title": "hardyscc/aws-nestjs-starter: Serverless, AWS, NestJS, GraphQL and DynamoDB starter",
-            "date_modified": "2021-12-22T22:27:14.000Z",
-            "date_published": "2020-03-22T02:58:04.000Z",
-            "author": {
-                "name": "hardyscc",
-                "url": "https://github.com/hardyscc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31908883?u=d2aba19e18e0498919154a7286df49b385589ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A react marketplace using Chakra-UI without server and using a google spreadsheet as products DB </div>",
-            "url": "https://github.com/marcumo/react-marketplace-serverless-with-spreadsheet",
-            "title": "marcumo/react-marketplace-serverless-with-spreadsheet: A react marketplace using Chakra-UI without server and using a google spreadsheet as products DB ",
-            "date_modified": "2021-12-22T22:25:37.000Z",
-            "date_published": "2021-12-22T22:23:50.000Z",
-            "author": {
-                "name": "marcumo",
-                "url": "https://github.com/marcumo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13261943?u=fef86c83772daf08874470eb29143898ae50a9c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GraphQL simple User API</div>",
             "url": "https://github.com/Kataclan/grapqhl-serverless-micro",
             "title": "Kataclan/grapqhl-serverless-micro: GraphQL simple User API",
-            "date_modified": "2021-12-22T22:24:58.000Z",
+            "date_modified": "2021-12-23T22:48:44.000Z",
             "date_published": "2021-09-20T11:43:10.000Z",
             "author": {
                 "name": "Kataclan",
@@ -171,58 +149,80 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/314135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PRELEASE of V2 - <g-emoji class=\"g-emoji\" alias=\"cowboy_hat_face\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f920.png\">🤠</g-emoji> wrangle your Cloudflare Workers</div>",
-            "url": "https://github.com/cloudflare/wrangler2",
-            "title": "cloudflare/wrangler2: PRELEASE of V2 - 🤠 wrangle your Cloudflare Workers",
-            "date_modified": "2021-12-22T22:57:27.000Z",
-            "date_published": "2021-11-10T14:45:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15162412?u=ca2dfc6af21799e6adcaf2aabd074dae4b18871e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/henriquemsouza/back-serverless",
+            "title": "henriquemsouza/back-serverless",
+            "date_modified": "2021-12-23T22:09:38.000Z",
+            "date_published": "2021-12-23T10:37:14.000Z",
             "author": {
-                "name": "cloudflare",
-                "url": "https://github.com/cloudflare"
+                "name": "henriquemsouza",
+                "url": "https://github.com/henriquemsouza"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67541562?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components</div>",
-            "url": "https://github.com/serverless-nextjs/serverless-next.js",
-            "title": "serverless-nextjs/serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components",
-            "date_modified": "2021-12-22T22:17:30.000Z",
-            "date_published": "2019-02-19T23:28:07.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48228986?u=df87a2326434fc2213d38e08760d1903ca04e8a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guckin/serverless-web-bot",
+            "title": "guckin/serverless-web-bot",
+            "date_modified": "2021-12-23T22:09:26.000Z",
+            "date_published": "2021-12-23T02:39:29.000Z",
             "author": {
-                "name": "serverless-nextjs",
-                "url": "https://github.com/serverless-nextjs"
+                "name": "guckin",
+                "url": "https://github.com/guckin"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8854618?u=52473bdfe7d9b8ceef78b2a38fb3825f971f067a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/neverendingqs/serverless-dotenv-example",
-            "title": "neverendingqs/serverless-dotenv-example",
-            "date_modified": "2021-12-22T22:16:08.000Z",
-            "date_published": "2021-03-18T01:31:02.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38327916?u=1b822c6da4d44de7d08974cf528e942fe7cf321c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Web app that features useful tools and resources for competitive Splatoon players built with Next.js, Prisma 2 and TypeScript</div>",
+            "url": "https://github.com/Sendouc/sendou.ink",
+            "title": "Sendouc/sendou.ink: Web app that features useful tools and resources for competitive Splatoon players built with Next.js, Prisma 2 and TypeScript",
+            "date_modified": "2021-12-23T21:50:42.000Z",
+            "date_published": "2019-05-01T19:56:38.000Z",
             "author": {
-                "name": "neverendingqs",
-                "url": "https://github.com/neverendingqs"
+                "name": "Sendouc",
+                "url": "https://github.com/Sendouc"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79926304?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The RethinkDNS resolver that deploys to Cloudflare Workers and Deno Deploy</div>",
-            "url": "https://github.com/serverless-dns/serverless-dns",
-            "title": "serverless-dns/serverless-dns: The RethinkDNS resolver that deploys to Cloudflare Workers and Deno Deploy",
-            "date_modified": "2021-12-22T22:08:25.000Z",
-            "date_published": "2021-03-10T14:35:30.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87031251?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Satori Spearmint is a global serverless NFT minting and claiming API</div>",
+            "url": "https://github.com/satori-hq/spearmint-client",
+            "title": "satori-hq/spearmint-client: Satori Spearmint is a global serverless NFT minting and claiming API",
+            "date_modified": "2021-12-23T21:48:31.000Z",
+            "date_published": "2021-09-13T15:33:58.000Z",
             "author": {
-                "name": "serverless-dns",
-                "url": "https://github.com/serverless-dns"
+                "name": "satori-hq",
+                "url": "https://github.com/satori-hq"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14125168?u=eeb572b61948f9414bd44f7c4681b58040d22c7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Serverless framework template using Nrwl Nx monorepo dev tools</div>",
-            "url": "https://github.com/sudokar/nx-serverless",
-            "title": "sudokar/nx-serverless: Modern Serverless framework template using Nrwl Nx monorepo dev tools",
-            "date_modified": "2021-12-22T22:05:07.000Z",
-            "date_published": "2021-06-20T19:59:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58286953?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terraform module for scalable GitHub action runners on AWS</div>",
+            "url": "https://github.com/philips-labs/terraform-aws-github-runner",
+            "title": "philips-labs/terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS",
+            "date_modified": "2021-12-23T21:47:39.000Z",
+            "date_published": "2020-04-24T09:22:03.000Z",
             "author": {
-                "name": "sudokar",
-                "url": "https://github.com/sudokar"
+                "name": "philips-labs",
+                "url": "https://github.com/philips-labs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54040871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AMahrous/mahrous-Serverless-app",
+            "title": "AMahrous/mahrous-Serverless-app",
+            "date_modified": "2021-12-23T21:41:23.000Z",
+            "date_published": "2021-12-20T18:23:11.000Z",
+            "author": {
+                "name": "AMahrous",
+                "url": "https://github.com/AMahrous"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46137336?u=e472463c9f948a95c52fb475116bd45c17a6ea7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless API for tur-na-kolskiy.ru, connecting Bitrix24 CRM to Rick.ai Analytics</div>",
+            "url": "https://github.com/artginzburg/turnakolskiy-webhooks",
+            "title": "artginzburg/turnakolskiy-webhooks: Serverless API for tur-na-kolskiy.ru, connecting Bitrix24 CRM to Rick.ai Analytics",
+            "date_modified": "2021-12-23T21:35:47.000Z",
+            "date_published": "2021-10-21T20:10:02.000Z",
+            "author": {
+                "name": "artginzburg",
+                "url": "https://github.com/artginzburg"
             }
         }
     ]
