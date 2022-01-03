@@ -6,10 +6,76 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>",
+            "url": "https://github.com/tillkuhn/angkor",
+            "title": "tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS",
+            "date_modified": "2022-01-02T23:55:44.000Z",
+            "date_published": "2019-11-05T10:03:24.000Z",
+            "author": {
+                "name": "tillkuhn",
+                "url": "https://github.com/tillkuhn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ctx-core/cognito",
+            "title": "ctx-core/cognito",
+            "date_modified": "2022-01-02T22:55:25.000Z",
+            "date_published": "2019-12-02T17:11:53.000Z",
+            "author": {
+                "name": "ctx-core",
+                "url": "https://github.com/ctx-core"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2022-01-02T22:08:28.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33727586?u=64d9333d948ee590a2a42e1f886a8d6891af8273&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/davidmedragh/Cognito_User_Pools_Demo",
+            "title": "davidmedragh/Cognito_User_Pools_Demo",
+            "date_modified": "2022-01-02T21:46:20.000Z",
+            "date_published": "2022-01-02T14:45:12.000Z",
+            "author": {
+                "name": "davidmedragh",
+                "url": "https://github.com/davidmedragh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48146064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/arc193/-ionic-app-with-aws-cognito",
+            "title": "arc193/-ionic-app-with-aws-cognito",
+            "date_modified": "2022-01-02T19:07:03.000Z",
+            "date_published": "2022-01-02T19:06:34.000Z",
+            "author": {
+                "name": "arc193",
+                "url": "https://github.com/arc193"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26360458?u=98d271ec5db73c68cf99ee6ed2c4d8e18e7c537d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless App which is build using AWS appsync with VTL's and lambda handlers and dynamodb for storage and for authentication cognito is being used.</div>",
+            "url": "https://github.com/zakriyaalisabir/appsync-serverless-backend",
+            "title": "zakriyaalisabir/appsync-serverless-backend: A serverless App which is build using AWS appsync with VTL's and lambda handlers and dynamodb for storage and for authentication cognito is being used.",
+            "date_modified": "2022-01-02T18:46:23.000Z",
+            "date_published": "2021-11-22T13:55:16.000Z",
+            "author": {
+                "name": "zakriyaalisabir",
+                "url": "https://github.com/zakriyaalisabir"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41147016?u=55010621aece725aa702270b54fed829b6a1fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).</div>",
             "url": "https://github.com/tokusumi/fastapi-cloudauth",
             "title": "tokusumi/fastapi-cloudauth: Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).",
-            "date_modified": "2022-01-01T19:53:02.000Z",
+            "date_modified": "2022-01-02T11:15:37.000Z",
             "date_published": "2020-07-28T17:48:32.000Z",
             "author": {
                 "name": "tokusumi",
@@ -36,17 +102,6 @@
             "author": {
                 "name": "saiorama",
                 "url": "https://github.com/saiorama"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2022-01-01T01:35:40.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
-            "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
             }
         },
         {
@@ -119,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
             "url": "https://github.com/aws-amplify/amplify-js",
             "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-01-01T21:42:48.000Z",
+            "date_modified": "2022-01-02T07:36:48.000Z",
             "date_published": "2017-10-02T22:17:14.000Z",
             "author": {
                 "name": "aws-amplify",
@@ -160,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ctx-core/cognito",
-            "title": "ctx-core/cognito",
-            "date_modified": "2021-12-30T04:00:01.000Z",
-            "date_published": "2019-12-02T17:11:53.000Z",
-            "author": {
-                "name": "ctx-core",
-                "url": "https://github.com/ctx-core"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/690804?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/simplyi/photo-app-users-api-cognito",
             "title": "simplyi/photo-app-users-api-cognito",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "simplyi",
                 "url": "https://github.com/simplyi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20411077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Architecture and Web Development</div>",
-            "url": "https://github.com/tranminhhaifet/aws-cloud-computing-architecture",
-            "title": "tranminhhaifet/aws-cloud-computing-architecture: AWS Architecture and Web Development",
-            "date_modified": "2021-12-29T15:36:57.000Z",
-            "date_published": "2021-12-03T16:17:41.000Z",
-            "author": {
-                "name": "tranminhhaifet",
-                "url": "https://github.com/tranminhhaifet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62993387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognito to SendInBlue Contacts Automation</div>",
-            "url": "https://github.com/BAM-karaokebox/bko-contacts-sync",
-            "title": "BAM-karaokebox/bko-contacts-sync: Cognito to SendInBlue Contacts Automation",
-            "date_modified": "2021-12-29T13:54:10.000Z",
-            "date_published": "2021-07-05T11:18:33.000Z",
-            "author": {
-                "name": "BAM-karaokebox",
-                "url": "https://github.com/BAM-karaokebox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88480355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/vini-vici/front-end",
-            "title": "vini-vici/front-end",
-            "date_modified": "2021-12-29T08:03:16.000Z",
-            "date_published": "2021-06-11T05:51:58.000Z",
-            "author": {
-                "name": "vini-vici",
-                "url": "https://github.com/vini-vici"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32473932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ericgmoon/cognito-app",
-            "title": "ericgmoon/cognito-app",
-            "date_modified": "2021-12-29T03:43:33.000Z",
-            "date_published": "2021-11-24T04:22:03.000Z",
-            "author": {
-                "name": "ericgmoon",
-                "url": "https://github.com/ericgmoon"
             }
         }
     ]
