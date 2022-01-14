@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/serverless-javascript-repo.json</id>
     <title>Serverless repositories</title>
-    <updated>2022-01-13T00:11:59.900Z</updated>
+    <updated>2022-01-14T00:11:22.770Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=serverless+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Serverless repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[sure-thing/presta: Minimalist serverless framework for SSR, SSG, serverless APIs and more.]]></title>
+        <id>https://github.com/sure-thing/presta</id>
+        <link href="https://github.com/sure-thing/presta"/>
+        <updated>2022-01-11T02:10:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66395492?v=4" width="64" height="64" alt=""/><br/><div>Minimalist serverless framework for SSR, SSG, serverless APIs and more.</div>]]></content>
+        <author>
+            <name>sure-thing</name>
+            <email>sure-thing@noreply.github.com</email>
+            <uri>https://github.com/sure-thing</uri>
+        </author>
+        <published>2020-08-08T19:02:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[taimos/cdk-serverless: AWS CDK Serverless Toolsuite]]></title>
         <id>https://github.com/taimos/cdk-serverless</id>
@@ -21,32 +34,18 @@
         <published>2021-03-09T01:14:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[midwayjs/midway: 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈]]></title>
-        <id>https://github.com/midwayjs/midway</id>
-        <link href="https://github.com/midwayjs/midway"/>
-        <updated>2022-01-12T10:28:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32128461?v=4" width="64" height="64" alt=""/><br/><div>
-<g-emoji class="g-emoji" alias="hamburger" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png">🍔</g-emoji> A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji>
-</div>]]></content>
+        <title type="html"><![CDATA[harshhhdev/debutur: 🚀 Create, and personalise your own simple and beautiful homepage]]></title>
+        <id>https://github.com/harshhhdev/debutur</id>
+        <link href="https://github.com/harshhhdev/debutur"/>
+        <updated>2022-01-14T00:04:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69592270?u=49b9eda29843d174bbac5307278b17a5ec2e6d7a&v=4" width="64" height="64" alt=""/><br/><div>
+<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Create, and personalise your own simple and beautiful homepage</div>]]></content>
         <author>
-            <name>midwayjs</name>
-            <email>midwayjs@noreply.github.com</email>
-            <uri>https://github.com/midwayjs</uri>
+            <name>harshhhdev</name>
+            <email>harshhhdev@noreply.github.com</email>
+            <uri>https://github.com/harshhhdev</uri>
         </author>
-        <published>2018-07-12T06:16:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aws-samples/aws-saas-factory-ref-solution-serverless-saas]]></title>
-        <id>https://github.com/aws-samples/aws-saas-factory-ref-solution-serverless-saas</id>
-        <link href="https://github.com/aws-samples/aws-saas-factory-ref-solution-serverless-saas"/>
-        <updated>2022-01-13T00:11:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>aws-samples</name>
-            <email>aws-samples@noreply.github.com</email>
-            <uri>https://github.com/aws-samples</uri>
-        </author>
-        <published>2021-04-20T18:46:07.000Z</published>
+        <published>2021-02-18T19:05:27.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[deiga/Jon-Van-Til: An integration for Slack for Books at Wunderdog]]></title>
@@ -62,190 +61,43 @@
         <published>2016-08-20T09:22:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NordicSemiconductor/asset-tracker-cloud-aws-js: A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.]]></title>
-        <id>https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js</id>
-        <link href="https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js"/>
-        <updated>2022-01-11T13:05:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33217104?v=4" width="64" height="64" alt=""/><br/><div>A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.</div>]]></content>
+        <title type="html"><![CDATA[tleminh2014/fab-lab-serverless-stack-client]]></title>
+        <id>https://github.com/tleminh2014/fab-lab-serverless-stack-client</id>
+        <link href="https://github.com/tleminh2014/fab-lab-serverless-stack-client"/>
+        <updated>2022-01-13T23:39:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74930159?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>NordicSemiconductor</name>
-            <email>NordicSemiconductor@noreply.github.com</email>
-            <uri>https://github.com/NordicSemiconductor</uri>
+            <name>tleminh2014</name>
+            <email>tleminh2014@noreply.github.com</email>
+            <uri>https://github.com/tleminh2014</uri>
         </author>
-        <published>2021-01-26T15:44:54.000Z</published>
+        <published>2020-12-23T16:09:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PabloSzx/graphql-ez: Easy, feature complete, and Plugin-Based Envelop GraphQL APIs]]></title>
-        <id>https://github.com/PabloSzx/graphql-ez</id>
-        <link href="https://github.com/PabloSzx/graphql-ez"/>
-        <updated>2022-01-10T18:48:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8672915?v=4" width="64" height="64" alt=""/><br/><div>Easy, feature complete, and Plugin-Based Envelop GraphQL APIs</div>]]></content>
+        <title type="html"><![CDATA[justsharan/manatee: Rewrite of Manatee using slash commands]]></title>
+        <id>https://github.com/justsharan/manatee</id>
+        <link href="https://github.com/justsharan/manatee"/>
+        <updated>2022-01-13T22:57:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53885408?u=53bd41d200fcb4db554653546cd28e421500fa66&v=4" width="64" height="64" alt=""/><br/><div>Rewrite of Manatee using slash commands</div>]]></content>
         <author>
-            <name>PabloSzx</name>
-            <email>PabloSzx@noreply.github.com</email>
-            <uri>https://github.com/PabloSzx</uri>
+            <name>justsharan</name>
+            <email>justsharan@noreply.github.com</email>
+            <uri>https://github.com/justsharan</uri>
         </author>
-        <published>2021-06-07T16:55:53.000Z</published>
+        <published>2022-01-06T13:33:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NordicSemiconductor/asset-tracker-cloud-azure-js: A reference implementation of a serverless backend for an IoT product developed using in TypeScript.]]></title>
-        <id>https://github.com/NordicSemiconductor/asset-tracker-cloud-azure-js</id>
-        <link href="https://github.com/NordicSemiconductor/asset-tracker-cloud-azure-js"/>
-        <updated>2022-01-11T13:03:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33217104?v=4" width="64" height="64" alt=""/><br/><div>A reference implementation of a serverless backend for an IoT product developed using in TypeScript.</div>]]></content>
+        <title type="html"><![CDATA[globalstripe/serverless-geolocation-api]]></title>
+        <id>https://github.com/globalstripe/serverless-geolocation-api</id>
+        <link href="https://github.com/globalstripe/serverless-geolocation-api"/>
+        <updated>2022-01-13T23:23:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3870628?u=406d20c43ec345b55934095ae80231a164f0ea36&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>NordicSemiconductor</name>
-            <email>NordicSemiconductor@noreply.github.com</email>
-            <uri>https://github.com/NordicSemiconductor</uri>
+            <name>globalstripe</name>
+            <email>globalstripe@noreply.github.com</email>
+            <uri>https://github.com/globalstripe</uri>
         </author>
-        <published>2021-01-26T15:45:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[muratkeremozcan/cypress-crud-api-test: crud testing a serverless application with Cypress api tests]]></title>
-        <id>https://github.com/muratkeremozcan/cypress-crud-api-test</id>
-        <link href="https://github.com/muratkeremozcan/cypress-crud-api-test"/>
-        <updated>2022-01-12T13:58:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34237651?u=e619f16f5b241692b843c65e23a190aaf8345bf4&v=4" width="64" height="64" alt=""/><br/><div>crud testing a serverless application with Cypress api tests</div>]]></content>
-        <author>
-            <name>muratkeremozcan</name>
-            <email>muratkeremozcan@noreply.github.com</email>
-            <uri>https://github.com/muratkeremozcan</uri>
-        </author>
-        <published>2022-01-12T13:58:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[upstash/kafka-examples: Sample applications implemented with Serverless Kafka]]></title>
-        <id>https://github.com/upstash/kafka-examples</id>
-        <link href="https://github.com/upstash/kafka-examples"/>
-        <updated>2022-01-05T00:22:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74989412?v=4" width="64" height="64" alt=""/><br/><div>Sample applications implemented with Serverless Kafka</div>]]></content>
-        <author>
-            <name>upstash</name>
-            <email>upstash@noreply.github.com</email>
-            <uri>https://github.com/upstash</uri>
-        </author>
-        <published>2021-12-15T21:17:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x-t/serverless-gdrive-twitter: Select and upload random images from a Google Drive folder to Twitter.]]></title>
-        <id>https://github.com/x-t/serverless-gdrive-twitter</id>
-        <link href="https://github.com/x-t/serverless-gdrive-twitter"/>
-        <updated>2022-01-10T20:30:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33009283?u=626e832d20622bd4f0518ef171bb6e7639a78eda&v=4" width="64" height="64" alt=""/><br/><div>Select and upload random images from a Google Drive folder to Twitter.</div>]]></content>
-        <author>
-            <name>x-t</name>
-            <email>x-t@noreply.github.com</email>
-            <uri>https://github.com/x-t</uri>
-        </author>
-        <published>2020-11-19T21:23:42.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[appwrite/appwrite: Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀]]></title>
-        <id>https://github.com/appwrite/appwrite</id>
-        <link href="https://github.com/appwrite/appwrite"/>
-        <updated>2022-01-12T23:42:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25003669?v=4" width="64" height="64" alt=""/><br/><div>Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
-</div>]]></content>
-        <author>
-            <name>appwrite</name>
-            <email>appwrite@noreply.github.com</email>
-            <uri>https://github.com/appwrite</uri>
-        </author>
-        <published>2019-04-08T16:36:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lifeomic/lambda-tools: Common utilities for Lambda testing and development]]></title>
-        <id>https://github.com/lifeomic/lambda-tools</id>
-        <link href="https://github.com/lifeomic/lambda-tools"/>
-        <updated>2022-01-09T11:28:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29172293?v=4" width="64" height="64" alt=""/><br/><div>Common utilities for Lambda testing and development</div>]]></content>
-        <author>
-            <name>lifeomic</name>
-            <email>lifeomic@noreply.github.com</email>
-            <uri>https://github.com/lifeomic</uri>
-        </author>
-        <published>2018-06-01T19:46:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sure-thing/presta: Minimalist serverless framework for SSR, SSG, serverless APIs and more.]]></title>
-        <id>https://github.com/sure-thing/presta</id>
-        <link href="https://github.com/sure-thing/presta"/>
-        <updated>2022-01-11T02:10:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66395492?v=4" width="64" height="64" alt=""/><br/><div>Minimalist serverless framework for SSR, SSG, serverless APIs and more.</div>]]></content>
-        <author>
-            <name>sure-thing</name>
-            <email>sure-thing@noreply.github.com</email>
-            <uri>https://github.com/sure-thing</uri>
-        </author>
-        <published>2020-08-08T19:02:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[serverless/cloud: Serverless Cloud makes building, deploying, and managing serverless applications easier and more accessible to everyone.]]></title>
-        <id>https://github.com/serverless/cloud</id>
-        <link href="https://github.com/serverless/cloud"/>
-        <updated>2022-01-10T16:17:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13742415?v=4" width="64" height="64" alt=""/><br/><div>Serverless Cloud makes building, deploying, and managing serverless applications easier and more accessible to everyone.</div>]]></content>
-        <author>
-            <name>serverless</name>
-            <email>serverless@noreply.github.com</email>
-            <uri>https://github.com/serverless</uri>
-        </author>
-        <published>2021-04-23T14:02:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[minecraft-fpv/mfpv-discord: A discord bot with minecraft integration.  Supports world download and restore.]]></title>
-        <id>https://github.com/minecraft-fpv/mfpv-discord</id>
-        <link href="https://github.com/minecraft-fpv/mfpv-discord"/>
-        <updated>2021-12-29T11:49:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96716095?v=4" width="64" height="64" alt=""/><br/><div>A discord bot with minecraft integration.  Supports world download and restore.</div>]]></content>
-        <author>
-            <name>minecraft-fpv</name>
-            <email>minecraft-fpv@noreply.github.com</email>
-            <uri>https://github.com/minecraft-fpv</uri>
-        </author>
-        <published>2021-12-27T07:00:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[charangautam/meet: Meet is an app that displays tech events hosted in a variety of cities. Users are able to filter their results by city and number of events. Built using TDD and BDD methodologies by using jest, cucumber and puppeteer. The backend is serverless, hosted on AWS Lambda and connected to the Google Calendar API. Frontend uses React.js. ]]></title>
-        <id>https://github.com/charangautam/meet</id>
-        <link href="https://github.com/charangautam/meet"/>
-        <updated>2021-12-22T20:42:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64233303?u=5b246758f15ff4ebfd600314161e2db285ec197d&v=4" width="64" height="64" alt=""/><br/><div>Meet is an app that displays tech events hosted in a variety of cities. Users are able to filter their results by city and number of events. Built using TDD and BDD methodologies by using jest, cucumber and puppeteer. The backend is serverless, hosted on AWS Lambda and connected to the Google Calendar API. Frontend uses React.js. </div>]]></content>
-        <author>
-            <name>charangautam</name>
-            <email>charangautam@noreply.github.com</email>
-            <uri>https://github.com/charangautam</uri>
-        </author>
-        <published>2021-12-07T04:57:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[serverless-stack/serverless-stack: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com]]></title>
-        <id>https://github.com/serverless-stack/serverless-stack</id>
-        <link href="https://github.com/serverless-stack/serverless-stack"/>
-        <updated>2022-01-12T20:07:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="64" height="64" alt=""/><br/><div>
-<g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. <a href="https://serverless-stack.com" rel="nofollow">https://serverless-stack.com</a>
-</div>]]></content>
-        <author>
-            <name>serverless-stack</name>
-            <email>serverless-stack@noreply.github.com</email>
-            <uri>https://github.com/serverless-stack</uri>
-        </author>
-        <published>2020-08-04T20:28:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BiggaHD/Reactive-RSS: Check out RSS feeds without registration or create a profile and access additional abilities, including saving and manipulating your feeds. 📰]]></title>
-        <id>https://github.com/BiggaHD/Reactive-RSS</id>
-        <link href="https://github.com/BiggaHD/Reactive-RSS"/>
-        <updated>2022-01-12T22:32:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29360045?u=790f79db7095109b19471dbb7bcb2397e0d07d40&v=4" width="64" height="64" alt=""/><br/><div>Check out RSS feeds without registration or create a profile and access additional abilities, including saving and manipulating your feeds. <g-emoji class="g-emoji" alias="newspaper" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png">📰</g-emoji>
-</div>]]></content>
-        <author>
-            <name>BiggaHD</name>
-            <email>BiggaHD@noreply.github.com</email>
-            <uri>https://github.com/BiggaHD</uri>
-        </author>
-        <published>2019-07-31T20:04:13.000Z</published>
+        <published>2022-01-13T23:19:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[chuongtang/Watchkeeping-MongoDB-Serverless: Making front end calls to MongoDB Realm serverless functions]]></title>
@@ -261,16 +113,161 @@
         <published>2021-12-17T05:53:57.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ernestobalanzar/React-Serverless-full-Stack: This is a tutorial from James Quick]]></title>
-        <id>https://github.com/ernestobalanzar/React-Serverless-full-Stack</id>
-        <link href="https://github.com/ernestobalanzar/React-Serverless-full-Stack"/>
-        <updated>2022-01-10T20:55:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3232676?u=2872ad1527adb7296e7fee3941a37ee1b3a1abdd&v=4" width="64" height="64" alt=""/><br/><div>This is a tutorial from James Quick</div>]]></content>
+        <title type="html"><![CDATA[danopia/helm-land: Serverless public registry for Helm charts, running on Deno Deploy, using Amazon DynamoDB & S3]]></title>
+        <id>https://github.com/danopia/helm-land</id>
+        <link href="https://github.com/danopia/helm-land"/>
+        <updated>2022-01-10T03:55:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40628?u=53127df302801b196bc499147878f9fa1797abac&v=4" width="64" height="64" alt=""/><br/><div>Serverless public registry for Helm charts, running on Deno Deploy, using Amazon DynamoDB &amp; S3</div>]]></content>
         <author>
-            <name>ernestobalanzar</name>
-            <email>ernestobalanzar@noreply.github.com</email>
-            <uri>https://github.com/ernestobalanzar</uri>
+            <name>danopia</name>
+            <email>danopia@noreply.github.com</email>
+            <uri>https://github.com/danopia</uri>
         </author>
-        <published>2022-01-03T15:52:17.000Z</published>
+        <published>2022-01-09T18:59:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OliHarris/underrated-overrated: Foray into tapping more Wikipedia API's; this time integration with serverless AWS endpoints / MongoDB]]></title>
+        <id>https://github.com/OliHarris/underrated-overrated</id>
+        <link href="https://github.com/OliHarris/underrated-overrated"/>
+        <updated>2022-01-09T12:16:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61828059?u=f78ea32575f25bb0c7bd680d15c5fa08ff21c388&v=4" width="64" height="64" alt=""/><br/><div>Foray into tapping more Wikipedia API's; this time integration with serverless AWS endpoints / MongoDB</div>]]></content>
+        <author>
+            <name>OliHarris</name>
+            <email>OliHarris@noreply.github.com</email>
+            <uri>https://github.com/OliHarris</uri>
+        </author>
+        <published>2022-01-04T00:38:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[daphnecarvalho/ignite-trilha-nodejs-2022-todos-serverless]]></title>
+        <id>https://github.com/daphnecarvalho/ignite-trilha-nodejs-2022-todos-serverless</id>
+        <link href="https://github.com/daphnecarvalho/ignite-trilha-nodejs-2022-todos-serverless"/>
+        <updated>2022-01-13T23:19:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/561243?u=e2c612df9c9c9a686d0523410721e99d02670c65&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>daphnecarvalho</name>
+            <email>daphnecarvalho@noreply.github.com</email>
+            <uri>https://github.com/daphnecarvalho</uri>
+        </author>
+        <published>2022-01-13T23:05:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cajaye/serverless-function-01: Vercel serveless function to manage emails]]></title>
+        <id>https://github.com/Cajaye/serverless-function-01</id>
+        <link href="https://github.com/Cajaye/serverless-function-01"/>
+        <updated>2022-01-13T22:58:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86979554?u=757395d8c9b4b419d878f2686cd43bdb331a8cd1&v=4" width="64" height="64" alt=""/><br/><div>Vercel serveless function to manage emails</div>]]></content>
+        <author>
+            <name>Cajaye</name>
+            <email>Cajaye@noreply.github.com</email>
+            <uri>https://github.com/Cajaye</uri>
+        </author>
+        <published>2022-01-13T22:57:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[firefliesai/nlp-serverless-ff: Generate nlp for transcriptions.]]></title>
+        <id>https://github.com/firefliesai/nlp-serverless-ff</id>
+        <link href="https://github.com/firefliesai/nlp-serverless-ff"/>
+        <updated>2022-01-12T04:01:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22060131?v=4" width="64" height="64" alt=""/><br/><div>Generate nlp for transcriptions.</div>]]></content>
+        <author>
+            <name>firefliesai</name>
+            <email>firefliesai@noreply.github.com</email>
+            <uri>https://github.com/firefliesai</uri>
+        </author>
+        <published>2022-01-12T03:56:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jaylandro/architectures-2019: Netlify Serverless Functions, GraphQL, Gatsby, React]]></title>
+        <id>https://github.com/jaylandro/architectures-2019</id>
+        <link href="https://github.com/jaylandro/architectures-2019"/>
+        <updated>2022-01-13T19:30:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6473103?u=f8248f034a5e43068be6de60189417f214c2c952&v=4" width="64" height="64" alt=""/><br/><div>Netlify Serverless Functions, GraphQL, Gatsby, React</div>]]></content>
+        <author>
+            <name>jaylandro</name>
+            <email>jaylandro@noreply.github.com</email>
+            <uri>https://github.com/jaylandro</uri>
+        </author>
+        <published>2019-02-18T01:55:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeriesOfUnlikelyExplanations/hugo-serverless: Serverless implementation of Hugo static site generator]]></title>
+        <id>https://github.com/SeriesOfUnlikelyExplanations/hugo-serverless</id>
+        <link href="https://github.com/SeriesOfUnlikelyExplanations/hugo-serverless"/>
+        <updated>2022-01-13T13:55:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47530716?u=91162264c5daa72151428f786fb66bcfb64634b2&v=4" width="64" height="64" alt=""/><br/><div>Serverless implementation of Hugo static site generator</div>]]></content>
+        <author>
+            <name>SeriesOfUnlikelyExplanations</name>
+            <email>SeriesOfUnlikelyExplanations@noreply.github.com</email>
+            <uri>https://github.com/SeriesOfUnlikelyExplanations</uri>
+        </author>
+        <published>2021-11-15T20:47:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mrumenov-cyber/MeetMe: To build a serverless, progressive web application (PWA) with React using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.]]></title>
+        <id>https://github.com/mrumenov-cyber/MeetMe</id>
+        <link href="https://github.com/mrumenov-cyber/MeetMe"/>
+        <updated>2022-01-10T12:53:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/92484794?v=4" width="64" height="64" alt=""/><br/><div>To build a serverless, progressive web application (PWA) with React using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.</div>]]></content>
+        <author>
+            <name>mrumenov-cyber</name>
+            <email>mrumenov-cyber@noreply.github.com</email>
+            <uri>https://github.com/mrumenov-cyber</uri>
+        </author>
+        <published>2021-12-18T13:32:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aws/aws-toolkit-vscode: AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda, S3 and CloudWatch.]]></title>
+        <id>https://github.com/aws/aws-toolkit-vscode</id>
+        <link href="https://github.com/aws/aws-toolkit-vscode"/>
+        <updated>2022-01-10T18:32:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2232217?v=4" width="64" height="64" alt=""/><br/><div>AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda, S3 and CloudWatch.</div>]]></content>
+        <author>
+            <name>aws</name>
+            <email>aws@noreply.github.com</email>
+            <uri>https://github.com/aws</uri>
+        </author>
+        <published>2018-07-20T20:09:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WeslyG/serverless-deploy]]></title>
+        <id>https://github.com/WeslyG/serverless-deploy</id>
+        <link href="https://github.com/WeslyG/serverless-deploy"/>
+        <updated>2022-01-10T20:55:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12625945?u=5933321de2c6158b12ded8859b5b79aaffb039db&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>WeslyG</name>
+            <email>WeslyG@noreply.github.com</email>
+            <uri>https://github.com/WeslyG</uri>
+        </author>
+        <published>2022-01-09T19:09:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NordicSemiconductor/asset-tracker-cloud-aws-js: A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.]]></title>
+        <id>https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js</id>
+        <link href="https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js"/>
+        <updated>2022-01-11T13:05:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33217104?v=4" width="64" height="64" alt=""/><br/><div>A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.</div>]]></content>
+        <author>
+            <name>NordicSemiconductor</name>
+            <email>NordicSemiconductor@noreply.github.com</email>
+            <uri>https://github.com/NordicSemiconductor</uri>
+        </author>
+        <published>2021-01-26T15:44:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[serverless-stack/serverless-stack: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com]]></title>
+        <id>https://github.com/serverless-stack/serverless-stack</id>
+        <link href="https://github.com/serverless-stack/serverless-stack"/>
+        <updated>2022-01-13T23:39:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="64" height="64" alt=""/><br/><div>
+<g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. <a href="https://serverless-stack.com" rel="nofollow">https://serverless-stack.com</a>
+</div>]]></content>
+        <author>
+            <name>serverless-stack</name>
+            <email>serverless-stack@noreply.github.com</email>
+            <uri>https://github.com/serverless-stack</uri>
+        </author>
+        <published>2020-08-04T20:28:14.000Z</published>
     </entry>
 </feed>
