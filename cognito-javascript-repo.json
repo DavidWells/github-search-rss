@@ -6,10 +6,153 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2022-01-10T22:45:35.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90621382?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Cognito's Google federated identity integration to allow your app users to login with their Google account.</div>",
+            "url": "https://github.com/awesome-cdk/cognito-google-federation-example",
+            "title": "awesome-cdk/cognito-google-federation-example: Use Cognito's Google federated identity integration to allow your app users to login with their Google account.",
+            "date_modified": "2022-02-12T23:29:27.000Z",
+            "date_published": "2022-02-06T21:53:42.000Z",
+            "author": {
+                "name": "awesome-cdk",
+                "url": "https://github.com/awesome-cdk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ctx-core/cognito",
+            "title": "ctx-core/cognito",
+            "date_modified": "2022-01-08T04:07:10.000Z",
+            "date_published": "2019-12-02T17:11:53.000Z",
+            "author": {
+                "name": "ctx-core",
+                "url": "https://github.com/ctx-core"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62174154?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS - GraphQL - Amplify - DynamoDB - React - Cognito - AppSync</div>",
+            "url": "https://github.com/yuvalshai95/aws-todo",
+            "title": "yuvalshai95/aws-todo: AWS - GraphQL - Amplify - DynamoDB - React - Cognito - AppSync",
+            "date_modified": "2022-02-12T17:36:46.000Z",
+            "date_published": "2022-02-12T17:35:07.000Z",
+            "author": {
+                "name": "yuvalshai95",
+                "url": "https://github.com/yuvalshai95"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47092819?u=0a429ed559ea80ad0bef46fb7a31e5df9b01afe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal website (<a href=\"https://yukikitayama.com\" rel=\"nofollow\">https://yukikitayama.com</a>) in React with AWS (Lambda, API Gateway, Amplify, Cognito, Secrets Manager, EventBridge), MongoDB, fitbit API, Redux, Recharts, Material UI</div>",
+            "url": "https://github.com/yukikitayama/website-react",
+            "title": "yukikitayama/website-react: My personal website (https://yukikitayama.com) in React with AWS (Lambda, API Gateway, Amplify, Cognito, Secrets Manager, EventBridge), MongoDB, fitbit API, Redux, Recharts, Material UI",
+            "date_modified": "2022-02-01T02:07:56.000Z",
+            "date_published": "2021-10-16T20:52:31.000Z",
+            "author": {
+                "name": "yukikitayama",
+                "url": "https://github.com/yukikitayama"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12515425?u=cf338f92930569594ffa16a4c36b5ccb4daa7fa2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Low code development on Amplify and React to add UI components with Cognito and also Storage S3 viewer and uploaded authenticated with Cognito IAM role.</div>",
+            "url": "https://github.com/zachjonesnoel/react-amplify-s3",
+            "title": "zachjonesnoel/react-amplify-s3: Low code development on Amplify and React to add UI components with Cognito and also Storage S3 viewer and uploaded authenticated with Cognito IAM role.",
+            "date_modified": "2022-02-12T17:26:35.000Z",
+            "date_published": "2021-05-23T08:35:59.000Z",
+            "author": {
+                "name": "zachjonesnoel",
+                "url": "https://github.com/zachjonesnoel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80635?u=881e2214a979cc90621c62bcd52b2c33debe3496&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example Rails application demonstrating server-side Cognito User Pools</div>",
+            "url": "https://github.com/mheffner/rails-cognito-example",
+            "title": "mheffner/rails-cognito-example: Example Rails application demonstrating server-side Cognito User Pools",
+            "date_modified": "2022-02-12T14:30:03.000Z",
+            "date_published": "2019-07-25T17:47:01.000Z",
+            "author": {
+                "name": "mheffner",
+                "url": "https://github.com/mheffner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6194359?u=f163e450034a502dd4e2920c707f700df364e969&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terraform module to create Amazon Cognito User Pools, configure its attributes and resources such as app clients, domain, resource servers. Amazon Cognito User Pools provide a secure user directory that scales to hundreds of millions of users.</div>",
+            "url": "https://github.com/lgallard/terraform-aws-cognito-user-pool",
+            "title": "lgallard/terraform-aws-cognito-user-pool: Terraform module to create Amazon Cognito User Pools, configure its attributes and resources such as app clients, domain, resource servers. Amazon Cognito User Pools provide a secure user directory that scales to hundreds of millions of users.",
+            "date_modified": "2022-02-12T13:06:41.000Z",
+            "date_published": "2019-10-30T20:54:17.000Z",
+            "author": {
+                "name": "lgallard",
+                "url": "https://github.com/lgallard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5926159?u=8c78610a6f01d10fa46eef6f2687ff462f936dc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verify and decode Cognito JWTs</div>",
+            "url": "https://github.com/CodingAnarchy/cognito_token_verifier",
+            "title": "CodingAnarchy/cognito_token_verifier: Verify and decode Cognito JWTs",
+            "date_modified": "2022-02-12T13:23:02.000Z",
+            "date_published": "2019-02-19T19:46:54.000Z",
+            "author": {
+                "name": "CodingAnarchy",
+                "url": "https://github.com/CodingAnarchy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1649505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Creates AWS Cognito resources for using SAML authentication</div>",
+            "url": "https://github.com/trussworks/terraform-aws-saml-cognito",
+            "title": "trussworks/terraform-aws-saml-cognito: Creates AWS Cognito resources for using SAML authentication",
+            "date_modified": "2021-12-11T09:36:55.000Z",
+            "date_published": "2021-01-14T15:36:32.000Z",
+            "author": {
+                "name": "trussworks",
+                "url": "https://github.com/trussworks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32473932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ericgmoon/cognito-app",
+            "title": "ericgmoon/cognito-app",
+            "date_modified": "2022-02-10T03:28:00.000Z",
+            "date_published": "2021-11-24T04:22:03.000Z",
+            "author": {
+                "name": "ericgmoon",
+                "url": "https://github.com/ericgmoon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47653005?u=812123dd3c5fd19a9aa4ad1585dd1a3dfd2cdac9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>react-vite에 Cognito 연결하기</div>",
+            "url": "https://github.com/WONILLISM/Cognito-react-vite",
+            "title": "WONILLISM/Cognito-react-vite: react-vite에 Cognito 연결하기",
+            "date_modified": "2022-02-11T07:11:05.000Z",
+            "date_published": "2022-02-11T07:09:29.000Z",
+            "author": {
+                "name": "WONILLISM",
+                "url": "https://github.com/WONILLISM"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/914369?u=ae1314640893386e7f75a5554f415f222df4fcb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API)</div>",
+            "url": "https://github.com/TimothyJones/github-cognito-openid-wrapper",
+            "title": "TimothyJones/github-cognito-openid-wrapper: Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API)",
+            "date_modified": "2022-02-11T05:58:52.000Z",
+            "date_published": "2018-08-31T07:39:17.000Z",
+            "author": {
+                "name": "TimothyJones",
+                "url": "https://github.com/TimothyJones"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
             "url": "https://github.com/aws-amplify/amplify-js",
             "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-02-11T23:45:33.000Z",
+            "date_modified": "2022-02-12T19:18:00.000Z",
             "date_published": "2017-10-02T22:17:14.000Z",
             "author": {
                 "name": "aws-amplify",
@@ -80,149 +223,6 @@
             "author": {
                 "name": "aws-samples",
                 "url": "https://github.com/aws-samples"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86466651?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/tilotech/terraform-aws-tilores-cognito",
-            "title": "tilotech/terraform-aws-tilores-cognito",
-            "date_modified": "2021-12-06T10:05:43.000Z",
-            "date_published": "2021-12-01T10:45:26.000Z",
-            "author": {
-                "name": "tilotech",
-                "url": "https://github.com/tilotech"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Retail Demo Store is a sample retail web application and workshop platform demonstrating how AWS infrastructure and services can be used to build compelling customer experiences for eCommerce, retail, and digital marketing use-cases</div>",
-            "url": "https://github.com/aws-samples/retail-demo-store",
-            "title": "aws-samples/retail-demo-store: AWS Retail Demo Store is a sample retail web application and workshop platform demonstrating how AWS infrastructure and services can be used to build compelling customer experiences for eCommerce, retail, and digital marketing use-cases",
-            "date_modified": "2022-02-11T09:27:05.000Z",
-            "date_published": "2020-04-06T10:03:48.000Z",
-            "author": {
-                "name": "aws-samples",
-                "url": "https://github.com/aws-samples"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47653005?u=812123dd3c5fd19a9aa4ad1585dd1a3dfd2cdac9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>react-vite에 Cognito 연결하기</div>",
-            "url": "https://github.com/WONILLISM/Cognito-react-vite",
-            "title": "WONILLISM/Cognito-react-vite: react-vite에 Cognito 연결하기",
-            "date_modified": "2022-02-11T07:11:05.000Z",
-            "date_published": "2022-02-11T07:09:29.000Z",
-            "author": {
-                "name": "WONILLISM",
-                "url": "https://github.com/WONILLISM"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18393842?u=f6690eab2e822afa8e41a786236c43fdd872e709&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An AWS CDK construct for private S3 Assets an access with Cognito token</div>",
-            "url": "https://github.com/mmuller88/cdk-private-asset-bucket",
-            "title": "mmuller88/cdk-private-asset-bucket: An AWS CDK construct for private S3 Assets an access with Cognito token",
-            "date_modified": "2022-02-11T05:57:29.000Z",
-            "date_published": "2022-02-06T18:28:22.000Z",
-            "author": {
-                "name": "mmuller88",
-                "url": "https://github.com/mmuller88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47092819?u=0a429ed559ea80ad0bef46fb7a31e5df9b01afe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal website (<a href=\"https://yukikitayama.com\" rel=\"nofollow\">https://yukikitayama.com</a>) in React with AWS (Lambda, API Gateway, Amplify, Cognito, Secrets Manager, EventBridge), MongoDB, fitbit API, Redux, Recharts, Material UI</div>",
-            "url": "https://github.com/yukikitayama/website-react",
-            "title": "yukikitayama/website-react: My personal website (https://yukikitayama.com) in React with AWS (Lambda, API Gateway, Amplify, Cognito, Secrets Manager, EventBridge), MongoDB, fitbit API, Redux, Recharts, Material UI",
-            "date_modified": "2022-02-01T02:07:56.000Z",
-            "date_published": "2021-10-16T20:52:31.000Z",
-            "author": {
-                "name": "yukikitayama",
-                "url": "https://github.com/yukikitayama"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2022-01-10T22:45:35.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
-            "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
-            "url": "https://github.com/nearform/brokeneck",
-            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
-            "date_modified": "2022-02-11T03:11:48.000Z",
-            "date_published": "2020-11-29T21:56:55.000Z",
-            "author": {
-                "name": "nearform",
-                "url": "https://github.com/nearform"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4086132?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boilerplate Angular app with AWS Cognito and Tailwind CSS</div>",
-            "url": "https://github.com/ppalms/angular-cognito-tailwind",
-            "title": "ppalms/angular-cognito-tailwind: Boilerplate Angular app with AWS Cognito and Tailwind CSS",
-            "date_modified": "2022-02-10T04:53:49.000Z",
-            "date_published": "2022-02-06T17:27:29.000Z",
-            "author": {
-                "name": "ppalms",
-                "url": "https://github.com/ppalms"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/914369?u=ae1314640893386e7f75a5554f415f222df4fcb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API)</div>",
-            "url": "https://github.com/TimothyJones/github-cognito-openid-wrapper",
-            "title": "TimothyJones/github-cognito-openid-wrapper: Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API)",
-            "date_modified": "2022-02-11T05:58:52.000Z",
-            "date_published": "2018-08-31T07:39:17.000Z",
-            "author": {
-                "name": "TimothyJones",
-                "url": "https://github.com/TimothyJones"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17980776?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terraform module for creating the IAM user required for automated running of Postman tests against Cognito</div>",
-            "url": "https://github.com/Waracle/tf-postman",
-            "title": "Waracle/tf-postman: Terraform module for creating the IAM user required for automated running of Postman tests against Cognito",
-            "date_modified": "2022-01-10T21:52:31.000Z",
-            "date_published": "2021-12-21T21:38:17.000Z",
-            "author": {
-                "name": "Waracle",
-                "url": "https://github.com/Waracle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55535240?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Terraform module to create and manage Cognito User Pools (Simple and Secure User Sign-Up, Sign-In, and Access Control) on Amazon Web Services (AWS). <a href=\"https://aws.amazon.com/cognito\" rel=\"nofollow\">https://aws.amazon.com/cognito</a>\n</div>",
-            "url": "https://github.com/mineiros-io/terraform-aws-cognito-user-pool",
-            "title": "mineiros-io/terraform-aws-cognito-user-pool: A Terraform module to create and manage Cognito User Pools (Simple and Secure User Sign-Up, Sign-In, and Access Control) on Amazon Web Services (AWS). https://aws.amazon.com/cognito",
-            "date_modified": "2022-01-04T06:04:08.000Z",
-            "date_published": "2020-05-28T19:53:25.000Z",
-            "author": {
-                "name": "mineiros-io",
-                "url": "https://github.com/mineiros-io"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4120930?u=0e7a59944c4eb06a3ee23dcd3deabedfa1fb43e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/joshsuson/cognito-research",
-            "title": "joshsuson/cognito-research",
-            "date_modified": "2022-02-10T19:28:00.000Z",
-            "date_published": "2022-02-10T19:26:28.000Z",
-            "author": {
-                "name": "joshsuson",
-                "url": "https://github.com/joshsuson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20050863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ellaisys/demo_cognito_app",
-            "title": "ellaisys/demo_cognito_app",
-            "date_modified": "2022-02-10T19:34:04.000Z",
-            "date_published": "2022-01-10T20:49:07.000Z",
-            "author": {
-                "name": "ellaisys",
-                "url": "https://github.com/ellaisys"
             }
         }
     ]
