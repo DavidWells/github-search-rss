@@ -6,6 +6,116 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ctx-core/cognito",
+            "title": "ctx-core/cognito",
+            "date_modified": "2022-01-08T04:07:10.000Z",
+            "date_published": "2019-12-02T17:11:53.000Z",
+            "author": {
+                "name": "ctx-core",
+                "url": "https://github.com/ctx-core"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60040790?u=01eddf7d3b6f330e28fd5fc6f1886a7ee89601a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>sapmle AWS Serverless application demonstrating cognito part</div>",
+            "url": "https://github.com/AtaharNurPial/sam-cognito",
+            "title": "AtaharNurPial/sam-cognito: sapmle AWS Serverless application demonstrating cognito part",
+            "date_modified": "2022-02-19T17:45:52.000Z",
+            "date_published": "2022-02-19T17:44:14.000Z",
+            "author": {
+                "name": "AtaharNurPial",
+                "url": "https://github.com/AtaharNurPial"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55246766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/abdulrehman135/cognito",
+            "title": "abdulrehman135/cognito",
+            "date_modified": "2022-02-19T15:18:24.000Z",
+            "date_published": "2022-02-19T10:49:14.000Z",
+            "author": {
+                "name": "abdulrehman135",
+                "url": "https://github.com/abdulrehman135"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6194359?u=f163e450034a502dd4e2920c707f700df364e969&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terraform module to create Amazon Cognito User Pools, configure its attributes and resources such as app clients, domain, resource servers. Amazon Cognito User Pools provide a secure user directory that scales to hundreds of millions of users.</div>",
+            "url": "https://github.com/lgallard/terraform-aws-cognito-user-pool",
+            "title": "lgallard/terraform-aws-cognito-user-pool: Terraform module to create Amazon Cognito User Pools, configure its attributes and resources such as app clients, domain, resource servers. Amazon Cognito User Pools provide a secure user directory that scales to hundreds of millions of users.",
+            "date_modified": "2022-02-14T06:07:17.000Z",
+            "date_published": "2019-10-30T20:54:17.000Z",
+            "author": {
+                "name": "lgallard",
+                "url": "https://github.com/lgallard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1649505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Creates AWS Cognito resources for using SAML authentication</div>",
+            "url": "https://github.com/trussworks/terraform-aws-saml-cognito",
+            "title": "trussworks/terraform-aws-saml-cognito: Creates AWS Cognito resources for using SAML authentication",
+            "date_modified": "2021-12-11T09:36:55.000Z",
+            "date_published": "2021-01-14T15:36:32.000Z",
+            "author": {
+                "name": "trussworks",
+                "url": "https://github.com/trussworks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37542758?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/navneetlal/aws-s3-cloudfront-cognito-serverless",
+            "title": "navneetlal/aws-s3-cloudfront-cognito-serverless",
+            "date_modified": "2022-02-19T10:52:01.000Z",
+            "date_published": "2020-03-26T09:39:34.000Z",
+            "author": {
+                "name": "navneetlal",
+                "url": "https://github.com/navneetlal"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build a Serverless microservices application demonstrating end-to-end authentication and authorization through use of Amazon Cognito, API Gateway, AWS Lambda, and all-things IAM.</div>",
+            "url": "https://github.com/aws-samples/amazon-cognito-identity-management-workshop",
+            "title": "aws-samples/amazon-cognito-identity-management-workshop: Build a Serverless microservices application demonstrating end-to-end authentication and authorization through use of Amazon Cognito, API Gateway, AWS Lambda, and all-things IAM.",
+            "date_modified": "2022-02-19T13:55:56.000Z",
+            "date_published": "2019-09-05T20:59:55.000Z",
+            "author": {
+                "name": "aws-samples",
+                "url": "https://github.com/aws-samples"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example for using Amazon Cognito together with an external IdP</div>",
+            "url": "https://github.com/aws-samples/amazon-cognito-example-for-external-idp",
+            "title": "aws-samples/amazon-cognito-example-for-external-idp: An example for using Amazon Cognito together with an external IdP",
+            "date_modified": "2022-02-19T13:31:24.000Z",
+            "date_published": "2019-06-07T00:08:21.000Z",
+            "author": {
+                "name": "aws-samples",
+                "url": "https://github.com/aws-samples"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5926159?u=8c78610a6f01d10fa46eef6f2687ff462f936dc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verify and decode Cognito JWTs</div>",
+            "url": "https://github.com/CodingAnarchy/cognito_token_verifier",
+            "title": "CodingAnarchy/cognito_token_verifier: Verify and decode Cognito JWTs",
+            "date_modified": "2022-02-16T00:13:28.000Z",
+            "date_published": "2019-02-19T19:46:54.000Z",
+            "author": {
+                "name": "CodingAnarchy",
+                "url": "https://github.com/CodingAnarchy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
+            "url": "https://github.com/aws-amplify/amplify-js",
+            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
+            "date_modified": "2022-02-19T19:36:43.000Z",
+            "date_published": "2017-10-02T22:17:14.000Z",
+            "author": {
+                "name": "aws-amplify",
+                "url": "https://github.com/aws-amplify"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3378986?u=9a8ec86b49db6d13415c7794f5ed4b8809a65296&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Playground for Cognito</div>",
             "url": "https://github.com/redgeoff/cognito-playground",
             "title": "redgeoff/cognito-playground: Playground for Cognito",
@@ -28,21 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
-            "url": "https://github.com/aws-amplify/amplify-js",
-            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-02-18T22:42:34.000Z",
-            "date_published": "2017-10-02T22:17:14.000Z",
-            "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46185371?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project demonstrates how we can integrate AWS Cognito User/Token Management system in a Django App</div>",
             "url": "https://github.com/ashusetu/django-with-aws-cognito-auth",
             "title": "ashusetu/django-with-aws-cognito-auth: This project demonstrates how we can integrate AWS Cognito User/Token Management system in a Django App",
-            "date_modified": "2022-02-18T19:14:16.000Z",
+            "date_modified": "2022-02-19T20:36:59.000Z",
             "date_published": "2022-02-18T19:14:16.000Z",
             "author": {
                 "name": "ashusetu",
@@ -124,105 +223,6 @@
             "author": {
                 "name": "jagregory",
                 "url": "https://github.com/jagregory"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2022-01-10T22:45:35.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
-            "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67227582?u=b338207829be522b1eb6cec74e8f91206ace8d80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An authentication dashboard that integrates with AWS cognito</div>",
-            "url": "https://github.com/haelmj/cognito-playground",
-            "title": "haelmj/cognito-playground: An authentication dashboard that integrates with AWS cognito",
-            "date_modified": "2022-02-15T16:27:33.000Z",
-            "date_published": "2022-01-17T13:22:15.000Z",
-            "author": {
-                "name": "haelmj",
-                "url": "https://github.com/haelmj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
-            "url": "https://github.com/nearform/brokeneck",
-            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
-            "date_modified": "2022-02-11T03:11:48.000Z",
-            "date_published": "2020-11-29T21:56:55.000Z",
-            "author": {
-                "name": "nearform",
-                "url": "https://github.com/nearform"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11076093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[READ ONLY] Subtree split of the SocialiteProviders/Cognito Provider (see SocialiteProviders/Providers)</div>",
-            "url": "https://github.com/SocialiteProviders/Cognito",
-            "title": "SocialiteProviders/Cognito: [READ ONLY] Subtree split of the SocialiteProviders/Cognito Provider (see SocialiteProviders/Providers)",
-            "date_modified": "2021-12-13T00:32:09.000Z",
-            "date_published": "2021-10-06T04:46:24.000Z",
-            "author": {
-                "name": "SocialiteProviders",
-                "url": "https://github.com/SocialiteProviders"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>",
-            "url": "https://github.com/tillkuhn/angkor",
-            "title": "tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS",
-            "date_modified": "2022-01-09T12:44:28.000Z",
-            "date_published": "2019-11-05T10:03:24.000Z",
-            "author": {
-                "name": "tillkuhn",
-                "url": "https://github.com/tillkuhn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1658416?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multicontent serverless cms on AWS with cognito, dynamodb, lambda and s3 based on AWS CDK</div>",
-            "url": "https://github.com/anddimario/stiva",
-            "title": "anddimario/stiva: Multicontent serverless cms on AWS with cognito, dynamodb, lambda and s3 based on AWS CDK",
-            "date_modified": "2022-02-11T13:01:40.000Z",
-            "date_published": "2018-06-09T13:50:23.000Z",
-            "author": {
-                "name": "anddimario",
-                "url": "https://github.com/anddimario"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64240235?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Application movil mERP with Cognito</div>",
-            "url": "https://github.com/DenisVillalta/AppMerp",
-            "title": "DenisVillalta/AppMerp: Application movil mERP with Cognito",
-            "date_modified": "2022-02-17T15:09:54.000Z",
-            "date_published": "2022-02-09T16:42:34.000Z",
-            "author": {
-                "name": "DenisVillalta",
-                "url": "https://github.com/DenisVillalta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33596117?u=0963ed973bb18538c36f6741b7a42bd421b9fa3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kg0r0/cognito-utils",
-            "title": "kg0r0/cognito-utils",
-            "date_modified": "2022-02-17T12:24:30.000Z",
-            "date_published": "2022-02-16T14:04:53.000Z",
-            "author": {
-                "name": "kg0r0",
-                "url": "https://github.com/kg0r0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50478857?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </div>",
-            "url": "https://github.com/supertokens/supertokens-core",
-            "title": "supertokens/supertokens-core: Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
-            "date_modified": "2022-02-18T09:54:13.000Z",
-            "date_published": "2020-01-05T13:30:52.000Z",
-            "author": {
-                "name": "supertokens",
-                "url": "https://github.com/supertokens"
             }
         }
     ]
