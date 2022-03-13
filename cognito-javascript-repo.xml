@@ -2,16 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/cognito-javascript-repo.json</id>
     <title>Cognito repositories</title>
-    <updated>2022-03-12T00:13:30.984Z</updated>
+    <updated>2022-03-13T00:14:34.088Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=cognito+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Cognito repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK]]></title>
+        <id>https://github.com/henrist/cdk-cloudfront-auth</id>
+        <link href="https://github.com/henrist/cdk-cloudfront-auth"/>
+        <updated>2022-02-19T13:52:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/703354?v=4" width="64" height="64" alt=""/><br/><div>CloudFront authorization with Cognito for CDK</div>]]></content>
+        <author>
+            <name>henrist</name>
+            <email>henrist@noreply.github.com</email>
+            <uri>https://github.com/henrist</uri>
+        </author>
+        <published>2020-07-11T01:58:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[codingloop/DemoDynamo: Django with Dynamo and Cognito]]></title>
+        <id>https://github.com/codingloop/DemoDynamo</id>
+        <link href="https://github.com/codingloop/DemoDynamo"/>
+        <updated>2022-03-10T16:12:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23140796?u=6449fc41c6e40690d494dd8b51b0929232fc6594&v=4" width="64" height="64" alt=""/><br/><div>Django with Dynamo and Cognito</div>]]></content>
+        <author>
+            <name>codingloop</name>
+            <email>codingloop@noreply.github.com</email>
+            <uri>https://github.com/codingloop</uri>
+        </author>
+        <published>2022-03-10T16:00:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mattwitter/cognito-test]]></title>
+        <id>https://github.com/mattwitter/cognito-test</id>
+        <link href="https://github.com/mattwitter/cognito-test"/>
+        <updated>2022-03-12T18:41:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55417048?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>mattwitter</name>
+            <email>mattwitter@noreply.github.com</email>
+            <uri>https://github.com/mattwitter</uri>
+        </author>
+        <published>2022-03-12T18:26:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[annalach/cognito]]></title>
+        <id>https://github.com/annalach/cognito</id>
+        <link href="https://github.com/annalach/cognito"/>
+        <updated>2022-03-12T18:08:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88800929?u=b166b92c041c9764638ec312988dade57d672fe7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>annalach</name>
+            <email>annalach@noreply.github.com</email>
+            <uri>https://github.com/annalach</uri>
+        </author>
+        <published>2022-03-12T18:08:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waracle/tf-postman: Terraform module for creating the IAM user required for automated running of Postman tests against Cognito]]></title>
+        <id>https://github.com/Waracle/tf-postman</id>
+        <link href="https://github.com/Waracle/tf-postman"/>
+        <updated>2022-01-10T21:52:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17980776?v=4" width="64" height="64" alt=""/><br/><div>Terraform module for creating the IAM user required for automated running of Postman tests against Cognito</div>]]></content>
+        <author>
+            <name>Waracle</name>
+            <email>Waracle@noreply.github.com</email>
+            <uri>https://github.com/Waracle</uri>
+        </author>
+        <published>2021-12-21T21:38:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ctx-core/cognito]]></title>
+        <id>https://github.com/ctx-core/cognito</id>
+        <link href="https://github.com/ctx-core/cognito"/>
+        <updated>2022-01-08T04:07:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18689739?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ctx-core</name>
+            <email>ctx-core@noreply.github.com</email>
+            <uri>https://github.com/ctx-core</uri>
+        </author>
+        <published>2019-12-02T17:11:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BrunoVidotto7/AWS-with-Terraform: Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).]]></title>
+        <id>https://github.com/BrunoVidotto7/AWS-with-Terraform</id>
+        <link href="https://github.com/BrunoVidotto7/AWS-with-Terraform"/>
+        <updated>2022-03-10T11:36:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50372180?u=246f051bfa69a428c68f7fb69c455f6f06dc33f7&v=4" width="64" height="64" alt=""/><br/><div>Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).</div>]]></content>
+        <author>
+            <name>BrunoVidotto7</name>
+            <email>BrunoVidotto7@noreply.github.com</email>
+            <uri>https://github.com/BrunoVidotto7</uri>
+        </author>
+        <published>2022-03-10T11:24:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rodrigokamada/angular-amazon-cognito: Application example built with Angular 13 with authentication using the Amazon Cognito service.]]></title>
+        <id>https://github.com/rodrigokamada/angular-amazon-cognito</id>
+        <link href="https://github.com/rodrigokamada/angular-amazon-cognito"/>
+        <updated>2022-03-10T16:33:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32116783?u=2699691e8d187d0637e8960894d35afd29772eed&v=4" width="64" height="64" alt=""/><br/><div>Application example built with Angular 13 with authentication using the Amazon Cognito service.</div>]]></content>
+        <author>
+            <name>rodrigokamada</name>
+            <email>rodrigokamada@noreply.github.com</email>
+            <uri>https://github.com/rodrigokamada</uri>
+        </author>
+        <published>2022-01-15T02:42:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[conda-forge/django-cognito-jwt-feedstock: A conda-smithy repository for django-cognito-jwt.]]></title>
+        <id>https://github.com/conda-forge/django-cognito-jwt-feedstock</id>
+        <link href="https://github.com/conda-forge/django-cognito-jwt-feedstock"/>
+        <updated>2021-12-17T06:28:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11897326?v=4" width="64" height="64" alt=""/><br/><div>A conda-smithy repository for django-cognito-jwt.</div>]]></content>
+        <author>
+            <name>conda-forge</name>
+            <email>conda-forge@noreply.github.com</email>
+            <uri>https://github.com/conda-forge</uri>
+        </author>
+        <published>2020-05-27T19:45:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dev-sekhmet/test-cognito]]></title>
+        <id>https://github.com/dev-sekhmet/test-cognito</id>
+        <link href="https://github.com/dev-sekhmet/test-cognito"/>
+        <updated>2022-03-12T08:18:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95574384?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>dev-sekhmet</name>
+            <email>dev-sekhmet@noreply.github.com</email>
+            <uri>https://github.com/dev-sekhmet</uri>
+        </author>
+        <published>2022-03-12T08:17:55.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ishapiro/export-cognito: Utility to export AWS Cognito Records to a CSV File]]></title>
         <id>https://github.com/ishapiro/export-cognito</id>
         <link href="https://github.com/ishapiro/export-cognito"/>
-        <updated>2022-03-11T22:45:20.000Z</updated>
+        <updated>2022-03-12T06:32:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/242471?v=4" width="64" height="64" alt=""/><br/><div>Utility to export AWS Cognito Records to a CSV File</div>]]></content>
         <author>
             <name>ishapiro</name>
@@ -99,32 +229,6 @@
         <published>2022-03-11T17:47:25.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ctx-core/cognito]]></title>
-        <id>https://github.com/ctx-core/cognito</id>
-        <link href="https://github.com/ctx-core/cognito"/>
-        <updated>2022-01-08T04:07:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18689739?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ctx-core</name>
-            <email>ctx-core@noreply.github.com</email>
-            <uri>https://github.com/ctx-core</uri>
-        </author>
-        <published>2019-12-02T17:11:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rodrigokamada/angular-amazon-cognito: Application example built with Angular 13 with authentication using the Amazon Cognito service.]]></title>
-        <id>https://github.com/rodrigokamada/angular-amazon-cognito</id>
-        <link href="https://github.com/rodrigokamada/angular-amazon-cognito"/>
-        <updated>2022-03-10T16:33:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32116783?u=2699691e8d187d0637e8960894d35afd29772eed&v=4" width="64" height="64" alt=""/><br/><div>Application example built with Angular 13 with authentication using the Amazon Cognito service.</div>]]></content>
-        <author>
-            <name>rodrigokamada</name>
-            <email>rodrigokamada@noreply.github.com</email>
-            <uri>https://github.com/rodrigokamada</uri>
-        </author>
-        <published>2022-01-15T02:42:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[jdserranomu/tutorial_cognito]]></title>
         <id>https://github.com/jdserranomu/tutorial_cognito</id>
         <link href="https://github.com/jdserranomu/tutorial_cognito"/>
@@ -162,109 +266,5 @@
             <uri>https://github.com/adopted-ember-addons</uri>
         </author>
         <published>2017-04-19T19:35:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[devkinetics/devops-cognito: TF AWS Cognito]]></title>
-        <id>https://github.com/devkinetics/devops-cognito</id>
-        <link href="https://github.com/devkinetics/devops-cognito"/>
-        <updated>2022-03-11T09:37:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7107567?v=4" width="64" height="64" alt=""/><br/><div>TF AWS Cognito</div>]]></content>
-        <author>
-            <name>devkinetics</name>
-            <email>devkinetics@noreply.github.com</email>
-            <uri>https://github.com/devkinetics</uri>
-        </author>
-        <published>2022-03-11T09:37:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhaogrit/Unity-Cognito-Client]]></title>
-        <id>https://github.com/zhaogrit/Unity-Cognito-Client</id>
-        <link href="https://github.com/zhaogrit/Unity-Cognito-Client"/>
-        <updated>2022-03-11T08:57:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97498341?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhaogrit</name>
-            <email>zhaogrit@noreply.github.com</email>
-            <uri>https://github.com/zhaogrit</uri>
-        </author>
-        <published>2022-03-11T08:57:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthart/Implementacion-Cognito-Api-Gateway]]></title>
-        <id>https://github.com/Anthart/Implementacion-Cognito-Api-Gateway</id>
-        <link href="https://github.com/Anthart/Implementacion-Cognito-Api-Gateway"/>
-        <updated>2022-03-11T05:30:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51451673?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Anthart</name>
-            <email>Anthart@noreply.github.com</email>
-            <uri>https://github.com/Anthart</uri>
-        </author>
-        <published>2022-03-11T05:30:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ald-ac/cognito-angular: Proyecto base para implementar un login y logout a traves de un pool de usuarios de cognito]]></title>
-        <id>https://github.com/ald-ac/cognito-angular</id>
-        <link href="https://github.com/ald-ac/cognito-angular"/>
-        <updated>2022-03-11T05:37:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69227274?u=fb7063b032f06bd48eab230482d70602f7ee7fef&v=4" width="64" height="64" alt=""/><br/><div>Proyecto base para implementar un login y logout a traves de un pool de usuarios de cognito</div>]]></content>
-        <author>
-            <name>ald-ac</name>
-            <email>ald-ac@noreply.github.com</email>
-            <uri>https://github.com/ald-ac</uri>
-        </author>
-        <published>2022-03-11T05:26:42.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[awslabs/aws-amplify-identity-broker: A centralized login and SSO application to authenticate several websites and mobile apps.]]></title>
-        <id>https://github.com/awslabs/aws-amplify-identity-broker</id>
-        <link href="https://github.com/awslabs/aws-amplify-identity-broker"/>
-        <updated>2022-03-11T06:39:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="64" height="64" alt=""/><br/><div>A centralized login and SSO application to authenticate several websites and mobile apps.</div>]]></content>
-        <author>
-            <name>awslabs</name>
-            <email>awslabs@noreply.github.com</email>
-            <uri>https://github.com/awslabs</uri>
-        </author>
-        <published>2020-08-19T22:09:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito]]></title>
-        <id>https://github.com/nearform/brokeneck</id>
-        <link href="https://github.com/nearform/brokeneck"/>
-        <updated>2022-02-11T03:11:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1544687?v=4" width="64" height="64" alt=""/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>]]></content>
-        <author>
-            <name>nearform</name>
-            <email>nearform@noreply.github.com</email>
-            <uri>https://github.com/nearform</uri>
-        </author>
-        <published>2020-11-29T21:56:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement: With  Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects which are specific to your business domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexible  workflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,  AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.]]></title>
-        <id>https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement</id>
-        <link href="https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement"/>
-        <updated>2022-03-08T03:11:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="64" height="64" alt=""/><br/><div>With  Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects which are specific to your business domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexible  workflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,  AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.</div>]]></content>
-        <author>
-            <name>aws-samples</name>
-            <email>aws-samples@noreply.github.com</email>
-            <uri>https://github.com/aws-samples</uri>
-        </author>
-        <published>2021-03-25T03:48:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BrunoVidotto7/AWS-with-Terraform: Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).]]></title>
-        <id>https://github.com/BrunoVidotto7/AWS-with-Terraform</id>
-        <link href="https://github.com/BrunoVidotto7/AWS-with-Terraform"/>
-        <updated>2022-03-10T11:36:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50372180?u=246f051bfa69a428c68f7fb69c455f6f06dc33f7&v=4" width="64" height="64" alt=""/><br/><div>Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).</div>]]></content>
-        <author>
-            <name>BrunoVidotto7</name>
-            <email>BrunoVidotto7@noreply.github.com</email>
-            <uri>https://github.com/BrunoVidotto7</uri>
-        </author>
-        <published>2022-03-10T11:24:21.000Z</published>
     </entry>
 </feed>

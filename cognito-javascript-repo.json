@@ -6,10 +6,120 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2022-02-19T13:52:27.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23140796?u=6449fc41c6e40690d494dd8b51b0929232fc6594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Django with Dynamo and Cognito</div>",
+            "url": "https://github.com/codingloop/DemoDynamo",
+            "title": "codingloop/DemoDynamo: Django with Dynamo and Cognito",
+            "date_modified": "2022-03-10T16:12:04.000Z",
+            "date_published": "2022-03-10T16:00:11.000Z",
+            "author": {
+                "name": "codingloop",
+                "url": "https://github.com/codingloop"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55417048?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mattwitter/cognito-test",
+            "title": "mattwitter/cognito-test",
+            "date_modified": "2022-03-12T18:41:40.000Z",
+            "date_published": "2022-03-12T18:26:12.000Z",
+            "author": {
+                "name": "mattwitter",
+                "url": "https://github.com/mattwitter"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88800929?u=b166b92c041c9764638ec312988dade57d672fe7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/annalach/cognito",
+            "title": "annalach/cognito",
+            "date_modified": "2022-03-12T18:08:49.000Z",
+            "date_published": "2022-03-12T18:08:23.000Z",
+            "author": {
+                "name": "annalach",
+                "url": "https://github.com/annalach"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17980776?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terraform module for creating the IAM user required for automated running of Postman tests against Cognito</div>",
+            "url": "https://github.com/Waracle/tf-postman",
+            "title": "Waracle/tf-postman: Terraform module for creating the IAM user required for automated running of Postman tests against Cognito",
+            "date_modified": "2022-01-10T21:52:31.000Z",
+            "date_published": "2021-12-21T21:38:17.000Z",
+            "author": {
+                "name": "Waracle",
+                "url": "https://github.com/Waracle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ctx-core/cognito",
+            "title": "ctx-core/cognito",
+            "date_modified": "2022-01-08T04:07:10.000Z",
+            "date_published": "2019-12-02T17:11:53.000Z",
+            "author": {
+                "name": "ctx-core",
+                "url": "https://github.com/ctx-core"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50372180?u=246f051bfa69a428c68f7fb69c455f6f06dc33f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).</div>",
+            "url": "https://github.com/BrunoVidotto7/AWS-with-Terraform",
+            "title": "BrunoVidotto7/AWS-with-Terraform: Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).",
+            "date_modified": "2022-03-10T11:36:06.000Z",
+            "date_published": "2022-03-10T11:24:21.000Z",
+            "author": {
+                "name": "BrunoVidotto7",
+                "url": "https://github.com/BrunoVidotto7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32116783?u=2699691e8d187d0637e8960894d35afd29772eed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Application example built with Angular 13 with authentication using the Amazon Cognito service.</div>",
+            "url": "https://github.com/rodrigokamada/angular-amazon-cognito",
+            "title": "rodrigokamada/angular-amazon-cognito: Application example built with Angular 13 with authentication using the Amazon Cognito service.",
+            "date_modified": "2022-03-10T16:33:36.000Z",
+            "date_published": "2022-01-15T02:42:23.000Z",
+            "author": {
+                "name": "rodrigokamada",
+                "url": "https://github.com/rodrigokamada"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11897326?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A conda-smithy repository for django-cognito-jwt.</div>",
+            "url": "https://github.com/conda-forge/django-cognito-jwt-feedstock",
+            "title": "conda-forge/django-cognito-jwt-feedstock: A conda-smithy repository for django-cognito-jwt.",
+            "date_modified": "2021-12-17T06:28:58.000Z",
+            "date_published": "2020-05-27T19:45:22.000Z",
+            "author": {
+                "name": "conda-forge",
+                "url": "https://github.com/conda-forge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95574384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/dev-sekhmet/test-cognito",
+            "title": "dev-sekhmet/test-cognito",
+            "date_modified": "2022-03-12T08:18:11.000Z",
+            "date_published": "2022-03-12T08:17:55.000Z",
+            "author": {
+                "name": "dev-sekhmet",
+                "url": "https://github.com/dev-sekhmet"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242471?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utility to export AWS Cognito Records to a CSV File</div>",
             "url": "https://github.com/ishapiro/export-cognito",
             "title": "ishapiro/export-cognito: Utility to export AWS Cognito Records to a CSV File",
-            "date_modified": "2022-03-11T22:45:20.000Z",
+            "date_modified": "2022-03-12T06:32:21.000Z",
             "date_published": "2022-03-11T22:43:29.000Z",
             "author": {
                 "name": "ishapiro",
@@ -83,28 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ctx-core/cognito",
-            "title": "ctx-core/cognito",
-            "date_modified": "2022-01-08T04:07:10.000Z",
-            "date_published": "2019-12-02T17:11:53.000Z",
-            "author": {
-                "name": "ctx-core",
-                "url": "https://github.com/ctx-core"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32116783?u=2699691e8d187d0637e8960894d35afd29772eed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Application example built with Angular 13 with authentication using the Amazon Cognito service.</div>",
-            "url": "https://github.com/rodrigokamada/angular-amazon-cognito",
-            "title": "rodrigokamada/angular-amazon-cognito: Application example built with Angular 13 with authentication using the Amazon Cognito service.",
-            "date_modified": "2022-03-10T16:33:36.000Z",
-            "date_published": "2022-01-15T02:42:23.000Z",
-            "author": {
-                "name": "rodrigokamada",
-                "url": "https://github.com/rodrigokamada"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49133594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jdserranomu/tutorial_cognito",
             "title": "jdserranomu/tutorial_cognito",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "adopted-ember-addons",
                 "url": "https://github.com/adopted-ember-addons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7107567?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TF AWS Cognito</div>",
-            "url": "https://github.com/devkinetics/devops-cognito",
-            "title": "devkinetics/devops-cognito: TF AWS Cognito",
-            "date_modified": "2022-03-11T09:37:15.000Z",
-            "date_published": "2022-03-11T09:37:15.000Z",
-            "author": {
-                "name": "devkinetics",
-                "url": "https://github.com/devkinetics"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97498341?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhaogrit/Unity-Cognito-Client",
-            "title": "zhaogrit/Unity-Cognito-Client",
-            "date_modified": "2022-03-11T08:57:59.000Z",
-            "date_published": "2022-03-11T08:57:21.000Z",
-            "author": {
-                "name": "zhaogrit",
-                "url": "https://github.com/zhaogrit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51451673?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Anthart/Implementacion-Cognito-Api-Gateway",
-            "title": "Anthart/Implementacion-Cognito-Api-Gateway",
-            "date_modified": "2022-03-11T05:30:56.000Z",
-            "date_published": "2022-03-11T05:30:56.000Z",
-            "author": {
-                "name": "Anthart",
-                "url": "https://github.com/Anthart"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69227274?u=fb7063b032f06bd48eab230482d70602f7ee7fef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proyecto base para implementar un login y logout a traves de un pool de usuarios de cognito</div>",
-            "url": "https://github.com/ald-ac/cognito-angular",
-            "title": "ald-ac/cognito-angular: Proyecto base para implementar un login y logout a traves de un pool de usuarios de cognito",
-            "date_modified": "2022-03-11T05:37:57.000Z",
-            "date_published": "2022-03-11T05:26:42.000Z",
-            "author": {
-                "name": "ald-ac",
-                "url": "https://github.com/ald-ac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3299148?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A centralized login and SSO application to authenticate several websites and mobile apps.</div>",
-            "url": "https://github.com/awslabs/aws-amplify-identity-broker",
-            "title": "awslabs/aws-amplify-identity-broker: A centralized login and SSO application to authenticate several websites and mobile apps.",
-            "date_modified": "2022-03-11T06:39:10.000Z",
-            "date_published": "2020-08-19T22:09:48.000Z",
-            "author": {
-                "name": "awslabs",
-                "url": "https://github.com/awslabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
-            "url": "https://github.com/nearform/brokeneck",
-            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
-            "date_modified": "2022-02-11T03:11:48.000Z",
-            "date_published": "2020-11-29T21:56:55.000Z",
-            "author": {
-                "name": "nearform",
-                "url": "https://github.com/nearform"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>With  Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects which are specific to your business domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexible  workflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,  AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.</div>",
-            "url": "https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement",
-            "title": "aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement: With  Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects which are specific to your business domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexible  workflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,  AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.",
-            "date_modified": "2022-03-08T03:11:35.000Z",
-            "date_published": "2021-03-25T03:48:54.000Z",
-            "author": {
-                "name": "aws-samples",
-                "url": "https://github.com/aws-samples"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50372180?u=246f051bfa69a428c68f7fb69c455f6f06dc33f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).</div>",
-            "url": "https://github.com/BrunoVidotto7/AWS-with-Terraform",
-            "title": "BrunoVidotto7/AWS-with-Terraform: Modern Terraform applications involving static website (AWS S3 / Route53) with SSL certificate (AWS Certificate Manager) and CDN (CloudFront), auto-scaling application (EC2, VPC, Load Balancer, Auto Scaling Group) and Serverless application (AWS Lambda, API Gateway, DynamoDB, Cognito, CloudWatch, SNS).",
-            "date_modified": "2022-03-10T11:36:06.000Z",
-            "date_published": "2022-03-10T11:24:21.000Z",
-            "author": {
-                "name": "BrunoVidotto7",
-                "url": "https://github.com/BrunoVidotto7"
             }
         }
     ]
