@@ -6,17 +6,6 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/711172?u=58bb19e9bdb2a76f6f2f9541652b567819da51c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An experiment in learning databases and serverless applications.</div>",
-            "url": "https://github.com/jessechounard/fairblog",
-            "title": "jessechounard/fairblog: An experiment in learning databases and serverless applications.",
-            "date_modified": "2022-03-15T00:13:41.000Z",
-            "date_published": "2022-03-15T00:08:49.000Z",
-            "author": {
-                "name": "jessechounard",
-                "url": "https://github.com/jessechounard"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80353935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deploy Serverless Next.js on Lambda @ Edge with the AWS CDK.</div>",
             "url": "https://github.com/rayova/cdk-serverless-nextjs",
             "title": "rayova/cdk-serverless-nextjs: Deploy Serverless Next.js on Lambda @ Edge with the AWS CDK.",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "rayova",
                 "url": "https://github.com/rayova"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2416493?u=43b68e0639320160c638e2289f2b8a8acff6a80c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My serverless blog system</div>",
+            "url": "https://github.com/banyudu/blog",
+            "title": "banyudu/blog: My serverless blog system",
+            "date_modified": "2022-03-11T13:55:52.000Z",
+            "date_published": "2020-02-22T08:50:42.000Z",
+            "author": {
+                "name": "banyudu",
+                "url": "https://github.com/banyudu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47530716?u=91162264c5daa72151428f786fb66bcfb64634b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless implementation of Hugo static site generator</div>",
+            "url": "https://github.com/SeriesOfUnlikelyExplanations/hugo-serverless",
+            "title": "SeriesOfUnlikelyExplanations/hugo-serverless: Serverless implementation of Hugo static site generator",
+            "date_modified": "2022-01-15T00:46:05.000Z",
+            "date_published": "2021-11-15T20:47:24.000Z",
+            "author": {
+                "name": "SeriesOfUnlikelyExplanations",
+                "url": "https://github.com/SeriesOfUnlikelyExplanations"
             }
         },
         {
@@ -50,135 +61,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1459952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Template for creating microservices</div>",
-            "url": "https://github.com/aligent/serverless-aws-nodejs-service-template",
-            "title": "aligent/serverless-aws-nodejs-service-template: AWS Template for creating microservices",
-            "date_modified": "2022-02-06T13:03:27.000Z",
-            "date_published": "2020-08-18T05:05:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39563063?u=cf8d640ccb26f45b3fa0bef10c4f3bf0c8da96fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless api for item auctions with microservices architecture.</div>",
+            "url": "https://github.com/guisteink/AuctionApp",
+            "title": "guisteink/AuctionApp: Serverless api for item auctions with microservices architecture.",
+            "date_modified": "2022-03-04T22:23:57.000Z",
+            "date_published": "2022-02-23T23:03:33.000Z",
             "author": {
-                "name": "aligent",
-                "url": "https://github.com/aligent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62181023?u=6a65b9a9b6244ebd6bf48aadc2309adfd74bec9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serveless app with NestJS and AWS Lambda.</div>",
-            "url": "https://github.com/thallesyasmim/nest-serverless",
-            "title": "thallesyasmim/nest-serverless: Serveless app with NestJS and AWS Lambda.",
-            "date_modified": "2022-02-21T01:18:50.000Z",
-            "date_published": "2022-02-21T01:11:19.000Z",
-            "author": {
-                "name": "thallesyasmim",
-                "url": "https://github.com/thallesyasmim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1207339?u=6cfd68217288f3ead5465d70e7ebc0fa01386d19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MTGA share is a serverless tool for sharing decks and drafts</div>",
-            "url": "https://github.com/isharacomix/mtgashare",
-            "title": "isharacomix/mtgashare: MTGA share is a serverless tool for sharing decks and drafts",
-            "date_modified": "2022-01-11T01:00:11.000Z",
-            "date_published": "2018-12-02T21:59:30.000Z",
-            "author": {
-                "name": "isharacomix",
-                "url": "https://github.com/isharacomix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7689902?u=3a982f302317d333d2ba528382f67e9bd60e9974&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Randomfy takes your most listened Spotify artists, selects one of them and shows you similar artists, so you can meet new artists based on the previous selected one.</div>",
-            "url": "https://github.com/andraderaul/random-fy",
-            "title": "andraderaul/random-fy: Randomfy takes your most listened Spotify artists, selects one of them and shows you similar artists, so you can meet new artists based on the previous selected one.",
-            "date_modified": "2022-03-06T01:51:58.000Z",
-            "date_published": "2022-02-25T01:07:36.000Z",
-            "author": {
-                "name": "andraderaul",
-                "url": "https://github.com/andraderaul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2065595?u=a5c4f1da2f186e0dc0984f72bf8fbc401d6ada09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/SamuelHFerreira/serverless-typescript-ledger-arch",
-            "title": "SamuelHFerreira/serverless-typescript-ledger-arch",
-            "date_modified": "2022-03-07T23:32:06.000Z",
-            "date_published": "2022-03-07T23:27:03.000Z",
-            "author": {
-                "name": "SamuelHFerreira",
-                "url": "https://github.com/SamuelHFerreira"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39270163?u=6e72cdf96d4f15acc82f990f4c705d6367ab006a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless API for the audio-based content-sharing social network app Cete. Built in NodeJS using Microsoft Azure's Cloud tool suite.</div>",
-            "url": "https://github.com/RazvanBerbece/cete-api",
-            "title": "RazvanBerbece/cete-api: Serverless API for the audio-based content-sharing social network app Cete. Built in NodeJS using Microsoft Azure's Cloud tool suite.",
-            "date_modified": "2022-03-07T00:18:07.000Z",
-            "date_published": "2022-02-07T21:57:44.000Z",
-            "author": {
-                "name": "RazvanBerbece",
-                "url": "https://github.com/RazvanBerbece"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63097751?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"sunglasses\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png\">😎</g-emoji> The next generation of RESTful API service and more for Mix Space, powered by <a class=\"user-mention\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/nestjs/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/nestjs\">@nestjs</a>.</div>",
-            "url": "https://github.com/mx-space/mx-server",
-            "title": "mx-space/mx-server: 😎 The next generation of RESTful API service and more for Mix Space, powered by @nestjs.",
-            "date_modified": "2022-03-11T02:49:59.000Z",
-            "date_published": "2021-07-14T14:47:50.000Z",
-            "author": {
-                "name": "mx-space",
-                "url": "https://github.com/mx-space"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6154722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Azure Functions extension for VS Code</div>",
-            "url": "https://github.com/microsoft/vscode-azurefunctions",
-            "title": "microsoft/vscode-azurefunctions: Azure Functions extension for VS Code",
-            "date_modified": "2022-03-06T04:40:45.000Z",
-            "date_published": "2017-09-21T21:28:44.000Z",
-            "author": {
-                "name": "microsoft",
-                "url": "https://github.com/microsoft"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87065584?u=f4e8cfdc4148a4f4aa288f7b253fb127f00f6be7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"star\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2b50.png\">⭐</g-emoji> Frontend and serverless api for <a href=\"https://github.com/MedzikUser/go-pingbot\">https://github.com/MedzikUser/go-pingbot</a> powered by Vercel <g-emoji class=\"g-emoji\" alias=\"heart\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2764.png\">❤️</g-emoji>\n</div>",
-            "url": "https://github.com/MedzikUser/gatsby-pingbot",
-            "title": "MedzikUser/gatsby-pingbot: :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot powered by Vercel :heart:",
-            "date_modified": "2022-01-10T22:15:24.000Z",
-            "date_published": "2021-08-04T09:45:59.000Z",
-            "author": {
-                "name": "MedzikUser",
-                "url": "https://github.com/MedzikUser"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31525500?u=4855f27cef8cb0b4a3609f58ac66fdf5e8a87a28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is a serverless, microservice-driven web application built entirely with Amazon Web Services. This chatbot's main function is to make restaurant recommendations to its customers based on their preferences expressed through conversations.</div>",
-            "url": "https://github.com/n1khilmane/Dining-Concierge-Chatbot",
-            "title": "n1khilmane/Dining-Concierge-Chatbot: This application is a serverless, microservice-driven web application built entirely with Amazon Web Services. This chatbot's main function is to make restaurant recommendations to its customers based on their preferences expressed through conversations.",
-            "date_modified": "2022-03-14T23:01:15.000Z",
-            "date_published": "2022-03-14T02:48:51.000Z",
-            "author": {
-                "name": "n1khilmane",
-                "url": "https://github.com/n1khilmane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8753311?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Plugin to create a VPC</div>",
-            "url": "https://github.com/smoketurner/serverless-vpc-plugin",
-            "title": "smoketurner/serverless-vpc-plugin: Serverless Plugin to create a VPC",
-            "date_modified": "2022-02-09T13:50:23.000Z",
-            "date_published": "2018-09-11T00:53:53.000Z",
-            "author": {
-                "name": "smoketurner",
-                "url": "https://github.com/smoketurner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32770340?u=b3112138eadbacf260daff2377f18397fc76b1af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless application using aws-sdk, aws-lambda, dynamodb, api-gateway and serverless framework developed using node.js</div>",
-            "url": "https://github.com/ajimae/serverless-api",
-            "title": "ajimae/serverless-api: Serverless application using aws-sdk, aws-lambda, dynamodb, api-gateway and serverless framework developed using node.js",
-            "date_modified": "2022-03-14T22:33:03.000Z",
-            "date_published": "2022-03-14T22:27:19.000Z",
-            "author": {
-                "name": "ajimae",
-                "url": "https://github.com/ajimae"
+                "name": "guisteink",
+                "url": "https://github.com/guisteink"
             }
         },
         {
@@ -193,36 +83,146 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43791938?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connect APIs, remarkably fast.  Free for developers.</div>",
-            "url": "https://github.com/PipedreamHQ/pipedream",
-            "title": "PipedreamHQ/pipedream: Connect APIs, remarkably fast.  Free for developers.",
-            "date_modified": "2022-03-14T21:18:04.000Z",
-            "date_published": "2020-01-22T00:28:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28321183?u=a19553bb73812d00126c6634c45b22ebd9a30dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> A subscription news application, where I learned about serverless, payment api, server side rendering and static site generation</div>",
+            "url": "https://github.com/viniciosComerciante/igNews",
+            "title": "viniciosComerciante/igNews:  A subscription news application, where I learned about serverless, payment api, server side rendering and static site generation",
+            "date_modified": "2022-03-13T03:33:56.000Z",
+            "date_published": "2022-03-09T20:13:53.000Z",
             "author": {
-                "name": "PipedreamHQ",
-                "url": "https://github.com/PipedreamHQ"
+                "name": "viniciosComerciante",
+                "url": "https://github.com/viniciosComerciante"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2492354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin that sends a slack message on deployment start and finish</div>",
-            "url": "https://github.com/schibsted/serverless-slack-deploy-notification",
-            "title": "schibsted/serverless-slack-deploy-notification: Plugin that sends a slack message on deployment start and finish",
-            "date_modified": "2021-12-21T14:47:58.000Z",
-            "date_published": "2021-01-14T10:45:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15061790?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"bubble_tea\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f9cb.png\">🧋</g-emoji> Backstage plugin which pulls entities from AWS CloudFormation stacks metadata.</div>",
+            "url": "https://github.com/purple-technology/backstage-aws-cloudformation-plugin",
+            "title": "purple-technology/backstage-aws-cloudformation-plugin: 🧋 Backstage plugin which pulls entities from AWS CloudFormation stacks metadata.",
+            "date_modified": "2022-02-23T13:09:29.000Z",
+            "date_published": "2021-08-27T12:50:58.000Z",
             "author": {
-                "name": "schibsted",
-                "url": "https://github.com/schibsted"
+                "name": "purple-technology",
+                "url": "https://github.com/purple-technology"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6058136?u=4d5f924ce6a7146c36844b91d0f14c6a44ecc1e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A news app built with React, NodeJS, Typescript and running on Serverless</div>",
-            "url": "https://github.com/opeoniye/news-app-serverless",
-            "title": "opeoniye/news-app-serverless: A news app built with React, NodeJS, Typescript and running on Serverless",
-            "date_modified": "2022-03-03T09:51:27.000Z",
-            "date_published": "2022-03-02T23:48:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7689902?u=3a982f302317d333d2ba528382f67e9bd60e9974&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Randomfy takes your most listened Spotify artists, selects one of them and shows you similar artists, so you can meet new artists based on the previous selected one.</div>",
+            "url": "https://github.com/andraderaul/random-fy",
+            "title": "andraderaul/random-fy: Randomfy takes your most listened Spotify artists, selects one of them and shows you similar artists, so you can meet new artists based on the previous selected one.",
+            "date_modified": "2022-03-06T01:51:58.000Z",
+            "date_published": "2022-02-25T01:07:36.000Z",
             "author": {
-                "name": "opeoniye",
-                "url": "https://github.com/opeoniye"
+                "name": "andraderaul",
+                "url": "https://github.com/andraderaul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61727377?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the ÆGIS federated application host. Federated  components are independently deployable, written by multiple teams in multiple languages, and loaded from multiple repos and network locations at runtime, yet capable of running together in a single process or as distributed components in the  ÆGIS application fabric. </div>",
+            "url": "https://github.com/module-federation/aegis-host",
+            "title": "module-federation/aegis-host: This is the ÆGIS federated application host. Federated  components are independently deployable, written by multiple teams in multiple languages, and loaded from multiple repos and network locations at runtime, yet capable of running together in a single process or as distributed components in the  ÆGIS application fabric. ",
+            "date_modified": "2022-03-14T11:19:56.000Z",
+            "date_published": "2021-03-03T02:20:27.000Z",
+            "author": {
+                "name": "module-federation",
+                "url": "https://github.com/module-federation"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.</div>",
+            "url": "https://github.com/aws-amplify/amplify-cli",
+            "title": "aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.",
+            "date_modified": "2022-03-15T23:54:54.000Z",
+            "date_published": "2018-08-23T16:33:10.000Z",
+            "author": {
+                "name": "aws-amplify",
+                "url": "https://github.com/aws-amplify"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6971687?u=60d7ac6dd9660c9326b2c7b4ff71d7692ab4fecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Carrot Market Clone using NextJS, Tailwind, Prisma, PlanetScale and Cloudflare</div>",
+            "url": "https://github.com/ubardev/carrot-market",
+            "title": "ubardev/carrot-market: Serverless Carrot Market Clone using NextJS, Tailwind, Prisma, PlanetScale and Cloudflare",
+            "date_modified": "2022-03-09T14:39:11.000Z",
+            "date_published": "2022-03-09T14:35:33.000Z",
+            "author": {
+                "name": "ubardev",
+                "url": "https://github.com/ubardev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14326940?u=e3daf0dd6e8e764d207d6a0444cd8df9212be53f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal portfolio and playground</div>",
+            "url": "https://github.com/NBruhno/homepage",
+            "title": "NBruhno/homepage: My personal portfolio and playground",
+            "date_modified": "2021-12-23T14:44:03.000Z",
+            "date_published": "2020-07-10T16:51:19.000Z",
+            "author": {
+                "name": "NBruhno",
+                "url": "https://github.com/NBruhno"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1459952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/aligent/cdk-serverless-deploy-iam",
+            "title": "aligent/cdk-serverless-deploy-iam",
+            "date_modified": "2022-01-07T00:17:59.000Z",
+            "date_published": "2021-11-09T03:03:03.000Z",
+            "author": {
+                "name": "aligent",
+                "url": "https://github.com/aligent"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60111772?u=90ebdbeb55d1521aae41bab66c108fbd9e66646c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"cloud\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2601.png\">☁️</g-emoji> Remark - public forum site realized with Azure serverless services</div>",
+            "url": "https://github.com/triszt4n/remark",
+            "title": "triszt4n/remark: ☁️ Remark - public forum site realized with Azure serverless services",
+            "date_modified": "2022-03-13T22:01:46.000Z",
+            "date_published": "2022-02-16T15:03:08.000Z",
+            "author": {
+                "name": "triszt4n",
+                "url": "https://github.com/triszt4n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48484099?u=0b260268643cb5e269c292dfb316ede4cee511ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless backend project</div>",
+            "url": "https://github.com/matheuslab/moonlight",
+            "title": "matheuslab/moonlight: Serverless backend project",
+            "date_modified": "2022-03-15T19:05:19.000Z",
+            "date_published": "2022-03-15T18:50:15.000Z",
+            "author": {
+                "name": "matheuslab",
+                "url": "https://github.com/matheuslab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.</div>",
+            "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js",
+            "title": "NordicSemiconductor/cloud-e2e-bdd-test-runner-js: Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.",
+            "date_modified": "2022-01-11T13:14:48.000Z",
+            "date_published": "2021-01-26T15:47:17.000Z",
+            "author": {
+                "name": "NordicSemiconductor",
+                "url": "https://github.com/NordicSemiconductor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Amplify Framework Documentation</div>",
+            "url": "https://github.com/aws-amplify/docs",
+            "title": "aws-amplify/docs: AWS Amplify Framework Documentation",
+            "date_modified": "2022-03-14T21:34:04.000Z",
+            "date_published": "2018-09-19T21:08:59.000Z",
+            "author": {
+                "name": "aws-amplify",
+                "url": "https://github.com/aws-amplify"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10928929?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Yodata/solid-serverless-apps-ui",
+            "title": "Yodata/solid-serverless-apps-ui",
+            "date_modified": "2021-11-20T00:18:08.000Z",
+            "date_published": "2020-03-03T20:01:00.000Z",
+            "author": {
+                "name": "Yodata",
+                "url": "https://github.com/Yodata"
             }
         }
     ]
