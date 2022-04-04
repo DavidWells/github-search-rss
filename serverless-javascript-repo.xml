@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/serverless-javascript-repo.json</id>
     <title>Serverless repositories</title>
-    <updated>2022-04-03T00:15:54.119Z</updated>
+    <updated>2022-04-04T00:15:01.183Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=serverless+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Serverless repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[dustinsgoodman/serverless-microservices-graphql-template: A Serverless Framework getting started template for building microservice architectures with a public GraphQL API using nx for monorepo support.]]></title>
-        <id>https://github.com/dustinsgoodman/serverless-microservices-graphql-template</id>
-        <link href="https://github.com/dustinsgoodman/serverless-microservices-graphql-template"/>
-        <updated>2022-03-05T18:56:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1815379?v=4" width="64" height="64" alt=""/><br/><div>A Serverless Framework getting started template for building microservice architectures with a public GraphQL API using nx for monorepo support.</div>]]></content>
+        <title type="html"><![CDATA[erezrokah/aws-testing-library: Chai (https://chaijs.com) and Jest (https://jestjs.io/) assertions for testing services built with aws]]></title>
+        <id>https://github.com/erezrokah/aws-testing-library</id>
+        <link href="https://github.com/erezrokah/aws-testing-library"/>
+        <updated>2022-04-01T06:55:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26760571?u=70ed69fa4309f3e169a31a95a9f89032c00f96ae&v=4" width="64" height="64" alt=""/><br/><div>Chai (<a href="https://chaijs.com" rel="nofollow">https://chaijs.com</a>) and Jest (<a href="https://jestjs.io/" rel="nofollow">https://jestjs.io/</a>) assertions for testing services built with aws</div>]]></content>
         <author>
-            <name>dustinsgoodman</name>
-            <email>dustinsgoodman@noreply.github.com</email>
-            <uri>https://github.com/dustinsgoodman</uri>
+            <name>erezrokah</name>
+            <email>erezrokah@noreply.github.com</email>
+            <uri>https://github.com/erezrokah</uri>
         </author>
-        <published>2022-02-27T01:01:33.000Z</published>
+        <published>2018-09-29T14:33:08.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aws-samples/cdk-serverless-lamp: A JSII construct lib to build AWS Serverless LAMP with AWS CDK ]]></title>
@@ -34,32 +34,6 @@
         <published>2020-08-17T07:28:38.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shrshk/serverless-typescript-starter: starter project for serverless typescript backend]]></title>
-        <id>https://github.com/shrshk/serverless-typescript-starter</id>
-        <link href="https://github.com/shrshk/serverless-typescript-starter"/>
-        <updated>2022-04-03T00:08:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4075197?u=c1f89f14d1a0f9e8bf9f63863a3b27d663a5125a&v=4" width="64" height="64" alt=""/><br/><div>starter project for serverless typescript backend</div>]]></content>
-        <author>
-            <name>shrshk</name>
-            <email>shrshk@noreply.github.com</email>
-            <uri>https://github.com/shrshk</uri>
-        </author>
-        <published>2022-04-03T00:08:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cmdcolin/aws_serverless_photo_gallery]]></title>
-        <id>https://github.com/cmdcolin/aws_serverless_photo_gallery</id>
-        <link href="https://github.com/cmdcolin/aws_serverless_photo_gallery"/>
-        <updated>2022-04-03T00:07:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6511937?u=0ab671d9c66421b18bbf41bfd109359a3038327c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>cmdcolin</name>
-            <email>cmdcolin@noreply.github.com</email>
-            <uri>https://github.com/cmdcolin</uri>
-        </author>
-        <published>2020-12-24T18:36:43.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[taimos/cdk-serverless: AWS CDK Serverless Toolsuite]]></title>
         <id>https://github.com/taimos/cdk-serverless</id>
         <link href="https://github.com/taimos/cdk-serverless"/>
@@ -73,82 +47,123 @@
         <published>2021-03-09T01:14:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[spencer-carver/next-website: A second attempt at a serverless react website on AWS]]></title>
-        <id>https://github.com/spencer-carver/next-website</id>
-        <link href="https://github.com/spencer-carver/next-website"/>
-        <updated>2022-03-25T02:56:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2357930?u=54643677274a65004362f195a0d2e25d33f23db8&v=4" width="64" height="64" alt=""/><br/><div>A second attempt at a serverless react website on AWS</div>]]></content>
+        <title type="html"><![CDATA[serverless-heaven/serverless-webpack: Serverless plugin to bundle your lambdas with Webpack]]></title>
+        <id>https://github.com/serverless-heaven/serverless-webpack</id>
+        <link href="https://github.com/serverless-heaven/serverless-webpack"/>
+        <updated>2022-03-31T02:19:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30321405?v=4" width="64" height="64" alt=""/><br/><div>Serverless plugin to bundle your lambdas with Webpack</div>]]></content>
         <author>
-            <name>spencer-carver</name>
-            <email>spencer-carver@noreply.github.com</email>
-            <uri>https://github.com/spencer-carver</uri>
+            <name>serverless-heaven</name>
+            <email>serverless-heaven@noreply.github.com</email>
+            <uri>https://github.com/serverless-heaven</uri>
         </author>
-        <published>2022-03-25T02:56:10.000Z</published>
+        <published>2016-08-16T21:50:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hyrious/lrss: serverless rss reader, using browser storage]]></title>
-        <id>https://github.com/hyrious/lrss</id>
-        <link href="https://github.com/hyrious/lrss"/>
-        <updated>2022-04-02T23:34:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8097890?u=a61ef09ba5696942e2a81b88935af0c8e8d8e70f&v=4" width="64" height="64" alt=""/><br/><div>serverless rss reader, using browser storage</div>]]></content>
+        <title type="html"><![CDATA[isharacomix/mtgashare: MTGA share is a serverless tool for sharing decks and drafts]]></title>
+        <id>https://github.com/isharacomix/mtgashare</id>
+        <link href="https://github.com/isharacomix/mtgashare"/>
+        <updated>2022-01-11T01:00:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1207339?u=6cfd68217288f3ead5465d70e7ebc0fa01386d19&v=4" width="64" height="64" alt=""/><br/><div>MTGA share is a serverless tool for sharing decks and drafts</div>]]></content>
         <author>
-            <name>hyrious</name>
-            <email>hyrious@noreply.github.com</email>
-            <uri>https://github.com/hyrious</uri>
+            <name>isharacomix</name>
+            <email>isharacomix@noreply.github.com</email>
+            <uri>https://github.com/isharacomix</uri>
         </author>
-        <published>2018-10-23T07:07:08.000Z</published>
+        <published>2018-12-02T21:59:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[glaucia86/hackingcarreira-serverless-demo: Repositório responsável pelas demos relacionadas ao evento Hacking de Carreira WoMakersCode 2020 Hacking de Carreira WoMakersCode 2020]]></title>
-        <id>https://github.com/glaucia86/hackingcarreira-serverless-demo</id>
-        <link href="https://github.com/glaucia86/hackingcarreira-serverless-demo"/>
-        <updated>2022-01-15T01:44:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1631477?u=d1e8f57cc23c3b13a8a7e35b099027c7ac9f059b&v=4" width="64" height="64" alt=""/><br/><div>Repositório responsável pelas demos relacionadas ao evento Hacking de Carreira WoMakersCode 2020 Hacking de Carreira WoMakersCode 2020</div>]]></content>
+        <title type="html"><![CDATA[PabloSzx/graphql-ez: Easy, feature complete, and Plugin-Based Envelop GraphQL APIs]]></title>
+        <id>https://github.com/PabloSzx/graphql-ez</id>
+        <link href="https://github.com/PabloSzx/graphql-ez"/>
+        <updated>2022-03-28T17:56:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8672915?v=4" width="64" height="64" alt=""/><br/><div>Easy, feature complete, and Plugin-Based Envelop GraphQL APIs</div>]]></content>
         <author>
-            <name>glaucia86</name>
-            <email>glaucia86@noreply.github.com</email>
-            <uri>https://github.com/glaucia86</uri>
+            <name>PabloSzx</name>
+            <email>PabloSzx@noreply.github.com</email>
+            <uri>https://github.com/PabloSzx</uri>
         </author>
-        <published>2020-05-30T01:37:03.000Z</published>
+        <published>2021-06-07T16:55:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[w3bdesign/Statens-Vegvesen: Display vehicle information from https://www.vegvesen.no. Uses Vite, Typescript, HTML5 and Bootstrap 5..]]></title>
-        <id>https://github.com/w3bdesign/Statens-Vegvesen</id>
-        <link href="https://github.com/w3bdesign/Statens-Vegvesen"/>
-        <updated>2022-03-08T02:24:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45217974?u=ac55af61ca22e4aa34a6e437608a23d0dc2346c4&v=4" width="64" height="64" alt=""/><br/><div>Display vehicle information from <a href="https://www.vegvesen.no" rel="nofollow">https://www.vegvesen.no</a>. Uses Vite, Typescript, HTML5 and Bootstrap 5..</div>]]></content>
+        <title type="html"><![CDATA[Markkos89/serverless-nestjs-task-manager: NestJS + Serverless Framework + TypeORM + PostgreSQL]]></title>
+        <id>https://github.com/Markkos89/serverless-nestjs-task-manager</id>
+        <link href="https://github.com/Markkos89/serverless-nestjs-task-manager"/>
+        <updated>2022-03-30T10:29:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2791028?u=b0b04c41c45385e618bec33da21f433cfbd7130f&v=4" width="64" height="64" alt=""/><br/><div>NestJS + Serverless Framework + TypeORM + PostgreSQL</div>]]></content>
         <author>
-            <name>w3bdesign</name>
-            <email>w3bdesign@noreply.github.com</email>
-            <uri>https://github.com/w3bdesign</uri>
+            <name>Markkos89</name>
+            <email>Markkos89@noreply.github.com</email>
+            <uri>https://github.com/Markkos89</uri>
         </author>
-        <published>2019-12-10T01:25:17.000Z</published>
+        <published>2022-03-30T09:12:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ftschopp/sls-service-template: Serverless service template with Typescript]]></title>
-        <id>https://github.com/ftschopp/sls-service-template</id>
-        <link href="https://github.com/ftschopp/sls-service-template"/>
-        <updated>2022-04-02T23:00:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2099295?u=d6fd603e57d450da089606cf62ceea5b44785a4a&v=4" width="64" height="64" alt=""/><br/><div>Serverless service template with Typescript</div>]]></content>
+        <title type="html"><![CDATA[marvin-j97/lemna: ⚡ Quickly scaffold and deploy AWS Lambda handlers powered by Javascript or Typescript]]></title>
+        <id>https://github.com/marvin-j97/lemna</id>
+        <link href="https://github.com/marvin-j97/lemna"/>
+        <updated>2022-03-25T15:52:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33938500?u=91d6d4bcf6a62fdc105ea81351d0485f30f2f559&v=4" width="64" height="64" alt=""/><br/><div>
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Quickly scaffold and deploy AWS Lambda handlers powered by Javascript or Typescript</div>]]></content>
         <author>
-            <name>ftschopp</name>
-            <email>ftschopp@noreply.github.com</email>
-            <uri>https://github.com/ftschopp</uri>
+            <name>marvin-j97</name>
+            <email>marvin-j97@noreply.github.com</email>
+            <uri>https://github.com/marvin-j97</uri>
         </author>
-        <published>2022-04-02T22:58:12.000Z</published>
+        <published>2021-03-10T13:12:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ambjork/serverless-hw: Project through guide from Serverless Handbook by Swizec Teller]]></title>
-        <id>https://github.com/ambjork/serverless-hw</id>
-        <link href="https://github.com/ambjork/serverless-hw"/>
-        <updated>2022-04-02T22:57:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59476699?u=4baebc4add44b7c3e414191122988dc16f38dfeb&v=4" width="64" height="64" alt=""/><br/><div>Project through guide from Serverless Handbook by Swizec Teller</div>]]></content>
+        <title type="html"><![CDATA[dustinsgoodman/serverless-microservices-graphql-template: A Serverless Framework getting started template for building microservice architectures with a public GraphQL API using nx for monorepo support.]]></title>
+        <id>https://github.com/dustinsgoodman/serverless-microservices-graphql-template</id>
+        <link href="https://github.com/dustinsgoodman/serverless-microservices-graphql-template"/>
+        <updated>2022-04-03T21:40:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1815379?v=4" width="64" height="64" alt=""/><br/><div>A Serverless Framework getting started template for building microservice architectures with a public GraphQL API using nx for monorepo support.</div>]]></content>
         <author>
-            <name>ambjork</name>
-            <email>ambjork@noreply.github.com</email>
-            <uri>https://github.com/ambjork</uri>
+            <name>dustinsgoodman</name>
+            <email>dustinsgoodman@noreply.github.com</email>
+            <uri>https://github.com/dustinsgoodman</uri>
         </author>
-        <published>2022-04-02T22:56:32.000Z</published>
+        <published>2022-02-27T01:01:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dougmoscrop/serverless-http: Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda 🎉]]></title>
+        <id>https://github.com/dougmoscrop/serverless-http</id>
+        <link href="https://github.com/dougmoscrop/serverless-http"/>
+        <updated>2022-04-03T17:41:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/586516?v=4" width="64" height="64" alt=""/><br/><div>Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
+</div>]]></content>
+        <author>
+            <name>dougmoscrop</name>
+            <email>dougmoscrop@noreply.github.com</email>
+            <uri>https://github.com/dougmoscrop</uri>
+        </author>
+        <published>2016-10-07T00:22:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aldenvallestero/integrity: An open-source serverless election voting system that promotes integrity for the 2028 election.]]></title>
+        <id>https://github.com/aldenvallestero/integrity</id>
+        <link href="https://github.com/aldenvallestero/integrity"/>
+        <updated>2022-03-28T10:18:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/82009290?u=bc94cbf67f0a8dae02eee87799cbf17a5034e948&v=4" width="64" height="64" alt=""/><br/><div>An open-source serverless election voting system that promotes integrity for the 2028 election.</div>]]></content>
+        <author>
+            <name>aldenvallestero</name>
+            <email>aldenvallestero@noreply.github.com</email>
+            <uri>https://github.com/aldenvallestero</uri>
+        </author>
+        <published>2022-03-28T10:15:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[listingslab-software/firebase: Firebase Serverless Isomorphic Node functions and more]]></title>
+        <id>https://github.com/listingslab-software/firebase</id>
+        <link href="https://github.com/listingslab-software/firebase"/>
+        <updated>2022-03-25T03:21:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43974780?v=4" width="64" height="64" alt=""/><br/><div>Firebase Serverless Isomorphic Node functions and more</div>]]></content>
+        <author>
+            <name>listingslab-software</name>
+            <email>listingslab-software@noreply.github.com</email>
+            <uri>https://github.com/listingslab-software</uri>
+        </author>
+        <published>2022-03-10T00:31:02.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[iannotian/imessage2spotify-serverless: Serverless version of iMessage2Spotify]]></title>
@@ -164,107 +179,94 @@
         <published>2022-04-02T05:51:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kylepls/weather: A no-nonsense SPA for showing weather in your area.]]></title>
-        <id>https://github.com/kylepls/weather</id>
-        <link href="https://github.com/kylepls/weather"/>
-        <updated>2022-04-02T22:37:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5422723?u=c3c813fd25629efbdf4e039f42966d92e8af4ffe&v=4" width="64" height="64" alt=""/><br/><div>A no-nonsense SPA for showing weather in your area.</div>]]></content>
+        <title type="html"><![CDATA[james-hu/aws-serverless-dataflow: Visualisation of AWS serverless (Lambda, API Gateway, SNS, SQS, etc.) dataflow]]></title>
+        <id>https://github.com/james-hu/aws-serverless-dataflow</id>
+        <link href="https://github.com/james-hu/aws-serverless-dataflow"/>
+        <updated>2021-11-24T10:01:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8565700?u=efdacacb7bc49bd97671328c3016e1ad67135087&v=4" width="64" height="64" alt=""/><br/><div>Visualisation of AWS serverless (Lambda, API Gateway, SNS, SQS, etc.) dataflow</div>]]></content>
         <author>
-            <name>kylepls</name>
-            <email>kylepls@noreply.github.com</email>
-            <uri>https://github.com/kylepls</uri>
+            <name>james-hu</name>
+            <email>james-hu@noreply.github.com</email>
+            <uri>https://github.com/james-hu</uri>
         </author>
-        <published>2019-09-04T05:59:56.000Z</published>
+        <published>2020-09-26T10:18:47.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gtongy/metabase-slack-notify: metabase graph notify slack to use serverless-framework]]></title>
-        <id>https://github.com/gtongy/metabase-slack-notify</id>
-        <link href="https://github.com/gtongy/metabase-slack-notify"/>
-        <updated>2022-01-07T22:19:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32930281?u=fc42d160a57a443818aa4de7991a228ffc24397c&v=4" width="64" height="64" alt=""/><br/><div>metabase graph notify slack to use serverless-framework</div>]]></content>
+        <title type="html"><![CDATA[bakytk/SNS-SQS-DynamoDb: Simple boilerplate to bind SNS-SQS-Lambda-DynamoDb]]></title>
+        <id>https://github.com/bakytk/SNS-SQS-DynamoDb</id>
+        <link href="https://github.com/bakytk/SNS-SQS-DynamoDb"/>
+        <updated>2022-03-20T20:15:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37050074?u=dd75dedf25ed802807dd6a3c74199eb6eea69091&v=4" width="64" height="64" alt=""/><br/><div>Simple boilerplate to bind SNS-SQS-Lambda-DynamoDb</div>]]></content>
         <author>
-            <name>gtongy</name>
-            <email>gtongy@noreply.github.com</email>
-            <uri>https://github.com/gtongy</uri>
+            <name>bakytk</name>
+            <email>bakytk@noreply.github.com</email>
+            <uri>https://github.com/bakytk</uri>
         </author>
-        <published>2020-10-02T03:08:42.000Z</published>
+        <published>2022-03-19T22:37:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RocketChat/RC4Community: Full-stack components for building, engaging, and growing your massive on-line community]]></title>
-        <id>https://github.com/RocketChat/RC4Community</id>
-        <link href="https://github.com/RocketChat/RC4Community"/>
-        <updated>2022-03-26T15:24:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12508788?v=4" width="64" height="64" alt=""/><br/><div>Full-stack components for building, engaging, and growing your massive on-line community</div>]]></content>
+        <title type="html"><![CDATA[iamEtornam/TaskyBackendService: This is the backend service for the Tasky app platform. This is a serverless app written in nodejs.]]></title>
+        <id>https://github.com/iamEtornam/TaskyBackendService</id>
+        <link href="https://github.com/iamEtornam/TaskyBackendService"/>
+        <updated>2022-04-03T22:34:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19475061?u=61310d1551fdd2234732c86a72f32351bf7ef668&v=4" width="64" height="64" alt=""/><br/><div>This is the backend service for the Tasky app platform. This is a serverless app written in nodejs.</div>]]></content>
         <author>
-            <name>RocketChat</name>
-            <email>RocketChat@noreply.github.com</email>
-            <uri>https://github.com/RocketChat</uri>
+            <name>iamEtornam</name>
+            <email>iamEtornam@noreply.github.com</email>
+            <uri>https://github.com/iamEtornam</uri>
         </author>
-        <published>2021-05-06T06:57:28.000Z</published>
+        <published>2021-02-09T10:29:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[michael-mcmasters/Serverless-Framework-First-Config: Deploying AWS Lambda, API Gateway and DynamoDB services with the Serverless Framework]]></title>
-        <id>https://github.com/michael-mcmasters/Serverless-Framework-First-Config</id>
-        <link href="https://github.com/michael-mcmasters/Serverless-Framework-First-Config"/>
-        <updated>2022-04-02T20:51:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55242169?u=efc3dcb80d86bf2796e73933f1e4e34b26d0f9ed&v=4" width="64" height="64" alt=""/><br/><div>Deploying AWS Lambda, API Gateway and DynamoDB services with the Serverless Framework</div>]]></content>
+        <title type="html"><![CDATA[lowsky/dashboard: Dashboard for all feature branches - linking to the deployed/running in docker containers  and showing their states. Live Version:]]></title>
+        <id>https://github.com/lowsky/dashboard</id>
+        <link href="https://github.com/lowsky/dashboard"/>
+        <updated>2022-03-17T07:37:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/217931?u=1b511633d1d6a911150d495ca401032f250a4994&v=4" width="64" height="64" alt=""/><br/><div>Dashboard for all feature branches - linking to the deployed/running in docker containers  and showing their states. Live Version:</div>]]></content>
         <author>
-            <name>michael-mcmasters</name>
-            <email>michael-mcmasters@noreply.github.com</email>
-            <uri>https://github.com/michael-mcmasters</uri>
+            <name>lowsky</name>
+            <email>lowsky@noreply.github.com</email>
+            <uri>https://github.com/lowsky</uri>
         </author>
-        <published>2022-04-02T20:49:08.000Z</published>
+        <published>2015-03-27T11:24:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[adi87/exesandohs: Multiplayer Tic-Tac-Toe for the browser]]></title>
-        <id>https://github.com/adi87/exesandohs</id>
-        <link href="https://github.com/adi87/exesandohs"/>
-        <updated>2022-04-02T21:57:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/996878?v=4" width="64" height="64" alt=""/><br/><div>Multiplayer Tic-Tac-Toe for the browser</div>]]></content>
+        <title type="html"><![CDATA[kudelek/serverless-stack-mymusicsheetrepo-client]]></title>
+        <id>https://github.com/kudelek/serverless-stack-mymusicsheetrepo-client</id>
+        <link href="https://github.com/kudelek/serverless-stack-mymusicsheetrepo-client"/>
+        <updated>2022-04-03T21:22:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30635536?u=9894266652fea44f34d377ed53bd73e984f6f593&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>adi87</name>
-            <email>adi87@noreply.github.com</email>
-            <uri>https://github.com/adi87</uri>
+            <name>kudelek</name>
+            <email>kudelek@noreply.github.com</email>
+            <uri>https://github.com/kudelek</uri>
         </author>
-        <published>2014-06-04T01:46:28.000Z</published>
+        <published>2021-03-21T10:40:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[badgerduke/hvgn-backend: Serverless Framework implementation of the HVGN backend]]></title>
-        <id>https://github.com/badgerduke/hvgn-backend</id>
-        <link href="https://github.com/badgerduke/hvgn-backend"/>
-        <updated>2022-04-02T21:50:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21207752?u=fbdaf9c098ee8606e76d81c88a9b7112641615bd&v=4" width="64" height="64" alt=""/><br/><div>Serverless Framework implementation of the HVGN backend</div>]]></content>
+        <title type="html"><![CDATA[liushuhao23/serverless-react]]></title>
+        <id>https://github.com/liushuhao23/serverless-react</id>
+        <link href="https://github.com/liushuhao23/serverless-react"/>
+        <updated>2022-04-03T20:45:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38370356?u=8cc2f300a0e076b4ae34cf40a195c0e188eca71a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>badgerduke</name>
-            <email>badgerduke@noreply.github.com</email>
-            <uri>https://github.com/badgerduke</uri>
+            <name>liushuhao23</name>
+            <email>liushuhao23@noreply.github.com</email>
+            <uri>https://github.com/liushuhao23</uri>
         </author>
-        <published>2022-04-02T21:46:21.000Z</published>
+        <published>2022-04-03T20:44:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ryan-neil/react-serverless-example]]></title>
-        <id>https://github.com/ryan-neil/react-serverless-example</id>
-        <link href="https://github.com/ryan-neil/react-serverless-example"/>
-        <updated>2022-04-02T01:47:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59746024?u=6e7e31c8d581f2bc4159dbd952f26f9e18d08d80&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[thundra-io/thundra-agent-nodejs: Thundra Lambda Node.js Agent]]></title>
+        <id>https://github.com/thundra-io/thundra-agent-nodejs</id>
+        <link href="https://github.com/thundra-io/thundra-agent-nodejs"/>
+        <updated>2022-01-07T16:28:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36259632?v=4" width="64" height="64" alt=""/><br/><div>Thundra Lambda Node.js Agent</div>]]></content>
         <author>
-            <name>ryan-neil</name>
-            <email>ryan-neil@noreply.github.com</email>
-            <uri>https://github.com/ryan-neil</uri>
+            <name>thundra-io</name>
+            <email>thundra-io@noreply.github.com</email>
+            <uri>https://github.com/thundra-io</uri>
         </author>
-        <published>2022-04-01T20:38:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[luisalfredosv/serverless-auction-app]]></title>
-        <id>https://github.com/luisalfredosv/serverless-auction-app</id>
-        <link href="https://github.com/luisalfredosv/serverless-auction-app"/>
-        <updated>2022-03-27T15:32:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44524404?u=da617a021d3a2003e822bc6923f6e1ed2890edaf&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>luisalfredosv</name>
-            <email>luisalfredosv@noreply.github.com</email>
-            <uri>https://github.com/luisalfredosv</uri>
-        </author>
-        <published>2022-03-27T15:31:34.000Z</published>
+        <published>2018-02-17T18:31:09.000Z</published>
     </entry>
 </feed>
