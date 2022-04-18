@@ -6,6 +6,17 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26760571?u=70ed69fa4309f3e169a31a95a9f89032c00f96ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/erezrokah/serverless-monitoring-app",
+            "title": "erezrokah/serverless-monitoring-app",
+            "date_modified": "2021-12-06T03:29:17.000Z",
+            "date_published": "2019-02-17T11:20:18.000Z",
+            "author": {
+                "name": "erezrokah",
+                "url": "https://github.com/erezrokah"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A JSII construct lib to build AWS Serverless LAMP with AWS CDK </div>",
             "url": "https://github.com/aws-samples/cdk-serverless-lamp",
             "title": "aws-samples/cdk-serverless-lamp: A JSII construct lib to build AWS Serverless LAMP with AWS CDK ",
@@ -17,190 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63827661?u=9fb78e20eb497d13bb05d1520db8207d2d838d5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On this project I used AWS, Serverless and DynamoDB to make a Cloud CRUD app</div>",
-            "url": "https://github.com/juliswer/aws-lambda-dynamodb-crud-node",
-            "title": "juliswer/aws-lambda-dynamodb-crud-node: On this project I used AWS, Serverless and DynamoDB to make a Cloud CRUD app",
-            "date_modified": "2022-04-16T20:40:25.000Z",
-            "date_published": "2022-04-16T20:26:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30321405?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless plugin to bundle your lambdas with Webpack</div>",
+            "url": "https://github.com/serverless-heaven/serverless-webpack",
+            "title": "serverless-heaven/serverless-webpack: Serverless plugin to bundle your lambdas with Webpack",
+            "date_modified": "2022-04-17T15:10:43.000Z",
+            "date_published": "2016-08-16T21:50:03.000Z",
             "author": {
-                "name": "juliswer",
-                "url": "https://github.com/juliswer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57553474?u=0b4ea6ea98bb14696c6446f8fa6d964e71c1ac09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TypeScriptで始めるServerless入門</div>",
-            "url": "https://github.com/kngy0306/serverless-test",
-            "title": "kngy0306/serverless-test: TypeScriptで始めるServerless入門",
-            "date_modified": "2022-04-14T14:47:53.000Z",
-            "date_published": "2022-02-24T14:12:08.000Z",
-            "author": {
-                "name": "kngy0306",
-                "url": "https://github.com/kngy0306"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20067836?u=b9016aebb4f2aa341ea04fd7ae9ee8647e16f6a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Gitlab - Runner utilizing AWS Lambda.</div>",
-            "url": "https://github.com/Tobiklee/lambda-gitlab-runner",
-            "title": "Tobiklee/lambda-gitlab-runner: Serverless Gitlab - Runner utilizing AWS Lambda.",
-            "date_modified": "2022-04-16T23:43:04.000Z",
-            "date_published": "2022-04-16T23:35:29.000Z",
-            "author": {
-                "name": "Tobiklee",
-                "url": "https://github.com/Tobiklee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6334501?u=9c81827562afa09bc8cd30474c1ad0fb5e1e2c46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal portfolio website built using React and three js</div>",
-            "url": "https://github.com/HamishMW/portfolio",
-            "title": "HamishMW/portfolio: My personal portfolio website built using React and three js",
-            "date_modified": "2022-04-14T02:51:52.000Z",
-            "date_published": "2017-08-03T05:05:05.000Z",
-            "author": {
-                "name": "HamishMW",
-                "url": "https://github.com/HamishMW"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7746296?u=d54f2689c5d3288cc269906daf014a47928fe98b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Version of banking testbed for serverless</div>",
-            "url": "https://github.com/ianfinch/banking-serverless",
-            "title": "ianfinch/banking-serverless: Version of banking testbed for serverless",
-            "date_modified": "2022-04-13T14:42:24.000Z",
-            "date_published": "2022-04-11T20:04:54.000Z",
-            "author": {
-                "name": "ianfinch",
-                "url": "https://github.com/ianfinch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52392004?u=1692f553f1fa11d05866f0fca866b7d15bfd0e42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It shows an effective way for bus information using data analytics based on Amazon Serverless such as Kiness Data Stream, Kinesis Data Firehose, S3, and Lambda.</div>",
-            "url": "https://github.com/kyopark2014/data-analytics-for-businfo",
-            "title": "kyopark2014/data-analytics-for-businfo: It shows an effective way for bus information using data analytics based on Amazon Serverless such as Kiness Data Stream, Kinesis Data Firehose, S3, and Lambda.",
-            "date_modified": "2022-04-16T04:33:52.000Z",
-            "date_published": "2022-04-11T10:40:52.000Z",
-            "author": {
-                "name": "kyopark2014",
-                "url": "https://github.com/kyopark2014"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8572049?u=be072f136e54e2911a082d6ac08851dc3fb9d061&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Python programming sandbox for education</div>",
-            "url": "https://github.com/gdenes355/python-frontend",
-            "title": "gdenes355/python-frontend: Serverless Python programming sandbox for education",
-            "date_modified": "2022-04-09T11:59:47.000Z",
-            "date_published": "2022-03-07T00:44:23.000Z",
-            "author": {
-                "name": "gdenes355",
-                "url": "https://github.com/gdenes355"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35785496?u=c062be0273a3f3cb5f7f9cab487ab3e015789d20&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/felipematoswb/serverless-app",
-            "title": "felipematoswb/serverless-app",
-            "date_modified": "2022-04-16T22:54:18.000Z",
-            "date_published": "2022-04-12T17:08:09.000Z",
-            "author": {
-                "name": "felipematoswb",
-                "url": "https://github.com/felipematoswb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29997175?u=b2af01522337ed670d0cfeeb990d74b659cefed5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Work in Progress: Code for FeedbackTo &gt; This Project is one of Frontend Mentor ''Advanced\" challenges. Jamstack Serverless with React, Airtable, Netlify Serveless functions and Sass.</div>",
-            "url": "https://github.com/jmarellanes/feedback-board",
-            "title": "jmarellanes/feedback-board: Work in Progress: Code for FeedbackTo > This Project is one of Frontend Mentor ''Advanced\" challenges. Jamstack Serverless with React, Airtable, Netlify Serveless functions and Sass.",
-            "date_modified": "2022-01-09T12:34:47.000Z",
-            "date_published": "2021-09-06T05:55:29.000Z",
-            "author": {
-                "name": "jmarellanes",
-                "url": "https://github.com/jmarellanes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37081797?u=4f67967bbca4bb4c37eed9ec93a8ed6d263a40ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An AWS Lambda (serverless) REST API with CRUD opartions for DynamoDB</div>",
-            "url": "https://github.com/Stephan-MDD/aws-lambda.ts",
-            "title": "Stephan-MDD/aws-lambda.ts: An AWS Lambda (serverless) REST API with CRUD opartions for DynamoDB",
-            "date_modified": "2022-04-16T17:32:33.000Z",
-            "date_published": "2022-04-16T17:25:34.000Z",
-            "author": {
-                "name": "Stephan-MDD",
-                "url": "https://github.com/Stephan-MDD"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16296900?u=7595a124c580d2b9b0233994f4d788d904a0f43a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for my Udemy course on AWS Serverless IoT Design <a href=\"http://www.udemy.com/course/aws-serverless-design-for-iot\" rel=\"nofollow\">www.udemy.com/course/aws-serverless-design-for-iot</a>\n</div>",
-            "url": "https://github.com/sborsay/Serverless-IoT-on-AWS",
-            "title": "sborsay/Serverless-IoT-on-AWS: Code for my Udemy course on AWS Serverless IoT Design www.udemy.com/course/aws-serverless-design-for-iot",
-            "date_modified": "2022-04-11T17:20:49.000Z",
-            "date_published": "2019-11-19T18:58:29.000Z",
-            "author": {
-                "name": "sborsay",
-                "url": "https://github.com/sborsay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78385236?u=1d2d9028cc1e703c1028b8cb52a9f75ab788a194&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lambda scripts for a serverless API on AWS.</div>",
-            "url": "https://github.com/Micha-L-Davis/aws-serverless-api",
-            "title": "Micha-L-Davis/aws-serverless-api: Lambda scripts for a serverless API on AWS.",
-            "date_modified": "2022-04-16T22:27:23.000Z",
-            "date_published": "2022-04-16T21:00:09.000Z",
-            "author": {
-                "name": "Micha-L-Davis",
-                "url": "https://github.com/Micha-L-Davis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16030322?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JieqingShi/todo-app-serverless",
-            "title": "JieqingShi/todo-app-serverless",
-            "date_modified": "2022-04-15T17:56:41.000Z",
-            "date_published": "2022-04-15T17:55:15.000Z",
-            "author": {
-                "name": "JieqingShi",
-                "url": "https://github.com/JieqingShi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24397176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/siammridha/serverless-express",
-            "title": "siammridha/serverless-express",
-            "date_modified": "2022-04-16T21:26:28.000Z",
-            "date_published": "2020-12-26T23:22:48.000Z",
-            "author": {
-                "name": "siammridha",
-                "url": "https://github.com/siammridha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1462191?u=cc7cad0ddbc81e3485ff82e358f5602e97336970&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"fire\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f525.png\">🔥</g-emoji> Twitter Video Downloader for Siri Shortcuts - v2</div>",
-            "url": "https://github.com/saifalfalah/tvdl-2",
-            "title": "saifalfalah/tvdl-2: 🔥 Twitter Video Downloader for Siri Shortcuts - v2",
-            "date_modified": "2022-04-16T16:13:54.000Z",
-            "date_published": "2020-07-17T11:59:13.000Z",
-            "author": {
-                "name": "saifalfalah",
-                "url": "https://github.com/saifalfalah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103780994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Practicando serverless</div>",
-            "url": "https://github.com/dalza1601/Serverless",
-            "title": "dalza1601/Serverless: Practicando serverless",
-            "date_modified": "2022-04-15T20:11:48.000Z",
-            "date_published": "2022-04-15T20:03:25.000Z",
-            "author": {
-                "name": "dalza1601",
-                "url": "https://github.com/dalza1601"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20878491?u=e3235c291c6907729a1e7435586be8d8f67e1972&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> <g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> Serverless boilerplate for Nodejs/TypeScript with AWS</div>",
-            "url": "https://github.com/azkarmoulana/aws-nodejs-typescript",
-            "title": "azkarmoulana/aws-nodejs-typescript: :zap: :zap: Serverless boilerplate for Nodejs/TypeScript with AWS",
-            "date_modified": "2022-04-09T12:08:47.000Z",
-            "date_published": "2020-05-10T10:07:41.000Z",
-            "author": {
-                "name": "azkarmoulana",
-                "url": "https://github.com/azkarmoulana"
+                "name": "serverless-heaven",
+                "url": "https://github.com/serverless-heaven"
             }
         },
         {
@@ -215,14 +50,179 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9867822?u=70f545a77b70da4285f9db3be716c13b137f9210&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mirayonelahi/aws-lambda-serverless",
-            "title": "mirayonelahi/aws-lambda-serverless",
-            "date_modified": "2022-04-16T18:10:03.000Z",
-            "date_published": "2022-04-16T18:09:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52392004?u=1692f553f1fa11d05866f0fca866b7d15bfd0e42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It shows an effective way to correct bus arrival information using data analytics based on Amazon Serverless such as Kiness Data Stream, Kinesis Data Firehose, S3, and Lambda.</div>",
+            "url": "https://github.com/kyopark2014/data-analytics-for-businfo",
+            "title": "kyopark2014/data-analytics-for-businfo: It shows an effective way to correct bus arrival information using data analytics based on Amazon Serverless such as Kiness Data Stream, Kinesis Data Firehose, S3, and Lambda.",
+            "date_modified": "2022-04-17T23:20:22.000Z",
+            "date_published": "2022-04-11T10:40:52.000Z",
             "author": {
-                "name": "mirayonelahi",
-                "url": "https://github.com/mirayonelahi"
+                "name": "kyopark2014",
+                "url": "https://github.com/kyopark2014"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74627781?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"herb\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png\">🌿</g-emoji> Daisugi monorepo of TypeScript/ESM projects for building composable applications.</div>",
+            "url": "https://github.com/daisugiland/daisugi",
+            "title": "daisugiland/daisugi: 🌿 Daisugi monorepo of TypeScript/ESM projects for building composable applications.",
+            "date_modified": "2022-04-06T15:20:41.000Z",
+            "date_published": "2021-05-16T11:59:10.000Z",
+            "author": {
+                "name": "daisugiland",
+                "url": "https://github.com/daisugiland"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22390790?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/joohan-lee/serverless-repo-app",
+            "title": "joohan-lee/serverless-repo-app",
+            "date_modified": "2022-04-16T01:56:52.000Z",
+            "date_published": "2022-04-16T01:56:47.000Z",
+            "author": {
+                "name": "joohan-lee",
+                "url": "https://github.com/joohan-lee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28017252?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cirspecte is a browser based, serverless, free, and open source tool for creating and viewing panorama tours.</div>",
+            "url": "https://github.com/NiHoel/cirspecte",
+            "title": "NiHoel/cirspecte: Cirspecte is a browser based, serverless, free, and open source tool for creating and viewing panorama tours.",
+            "date_modified": "2022-04-14T08:30:17.000Z",
+            "date_published": "2019-04-01T21:15:55.000Z",
+            "author": {
+                "name": "NiHoel",
+                "url": "https://github.com/NiHoel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2144805?u=82ebd28009c6cd03f7ff989a0eddb4f2dff2c01a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless ChatOps tool for interacting with Bamboo from Microsoft Teams</div>",
+            "url": "https://github.com/GaaraZhu/bamboo-on-teams",
+            "title": "GaaraZhu/bamboo-on-teams: A serverless ChatOps tool for interacting with Bamboo from Microsoft Teams",
+            "date_modified": "2022-04-17T22:01:03.000Z",
+            "date_published": "2021-12-23T23:05:02.000Z",
+            "author": {
+                "name": "GaaraZhu",
+                "url": "https://github.com/GaaraZhu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2980681?u=eea7e105f92f6d06dbd254fa639537012cf693bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Function to render a QR Code</div>",
+            "url": "https://github.com/darkmavis1980/serverless-qr-generator",
+            "title": "darkmavis1980/serverless-qr-generator: Serverless Function to render a QR Code",
+            "date_modified": "2022-04-17T20:33:43.000Z",
+            "date_published": "2022-04-16T18:22:19.000Z",
+            "author": {
+                "name": "darkmavis1980",
+                "url": "https://github.com/darkmavis1980"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61727377?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the ÆGIS federated application host. Federated  components are independently deployable, written by multiple teams in multiple languages, and loaded from multiple repos and network locations at runtime, yet capable of running together in a single process or as distributed components in the  ÆGIS application fabric. </div>",
+            "url": "https://github.com/module-federation/aegis-host",
+            "title": "module-federation/aegis-host: This is the ÆGIS federated application host. Federated  components are independently deployable, written by multiple teams in multiple languages, and loaded from multiple repos and network locations at runtime, yet capable of running together in a single process or as distributed components in the  ÆGIS application fabric. ",
+            "date_modified": "2022-04-17T16:10:46.000Z",
+            "date_published": "2021-03-03T02:20:27.000Z",
+            "author": {
+                "name": "module-federation",
+                "url": "https://github.com/module-federation"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8854618?u=52473bdfe7d9b8ceef78b2a38fb3825f971f067a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Preload Environment Variables with Dotenv into Serverless</div>",
+            "url": "https://github.com/neverendingqs/serverless-dotenv-plugin",
+            "title": "neverendingqs/serverless-dotenv-plugin: Preload Environment Variables with Dotenv into Serverless",
+            "date_modified": "2022-04-17T22:01:13.000Z",
+            "date_published": "2017-08-07T07:04:11.000Z",
+            "author": {
+                "name": "neverendingqs",
+                "url": "https://github.com/neverendingqs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63827661?u=9fb78e20eb497d13bb05d1520db8207d2d838d5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On this project I used AWS, Serverless and DynamoDB to make a Cloud CRUD app</div>",
+            "url": "https://github.com/juliswer/aws-lambda-dynamodb-crud-node",
+            "title": "juliswer/aws-lambda-dynamodb-crud-node: On this project I used AWS, Serverless and DynamoDB to make a Cloud CRUD app",
+            "date_modified": "2022-04-17T21:34:10.000Z",
+            "date_published": "2022-04-16T20:26:12.000Z",
+            "author": {
+                "name": "juliswer",
+                "url": "https://github.com/juliswer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43318858?u=506c658b8896e7f075e67e9e4dfc370ef63cb5d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pecuniary CQRS web application built with AWS CDK</div>",
+            "url": "https://github.com/eric-bach/pecuniary",
+            "title": "eric-bach/pecuniary: Pecuniary CQRS web application built with AWS CDK",
+            "date_modified": "2022-04-17T21:24:18.000Z",
+            "date_published": "2019-12-22T20:57:02.000Z",
+            "author": {
+                "name": "eric-bach",
+                "url": "https://github.com/eric-bach"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7746296?u=d54f2689c5d3288cc269906daf014a47928fe98b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Version of banking testbed for serverless</div>",
+            "url": "https://github.com/ianfinch/banking-serverless",
+            "title": "ianfinch/banking-serverless: Version of banking testbed for serverless",
+            "date_modified": "2022-04-13T14:42:24.000Z",
+            "date_published": "2022-04-11T20:04:54.000Z",
+            "author": {
+                "name": "ianfinch",
+                "url": "https://github.com/ianfinch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37081797?u=4f67967bbca4bb4c37eed9ec93a8ed6d263a40ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An AWS Lambda (serverless) REST API with CRUD opartions for DynamoDB</div>",
+            "url": "https://github.com/Stephan-MDD/aws-lambda.ts",
+            "title": "Stephan-MDD/aws-lambda.ts: An AWS Lambda (serverless) REST API with CRUD opartions for DynamoDB",
+            "date_modified": "2022-04-16T17:32:33.000Z",
+            "date_published": "2022-04-16T17:25:34.000Z",
+            "author": {
+                "name": "Stephan-MDD",
+                "url": "https://github.com/Stephan-MDD"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92484982?u=b569a599016dda745d8855b819ea3a42a60b8073&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebApp serverless usando NextJS, nextauth como social login, Stripe como sistema de assinatura e faunaDB como BDD. (Em desenvolvimento)</div>",
+            "url": "https://github.com/tomvieir/App-News",
+            "title": "tomvieir/App-News: WebApp serverless usando NextJS, nextauth como social login, Stripe como sistema de assinatura e faunaDB como BDD. (Em desenvolvimento)",
+            "date_modified": "2022-04-11T23:38:49.000Z",
+            "date_published": "2022-03-31T22:18:39.000Z",
+            "author": {
+                "name": "tomvieir",
+                "url": "https://github.com/tomvieir"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40216149?u=0264f26860ec13e6e724abb3474d9bbea38e69e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Framework Plugin to Deploy and Remove AWS Platform Apps</div>",
+            "url": "https://github.com/93v/sls-plugin-platform-apps",
+            "title": "93v/sls-plugin-platform-apps: Serverless Framework Plugin to Deploy and Remove AWS Platform Apps",
+            "date_modified": "2022-04-17T20:03:07.000Z",
+            "date_published": "2019-05-01T08:38:06.000Z",
+            "author": {
+                "name": "93v",
+                "url": "https://github.com/93v"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63097751?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\n<g-emoji class=\"g-emoji\" alias=\"sunglasses\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png\">😎</g-emoji> The next generation of RESTful API service and more for Mix Space, powered by <a class=\"user-mention\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/nestjs/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/nestjs\">@nestjs</a>.</div>",
+            "url": "https://github.com/mx-space/mx-server",
+            "title": "mx-space/mx-server: 😎 The next generation of RESTful API service and more for Mix Space, powered by @nestjs.",
+            "date_modified": "2022-04-15T17:25:46.000Z",
+            "date_published": "2021-07-14T14:47:50.000Z",
+            "author": {
+                "name": "mx-space",
+                "url": "https://github.com/mx-space"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14125168?u=eeb572b61948f9414bd44f7c4681b58040d22c7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Serverless framework template using Nrwl Nx monorepo dev tools</div>",
+            "url": "https://github.com/sudokar/nx-serverless",
+            "title": "sudokar/nx-serverless: Modern Serverless framework template using Nrwl Nx monorepo dev tools",
+            "date_modified": "2022-04-17T21:54:03.000Z",
+            "date_published": "2021-06-20T19:59:51.000Z",
+            "author": {
+                "name": "sudokar",
+                "url": "https://github.com/sudokar"
             }
         }
     ]

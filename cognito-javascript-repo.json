@@ -6,25 +6,47 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2022-02-19T13:52:27.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79185301?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>lambda backend for productabot</div>",
+            "url": "https://github.com/productabot/productabot-backend",
+            "title": "productabot/productabot-backend: lambda backend for productabot",
+            "date_modified": "2021-10-25T02:12:20.000Z",
+            "date_published": "2021-02-18T19:48:15.000Z",
             "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
+                "name": "productabot",
+                "url": "https://github.com/productabot"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40469032?u=f15ac632aa1aa9a597113e11adda09760b053aa0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestão de usuários usando funções Lambda com AWS Lambda e AWS Cognito</div>",
-            "url": "https://github.com/gusmourax/aws-lambda-cognito-user-management",
-            "title": "gusmourax/aws-lambda-cognito-user-management: Gestão de usuários usando funções Lambda com AWS Lambda e AWS Cognito",
-            "date_modified": "2022-04-16T19:14:47.000Z",
-            "date_published": "2022-04-16T19:12:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ctx-core/cognito",
+            "title": "ctx-core/cognito",
+            "date_modified": "2022-01-08T04:07:10.000Z",
+            "date_published": "2019-12-02T17:11:53.000Z",
             "author": {
-                "name": "gusmourax",
-                "url": "https://github.com/gusmourax"
+                "name": "ctx-core",
+                "url": "https://github.com/ctx-core"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66546942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use amazon aws cognito with React and Recoil</div>",
+            "url": "https://github.com/ghostincjp/cogreact",
+            "title": "ghostincjp/cogreact: Use amazon aws cognito with React and Recoil",
+            "date_modified": "2022-04-17T05:10:23.000Z",
+            "date_published": "2022-04-12T07:32:27.000Z",
+            "author": {
+                "name": "ghostincjp",
+                "url": "https://github.com/ghostincjp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1518776?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognito Dashboard</div>",
+            "url": "https://github.com/roonga/cognito-dashboard",
+            "title": "roonga/cognito-dashboard: Cognito Dashboard",
+            "date_modified": "2021-10-21T20:18:49.000Z",
+            "date_published": "2021-07-12T04:44:02.000Z",
+            "author": {
+                "name": "roonga",
+                "url": "https://github.com/roonga"
             }
         },
         {
@@ -39,6 +61,72 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38332276?u=ecd5365fded186b948a1a829a7168b9b83debbb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Creating Cognito Authentication within Cloud Based AWS API</div>",
+            "url": "https://github.com/CRSpradlin/aws-cognito-app",
+            "title": "CRSpradlin/aws-cognito-app: Creating Cognito Authentication within Cloud Based AWS API",
+            "date_modified": "2021-10-11T23:06:51.000Z",
+            "date_published": "2021-09-19T04:03:45.000Z",
+            "author": {
+                "name": "CRSpradlin",
+                "url": "https://github.com/CRSpradlin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31016577?u=d753b33ded0c0b3c7e5457b83705da398586be09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Weather API using OpenWeather with cache of 15 minutes using Cognito authentication</div>",
+            "url": "https://github.com/vitor-amartins/weather-api",
+            "title": "vitor-amartins/weather-api: A Weather API using OpenWeather with cache of 15 minutes using Cognito authentication",
+            "date_modified": "2022-04-17T20:27:18.000Z",
+            "date_published": "2020-06-14T14:55:50.000Z",
+            "author": {
+                "name": "vitor-amartins",
+                "url": "https://github.com/vitor-amartins"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92428640?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identity and Access Management Service</div>",
+            "url": "https://github.com/hwslabs/iam",
+            "title": "hwslabs/iam: Identity and Access Management Service",
+            "date_modified": "2022-04-17T13:00:53.000Z",
+            "date_published": "2022-02-03T14:02:08.000Z",
+            "author": {
+                "name": "hwslabs",
+                "url": "https://github.com/hwslabs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2022-02-19T13:52:27.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30868587?u=2da92820bf2402e21dd883a9beb34e264cc7ba62&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lakshyajit165/springboot-cognito",
+            "title": "lakshyajit165/springboot-cognito",
+            "date_modified": "2022-04-17T06:26:37.000Z",
+            "date_published": "2022-04-17T06:26:37.000Z",
+            "author": {
+                "name": "lakshyajit165",
+                "url": "https://github.com/lakshyajit165"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40469032?u=f15ac632aa1aa9a597113e11adda09760b053aa0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestão de usuários usando funções Lambda com AWS Lambda e AWS Cognito</div>",
+            "url": "https://github.com/gusmourax/aws-lambda-cognito-user-management",
+            "title": "gusmourax/aws-lambda-cognito-user-management: Gestão de usuários usando funções Lambda com AWS Lambda e AWS Cognito",
+            "date_modified": "2022-04-16T19:14:47.000Z",
+            "date_published": "2022-04-16T19:12:57.000Z",
+            "author": {
+                "name": "gusmourax",
+                "url": "https://github.com/gusmourax"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11772274?u=0a7e46bd5b4407c0343432402ef45d4577abe740&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/rbulmer55/cognito-example",
             "title": "rbulmer55/cognito-example",
@@ -47,17 +135,6 @@
             "author": {
                 "name": "rbulmer55",
                 "url": "https://github.com/rbulmer55"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66546942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use amazon aws cognito with React and Recoil</div>",
-            "url": "https://github.com/ghostincjp/cogreact",
-            "title": "ghostincjp/cogreact: Use amazon aws cognito with React and Recoil",
-            "date_modified": "2022-04-16T14:28:06.000Z",
-            "date_published": "2022-04-12T07:32:27.000Z",
-            "author": {
-                "name": "ghostincjp",
-                "url": "https://github.com/ghostincjp"
             }
         },
         {
@@ -146,83 +223,6 @@
             "author": {
                 "name": "joto2itgix",
                 "url": "https://github.com/joto2itgix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
-            "url": "https://github.com/aws-amplify/amplify-js",
-            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-04-16T09:09:22.000Z",
-            "date_published": "2017-10-02T22:17:14.000Z",
-            "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33596117?u=0963ed973bb18538c36f6741b7a42bd421b9fa3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository of code examples for AWS Cognito</div>",
-            "url": "https://github.com/kg0r0/cognito-examples",
-            "title": "kg0r0/cognito-examples: Repository of code examples for AWS Cognito",
-            "date_modified": "2022-03-21T13:15:40.000Z",
-            "date_published": "2022-02-16T14:04:53.000Z",
-            "author": {
-                "name": "kg0r0",
-                "url": "https://github.com/kg0r0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16176530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set up a modern codebase for cloud-native web app with authentication features by running one command</div>",
-            "url": "https://github.com/codeandpepper/janush",
-            "title": "codeandpepper/janush: Set up a modern codebase for cloud-native web app with authentication features by running one command",
-            "date_modified": "2022-04-16T07:17:13.000Z",
-            "date_published": "2021-09-04T08:22:18.000Z",
-            "author": {
-                "name": "codeandpepper",
-                "url": "https://github.com/codeandpepper"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40569405?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Amplify/Cognito and ember-simple-auth integration</div>",
-            "url": "https://github.com/adopted-ember-addons/ember-cognito",
-            "title": "adopted-ember-addons/ember-cognito: AWS Amplify/Cognito and ember-simple-auth integration",
-            "date_modified": "2022-02-01T14:12:58.000Z",
-            "date_published": "2017-04-19T19:35:57.000Z",
-            "author": {
-                "name": "adopted-ember-addons",
-                "url": "https://github.com/adopted-ember-addons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41698527?u=f86dcd296d5919974593fa071ba0a8991cf61b83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/KhonkoDmytro/testCognito",
-            "title": "KhonkoDmytro/testCognito",
-            "date_modified": "2022-04-15T09:06:15.000Z",
-            "date_published": "2022-04-15T08:49:22.000Z",
-            "author": {
-                "name": "KhonkoDmytro",
-                "url": "https://github.com/KhonkoDmytro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100830578?u=f98a33e146cc369a029f6059dacbe2509581ff58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/saqlainM87/nextjs-cognito-integration-with-amplify",
-            "title": "saqlainM87/nextjs-cognito-integration-with-amplify",
-            "date_modified": "2022-04-15T08:51:24.000Z",
-            "date_published": "2022-04-15T08:51:16.000Z",
-            "author": {
-                "name": "saqlainM87",
-                "url": "https://github.com/saqlainM87"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57011650?u=4dac0ce3b92e4204e656b6aadcc721749229e71f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cloned from arronharden/cognito-demo-ui</div>",
-            "url": "https://github.com/jamiephill/cognito-demo-ui",
-            "title": "jamiephill/cognito-demo-ui: Cloned from arronharden/cognito-demo-ui",
-            "date_modified": "2022-04-14T11:04:45.000Z",
-            "date_published": "2022-04-14T10:59:01.000Z",
-            "author": {
-                "name": "jamiephill",
-                "url": "https://github.com/jamiephill"
             }
         }
     ]
