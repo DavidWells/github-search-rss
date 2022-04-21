@@ -6,6 +6,17 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ctx-core/cognito",
+            "title": "ctx-core/cognito",
+            "date_modified": "2022-01-08T04:07:10.000Z",
+            "date_published": "2019-12-02T17:11:53.000Z",
+            "author": {
+                "name": "ctx-core",
+                "url": "https://github.com/ctx-core"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11076093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[READ ONLY] Subtree split of the SocialiteProviders/Cognito Provider (see SocialiteProviders/Providers)</div>",
             "url": "https://github.com/SocialiteProviders/Cognito",
             "title": "SocialiteProviders/Cognito: [READ ONLY] Subtree split of the SocialiteProviders/Cognito Provider (see SocialiteProviders/Providers)",
@@ -14,39 +25,6 @@
             "author": {
                 "name": "SocialiteProviders",
                 "url": "https://github.com/SocialiteProviders"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37895186?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cfhighlander component for Cognito user pools, clients and custom domain names</div>",
-            "url": "https://github.com/theonestack/hl-component-cognito",
-            "title": "theonestack/hl-component-cognito: Cfhighlander component for Cognito user pools, clients and custom domain names",
-            "date_modified": "2022-04-19T23:32:10.000Z",
-            "date_published": "2018-09-20T04:16:49.000Z",
-            "author": {
-                "name": "theonestack",
-                "url": "https://github.com/theonestack"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3183150?u=a4ec757d7c4007a4027d7e3bae7c751b77e46dcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/dotnsf/react-auth-with-cognito",
-            "title": "dotnsf/react-auth-with-cognito",
-            "date_modified": "2022-04-19T23:25:32.000Z",
-            "date_published": "2022-04-19T23:25:06.000Z",
-            "author": {
-                "name": "dotnsf",
-                "url": "https://github.com/dotnsf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73856260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poc para o cognito AWS</div>",
-            "url": "https://github.com/willmais/cognito-aws",
-            "title": "willmais/cognito-aws: Poc para o cognito AWS",
-            "date_modified": "2022-04-19T21:51:18.000Z",
-            "date_published": "2022-04-19T21:46:36.000Z",
-            "author": {
-                "name": "willmais",
-                "url": "https://github.com/willmais"
             }
         },
         {
@@ -61,14 +39,80 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92628278?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognito authorization server</div>",
-            "url": "https://github.com/ninja-dev-io/cognito-authz",
-            "title": "ninja-dev-io/cognito-authz: Cognito authorization server",
-            "date_modified": "2022-04-18T07:35:34.000Z",
-            "date_published": "2022-04-14T21:02:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90053309?u=ef104626eabfb3a421ba2bfcbafcf6a6a66dbadb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criação de uma aplicação básica em react via autenticação AWS-Cognito</div>",
+            "url": "https://github.com/Dennisasg/React-AWS-Cognito",
+            "title": "Dennisasg/React-AWS-Cognito: Criação de uma aplicação básica em react via autenticação AWS-Cognito",
+            "date_modified": "2022-04-20T20:18:33.000Z",
+            "date_published": "2022-04-20T19:38:04.000Z",
             "author": {
-                "name": "ninja-dev-io",
-                "url": "https://github.com/ninja-dev-io"
+                "name": "Dennisasg",
+                "url": "https://github.com/Dennisasg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6500753?u=b63e02d2e42f98097bef5efc79b3af9cfe6b5138&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/flexelem/cognito-userpool-cdk-example",
+            "title": "flexelem/cognito-userpool-cdk-example",
+            "date_modified": "2022-04-20T17:56:25.000Z",
+            "date_published": "2022-04-20T17:55:34.000Z",
+            "author": {
+                "name": "flexelem",
+                "url": "https://github.com/flexelem"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48989016?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZITADEL - The Open Source Auth0, Firebase Auth, AWS Cognito and Keycloak alternative written in Go and built for the serverless era</div>",
+            "url": "https://github.com/caos/zitadel",
+            "title": "caos/zitadel: ZITADEL - The Open Source Auth0, Firebase Auth, AWS Cognito and Keycloak alternative written in Go and built for the serverless era",
+            "date_modified": "2022-04-20T19:54:20.000Z",
+            "date_published": "2020-03-16T13:51:31.000Z",
+            "author": {
+                "name": "caos",
+                "url": "https://github.com/caos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1044784?u=ef9eb78954049f95e22ce865262a1b7cb3770fd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Amplify の学習用サンプルアプリケーションです。</div>",
+            "url": "https://github.com/isystk/amplify-reactjs-sample",
+            "title": "isystk/amplify-reactjs-sample: AWS Amplify の学習用サンプルアプリケーションです。",
+            "date_modified": "2022-04-19T10:30:23.000Z",
+            "date_published": "2022-03-23T03:26:42.000Z",
+            "author": {
+                "name": "isystk",
+                "url": "https://github.com/isystk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26227618?u=1913cf8e796c90ce9a234e10d4a41dd5e4bf2fd2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Cognito plugin for Ligoj</div>",
+            "url": "https://github.com/ligoj/plugin-id-cognito",
+            "title": "ligoj/plugin-id-cognito: AWS Cognito plugin for Ligoj",
+            "date_modified": "2022-04-20T10:13:01.000Z",
+            "date_published": "2019-04-15T21:02:38.000Z",
+            "author": {
+                "name": "ligoj",
+                "url": "https://github.com/ligoj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100830578?u=f98a33e146cc369a029f6059dacbe2509581ff58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/saqlainM87/nextjs-cognito-integration-with-amplify",
+            "title": "saqlainM87/nextjs-cognito-integration-with-amplify",
+            "date_modified": "2022-04-15T08:51:24.000Z",
+            "date_published": "2022-04-15T08:51:16.000Z",
+            "author": {
+                "name": "saqlainM87",
+                "url": "https://github.com/saqlainM87"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47092819?u=0a429ed559ea80ad0bef46fb7a31e5df9b01afe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My web application (<a href=\"https://yukikitayama.com\" rel=\"nofollow\">https://yukikitayama.com</a>) to blog technical articles, track expense and fitness, developed by Next.js, React, AWS (Lambda, API Gateway, Cognito, Amplify, etc), MongoDB, Redis, Redux, Material Design (MUI), Recharts, fitbit API</div>",
+            "url": "https://github.com/yukikitayama/webapp-nextjs",
+            "title": "yukikitayama/webapp-nextjs: My web application (https://yukikitayama.com) to blog technical articles, track expense and fitness, developed by Next.js, React, AWS (Lambda, API Gateway, Cognito, Amplify, etc), MongoDB, Redis, Redux, Material Design (MUI), Recharts, fitbit API",
+            "date_modified": "2022-04-03T16:55:08.000Z",
+            "date_published": "2022-02-20T03:37:19.000Z",
+            "author": {
+                "name": "yukikitayama",
+                "url": "https://github.com/yukikitayama"
             }
         },
         {
@@ -80,6 +124,61 @@
             "author": {
                 "name": "SebastianOspina24",
                 "url": "https://github.com/SebastianOspina24"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3183150?u=a4ec757d7c4007a4027d7e3bae7c751b77e46dcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/dotnsf/react-auth-with-cognito",
+            "title": "dotnsf/react-auth-with-cognito",
+            "date_modified": "2022-04-19T23:25:32.000Z",
+            "date_published": "2022-04-19T23:25:06.000Z",
+            "author": {
+                "name": "dotnsf",
+                "url": "https://github.com/dotnsf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
+            "url": "https://github.com/nearform/brokeneck",
+            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
+            "date_modified": "2022-02-11T03:11:48.000Z",
+            "date_published": "2020-11-29T21:56:55.000Z",
+            "author": {
+                "name": "nearform",
+                "url": "https://github.com/nearform"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37895186?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cfhighlander component for Cognito user pools, clients and custom domain names</div>",
+            "url": "https://github.com/theonestack/hl-component-cognito",
+            "title": "theonestack/hl-component-cognito: Cfhighlander component for Cognito user pools, clients and custom domain names",
+            "date_modified": "2022-04-19T23:32:10.000Z",
+            "date_published": "2018-09-20T04:16:49.000Z",
+            "author": {
+                "name": "theonestack",
+                "url": "https://github.com/theonestack"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73856260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poc para o cognito AWS</div>",
+            "url": "https://github.com/willmais/cognito-aws",
+            "title": "willmais/cognito-aws: Poc para o cognito AWS",
+            "date_modified": "2022-04-19T21:51:18.000Z",
+            "date_published": "2022-04-19T21:46:36.000Z",
+            "author": {
+                "name": "willmais",
+                "url": "https://github.com/willmais"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92628278?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognito authorization server</div>",
+            "url": "https://github.com/ninja-dev-io/cognito-authz",
+            "title": "ninja-dev-io/cognito-authz: Cognito authorization server",
+            "date_modified": "2022-04-18T07:35:34.000Z",
+            "date_published": "2022-04-14T21:02:34.000Z",
+            "author": {
+                "name": "ninja-dev-io",
+                "url": "https://github.com/ninja-dev-io"
             }
         },
         {
@@ -124,105 +223,6 @@
             "author": {
                 "name": "block65",
                 "url": "https://github.com/block65"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15814385?u=9d7cea121339a3242f578e8bd7d4809f2a29db41&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/philipealves/aws-serverless-cognito-lambda-auth",
-            "title": "philipealves/aws-serverless-cognito-lambda-auth",
-            "date_modified": "2022-04-19T11:52:09.000Z",
-            "date_published": "2022-04-19T11:52:09.000Z",
-            "author": {
-                "name": "philipealves",
-                "url": "https://github.com/philipealves"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1044784?u=ef9eb78954049f95e22ce865262a1b7cb3770fd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Amplify の学習用サンプルアプリケーションです。</div>",
-            "url": "https://github.com/isystk/amplify-reactjs-sample",
-            "title": "isystk/amplify-reactjs-sample: AWS Amplify の学習用サンプルアプリケーションです。",
-            "date_modified": "2022-04-19T10:30:23.000Z",
-            "date_published": "2022-03-23T03:26:42.000Z",
-            "author": {
-                "name": "isystk",
-                "url": "https://github.com/isystk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33700195?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A public composer package for Laravel, wrapping hobbii/cognito-client</div>",
-            "url": "https://github.com/hobbii/laravel-cognito-client",
-            "title": "hobbii/laravel-cognito-client: A public composer package for Laravel, wrapping hobbii/cognito-client",
-            "date_modified": "2022-04-19T08:35:26.000Z",
-            "date_published": "2022-03-30T10:33:54.000Z",
-            "author": {
-                "name": "hobbii",
-                "url": "https://github.com/hobbii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33700195?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A public composer package, wrapping AWS Cognito methods</div>",
-            "url": "https://github.com/hobbii/cognito-client",
-            "title": "hobbii/cognito-client: A public composer package, wrapping AWS Cognito methods",
-            "date_modified": "2022-04-19T08:34:30.000Z",
-            "date_published": "2022-03-30T07:07:24.000Z",
-            "author": {
-                "name": "hobbii",
-                "url": "https://github.com/hobbii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1924642?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/\" rel=\"nofollow\">https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/</a></div>",
-            "url": "https://github.com/sahasbhop/wildrydes-site",
-            "title": "sahasbhop/wildrydes-site: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/",
-            "date_modified": "2022-04-04T10:50:24.000Z",
-            "date_published": "2022-04-04T10:22:34.000Z",
-            "author": {
-                "name": "sahasbhop",
-                "url": "https://github.com/sahasbhop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34220101?u=b4992515785ff5c73b9f18455bceedd68e9bc425&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terraform module for a secure website hosted on AWS</div>",
-            "url": "https://github.com/timmeinerzhagen/terraform-aws-website-secure",
-            "title": "timmeinerzhagen/terraform-aws-website-secure: Terraform module for a secure website hosted on AWS",
-            "date_modified": "2021-11-20T02:18:25.000Z",
-            "date_published": "2021-10-31T23:52:26.000Z",
-            "author": {
-                "name": "timmeinerzhagen",
-                "url": "https://github.com/timmeinerzhagen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100830578?u=f98a33e146cc369a029f6059dacbe2509581ff58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/saqlainM87/nextjs-cognito-integration-with-amplify",
-            "title": "saqlainM87/nextjs-cognito-integration-with-amplify",
-            "date_modified": "2022-04-15T08:51:24.000Z",
-            "date_published": "2022-04-15T08:51:16.000Z",
-            "author": {
-                "name": "saqlainM87",
-                "url": "https://github.com/saqlainM87"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68529036?u=b6fd13645c0a3027e5e64d619d90ee4bcf6d8bb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple rest api build using aws amplify, cognito, dynamodb, lambda function and react</div>",
-            "url": "https://github.com/kull-boii/pets-rest-api-awsAmplify-react",
-            "title": "kull-boii/pets-rest-api-awsAmplify-react: simple rest api build using aws amplify, cognito, dynamodb, lambda function and react",
-            "date_modified": "2022-04-19T04:29:34.000Z",
-            "date_published": "2022-04-19T04:28:48.000Z",
-            "author": {
-                "name": "kull-boii",
-                "url": "https://github.com/kull-boii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92178583?u=1f06c7c6f5585fb974bda739e1ccb47b02a736e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GarcelCode/cognito-aws",
-            "title": "GarcelCode/cognito-aws",
-            "date_modified": "2022-04-19T01:47:22.000Z",
-            "date_published": "2022-04-19T01:46:15.000Z",
-            "author": {
-                "name": "GarcelCode",
-                "url": "https://github.com/GarcelCode"
             }
         }
     ]
