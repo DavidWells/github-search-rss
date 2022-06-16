@@ -2,62 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/analytics-javascript-repo.json</id>
     <title>Analytics repositories</title>
-    <updated>2022-06-15T00:19:52.078Z</updated>
+    <updated>2022-06-16T00:17:01.722Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=analytics+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Analytics repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[doitintl/help: DoiT International Help Center and product documentation]]></title>
-        <id>https://github.com/doitintl/help</id>
-        <link href="https://github.com/doitintl/help"/>
-        <updated>2022-06-14T23:55:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8424863?v=4" width="64" height="64" alt=""/><br/><div>DoiT International Help Center and product documentation</div>]]></content>
+        <title type="html"><![CDATA[isharif/daolytics: Analytics application that uses graph theory on POAP ownership data to derive key operational insights for DAOs]]></title>
+        <id>https://github.com/isharif/daolytics</id>
+        <link href="https://github.com/isharif/daolytics"/>
+        <updated>2022-04-10T10:16:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6741878?u=1bec5dbeb415fe9fc3d4e50fdd5a4219ebc82346&v=4" width="64" height="64" alt=""/><br/><div>Analytics application that uses graph theory on POAP ownership data to derive key operational insights for DAOs</div>]]></content>
         <author>
-            <name>doitintl</name>
-            <email>doitintl@noreply.github.com</email>
-            <uri>https://github.com/doitintl</uri>
+            <name>isharif</name>
+            <email>isharif@noreply.github.com</email>
+            <uri>https://github.com/isharif</uri>
         </author>
-        <published>2021-11-18T08:54:13.000Z</published>
+        <published>2022-04-09T20:58:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreTexts/analytics-dashboard]]></title>
-        <id>https://github.com/LibreTexts/analytics-dashboard</id>
-        <link href="https://github.com/LibreTexts/analytics-dashboard"/>
-        <updated>2022-05-26T20:38:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42589275?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[PostHog/posthog: 🦔 PostHog provides open-source product analytics that you can self-host. ]]></title>
+        <id>https://github.com/PostHog/posthog</id>
+        <link href="https://github.com/PostHog/posthog"/>
+        <updated>2022-06-15T17:19:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60330232?v=4" width="64" height="64" alt=""/><br/><div>
+<g-emoji class="g-emoji" alias="hedgehog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f994.png">🦔</g-emoji> PostHog provides open-source product analytics that you can self-host. </div>]]></content>
         <author>
-            <name>LibreTexts</name>
-            <email>LibreTexts@noreply.github.com</email>
-            <uri>https://github.com/LibreTexts</uri>
+            <name>PostHog</name>
+            <email>PostHog@noreply.github.com</email>
+            <uri>https://github.com/PostHog</uri>
         </author>
-        <published>2022-05-18T00:29:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cococov/cedh-analytics: Analytics based on cEDH lists database.]]></title>
-        <id>https://github.com/cococov/cedh-analytics</id>
-        <link href="https://github.com/cococov/cedh-analytics"/>
-        <updated>2022-06-02T18:19:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19384973?u=18fba113769198c904e87b1e544cffd3cf84af87&v=4" width="64" height="64" alt=""/><br/><div>Analytics based on cEDH lists database.</div>]]></content>
-        <author>
-            <name>cococov</name>
-            <email>cococov@noreply.github.com</email>
-            <uri>https://github.com/cococov</uri>
-        </author>
-        <published>2021-07-11T04:19:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DagonMetric/ng-log-applicationinsights: Microsoft Azure Application Insights integration of @DagonMetric / ng-log for Angular applications.]]></title>
-        <id>https://github.com/DagonMetric/ng-log-applicationinsights</id>
-        <link href="https://github.com/DagonMetric/ng-log-applicationinsights"/>
-        <updated>2022-01-05T00:00:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45667622?v=4" width="64" height="64" alt=""/><br/><div>Microsoft Azure Application Insights integration of <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/DagonMetric/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/DagonMetric">@DagonMetric</a> / ng-log for Angular applications.</div>]]></content>
-        <author>
-            <name>DagonMetric</name>
-            <email>DagonMetric@noreply.github.com</email>
-            <uri>https://github.com/DagonMetric</uri>
-        </author>
-        <published>2019-06-29T18:11:25.000Z</published>
+        <published>2020-01-23T22:46:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[drarunmitra/covid19_india_analytics_final]]></title>
@@ -73,186 +48,43 @@
         <published>2021-05-17T09:40:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[andyjagoe/analytics-plugin-web3analytics: Web3 Analytics plugin for the Analytics project]]></title>
-        <id>https://github.com/andyjagoe/analytics-plugin-web3analytics</id>
-        <link href="https://github.com/andyjagoe/analytics-plugin-web3analytics"/>
-        <updated>2022-06-10T23:38:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/352934?v=4" width="64" height="64" alt=""/><br/><div>Web3 Analytics plugin for the Analytics project</div>]]></content>
+        <title type="html"><![CDATA[ubryce/Automated-Journaling-and-Trade-Analytics]]></title>
+        <id>https://github.com/ubryce/Automated-Journaling-and-Trade-Analytics</id>
+        <link href="https://github.com/ubryce/Automated-Journaling-and-Trade-Analytics"/>
+        <updated>2022-04-29T21:36:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46576768?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>andyjagoe</name>
-            <email>andyjagoe@noreply.github.com</email>
-            <uri>https://github.com/andyjagoe</uri>
+            <name>ubryce</name>
+            <email>ubryce@noreply.github.com</email>
+            <uri>https://github.com/ubryce</uri>
         </author>
-        <published>2022-06-10T23:33:31.000Z</published>
+        <published>2022-04-29T20:25:49.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/web-dashboard-how-to-implement-search-in-the-toolbox-t539258: .NET, Business Intelligence, Web Forms Dashboard]]></title>
-        <id>https://github.com/DevExpress-Examples/web-dashboard-how-to-implement-search-in-the-toolbox-t539258</id>
-        <link href="https://github.com/DevExpress-Examples/web-dashboard-how-to-implement-search-in-the-toolbox-t539258"/>
-        <updated>2022-06-14T23:01:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>.NET, Business Intelligence, Web Forms Dashboard</div>]]></content>
+        <title type="html"><![CDATA[phivanloi/stock-analytics: Hệ thống phân tích kiểm chứng các phương pháp đầu tư chứng khoán]]></title>
+        <id>https://github.com/phivanloi/stock-analytics</id>
+        <link href="https://github.com/phivanloi/stock-analytics"/>
+        <updated>2022-06-05T08:58:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12540136?u=c740e3d9a115b65569dfdfc5b59f237581ff3d46&v=4" width="64" height="64" alt=""/><br/><div>Hệ thống phân tích kiểm chứng các phương pháp đầu tư chứng khoán</div>]]></content>
         <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
+            <name>phivanloi</name>
+            <email>phivanloi@noreply.github.com</email>
+            <uri>https://github.com/phivanloi</uri>
         </author>
-        <published>2018-04-08T00:32:46.000Z</published>
+        <published>2022-04-19T11:23:16.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/web-forms-dashboard-obtain-underlying-data-for-clicked-visual-element-in-custom-item: This example shows how to obtain underlying data in a custom dashboard item when a user clicks the item's visual element]]></title>
-        <id>https://github.com/DevExpress-Examples/web-forms-dashboard-obtain-underlying-data-for-clicked-visual-element-in-custom-item</id>
-        <link href="https://github.com/DevExpress-Examples/web-forms-dashboard-obtain-underlying-data-for-clicked-visual-element-in-custom-item"/>
-        <updated>2022-06-14T23:00:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>This example shows how to obtain underlying data in a custom dashboard item when a user clicks the item's visual element</div>]]></content>
+        <title type="html"><![CDATA[googleapis/nodejs-bigquery: Node.js client for Google Cloud BigQuery: A fast, economical and fully-managed enterprise data warehouse for large-scale data analytics.]]></title>
+        <id>https://github.com/googleapis/nodejs-bigquery</id>
+        <link href="https://github.com/googleapis/nodejs-bigquery"/>
+        <updated>2022-06-15T13:59:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16785467?v=4" width="64" height="64" alt=""/><br/><div>Node.js client for Google Cloud BigQuery: A fast, economical and fully-managed enterprise data warehouse for large-scale data analytics.</div>]]></content>
         <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
+            <name>googleapis</name>
+            <email>googleapis@noreply.github.com</email>
+            <uri>https://github.com/googleapis</uri>
         </author>
-        <published>2018-04-08T00:32:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/how-to-show-underlying-data-in-a-custom-grid-dashboard-item-t524194: .NET, Business Intelligence, Web Forms Dashboard]]></title>
-        <id>https://github.com/DevExpress-Examples/how-to-show-underlying-data-in-a-custom-grid-dashboard-item-t524194</id>
-        <link href="https://github.com/DevExpress-Examples/how-to-show-underlying-data-in-a-custom-grid-dashboard-item-t524194"/>
-        <updated>2022-06-14T22:59:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>.NET, Business Intelligence, Web Forms Dashboard</div>]]></content>
-        <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
-        </author>
-        <published>2018-04-08T00:30:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[react-ga/react-ga: React Google Analytics Module]]></title>
-        <id>https://github.com/react-ga/react-ga</id>
-        <link href="https://github.com/react-ga/react-ga"/>
-        <updated>2022-06-11T08:52:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18032245?v=4" width="64" height="64" alt=""/><br/><div>React Google Analytics Module</div>]]></content>
-        <author>
-            <name>react-ga</name>
-            <email>react-ga@noreply.github.com</email>
-            <uri>https://github.com/react-ga</uri>
-        </author>
-        <published>2015-03-27T11:09:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/aspxdashboard-how-to-obtain-underlying-data-for-the-specified-dashboard-item-t518504: .NET, Business Intelligence, Web Forms Dashboard]]></title>
-        <id>https://github.com/DevExpress-Examples/aspxdashboard-how-to-obtain-underlying-data-for-the-specified-dashboard-item-t518504</id>
-        <link href="https://github.com/DevExpress-Examples/aspxdashboard-how-to-obtain-underlying-data-for-the-specified-dashboard-item-t518504"/>
-        <updated>2022-06-14T22:56:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>.NET, Business Intelligence, Web Forms Dashboard</div>]]></content>
-        <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
-        </author>
-        <published>2018-04-08T00:21:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/aspxdashboard-how-to-add-custom-interactivity-to-a-dashboard-t495562: .NET, Business Intelligence, Web Forms Dashboard]]></title>
-        <id>https://github.com/DevExpress-Examples/aspxdashboard-how-to-add-custom-interactivity-to-a-dashboard-t495562</id>
-        <link href="https://github.com/DevExpress-Examples/aspxdashboard-how-to-add-custom-interactivity-to-a-dashboard-t495562"/>
-        <updated>2022-06-14T22:55:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>.NET, Business Intelligence, Web Forms Dashboard</div>]]></content>
-        <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
-        </author>
-        <published>2018-04-08T00:19:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/mvc-dashboard-custom-storage: Create a custom dashboard storage to load and save dashboards in a database.]]></title>
-        <id>https://github.com/DevExpress-Examples/mvc-dashboard-custom-storage</id>
-        <link href="https://github.com/DevExpress-Examples/mvc-dashboard-custom-storage"/>
-        <updated>2022-06-14T22:51:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>Create a custom dashboard storage to load and save dashboards in a database.</div>]]></content>
-        <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
-        </author>
-        <published>2018-04-08T00:12:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/how-to-create-a-aspnet-mvc-dashboard-designer-application-t484814: .NET, Business Intelligence, MVC Dashboard]]></title>
-        <id>https://github.com/DevExpress-Examples/how-to-create-a-aspnet-mvc-dashboard-designer-application-t484814</id>
-        <link href="https://github.com/DevExpress-Examples/how-to-create-a-aspnet-mvc-dashboard-designer-application-t484814"/>
-        <updated>2022-06-14T22:49:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>.NET, Business Intelligence, MVC Dashboard</div>]]></content>
-        <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
-        </author>
-        <published>2018-04-08T00:10:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevExpress-Examples/web-dashboard-asp-net-mvc-application: The source code of the ASP.NET MVC Dashboard project created in the step-by-step tutorial.]]></title>
-        <id>https://github.com/DevExpress-Examples/web-dashboard-asp-net-mvc-application</id>
-        <link href="https://github.com/DevExpress-Examples/web-dashboard-asp-net-mvc-application"/>
-        <updated>2022-06-14T22:49:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>The source code of the ASP.NET MVC Dashboard project created in the step-by-step tutorial.</div>]]></content>
-        <author>
-            <name>DevExpress-Examples</name>
-            <email>DevExpress-Examples@noreply.github.com</email>
-            <uri>https://github.com/DevExpress-Examples</uri>
-        </author>
-        <published>2018-04-08T00:09:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GridProtectionAlliance/openXDA: eXtensible Disturbance Analytics]]></title>
-        <id>https://github.com/GridProtectionAlliance/openXDA</id>
-        <link href="https://github.com/GridProtectionAlliance/openXDA"/>
-        <updated>2022-01-08T05:10:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9203109?v=4" width="64" height="64" alt=""/><br/><div>eXtensible Disturbance Analytics</div>]]></content>
-        <author>
-            <name>GridProtectionAlliance</name>
-            <email>GridProtectionAlliance@noreply.github.com</email>
-            <uri>https://github.com/GridProtectionAlliance</uri>
-        </author>
-        <published>2015-08-17T01:25:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addono/docusaurus-plugin-goatcounter: Adds GoatCounter web analytics to Docusaurus]]></title>
-        <id>https://github.com/Addono/docusaurus-plugin-goatcounter</id>
-        <link href="https://github.com/Addono/docusaurus-plugin-goatcounter"/>
-        <updated>2022-05-27T22:02:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15435678?u=a128b67bb29f9d8d118bf5780d837516c97087ce&v=4" width="64" height="64" alt=""/><br/><div>Adds GoatCounter web analytics to Docusaurus</div>]]></content>
-        <author>
-            <name>Addono</name>
-            <email>Addono@noreply.github.com</email>
-            <uri>https://github.com/Addono</uri>
-        </author>
-        <published>2020-10-03T12:57:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tankpit-analytics/tankpit-analytics.github.io]]></title>
-        <id>https://github.com/tankpit-analytics/tankpit-analytics.github.io</id>
-        <link href="https://github.com/tankpit-analytics/tankpit-analytics.github.io"/>
-        <updated>2022-01-10T23:06:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60195163?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>tankpit-analytics</name>
-            <email>tankpit-analytics@noreply.github.com</email>
-            <uri>https://github.com/tankpit-analytics</uri>
-        </author>
-        <published>2020-01-22T18:49:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[andyjagoe/web3-analytics-demo]]></title>
-        <id>https://github.com/andyjagoe/web3-analytics-demo</id>
-        <link href="https://github.com/andyjagoe/web3-analytics-demo"/>
-        <updated>2022-05-12T18:24:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/352934?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>andyjagoe</name>
-            <email>andyjagoe@noreply.github.com</email>
-            <uri>https://github.com/andyjagoe</uri>
-        </author>
-        <published>2022-03-25T22:55:25.000Z</published>
+        <published>2017-07-26T20:27:38.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.]]></title>
@@ -266,5 +98,174 @@
             <uri>https://github.com/aws-amplify</uri>
         </author>
         <published>2018-08-23T16:33:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aws-samples/aws-analytics-reference-architecture]]></title>
+        <id>https://github.com/aws-samples/aws-analytics-reference-architecture</id>
+        <link href="https://github.com/aws-samples/aws-analytics-reference-architecture"/>
+        <updated>2022-06-10T23:18:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>aws-samples</name>
+            <email>aws-samples@noreply.github.com</email>
+            <uri>https://github.com/aws-samples</uri>
+        </author>
+        <published>2021-04-16T18:48:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[emberswap/emberswap-analytics: Emberswap.com - Analytics EmberSwap]]></title>
+        <id>https://github.com/emberswap/emberswap-analytics</id>
+        <link href="https://github.com/emberswap/emberswap-analytics"/>
+        <updated>2022-06-03T19:27:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96666546?u=4408f9436313a9346877ad66a42b812b45eb02c5&v=4" width="64" height="64" alt=""/><br/><div>Emberswap.com - Analytics EmberSwap</div>]]></content>
+        <author>
+            <name>emberswap</name>
+            <email>emberswap@noreply.github.com</email>
+            <uri>https://github.com/emberswap</uri>
+        </author>
+        <published>2022-06-03T17:22:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GannettDigital/api-docs: ANALYTICS - Documentation for all public APIs]]></title>
+        <id>https://github.com/GannettDigital/api-docs</id>
+        <link href="https://github.com/GannettDigital/api-docs"/>
+        <updated>2022-01-07T19:41:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1149177?v=4" width="64" height="64" alt=""/><br/><div>ANALYTICS - Documentation for all public APIs</div>]]></content>
+        <author>
+            <name>GannettDigital</name>
+            <email>GannettDigital@noreply.github.com</email>
+            <uri>https://github.com/GannettDigital</uri>
+        </author>
+        <published>2017-10-04T16:01:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[roniraviv/sea_analytics: Sea Analytics]]></title>
+        <id>https://github.com/roniraviv/sea_analytics</id>
+        <link href="https://github.com/roniraviv/sea_analytics"/>
+        <updated>2022-02-23T13:29:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58907201?v=4" width="64" height="64" alt=""/><br/><div>Sea Analytics</div>]]></content>
+        <author>
+            <name>roniraviv</name>
+            <email>roniraviv@noreply.github.com</email>
+            <uri>https://github.com/roniraviv</uri>
+        </author>
+        <published>2020-11-25T18:20:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TonikX/analytics_backend: Репозиторий для хранениря серверной части проекта ]]></title>
+        <id>https://github.com/TonikX/analytics_backend</id>
+        <link href="https://github.com/TonikX/analytics_backend"/>
+        <updated>2021-12-28T20:36:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23614490?u=e1cfc3d62541a129a1d812cf7aaf55cb44ea2f8d&v=4" width="64" height="64" alt=""/><br/><div>Репозиторий для хранениря серверной части проекта </div>]]></content>
+        <author>
+            <name>TonikX</name>
+            <email>TonikX@noreply.github.com</email>
+            <uri>https://github.com/TonikX</uri>
+        </author>
+        <published>2020-04-25T15:25:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valinor13/HeroAnalytics]]></title>
+        <id>https://github.com/Valinor13/HeroAnalytics</id>
+        <link href="https://github.com/Valinor13/HeroAnalytics"/>
+        <updated>2022-06-13T18:36:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68342564?u=a8955281dfc129c5f154cf92efae78649966417a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Valinor13</name>
+            <email>Valinor13@noreply.github.com</email>
+            <uri>https://github.com/Valinor13</uri>
+        </author>
+        <published>2022-06-03T05:05:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NelyaP/geo-analytics-ui-main: Combined version]]></title>
+        <id>https://github.com/NelyaP/geo-analytics-ui-main</id>
+        <link href="https://github.com/NelyaP/geo-analytics-ui-main"/>
+        <updated>2022-06-14T06:54:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12470363?u=233ca5b458dbca734482908a0f6dbcdae87b1fb7&v=4" width="64" height="64" alt=""/><br/><div>Combined version</div>]]></content>
+        <author>
+            <name>NelyaP</name>
+            <email>NelyaP@noreply.github.com</email>
+            <uri>https://github.com/NelyaP</uri>
+        </author>
+        <published>2022-06-09T09:34:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kidGodzilla/sqlite-analytics: Distributable for Sqlite Analytics]]></title>
+        <id>https://github.com/kidGodzilla/sqlite-analytics</id>
+        <link href="https://github.com/kidGodzilla/sqlite-analytics"/>
+        <updated>2022-06-04T22:02:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6320214?u=e0059ec4f0a5bff042b5299feb6df8d5a6ecbfd1&v=4" width="64" height="64" alt=""/><br/><div>Distributable for Sqlite Analytics</div>]]></content>
+        <author>
+            <name>kidGodzilla</name>
+            <email>kidGodzilla@noreply.github.com</email>
+            <uri>https://github.com/kidGodzilla</uri>
+        </author>
+        <published>2022-06-02T01:23:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sassoftware/sas-visualanalytics-geowebmap: Using the data-driven content feature offered in SAS Visual Analytics, users can add Web Maps to their reports and integrate the results of their SAS-based analysis as discrete map layers]]></title>
+        <id>https://github.com/sassoftware/sas-visualanalytics-geowebmap</id>
+        <link href="https://github.com/sassoftware/sas-visualanalytics-geowebmap"/>
+        <updated>2022-06-10T19:37:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5289877?v=4" width="64" height="64" alt=""/><br/><div>Using the data-driven content feature offered in SAS Visual Analytics, users can add Web Maps to their reports and integrate the results of their SAS-based analysis as discrete map layers</div>]]></content>
+        <author>
+            <name>sassoftware</name>
+            <email>sassoftware@noreply.github.com</email>
+            <uri>https://github.com/sassoftware</uri>
+        </author>
+        <published>2018-05-15T18:29:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[segmentio/analytics-next: The next version of AJS]]></title>
+        <id>https://github.com/segmentio/analytics-next</id>
+        <link href="https://github.com/segmentio/analytics-next"/>
+        <updated>2022-06-15T14:14:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/819518?v=4" width="64" height="64" alt=""/><br/><div>The next version of AJS</div>]]></content>
+        <author>
+            <name>segmentio</name>
+            <email>segmentio@noreply.github.com</email>
+            <uri>https://github.com/segmentio</uri>
+        </author>
+        <published>2020-09-02T16:58:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pingcap/ossinsight: Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software]]></title>
+        <id>https://github.com/pingcap/ossinsight</id>
+        <link href="https://github.com/pingcap/ossinsight"/>
+        <updated>2022-06-15T16:03:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11855343?v=4" width="64" height="64" alt=""/><br/><div>Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software</div>]]></content>
+        <author>
+            <name>pingcap</name>
+            <email>pingcap@noreply.github.com</email>
+            <uri>https://github.com/pingcap</uri>
+        </author>
+        <published>2022-01-19T10:41:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srad1292/anime-analytics-ui]]></title>
+        <id>https://github.com/srad1292/anime-analytics-ui</id>
+        <link href="https://github.com/srad1292/anime-analytics-ui"/>
+        <updated>2022-06-15T17:33:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6655000?u=7996e625c2e831de2df42ad96353e24b62971c04&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>srad1292</name>
+            <email>srad1292@noreply.github.com</email>
+            <uri>https://github.com/srad1292</uri>
+        </author>
+        <published>2020-07-05T21:27:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srad1292/anime_analytics_api]]></title>
+        <id>https://github.com/srad1292/anime_analytics_api</id>
+        <link href="https://github.com/srad1292/anime_analytics_api"/>
+        <updated>2022-06-15T17:32:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6655000?u=7996e625c2e831de2df42ad96353e24b62971c04&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>srad1292</name>
+            <email>srad1292@noreply.github.com</email>
+            <uri>https://github.com/srad1292</uri>
+        </author>
+        <published>2020-06-28T19:01:24.000Z</published>
     </entry>
 </feed>
