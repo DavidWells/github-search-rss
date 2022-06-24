@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/saas-javascript-repo.json</id>
     <title>Saas repositories</title>
-    <updated>2022-06-23T00:15:44.131Z</updated>
+    <updated>2022-06-24T00:17:45.479Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=saas+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Saas repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[gwsistemas/autenticacao-saas]]></title>
-        <id>https://github.com/gwsistemas/autenticacao-saas</id>
-        <link href="https://github.com/gwsistemas/autenticacao-saas"/>
-        <updated>2022-01-04T03:47:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30601446?u=cd5af7eb39570b4f667f5af3d3f670132afad1f6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>gwsistemas</name>
-            <email>gwsistemas@noreply.github.com</email>
-            <uri>https://github.com/gwsistemas</uri>
-        </author>
-        <published>2021-07-16T18:54:51.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[adriaanvanrossum/saasforcovid.com: Fight COVID-19 together with these discounted SaaS products]]></title>
         <id>https://github.com/adriaanvanrossum/saasforcovid.com</id>
@@ -34,17 +21,173 @@
         <published>2020-03-30T19:50:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UnitedEffects/ueauth: UE Auth is a multi-tenant OIDC Provider, User Management, B2B Product Access, and Roles/Permissions Management system intended to create a single hybrid solution to serve as Identity and Access for both self-registered B2C Apps and Enterprise B2B Solutions. The feature set combines similar functionality you find in Commercial SaaS providers for Identity Management at far less cost, and provides all of the missing pieces enterprises typically end up having to develop on their own in a single package available to your organization through an Apache 2.0 license. ]]></title>
-        <id>https://github.com/UnitedEffects/ueauth</id>
-        <link href="https://github.com/UnitedEffects/ueauth"/>
-        <updated>2022-04-06T20:46:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15662367?v=4" width="64" height="64" alt=""/><br/><div>UE Auth is a multi-tenant OIDC Provider, User Management, B2B Product Access, and Roles/Permissions Management system intended to create a single hybrid solution to serve as Identity and Access for both self-registered B2C Apps and Enterprise B2B Solutions. The feature set combines similar functionality you find in Commercial SaaS providers for Identity Management at far less cost, and provides all of the missing pieces enterprises typically end up having to develop on their own in a single package available to your organization through an Apache 2.0 license. </div>]]></content>
+        <title type="html"><![CDATA[graphile/starter: Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js]]></title>
+        <id>https://github.com/graphile/starter</id>
+        <link href="https://github.com/graphile/starter"/>
+        <updated>2022-06-23T01:26:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30540084?v=4" width="64" height="64" alt=""/><br/><div>Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js</div>]]></content>
         <author>
-            <name>UnitedEffects</name>
-            <email>UnitedEffects@noreply.github.com</email>
-            <uri>https://github.com/UnitedEffects</uri>
+            <name>graphile</name>
+            <email>graphile@noreply.github.com</email>
+            <uri>https://github.com/graphile</uri>
         </author>
-        <published>2020-03-23T03:38:36.000Z</published>
+        <published>2019-04-15T20:28:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rili-saas-unique/back-end-node.js-services: SaaS starter kit, foundation for your business]]></title>
+        <id>https://github.com/rili-saas-unique/back-end-node.js-services</id>
+        <link href="https://github.com/rili-saas-unique/back-end-node.js-services"/>
+        <updated>2022-06-23T20:36:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/105825674?v=4" width="64" height="64" alt=""/><br/><div>SaaS starter kit, foundation for your business</div>]]></content>
+        <author>
+            <name>rili-saas-unique</name>
+            <email>rili-saas-unique@noreply.github.com</email>
+            <uri>https://github.com/rili-saas-unique</uri>
+        </author>
+        <published>2021-03-15T09:47:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rili-saas-unique/back-end-node.js-graphql: SaaS starter kit, foundation for your business]]></title>
+        <id>https://github.com/rili-saas-unique/back-end-node.js-graphql</id>
+        <link href="https://github.com/rili-saas-unique/back-end-node.js-graphql"/>
+        <updated>2022-06-23T20:28:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/105825674?v=4" width="64" height="64" alt=""/><br/><div>SaaS starter kit, foundation for your business</div>]]></content>
+        <author>
+            <name>rili-saas-unique</name>
+            <email>rili-saas-unique@noreply.github.com</email>
+            <uri>https://github.com/rili-saas-unique</uri>
+        </author>
+        <published>2021-03-07T21:40:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rili-saas-unique/front-end-react.js-application: SaaS starter kit, foundation for your business]]></title>
+        <id>https://github.com/rili-saas-unique/front-end-react.js-application</id>
+        <link href="https://github.com/rili-saas-unique/front-end-react.js-application"/>
+        <updated>2022-06-23T20:27:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/105825674?v=4" width="64" height="64" alt=""/><br/><div>SaaS starter kit, foundation for your business</div>]]></content>
+        <author>
+            <name>rili-saas-unique</name>
+            <email>rili-saas-unique@noreply.github.com</email>
+            <uri>https://github.com/rili-saas-unique</uri>
+        </author>
+        <published>2021-03-06T19:36:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HugoGresse/open-feedback: Open Feedback is an opened SaaS platform destined to organisers to gather feedback from users. OpenFeedback]]></title>
+        <id>https://github.com/HugoGresse/open-feedback</id>
+        <link href="https://github.com/HugoGresse/open-feedback"/>
+        <updated>2022-06-17T14:06:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/662377?u=3dc4439f1999c7418ba1e3f7441dc3c8e390c3c2&v=4" width="64" height="64" alt=""/><br/><div>Open Feedback is an opened SaaS platform destined to organisers to gather feedback from users. OpenFeedback</div>]]></content>
+        <author>
+            <name>HugoGresse</name>
+            <email>HugoGresse@noreply.github.com</email>
+            <uri>https://github.com/HugoGresse</uri>
+        </author>
+        <published>2018-12-18T13:15:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EduardoGape/Sistema-de-Delivery: sistema de delivery SaaS Multi-tenancy]]></title>
+        <id>https://github.com/EduardoGape/Sistema-de-Delivery</id>
+        <link href="https://github.com/EduardoGape/Sistema-de-Delivery"/>
+        <updated>2022-06-22T15:51:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102864156?u=a9f8549c7f7111a24c5d97d32196e7406d0fedac&v=4" width="64" height="64" alt=""/><br/><div>sistema de delivery SaaS Multi-tenancy</div>]]></content>
+        <author>
+            <name>EduardoGape</name>
+            <email>EduardoGape@noreply.github.com</email>
+            <uri>https://github.com/EduardoGape</uri>
+        </author>
+        <published>2022-06-22T13:41:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlexandroMtzG/remix-blocks: Ready-to-use Remix + Tailwind CSS routes and components.]]></title>
+        <id>https://github.com/AlexandroMtzG/remix-blocks</id>
+        <link href="https://github.com/AlexandroMtzG/remix-blocks"/>
+        <updated>2022-06-23T22:41:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8606530?u=46845437d5318fa0de85522aad0432f7d162311d&v=4" width="64" height="64" alt=""/><br/><div>Ready-to-use Remix + Tailwind CSS routes and components.</div>]]></content>
+        <author>
+            <name>AlexandroMtzG</name>
+            <email>AlexandroMtzG@noreply.github.com</email>
+            <uri>https://github.com/AlexandroMtzG</uri>
+        </author>
+        <published>2022-06-23T00:53:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mukhtar-github/vimap: VIMAP is a SaaS Project which is an acronym for Vehicles Information Management Application]]></title>
+        <id>https://github.com/mukhtar-github/vimap</id>
+        <link href="https://github.com/mukhtar-github/vimap"/>
+        <updated>2022-05-12T05:49:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41001913?u=8a54da90cf536b8504e60488759000cd6bbbf99c&v=4" width="64" height="64" alt=""/><br/><div>VIMAP is a SaaS Project which is an acronym for Vehicles Information Management Application</div>]]></content>
+        <author>
+            <name>mukhtar-github</name>
+            <email>mukhtar-github@noreply.github.com</email>
+            <uri>https://github.com/mukhtar-github</uri>
+        </author>
+        <published>2022-04-18T08:36:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[percona-platform/saas-ui: SaaS UI]]></title>
+        <id>https://github.com/percona-platform/saas-ui</id>
+        <link href="https://github.com/percona-platform/saas-ui"/>
+        <updated>2022-03-03T14:54:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60408152?v=4" width="64" height="64" alt=""/><br/><div>SaaS UI</div>]]></content>
+        <author>
+            <name>percona-platform</name>
+            <email>percona-platform@noreply.github.com</email>
+            <uri>https://github.com/percona-platform</uri>
+        </author>
+        <published>2020-08-28T09:10:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MaciejGoral/Saas-native]]></title>
+        <id>https://github.com/MaciejGoral/Saas-native</id>
+        <link href="https://github.com/MaciejGoral/Saas-native"/>
+        <updated>2022-06-13T15:52:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56510824?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>MaciejGoral</name>
+            <email>MaciejGoral@noreply.github.com</email>
+            <uri>https://github.com/MaciejGoral</uri>
+        </author>
+        <published>2022-06-13T15:52:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rigole/ReactJS-Applications]]></title>
+        <id>https://github.com/rigole/ReactJS-Applications</id>
+        <link href="https://github.com/rigole/ReactJS-Applications"/>
+        <updated>2022-05-25T11:23:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24222013?u=75e62a3fd7a35791a84f75c21ee53d01ec16e183&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>rigole</name>
+            <email>rigole@noreply.github.com</email>
+            <uri>https://github.com/rigole</uri>
+        </author>
+        <published>2022-04-14T16:12:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[maazshakeel/Rapid-Vocabulary: Side project (can turn into a saas startup)]]></title>
+        <id>https://github.com/maazshakeel/Rapid-Vocabulary</id>
+        <link href="https://github.com/maazshakeel/Rapid-Vocabulary"/>
+        <updated>2022-06-23T08:24:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62890173?u=f37f0a36ade4a0aa8d0171538cd2efbfab71d6af&v=4" width="64" height="64" alt=""/><br/><div>Side project (can turn into a saas startup)</div>]]></content>
+        <author>
+            <name>maazshakeel</name>
+            <email>maazshakeel@noreply.github.com</email>
+            <uri>https://github.com/maazshakeel</uri>
+        </author>
+        <published>2022-06-23T08:21:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ParabolInc/parabol: Free online agile retrospective meeting tool]]></title>
+        <id>https://github.com/ParabolInc/parabol</id>
+        <link href="https://github.com/ParabolInc/parabol"/>
+        <updated>2022-06-23T20:39:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14169569?v=4" width="64" height="64" alt=""/><br/><div>Free online agile retrospective meeting tool</div>]]></content>
+        <author>
+            <name>ParabolInc</name>
+            <email>ParabolInc@noreply.github.com</email>
+            <uri>https://github.com/ParabolInc</uri>
+        </author>
+        <published>2015-12-21T17:16:49.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alexlytle/saas-laravel-subscription-app: Webfield single_charge_changes]]></title>
@@ -58,6 +201,32 @@
             <uri>https://github.com/Alexlytle</uri>
         </author>
         <published>2022-04-05T04:18:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gwsistemas/autenticacao-saas]]></title>
+        <id>https://github.com/gwsistemas/autenticacao-saas</id>
+        <link href="https://github.com/gwsistemas/autenticacao-saas"/>
+        <updated>2022-01-04T03:47:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30601446?u=cd5af7eb39570b4f667f5af3d3f670132afad1f6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>gwsistemas</name>
+            <email>gwsistemas@noreply.github.com</email>
+            <uri>https://github.com/gwsistemas</uri>
+        </author>
+        <published>2021-07-16T18:54:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnitedEffects/ueauth: UE Auth is a multi-tenant OIDC Provider, User Management, B2B Product Access, and Roles/Permissions Management system intended to create a single hybrid solution to serve as Identity and Access for both self-registered B2C Apps and Enterprise B2B Solutions. The feature set combines similar functionality you find in Commercial SaaS providers for Identity Management at far less cost, and provides all of the missing pieces enterprises typically end up having to develop on their own in a single package available to your organization through an Apache 2.0 license. ]]></title>
+        <id>https://github.com/UnitedEffects/ueauth</id>
+        <link href="https://github.com/UnitedEffects/ueauth"/>
+        <updated>2022-04-06T20:46:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15662367?v=4" width="64" height="64" alt=""/><br/><div>UE Auth is a multi-tenant OIDC Provider, User Management, B2B Product Access, and Roles/Permissions Management system intended to create a single hybrid solution to serve as Identity and Access for both self-registered B2C Apps and Enterprise B2B Solutions. The feature set combines similar functionality you find in Commercial SaaS providers for Identity Management at far less cost, and provides all of the missing pieces enterprises typically end up having to develop on their own in a single package available to your organization through an Apache 2.0 license. </div>]]></content>
+        <author>
+            <name>UnitedEffects</name>
+            <email>UnitedEffects@noreply.github.com</email>
+            <uri>https://github.com/UnitedEffects</uri>
+        </author>
+        <published>2020-03-23T03:38:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[eclectic-coding/rails_saas]]></title>
@@ -89,7 +258,7 @@
         <title type="html"><![CDATA[async-labs/saas: Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.]]></title>
         <id>https://github.com/async-labs/saas</id>
         <link href="https://github.com/async-labs/saas"/>
-        <updated>2022-06-22T13:44:35.000Z</updated>
+        <updated>2022-06-23T21:55:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37727559?v=4" width="64" height="64" alt=""/><br/><div>Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.</div>]]></content>
         <author>
             <name>async-labs</name>
@@ -97,174 +266,5 @@
             <uri>https://github.com/async-labs</uri>
         </author>
         <published>2018-04-06T03:39:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[webmaster1022/NextJS-SAAS-Starter-Master: SAAS]]></title>
-        <id>https://github.com/webmaster1022/NextJS-SAAS-Starter-Master</id>
-        <link href="https://github.com/webmaster1022/NextJS-SAAS-Starter-Master"/>
-        <updated>2022-06-22T19:40:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104451862?v=4" width="64" height="64" alt=""/><br/><div>SAAS</div>]]></content>
-        <author>
-            <name>webmaster1022</name>
-            <email>webmaster1022@noreply.github.com</email>
-            <uri>https://github.com/webmaster1022</uri>
-        </author>
-        <published>2022-06-22T19:38:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zoan-app/zoan: Zoan SaaS Platform]]></title>
-        <id>https://github.com/zoan-app/zoan</id>
-        <link href="https://github.com/zoan-app/zoan"/>
-        <updated>2022-01-11T01:20:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76845312?v=4" width="64" height="64" alt=""/><br/><div>Zoan SaaS Platform</div>]]></content>
-        <author>
-            <name>zoan-app</name>
-            <email>zoan-app@noreply.github.com</email>
-            <uri>https://github.com/zoan-app</uri>
-        </author>
-        <published>2021-01-01T15:51:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[graphile/starter: Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js]]></title>
-        <id>https://github.com/graphile/starter</id>
-        <link href="https://github.com/graphile/starter"/>
-        <updated>2022-06-21T22:03:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30540084?v=4" width="64" height="64" alt=""/><br/><div>Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js</div>]]></content>
-        <author>
-            <name>graphile</name>
-            <email>graphile@noreply.github.com</email>
-            <uri>https://github.com/graphile</uri>
-        </author>
-        <published>2019-04-15T20:28:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiMichael1/Nextjs-Payment-Saas-Landing-Page: NextJs Landing Page]]></title>
-        <id>https://github.com/LiMichael1/Nextjs-Payment-Saas-Landing-Page</id>
-        <link href="https://github.com/LiMichael1/Nextjs-Payment-Saas-Landing-Page"/>
-        <updated>2022-06-16T06:53:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16946452?v=4" width="64" height="64" alt=""/><br/><div>NextJs Landing Page</div>]]></content>
-        <author>
-            <name>LiMichael1</name>
-            <email>LiMichael1@noreply.github.com</email>
-            <uri>https://github.com/LiMichael1</uri>
-        </author>
-        <published>2022-06-16T06:48:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kkarrwrites/tarot: WIP - A tarot one card reading project built for my dev portfolio using HTML, CSS, Saas, and JavaScript. (Coded by @kkarrwrites.)]]></title>
-        <id>https://github.com/kkarrwrites/tarot</id>
-        <link href="https://github.com/kkarrwrites/tarot"/>
-        <updated>2022-06-16T13:15:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57644505?u=0b0f3a99cc2a95a7bb8a09cebbf6698b7bd97043&v=4" width="64" height="64" alt=""/><br/><div>WIP - A tarot one card reading project built for my dev portfolio using HTML, CSS, Saas, and JavaScript. (Coded by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/kkarrwrites/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kkarrwrites">@kkarrwrites</a>.)</div>]]></content>
-        <author>
-            <name>kkarrwrites</name>
-            <email>kkarrwrites@noreply.github.com</email>
-            <uri>https://github.com/kkarrwrites</uri>
-        </author>
-        <published>2022-06-10T16:52:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ParabolInc/parabol: Free online agile retrospective meeting tool]]></title>
-        <id>https://github.com/ParabolInc/parabol</id>
-        <link href="https://github.com/ParabolInc/parabol"/>
-        <updated>2022-06-22T19:42:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14169569?v=4" width="64" height="64" alt=""/><br/><div>Free online agile retrospective meeting tool</div>]]></content>
-        <author>
-            <name>ParabolInc</name>
-            <email>ParabolInc@noreply.github.com</email>
-            <uri>https://github.com/ParabolInc</uri>
-        </author>
-        <published>2015-12-21T17:16:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cervus18/Resume-builder: A SaaS that allows you to custom and generate your Resume]]></title>
-        <id>https://github.com/Cervus18/Resume-builder</id>
-        <link href="https://github.com/Cervus18/Resume-builder"/>
-        <updated>2022-06-22T17:30:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71794018?v=4" width="64" height="64" alt=""/><br/><div>A SaaS that allows you to custom and generate your Resume</div>]]></content>
-        <author>
-            <name>Cervus18</name>
-            <email>Cervus18@noreply.github.com</email>
-            <uri>https://github.com/Cervus18</uri>
-        </author>
-        <published>2022-06-22T17:24:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nikolkovjec/Django-SaaS-Platform]]></title>
-        <id>https://github.com/nikolkovjec/Django-SaaS-Platform</id>
-        <link href="https://github.com/nikolkovjec/Django-SaaS-Platform"/>
-        <updated>2022-06-22T16:32:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/98321417?u=f17457586ec36af0631cbbaad6962b9bd08108c5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>nikolkovjec</name>
-            <email>nikolkovjec@noreply.github.com</email>
-            <uri>https://github.com/nikolkovjec</uri>
-        </author>
-        <published>2022-02-19T06:10:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EduardoGape/Sistema-de-Delivery: sistema de delivery SaaS Multi-tenancy]]></title>
-        <id>https://github.com/EduardoGape/Sistema-de-Delivery</id>
-        <link href="https://github.com/EduardoGape/Sistema-de-Delivery"/>
-        <updated>2022-06-22T15:51:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102864156?u=a9f8549c7f7111a24c5d97d32196e7406d0fedac&v=4" width="64" height="64" alt=""/><br/><div>sistema de delivery SaaS Multi-tenancy</div>]]></content>
-        <author>
-            <name>EduardoGape</name>
-            <email>EduardoGape@noreply.github.com</email>
-            <uri>https://github.com/EduardoGape</uri>
-        </author>
-        <published>2022-06-22T13:41:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[makeitcount/saas-express-starter-kit: A boilerplate for SaaS with features such as authentication, email service, etc.]]></title>
-        <id>https://github.com/makeitcount/saas-express-starter-kit</id>
-        <link href="https://github.com/makeitcount/saas-express-starter-kit"/>
-        <updated>2022-06-22T13:22:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18238857?u=d7410645df83deecb7ce9663d20e69733eba278d&v=4" width="64" height="64" alt=""/><br/><div>A boilerplate for SaaS with features such as authentication, email service, etc.</div>]]></content>
-        <author>
-            <name>makeitcount</name>
-            <email>makeitcount@noreply.github.com</email>
-            <uri>https://github.com/makeitcount</uri>
-        </author>
-        <published>2022-05-05T04:26:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GBrachetta/supabase-saas]]></title>
-        <id>https://github.com/GBrachetta/supabase-saas</id>
-        <link href="https://github.com/GBrachetta/supabase-saas"/>
-        <updated>2022-06-22T19:40:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57924268?u=8117acf76061d2ff0c86fc8d49b28b78823e6d55&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GBrachetta</name>
-            <email>GBrachetta@noreply.github.com</email>
-            <uri>https://github.com/GBrachetta</uri>
-        </author>
-        <published>2022-06-22T12:08:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[percona-platform/saas-ui: SaaS UI]]></title>
-        <id>https://github.com/percona-platform/saas-ui</id>
-        <link href="https://github.com/percona-platform/saas-ui"/>
-        <updated>2022-03-03T14:54:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60408152?v=4" width="64" height="64" alt=""/><br/><div>SaaS UI</div>]]></content>
-        <author>
-            <name>percona-platform</name>
-            <email>percona-platform@noreply.github.com</email>
-            <uri>https://github.com/percona-platform</uri>
-        </author>
-        <published>2020-08-28T09:10:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zumbuuul/Nextjs-Payment-Saas-Landing-Page]]></title>
-        <id>https://github.com/zumbuuul/Nextjs-Payment-Saas-Landing-Page</id>
-        <link href="https://github.com/zumbuuul/Nextjs-Payment-Saas-Landing-Page"/>
-        <updated>2022-06-18T15:42:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102739360?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zumbuuul</name>
-            <email>zumbuuul@noreply.github.com</email>
-            <uri>https://github.com/zumbuuul</uri>
-        </author>
-        <published>2022-06-18T15:20:22.000Z</published>
     </entry>
 </feed>
