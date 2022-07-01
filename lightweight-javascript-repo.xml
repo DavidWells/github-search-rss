@@ -2,30 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/lightweight-javascript-repo.json</id>
     <title>LightWeight JavaScript repositories</title>
-    <updated>2022-06-30T00:18:28.331Z</updated>
+    <updated>2022-07-01T00:20:19.466Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=lightweight+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>LightWeight JavaScript repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry]]></title>
-        <id>https://github.com/verdaccio/verdaccio</id>
-        <link href="https://github.com/verdaccio/verdaccio"/>
-        <updated>2022-06-29T22:28:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18487506?v=4" width="64" height="64" alt=""/><br/><div>
-<g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji> A lightweight Node.js private proxy registry</div>]]></content>
+        <title type="html"><![CDATA[node-prism/db: A lightweight, in-memory document database.]]></title>
+        <id>https://github.com/node-prism/db</id>
+        <link href="https://github.com/node-prism/db"/>
+        <updated>2022-06-29T02:18:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/107958958?v=4" width="64" height="64" alt=""/><br/><div>A lightweight, in-memory document database.</div>]]></content>
         <author>
-            <name>verdaccio</name>
-            <email>verdaccio@noreply.github.com</email>
-            <uri>https://github.com/verdaccio</uri>
+            <name>node-prism</name>
+            <email>node-prism@noreply.github.com</email>
+            <uri>https://github.com/node-prism</uri>
         </author>
-        <published>2016-04-15T16:21:12.000Z</published>
+        <published>2022-06-21T21:23:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[maverick-js/observables: A tiny (~850B minzipped) library for creating reactive observables via functions. Works in browsers and Node.]]></title>
+        <id>https://github.com/maverick-js/observables</id>
+        <link href="https://github.com/maverick-js/observables"/>
+        <updated>2022-06-30T23:34:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108159116?v=4" width="64" height="64" alt=""/><br/><div>A tiny (~850B minzipped) library for creating reactive observables via functions. Works in browsers and Node.</div>]]></content>
+        <author>
+            <name>maverick-js</name>
+            <email>maverick-js@noreply.github.com</email>
+            <uri>https://github.com/maverick-js</uri>
+        </author>
+        <published>2022-06-24T08:37:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[techno-tim/littlelink-server: A lightweight, open source, and self-hosted alternative to linktree in a Docker container!]]></title>
         <id>https://github.com/techno-tim/littlelink-server</id>
         <link href="https://github.com/techno-tim/littlelink-server"/>
-        <updated>2022-06-25T22:37:25.000Z</updated>
+        <updated>2022-06-30T20:36:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60198665?v=4" width="64" height="64" alt=""/><br/><div>A lightweight, open source, and self-hosted alternative to linktree in a Docker container!</div>]]></content>
         <author>
             <name>techno-tim</name>
@@ -35,30 +47,17 @@
         <published>2021-08-10T02:53:44.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NickGThomas/solvelrr: A lightweight NPM package for solving linear recurrence relations.]]></title>
-        <id>https://github.com/NickGThomas/solvelrr</id>
-        <link href="https://github.com/NickGThomas/solvelrr"/>
-        <updated>2022-06-22T22:58:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17592455?u=5c748acc6f3e6d7ec2d4f9ba8001fb10f09b7171&v=4" width="64" height="64" alt=""/><br/><div>A lightweight NPM package for solving linear recurrence relations.</div>]]></content>
+        <title type="html"><![CDATA[axtk/postrouter: A lightweight React router]]></title>
+        <id>https://github.com/axtk/postrouter</id>
+        <link href="https://github.com/axtk/postrouter"/>
+        <updated>2022-06-30T20:27:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24575250?u=a623716a55646dc29ea9aa8ccca4c97256891be0&v=4" width="64" height="64" alt=""/><br/><div>A lightweight React router</div>]]></content>
         <author>
-            <name>NickGThomas</name>
-            <email>NickGThomas@noreply.github.com</email>
-            <uri>https://github.com/NickGThomas</uri>
+            <name>axtk</name>
+            <email>axtk@noreply.github.com</email>
+            <uri>https://github.com/axtk</uri>
         </author>
-        <published>2022-06-22T22:56:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[risadams/emend: A lightweight JS-based library to inline redact e-mail addresses to protect against against scraping.]]></title>
-        <id>https://github.com/risadams/emend</id>
-        <link href="https://github.com/risadams/emend"/>
-        <updated>2022-01-06T11:10:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5329119?u=e5a1dd2d3c606b2b12f95b34422c23272f98cff2&v=4" width="64" height="64" alt=""/><br/><div>A lightweight JS-based library to inline redact e-mail addresses to protect against against scraping.</div>]]></content>
-        <author>
-            <name>risadams</name>
-            <email>risadams@noreply.github.com</email>
-            <uri>https://github.com/risadams</uri>
-        </author>
-        <published>2021-10-22T15:28:40.000Z</published>
+        <published>2021-02-06T23:30:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[maxmilton/trackx: Simple, lightweight, and privacy-friendly error tracking.]]></title>
@@ -74,82 +73,30 @@
         <published>2021-11-19T21:10:44.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lakuna/Umbra: A lightweight visual application framework for WebGL.]]></title>
-        <id>https://github.com/Lakuna/Umbra</id>
-        <link href="https://github.com/Lakuna/Umbra"/>
-        <updated>2022-04-21T07:58:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31971465?v=4" width="64" height="64" alt=""/><br/><div>A lightweight visual application framework for WebGL.</div>]]></content>
+        <title type="html"><![CDATA[RuiSiang/PoW-Shield: Project dedicated to fight Layer 7 DDoS with proof of work, featuring an additional WAF. Completed with full set of features and containerized for rapid and lightweight deployment.]]></title>
+        <id>https://github.com/RuiSiang/PoW-Shield</id>
+        <link href="https://github.com/RuiSiang/PoW-Shield"/>
+        <updated>2022-06-28T16:28:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49300088?u=af2207b411cb0e59287c7a672e41d504a6b5aad2&v=4" width="64" height="64" alt=""/><br/><div>Project dedicated to fight Layer 7 DDoS with proof of work, featuring an additional WAF. Completed with full set of features and containerized for rapid and lightweight deployment.</div>]]></content>
         <author>
-            <name>Lakuna</name>
-            <email>Lakuna@noreply.github.com</email>
-            <uri>https://github.com/Lakuna</uri>
+            <name>RuiSiang</name>
+            <email>RuiSiang@noreply.github.com</email>
+            <uri>https://github.com/RuiSiang</uri>
         </author>
-        <published>2020-08-13T19:36:31.000Z</published>
+        <published>2021-03-08T09:12:20.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mrloop/ember-material-modifier: Lightweight emberjs material design integration]]></title>
-        <id>https://github.com/mrloop/ember-material-modifier</id>
-        <link href="https://github.com/mrloop/ember-material-modifier"/>
-        <updated>2022-04-18T14:02:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12345?v=4" width="64" height="64" alt=""/><br/><div>Lightweight emberjs material design integration</div>]]></content>
+        <title type="html"><![CDATA[iuioiua/r2d2: Simple, lightweight Redis library for Deno.]]></title>
+        <id>https://github.com/iuioiua/r2d2</id>
+        <link href="https://github.com/iuioiua/r2d2"/>
+        <updated>2022-06-30T22:59:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29347852?u=5d25d4e727f1912ce5d9ed194a44c2d83147f672&v=4" width="64" height="64" alt=""/><br/><div>Simple, lightweight Redis library for Deno.</div>]]></content>
         <author>
-            <name>mrloop</name>
-            <email>mrloop@noreply.github.com</email>
-            <uri>https://github.com/mrloop</uri>
+            <name>iuioiua</name>
+            <email>iuioiua@noreply.github.com</email>
+            <uri>https://github.com/iuioiua</uri>
         </author>
-        <published>2022-02-02T20:31:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[axtk/histloc: A lightweight browser history router]]></title>
-        <id>https://github.com/axtk/histloc</id>
-        <link href="https://github.com/axtk/histloc"/>
-        <updated>2022-06-28T21:29:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24575250?u=a623716a55646dc29ea9aa8ccca4c97256891be0&v=4" width="64" height="64" alt=""/><br/><div>A lightweight browser history router</div>]]></content>
-        <author>
-            <name>axtk</name>
-            <email>axtk@noreply.github.com</email>
-            <uri>https://github.com/axtk</uri>
-        </author>
-        <published>2020-12-12T01:08:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lemonpole/dexterous: A lightweight Pokédex. No ads. No gimmicks.]]></title>
-        <id>https://github.com/lemonpole/dexterous</id>
-        <link href="https://github.com/lemonpole/dexterous"/>
-        <updated>2022-06-29T22:51:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5224080?u=b37d528b51573ac930b5d3ef7e44840cf5c36483&v=4" width="64" height="64" alt=""/><br/><div>A lightweight Pokédex. No ads. No gimmicks.</div>]]></content>
-        <author>
-            <name>lemonpole</name>
-            <email>lemonpole@noreply.github.com</email>
-            <uri>https://github.com/lemonpole</uri>
-        </author>
-        <published>2022-06-15T01:32:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[playcanvas/engine: Fast and lightweight JavaScript game engine built on WebGL and glTF]]></title>
-        <id>https://github.com/playcanvas/engine</id>
-        <link href="https://github.com/playcanvas/engine"/>
-        <updated>2022-06-29T11:57:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1030579?v=4" width="64" height="64" alt=""/><br/><div>Fast and lightweight JavaScript game engine built on WebGL and glTF</div>]]></content>
-        <author>
-            <name>playcanvas</name>
-            <email>playcanvas@noreply.github.com</email>
-            <uri>https://github.com/playcanvas</uri>
-        </author>
-        <published>2014-05-12T11:24:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[connext/nxtp: Nxtp is a lightweight protocol for generalized crosschain transfers.]]></title>
-        <id>https://github.com/connext/nxtp</id>
-        <link href="https://github.com/connext/nxtp"/>
-        <updated>2022-06-28T04:01:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29290126?v=4" width="64" height="64" alt=""/><br/><div>Nxtp is a lightweight protocol for generalized crosschain transfers.</div>]]></content>
-        <author>
-            <name>connext</name>
-            <email>connext@noreply.github.com</email>
-            <uri>https://github.com/connext</uri>
-        </author>
-        <published>2021-06-18T23:08:40.000Z</published>
+        <published>2022-06-30T22:29:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ClarityCafe/Sagiri: Simple, lightweight, and easy to use SauceNAO API wrapper for Node.JS.]]></title>
@@ -165,109 +112,161 @@
         <published>2017-04-24T02:42:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[thomasskk/react-proxy-form: Lightweight hooks using proxy for form state and validation in React]]></title>
-        <id>https://github.com/thomasskk/react-proxy-form</id>
-        <link href="https://github.com/thomasskk/react-proxy-form"/>
-        <updated>2022-06-02T15:10:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77022096?u=7e7ed5ec1909e1bbf60c00ec8792a7746d510172&v=4" width="64" height="64" alt=""/><br/><div>Lightweight hooks using proxy for form state and validation in React</div>]]></content>
+        <title type="html"><![CDATA[elchininet/isometric-css: Isometric-CSS is a lightweight JavaScript library to build isometric projections through declarative HTML attributes.]]></title>
+        <id>https://github.com/elchininet/isometric-css</id>
+        <link href="https://github.com/elchininet/isometric-css"/>
+        <updated>2022-06-14T23:22:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3728220?u=be191733d6f494f6a631d50e613cd1a532eb81c7&v=4" width="64" height="64" alt=""/><br/><div>Isometric-CSS is a lightweight JavaScript library to build isometric projections through declarative HTML attributes.</div>]]></content>
         <author>
-            <name>thomasskk</name>
-            <email>thomasskk@noreply.github.com</email>
-            <uri>https://github.com/thomasskk</uri>
+            <name>elchininet</name>
+            <email>elchininet@noreply.github.com</email>
+            <uri>https://github.com/elchininet</uri>
         </author>
-        <published>2022-01-30T15:53:01.000Z</published>
+        <published>2021-01-22T12:52:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tomek-f/gqlite: Lightweight GraphQL requests]]></title>
-        <id>https://github.com/tomek-f/gqlite</id>
-        <link href="https://github.com/tomek-f/gqlite"/>
-        <updated>2022-04-03T15:08:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1083258?u=cad7b19d75b0989e563ddf151b553750129c0f6a&v=4" width="64" height="64" alt=""/><br/><div>Lightweight GraphQL requests</div>]]></content>
+        <title type="html"><![CDATA[nestjs/cqrs: A lightweight CQRS module for Nest framework (node.js) :balloon:]]></title>
+        <id>https://github.com/nestjs/cqrs</id>
+        <link href="https://github.com/nestjs/cqrs"/>
+        <updated>2022-06-27T08:41:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28507035?v=4" width="64" height="64" alt=""/><br/><div>A lightweight CQRS module for Nest framework (node.js) <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji>
+</div>]]></content>
         <author>
-            <name>tomek-f</name>
-            <email>tomek-f@noreply.github.com</email>
-            <uri>https://github.com/tomek-f</uri>
+            <name>nestjs</name>
+            <email>nestjs@noreply.github.com</email>
+            <uri>https://github.com/nestjs</uri>
         </author>
-        <published>2019-04-22T16:05:58.000Z</published>
+        <published>2017-05-06T18:08:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[spierala/mini-rx-store: Lightweight Redux Store based on RxJS]]></title>
-        <id>https://github.com/spierala/mini-rx-store</id>
-        <link href="https://github.com/spierala/mini-rx-store"/>
-        <updated>2022-06-06T14:05:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1272446?v=4" width="64" height="64" alt=""/><br/><div>Lightweight Redux Store based on RxJS</div>]]></content>
+        <title type="html"><![CDATA[spacesoldier/starty: a lightweight framework which helps building modular and configurable Node.js applications]]></title>
+        <id>https://github.com/spacesoldier/starty</id>
+        <link href="https://github.com/spacesoldier/starty"/>
+        <updated>2022-06-10T15:07:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5462408?u=e9f1f1d9227a6213b94bbcba161999c090635c0b&v=4" width="64" height="64" alt=""/><br/><div>a lightweight framework which helps building modular and configurable Node.js applications</div>]]></content>
         <author>
-            <name>spierala</name>
-            <email>spierala@noreply.github.com</email>
-            <uri>https://github.com/spierala</uri>
+            <name>spacesoldier</name>
+            <email>spacesoldier@noreply.github.com</email>
+            <uri>https://github.com/spacesoldier</uri>
         </author>
-        <published>2020-01-27T21:36:20.000Z</published>
+        <published>2022-06-10T11:59:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lit/lit: Lit is a simple library for building fast, lightweight web components.]]></title>
-        <id>https://github.com/lit/lit</id>
-        <link href="https://github.com/lit/lit"/>
-        <updated>2022-06-29T23:29:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18489846?v=4" width="64" height="64" alt=""/><br/><div>Lit is a simple library for building fast, lightweight web components.</div>]]></content>
+        <title type="html"><![CDATA[polywrap/monorepo: Polywrap is a wasm standard for integrating Web3 protocols into applications. This eliminates the need for client-side SDKs, making dapps lightweight and multi-platform.]]></title>
+        <id>https://github.com/polywrap/monorepo</id>
+        <link href="https://github.com/polywrap/monorepo"/>
+        <updated>2022-06-27T22:34:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66859008?v=4" width="64" height="64" alt=""/><br/><div>Polywrap is a wasm standard for integrating Web3 protocols into applications. This eliminates the need for client-side SDKs, making dapps lightweight and multi-platform.</div>]]></content>
         <author>
-            <name>lit</name>
-            <email>lit@noreply.github.com</email>
-            <uri>https://github.com/lit</uri>
+            <name>polywrap</name>
+            <email>polywrap@noreply.github.com</email>
+            <uri>https://github.com/polywrap</uri>
         </author>
-        <published>2017-06-29T16:27:16.000Z</published>
+        <published>2020-06-26T03:29:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[imaperson1060/limelight: A lightweight local database]]></title>
-        <id>https://github.com/imaperson1060/limelight</id>
-        <link href="https://github.com/imaperson1060/limelight"/>
-        <updated>2022-06-29T20:04:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68653653?u=b07f132630046c27802c3f5a4d30f9665b0b8ca7&v=4" width="64" height="64" alt=""/><br/><div>A lightweight local database</div>]]></content>
+        <title type="html"><![CDATA[joshmurr/gl-handler: Another lightweight wrapper library for WebGL.]]></title>
+        <id>https://github.com/joshmurr/gl-handler</id>
+        <link href="https://github.com/joshmurr/gl-handler"/>
+        <updated>2022-01-06T23:11:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3018563?u=724137eb2041df84118fca88529b2b868d1ad1e5&v=4" width="64" height="64" alt=""/><br/><div>Another lightweight wrapper library for WebGL.</div>]]></content>
         <author>
-            <name>imaperson1060</name>
-            <email>imaperson1060@noreply.github.com</email>
-            <uri>https://github.com/imaperson1060</uri>
+            <name>joshmurr</name>
+            <email>joshmurr@noreply.github.com</email>
+            <uri>https://github.com/joshmurr</uri>
         </author>
-        <published>2022-06-11T21:52:05.000Z</published>
+        <published>2022-01-03T12:08:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[davidjerleke/embla-carousel: www.embla-carousel.com | A lightweight carousel library with fluid motion and great swipe precision.]]></title>
-        <id>https://github.com/davidjerleke/embla-carousel</id>
-        <link href="https://github.com/davidjerleke/embla-carousel"/>
-        <updated>2022-06-29T18:48:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11529148?u=94446866c576d620cbd33e62834c480091fedcf0&v=4" width="64" height="64" alt=""/><br/><div>
-<a href="http://www.embla-carousel.com" rel="nofollow">www.embla-carousel.com</a> | A lightweight carousel library with fluid motion and great swipe precision.</div>]]></content>
+        <title type="html"><![CDATA[elchininet/isometric: A lightweight JavaScript library, written in TypeScript to create isometric projections using SVGs]]></title>
+        <id>https://github.com/elchininet/isometric</id>
+        <link href="https://github.com/elchininet/isometric"/>
+        <updated>2022-06-24T11:16:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3728220?u=be191733d6f494f6a631d50e613cd1a532eb81c7&v=4" width="64" height="64" alt=""/><br/><div>A lightweight JavaScript library, written in TypeScript to create isometric projections using SVGs</div>]]></content>
         <author>
-            <name>davidjerleke</name>
-            <email>davidjerleke@noreply.github.com</email>
-            <uri>https://github.com/davidjerleke</uri>
+            <name>elchininet</name>
+            <email>elchininet@noreply.github.com</email>
+            <uri>https://github.com/elchininet</uri>
         </author>
-        <published>2019-03-18T18:34:50.000Z</published>
+        <published>2019-12-17T18:27:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bigalorm/bigal: A fast, lightweight ORM for PostgreSQL and node.js, written in Typescript.]]></title>
-        <id>https://github.com/bigalorm/bigal</id>
-        <link href="https://github.com/bigalorm/bigal"/>
-        <updated>2022-01-08T05:41:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56096193?v=4" width="64" height="64" alt=""/><br/><div>A fast, lightweight ORM for PostgreSQL and node.js, written in Typescript.</div>]]></content>
+        <title type="html"><![CDATA[mrloop/ember-material-modifier: Lightweight emberjs material design integration]]></title>
+        <id>https://github.com/mrloop/ember-material-modifier</id>
+        <link href="https://github.com/mrloop/ember-material-modifier"/>
+        <updated>2022-04-18T14:02:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12345?v=4" width="64" height="64" alt=""/><br/><div>Lightweight emberjs material design integration</div>]]></content>
         <author>
-            <name>bigalorm</name>
-            <email>bigalorm@noreply.github.com</email>
-            <uri>https://github.com/bigalorm</uri>
+            <name>mrloop</name>
+            <email>mrloop@noreply.github.com</email>
+            <uri>https://github.com/mrloop</uri>
         </author>
-        <published>2017-11-22T20:10:47.000Z</published>
+        <published>2022-02-02T20:31:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[privatenumber/manten: 💮 満点 - Lightweight testing library for Node.js]]></title>
-        <id>https://github.com/privatenumber/manten</id>
-        <link href="https://github.com/privatenumber/manten"/>
-        <updated>2022-06-29T07:20:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1075694?u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4" width="64" height="64" alt=""/><br/><div>
-<g-emoji class="g-emoji" alias="white_flower" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ae.png">💮</g-emoji> 満点 - Lightweight testing library for Node.js</div>]]></content>
+        <title type="html"><![CDATA[kaliber5/ember-stargate: Modern lightweight portals for Ember]]></title>
+        <id>https://github.com/kaliber5/ember-stargate</id>
+        <link href="https://github.com/kaliber5/ember-stargate"/>
+        <updated>2022-06-22T22:43:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5332124?v=4" width="64" height="64" alt=""/><br/><div>Modern lightweight portals for Ember</div>]]></content>
         <author>
-            <name>privatenumber</name>
-            <email>privatenumber@noreply.github.com</email>
-            <uri>https://github.com/privatenumber</uri>
+            <name>kaliber5</name>
+            <email>kaliber5@noreply.github.com</email>
+            <uri>https://github.com/kaliber5</uri>
         </author>
-        <published>2022-02-18T17:04:07.000Z</published>
+        <published>2020-06-17T20:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[susieward/witchly-js: Lightweight, hyper-flexible, web components-based front-end framework. Under active development.]]></title>
+        <id>https://github.com/susieward/witchly-js</id>
+        <link href="https://github.com/susieward/witchly-js"/>
+        <updated>2022-06-21T06:59:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25309329?u=8c50b29a14532f510083fe1b460b0afca26a721d&v=4" width="64" height="64" alt=""/><br/><div>Lightweight, hyper-flexible, web components-based front-end framework. Under active development.</div>]]></content>
+        <author>
+            <name>susieward</name>
+            <email>susieward@noreply.github.com</email>
+            <uri>https://github.com/susieward</uri>
+        </author>
+        <published>2022-04-15T22:04:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thisbeyond/solid-dnd: A lightweight, performant, extensible drag and drop toolkit for Solid JS.]]></title>
+        <id>https://github.com/thisbeyond/solid-dnd</id>
+        <link href="https://github.com/thisbeyond/solid-dnd"/>
+        <updated>2022-06-30T19:32:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84154306?v=4" width="64" height="64" alt=""/><br/><div>A lightweight, performant, extensible drag and drop toolkit for Solid JS.</div>]]></content>
+        <author>
+            <name>thisbeyond</name>
+            <email>thisbeyond@noreply.github.com</email>
+            <uri>https://github.com/thisbeyond</uri>
+        </author>
+        <published>2021-06-11T13:51:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[quentinguidee/sh-cloud-client: ☁️ sh.Cloud (self-hosted cloud) is a lightweight self-hosted cloud for your home lab.]]></title>
+        <id>https://github.com/quentinguidee/sh-cloud-client</id>
+        <link href="https://github.com/quentinguidee/sh-cloud-client"/>
+        <updated>2022-06-27T05:53:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12123721?u=5c94b0fb0407e2970e8d5859ae4250cea1bab2e3&v=4" width="64" height="64" alt=""/><br/><div>
+<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> sh.Cloud (self-hosted cloud) is a lightweight self-hosted cloud for your home lab.</div>]]></content>
+        <author>
+            <name>quentinguidee</name>
+            <email>quentinguidee@noreply.github.com</email>
+            <uri>https://github.com/quentinguidee</uri>
+        </author>
+        <published>2022-04-13T19:12:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[andyjessop/crux: A collection of small, focussed, utilities to help maintain decoupled and lightweight code in the browser.]]></title>
+        <id>https://github.com/andyjessop/crux</id>
+        <link href="https://github.com/andyjessop/crux"/>
+        <updated>2022-06-30T20:34:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1304307?u=2e82b5a1dbbf54bfc944292f8487730350aa664d&v=4" width="64" height="64" alt=""/><br/><div>A collection of small, focussed, utilities to help maintain decoupled and lightweight code in the browser.</div>]]></content>
+        <author>
+            <name>andyjessop</name>
+            <email>andyjessop@noreply.github.com</email>
+            <uri>https://github.com/andyjessop</uri>
+        </author>
+        <published>2020-10-27T20:53:17.000Z</published>
     </entry>
 </feed>
