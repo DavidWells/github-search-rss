@@ -6,6 +6,50 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26760571?u=70ed69fa4309f3e169a31a95a9f89032c00f96ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/erezrokah/serverless-cognito-triggers",
+            "title": "erezrokah/serverless-cognito-triggers",
+            "date_modified": "2022-01-10T01:32:50.000Z",
+            "date_published": "2019-08-11T14:49:05.000Z",
+            "author": {
+                "name": "erezrokah",
+                "url": "https://github.com/erezrokah"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13362880?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>hint: <a href=\"https://stackoverflow.com/a/49015716\" rel=\"nofollow\">https://stackoverflow.com/a/49015716</a>\n</div>",
+            "url": "https://github.com/youngkiu/cognito-without-hosted-ui",
+            "title": "youngkiu/cognito-without-hosted-ui: hint: https://stackoverflow.com/a/49015716",
+            "date_modified": "2022-07-03T23:57:15.000Z",
+            "date_published": "2022-07-03T15:00:04.000Z",
+            "author": {
+                "name": "youngkiu",
+                "url": "https://github.com/youngkiu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7910558?u=3a0885c0e4b9aea1bb680bc79c86a0d838ca7b74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognitoのユーザープールを使った認証を深く学ぶためのリポジトリです。</div>",
+            "url": "https://github.com/tochiji/aws-cognito-lambda-auth",
+            "title": "tochiji/aws-cognito-lambda-auth: Cognitoのユーザープールを使った認証を深く学ぶためのリポジトリです。",
+            "date_modified": "2022-07-03T17:43:36.000Z",
+            "date_published": "2022-06-26T14:55:30.000Z",
+            "author": {
+                "name": "tochiji",
+                "url": "https://github.com/tochiji"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88183810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Ch1rag02/aws-cognito",
+            "title": "Ch1rag02/aws-cognito",
+            "date_modified": "2022-07-03T15:41:57.000Z",
+            "date_published": "2022-07-03T15:41:57.000Z",
+            "author": {
+                "name": "Ch1rag02",
+                "url": "https://github.com/Ch1rag02"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
             "url": "https://github.com/henrist/cdk-cloudfront-auth",
             "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
@@ -14,6 +58,72 @@
             "author": {
                 "name": "henrist",
                 "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98077491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lambda function to automatically confirm a user after signing up on AWS Cognito</div>",
+            "url": "https://github.com/Bakkcover/lambda-bakkcover-cognito-autoConfirmUser",
+            "title": "Bakkcover/lambda-bakkcover-cognito-autoConfirmUser: Lambda function to automatically confirm a user after signing up on AWS Cognito",
+            "date_modified": "2022-07-03T13:47:58.000Z",
+            "date_published": "2022-07-03T13:44:11.000Z",
+            "author": {
+                "name": "Bakkcover",
+                "url": "https://github.com/Bakkcover"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98077491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lambda function to add a user's details to the \"User\" table in RDS PostgreSQL after confirmation</div>",
+            "url": "https://github.com/Bakkcover/lambda-bakkcover-cognito-addUserToRds",
+            "title": "Bakkcover/lambda-bakkcover-cognito-addUserToRds: Lambda function to add a user's details to the \"User\" table in RDS PostgreSQL after confirmation",
+            "date_modified": "2022-07-03T13:46:50.000Z",
+            "date_published": "2022-07-03T13:46:03.000Z",
+            "author": {
+                "name": "Bakkcover",
+                "url": "https://github.com/Bakkcover"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62842244?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project is demo project for using aws cognito.</div>",
+            "url": "https://github.com/HayatoTakahashi129/cognitoDemo-front",
+            "title": "HayatoTakahashi129/cognitoDemo-front: This project is demo project for using aws cognito.",
+            "date_modified": "2022-06-25T15:53:43.000Z",
+            "date_published": "2022-06-18T16:05:36.000Z",
+            "author": {
+                "name": "HayatoTakahashi129",
+                "url": "https://github.com/HayatoTakahashi129"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83866655?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/erwanjouan/aws-cognito-web-identity-federation",
+            "title": "erwanjouan/aws-cognito-web-identity-federation",
+            "date_modified": "2022-07-03T08:01:35.000Z",
+            "date_published": "2022-07-02T19:36:27.000Z",
+            "author": {
+                "name": "erwanjouan",
+                "url": "https://github.com/erwanjouan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5667105?u=92dbfebb677096fb42273730fc3b9271825bb4b0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Cognito React boilerplate / reference implementation</div>",
+            "url": "https://github.com/dbroadhurst/aws-cognito-react",
+            "title": "dbroadhurst/aws-cognito-react: AWS Cognito React boilerplate / reference implementation",
+            "date_modified": "2022-06-30T03:48:43.000Z",
+            "date_published": "2017-08-21T15:30:22.000Z",
+            "author": {
+                "name": "dbroadhurst",
+                "url": "https://github.com/dbroadhurst"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2304289?u=0590239278f2c1d59edd1765006417e6dd2a1597&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/\" rel=\"nofollow\">https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/</a></div>",
+            "url": "https://github.com/smugford/amplify",
+            "title": "smugford/amplify: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/",
+            "date_modified": "2022-07-03T01:05:00.000Z",
+            "date_published": "2022-07-03T01:03:19.000Z",
+            "author": {
+                "name": "smugford",
+                "url": "https://github.com/smugford"
             }
         },
         {
@@ -47,17 +157,6 @@
             "author": {
                 "name": "iter-idea",
                 "url": "https://github.com/iter-idea"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83866655?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/erwanjouan/aws-cognito-web-identity-federation",
-            "title": "erwanjouan/aws-cognito-web-identity-federation",
-            "date_modified": "2022-07-02T19:36:27.000Z",
-            "date_published": "2022-07-02T19:36:27.000Z",
-            "author": {
-                "name": "erwanjouan",
-                "url": "https://github.com/erwanjouan"
             }
         },
         {
@@ -124,105 +223,6 @@
             "author": {
                 "name": "mifi",
                 "url": "https://github.com/mifi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74117601?u=cb8eda1eed806b4a1daaba1809eb9806e22f8d7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Testing out AWS Cognito and creating a user login and sign up page using Cognito + Express JS</div>",
-            "url": "https://github.com/mskim6084/cognito_test",
-            "title": "mskim6084/cognito_test: Testing out AWS Cognito and creating a user login and sign up page using Cognito + Express JS",
-            "date_modified": "2022-06-22T18:44:02.000Z",
-            "date_published": "2022-06-21T20:45:13.000Z",
-            "author": {
-                "name": "mskim6084",
-                "url": "https://github.com/mskim6084"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
-            "url": "https://github.com/aws-amplify/amplify-js",
-            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-07-02T15:46:38.000Z",
-            "date_published": "2017-10-02T22:17:14.000Z",
-            "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52446192?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Interact with AWS Cognito in your Ember app.</div>",
-            "url": "https://github.com/fabscale/ember-cognito-identity",
-            "title": "fabscale/ember-cognito-identity: Interact with AWS Cognito in your Ember app.",
-            "date_modified": "2022-01-04T08:35:21.000Z",
-            "date_published": "2019-07-02T08:39:30.000Z",
-            "author": {
-                "name": "fabscale",
-                "url": "https://github.com/fabscale"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ctx-core/cognito",
-            "title": "ctx-core/cognito",
-            "date_modified": "2022-01-08T04:07:10.000Z",
-            "date_published": "2019-12-02T17:11:53.000Z",
-            "author": {
-                "name": "ctx-core",
-                "url": "https://github.com/ctx-core"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47839903?u=b3db37587a1d540b4ddaf2322a123f8e49622cfd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LinkedIn clone with ReactJS, NodeJS, AWS</div>",
-            "url": "https://github.com/nvanha/linkedin-landing",
-            "title": "nvanha/linkedin-landing: LinkedIn clone with ReactJS, NodeJS, AWS",
-            "date_modified": "2022-07-01T13:00:17.000Z",
-            "date_published": "2022-07-01T12:58:20.000Z",
-            "author": {
-                "name": "nvanha",
-                "url": "https://github.com/nvanha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example for using Amazon Cognito together with an external IdP</div>",
-            "url": "https://github.com/aws-samples/amazon-cognito-example-for-external-idp",
-            "title": "aws-samples/amazon-cognito-example-for-external-idp: An example for using Amazon Cognito together with an external IdP",
-            "date_modified": "2022-07-01T08:15:44.000Z",
-            "date_published": "2019-06-07T00:08:21.000Z",
-            "author": {
-                "name": "aws-samples",
-                "url": "https://github.com/aws-samples"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61695474?u=1c27bf38cb6c563c12850c4b56089452e3659373&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cyborg7898/Cognito-user-login",
-            "title": "cyborg7898/Cognito-user-login",
-            "date_modified": "2022-07-01T11:55:54.000Z",
-            "date_published": "2022-07-01T11:55:35.000Z",
-            "author": {
-                "name": "cyborg7898",
-                "url": "https://github.com/cyborg7898"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65587518?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Keyri-Co/Keyri-Android-Example-Cognito",
-            "title": "Keyri-Co/Keyri-Android-Example-Cognito",
-            "date_modified": "2022-06-30T13:02:56.000Z",
-            "date_published": "2022-06-30T13:01:44.000Z",
-            "author": {
-                "name": "Keyri-Co",
-                "url": "https://github.com/Keyri-Co"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6417222?u=2046545fe8116476e76143fb3a09512acf9c358a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Service guides</div>",
-            "url": "https://github.com/m-thirumal/aws-cloud-tutorial",
-            "title": "m-thirumal/aws-cloud-tutorial: AWS Service guides",
-            "date_modified": "2022-04-19T10:59:03.000Z",
-            "date_published": "2021-04-21T01:53:26.000Z",
-            "author": {
-                "name": "m-thirumal",
-                "url": "https://github.com/m-thirumal"
             }
         }
     ]
