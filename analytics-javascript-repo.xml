@@ -2,101 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/analytics-javascript-repo.json</id>
     <title>Analytics repositories</title>
-    <updated>2022-08-11T00:20:01.834Z</updated>
+    <updated>2022-08-12T00:17:40.122Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=analytics+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Analytics repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[segmentio/analytics-next: The next version of AJS]]></title>
-        <id>https://github.com/segmentio/analytics-next</id>
-        <link href="https://github.com/segmentio/analytics-next"/>
-        <updated>2022-08-09T15:09:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/819518?v=4" width="64" height="64" alt=""/><br/><div>The next version of AJS</div>]]></content>
+        <title type="html"><![CDATA[softtunex/EdvoraReactTest: Test Instructions:  Using the provided APIs you are required to come up with an application with minimal functionalities. Displaying or not displaying the provided data is up to you (Note: the provided data must be used as efficiently as possible) You must use React.js / Next.js to develop the project.  What are we looking for:  - Decent looking Ui/Ux. - Code modularity (unwanted repetitions of code will not be appreciated). - Analytical data derived from the given APIs.  Brownie Points: - 3+ analytical graphs/data displayed - Good and attractive UI  API URLs: - https://assessment.api.vweb.app/users - {"user_id":1,"name":"Tim Keyson"} - https://assessment.api.vweb.app/products - {"product_id":1,"name":"Cookie - Oatmeal","stock":92,"selling_price":141} - https://assessment.api.vweb.app/orders - {"order_id":1,"product_id":25,"quantity":15,"user_id":20,"order_date":"1645767336"}  Deadline: 48 Hours]]></title>
+        <id>https://github.com/softtunex/EdvoraReactTest</id>
+        <link href="https://github.com/softtunex/EdvoraReactTest"/>
+        <updated>2022-08-10T07:14:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57996444?u=b2edbb908e7de6ff24437091b2e5315906ff54f5&v=4" width="64" height="64" alt=""/><br/><div>Test Instructions:  Using the provided APIs you are required to come up with an application with minimal functionalities. Displaying or not displaying the provided data is up to you (Note: the provided data must be used as efficiently as possible) You must use React.js / Next.js to develop the project.  What are we looking for:  - Decent looking Ui/Ux. - Code modularity (unwanted repetitions of code will not be appreciated). - Analytical data derived from the given APIs.  Brownie Points: - 3+ analytical graphs/data displayed - Good and attractive UI  API URLs: - <a href="https://assessment.api.vweb.app/users" rel="nofollow">https://assessment.api.vweb.app/users</a> - {"user_id":1,"name":"Tim Keyson"} - <a href="https://assessment.api.vweb.app/products" rel="nofollow">https://assessment.api.vweb.app/products</a> - {"product_id":1,"name":"Cookie - Oatmeal","stock":92,"selling_price":141} - <a href="https://assessment.api.vweb.app/orders" rel="nofollow">https://assessment.api.vweb.app/orders</a> - {"order_id":1,"product_id":25,"quantity":15,"user_id":20,"order_date":"1645767336"}  Deadline: 48 Hours</div>]]></content>
         <author>
-            <name>segmentio</name>
-            <email>segmentio@noreply.github.com</email>
-            <uri>https://github.com/segmentio</uri>
+            <name>softtunex</name>
+            <email>softtunex@noreply.github.com</email>
+            <uri>https://github.com/softtunex</uri>
         </author>
-        <published>2020-09-02T16:58:04.000Z</published>
+        <published>2022-08-09T23:17:41.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.]]></title>
-        <id>https://github.com/aws-amplify/amplify-cli</id>
-        <link href="https://github.com/aws-amplify/amplify-cli"/>
-        <updated>2022-08-10T12:37:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.</div>]]></content>
+        <title type="html"><![CDATA[herschel666/analytics: Personal, privacy-respecting website analytics service powered by @architect.]]></title>
+        <id>https://github.com/herschel666/analytics</id>
+        <link href="https://github.com/herschel666/analytics"/>
+        <updated>2022-01-11T03:03:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/520258?v=4" width="64" height="64" alt=""/><br/><div>Personal, privacy-respecting website analytics service powered by <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/architect/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/architect">@architect</a>.</div>]]></content>
         <author>
-            <name>aws-amplify</name>
-            <email>aws-amplify@noreply.github.com</email>
-            <uri>https://github.com/aws-amplify</uri>
+            <name>herschel666</name>
+            <email>herschel666@noreply.github.com</email>
+            <uri>https://github.com/herschel666</uri>
         </author>
-        <published>2018-08-23T16:33:10.000Z</published>
+        <published>2020-08-24T19:46:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[abormate/papa-bear-writes-code: Hello. This is a repository for simple code projects in JavaScript, SQL, and Python. Where small projects are built, in conjunction to a bunch of online courses, among others. In line with learning multi-purpose programming, querying databases, and with a goal of practicing engineering on the cloud.]]></title>
-        <id>https://github.com/abormate/papa-bear-writes-code</id>
-        <link href="https://github.com/abormate/papa-bear-writes-code"/>
-        <updated>2022-01-15T14:36:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53473761?u=7c2a6aea3a0908b909ed4afc24ddd71df8f1f707&v=4" width="64" height="64" alt=""/><br/><div>Hello. This is a repository for simple code projects in JavaScript, SQL, and Python. Where small projects are built, in conjunction to a bunch of online courses, among others. In line with learning multi-purpose programming, querying databases, and with a goal of practicing engineering on the cloud.</div>]]></content>
+        <title type="html"><![CDATA[apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform]]></title>
+        <id>https://github.com/apache/superset</id>
+        <link href="https://github.com/apache/superset"/>
+        <updated>2022-08-11T21:58:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47359?v=4" width="64" height="64" alt=""/><br/><div>Apache Superset is a Data Visualization and Data Exploration Platform</div>]]></content>
         <author>
-            <name>abormate</name>
-            <email>abormate@noreply.github.com</email>
-            <uri>https://github.com/abormate</uri>
+            <name>apache</name>
+            <email>apache@noreply.github.com</email>
+            <uri>https://github.com/apache</uri>
         </author>
-        <published>2020-02-03T02:55:42.000Z</published>
+        <published>2015-07-21T18:55:34.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[drarunmitra/covid19_india_analytics_final]]></title>
-        <id>https://github.com/drarunmitra/covid19_india_analytics_final</id>
-        <link href="https://github.com/drarunmitra/covid19_india_analytics_final"/>
-        <updated>2022-01-10T23:37:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76924876?u=4bc7dfd8b594e582ee1f70c9e89178b1011d012f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[rcarrasquelg/poc-react-web-analytics: poc-react-web-analytics]]></title>
+        <id>https://github.com/rcarrasquelg/poc-react-web-analytics</id>
+        <link href="https://github.com/rcarrasquelg/poc-react-web-analytics"/>
+        <updated>2022-07-04T12:53:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95049566?u=a45a519794f602d2e70d80e7592ce350d939f0be&v=4" width="64" height="64" alt=""/><br/><div>poc-react-web-analytics</div>]]></content>
         <author>
-            <name>drarunmitra</name>
-            <email>drarunmitra@noreply.github.com</email>
-            <uri>https://github.com/drarunmitra</uri>
+            <name>rcarrasquelg</name>
+            <email>rcarrasquelg@noreply.github.com</email>
+            <uri>https://github.com/rcarrasquelg</uri>
         </author>
-        <published>2021-05-17T09:40:03.000Z</published>
+        <published>2022-07-04T12:52:48.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[microsoft/clarity: A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.]]></title>
-        <id>https://github.com/microsoft/clarity</id>
-        <link href="https://github.com/microsoft/clarity"/>
-        <updated>2022-08-10T00:10:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="64" height="64" alt=""/><br/><div>A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.</div>]]></content>
+        <title type="html"><![CDATA[open-template-hub/analytics-server-template: Analytics Server Template is a generic open-source analytics server that has a simple yet powerful design to connect your business with third-party analytics service providers (like Google Analytics or Matomo).]]></title>
+        <id>https://github.com/open-template-hub/analytics-server-template</id>
+        <link href="https://github.com/open-template-hub/analytics-server-template"/>
+        <updated>2022-01-29T21:39:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65504426?v=4" width="64" height="64" alt=""/><br/><div>Analytics Server Template is a generic open-source analytics server that has a simple yet powerful design to connect your business with third-party analytics service providers (like Google Analytics or Matomo).</div>]]></content>
         <author>
-            <name>microsoft</name>
-            <email>microsoft@noreply.github.com</email>
-            <uri>https://github.com/microsoft</uri>
+            <name>open-template-hub</name>
+            <email>open-template-hub@noreply.github.com</email>
+            <uri>https://github.com/open-template-hub</uri>
         </author>
-        <published>2020-04-30T12:42:51.000Z</published>
+        <published>2020-12-27T14:33:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[joshuabowers/graphca: A graphing calculator and analytic calculus engine]]></title>
-        <id>https://github.com/joshuabowers/graphca</id>
-        <link href="https://github.com/joshuabowers/graphca"/>
-        <updated>2021-12-24T00:16:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/275265?v=4" width="64" height="64" alt=""/><br/><div>A graphing calculator and analytic calculus engine</div>]]></content>
+        <title type="html"><![CDATA[googleapis/nodejs-storage: Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.]]></title>
+        <id>https://github.com/googleapis/nodejs-storage</id>
+        <link href="https://github.com/googleapis/nodejs-storage"/>
+        <updated>2022-08-11T10:02:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16785467?v=4" width="64" height="64" alt=""/><br/><div>Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.</div>]]></content>
         <author>
-            <name>joshuabowers</name>
-            <email>joshuabowers@noreply.github.com</email>
-            <uri>https://github.com/joshuabowers</uri>
+            <name>googleapis</name>
+            <email>googleapis@noreply.github.com</email>
+            <uri>https://github.com/googleapis</uri>
         </author>
-        <published>2021-09-05T20:36:04.000Z</published>
+        <published>2017-07-26T20:53:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swetrix/swetrix-fe: Swetrix Analytics frontend.]]></title>
-        <id>https://github.com/Swetrix/swetrix-fe</id>
-        <link href="https://github.com/Swetrix/swetrix-fe"/>
-        <updated>2022-08-09T04:44:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88215783?v=4" width="64" height="64" alt=""/><br/><div>Swetrix Analytics frontend.</div>]]></content>
+        <title type="html"><![CDATA[ComingOutaMyCage/JW_Lib_Analytics]]></title>
+        <id>https://github.com/ComingOutaMyCage/JW_Lib_Analytics</id>
+        <link href="https://github.com/ComingOutaMyCage/JW_Lib_Analytics"/>
+        <updated>2022-07-02T15:08:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108509978?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>Swetrix</name>
-            <email>Swetrix@noreply.github.com</email>
-            <uri>https://github.com/Swetrix</uri>
+            <name>ComingOutaMyCage</name>
+            <email>ComingOutaMyCage@noreply.github.com</email>
+            <uri>https://github.com/ComingOutaMyCage</uri>
         </author>
-        <published>2021-03-18T21:47:46.000Z</published>
+        <published>2022-07-02T15:08:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Griznt/storist_analytics: Some js code for Amplitude integration to storist]]></title>
+        <id>https://github.com/Griznt/storist_analytics</id>
+        <link href="https://github.com/Griznt/storist_analytics"/>
+        <updated>2022-08-11T13:48:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13532817?u=385f27595108f90807d34069ad284184e8ddd1cc&v=4" width="64" height="64" alt=""/><br/><div>Some js code for Amplitude integration to storist</div>]]></content>
+        <author>
+            <name>Griznt</name>
+            <email>Griznt@noreply.github.com</email>
+            <uri>https://github.com/Griznt</uri>
+        </author>
+        <published>2022-08-11T09:12:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gabrielcsapo/package-inspector: Node module analytics tool to help figure out how your dependencies are affecting you 🖲]]></title>
+        <id>https://github.com/gabrielcsapo/package-inspector</id>
+        <link href="https://github.com/gabrielcsapo/package-inspector"/>
+        <updated>2022-07-06T00:45:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1854811?u=bd22ce33b2b991ba563b2397609282fe85826d03&v=4" width="64" height="64" alt=""/><br/><div>Node module analytics tool to help figure out how your dependencies are affecting you <g-emoji class="g-emoji" alias="trackball" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5b2.png">🖲</g-emoji></div>]]></content>
+        <author>
+            <name>gabrielcsapo</name>
+            <email>gabrielcsapo@noreply.github.com</email>
+            <uri>https://github.com/gabrielcsapo</uri>
+        </author>
+        <published>2020-08-26T17:39:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fairdataihub/umami.fairdataihub.org: Analytics for our websites. Built with umami]]></title>
+        <id>https://github.com/fairdataihub/umami.fairdataihub.org</id>
+        <link href="https://github.com/fairdataihub/umami.fairdataihub.org"/>
+        <updated>2022-08-09T18:07:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90935916?v=4" width="64" height="64" alt=""/><br/><div>Analytics for our websites. Built with umami</div>]]></content>
+        <author>
+            <name>fairdataihub</name>
+            <email>fairdataihub@noreply.github.com</email>
+            <uri>https://github.com/fairdataihub</uri>
+        </author>
+        <published>2022-07-28T21:08:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CleverTap/clevertap-web-sdk: CleverTap Web SDK]]></title>
+        <id>https://github.com/CleverTap/clevertap-web-sdk</id>
+        <link href="https://github.com/CleverTap/clevertap-web-sdk"/>
+        <updated>2022-06-16T03:08:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8391945?v=4" width="64" height="64" alt=""/><br/><div>CleverTap Web SDK</div>]]></content>
+        <author>
+            <name>CleverTap</name>
+            <email>CleverTap@noreply.github.com</email>
+            <uri>https://github.com/CleverTap</uri>
+        </author>
+        <published>2020-09-07T16:42:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rello/analytics: Analytics - Open source data warehouse and reporting for Nextcloud]]></title>
+        <id>https://github.com/Rello/analytics</id>
+        <link href="https://github.com/Rello/analytics"/>
+        <updated>2022-08-10T07:28:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13385119?u=9ddce3a89af2f0fe28c703de4444dc53b72b78bb&v=4" width="64" height="64" alt=""/><br/><div>Analytics - Open source data warehouse and reporting for Nextcloud</div>]]></content>
+        <author>
+            <name>Rello</name>
+            <email>Rello@noreply.github.com</email>
+            <uri>https://github.com/Rello</uri>
+        </author>
+        <published>2019-10-08T19:01:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ayush987goyal/umami-analytics-construct]]></title>
+        <id>https://github.com/ayush987goyal/umami-analytics-construct</id>
+        <link href="https://github.com/ayush987goyal/umami-analytics-construct"/>
+        <updated>2022-04-02T12:23:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5697227?u=1626c5beeb469ba2b48bf26585708c60db0c67ac&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ayush987goyal</name>
+            <email>ayush987goyal@noreply.github.com</email>
+            <uri>https://github.com/ayush987goyal</uri>
+        </author>
+        <published>2021-02-04T12:21:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[segmentio/analytics-react-native: The hassle-free way to add analytics to your React-Native app.]]></title>
@@ -125,146 +203,68 @@
         <published>2022-07-28T04:08:31.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tankpit-analytics/tankpit-analytics.github.io]]></title>
-        <id>https://github.com/tankpit-analytics/tankpit-analytics.github.io</id>
-        <link href="https://github.com/tankpit-analytics/tankpit-analytics.github.io"/>
-        <updated>2022-01-10T23:06:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60195163?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[surojitfromindia/xlb: A data analytics tool]]></title>
+        <id>https://github.com/surojitfromindia/xlb</id>
+        <link href="https://github.com/surojitfromindia/xlb"/>
+        <updated>2022-08-08T15:28:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30839427?u=7a76ddea7f3d4d64e55afea38c474ed1cb518b04&v=4" width="64" height="64" alt=""/><br/><div>A data analytics tool</div>]]></content>
         <author>
-            <name>tankpit-analytics</name>
-            <email>tankpit-analytics@noreply.github.com</email>
-            <uri>https://github.com/tankpit-analytics</uri>
+            <name>surojitfromindia</name>
+            <email>surojitfromindia@noreply.github.com</email>
+            <uri>https://github.com/surojitfromindia</uri>
         </author>
-        <published>2020-01-22T18:49:45.000Z</published>
+        <published>2022-08-08T15:28:21.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PipeWebMonetization/analytics-tool]]></title>
-        <id>https://github.com/PipeWebMonetization/analytics-tool</id>
-        <link href="https://github.com/PipeWebMonetization/analytics-tool"/>
-        <updated>2022-05-31T22:48:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97926958?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[SwaprDAO/swapr-info: Multichain analytics dashboard for Swapr, deployed in a decentralized way through DAO consensus on swapr.eth]]></title>
+        <id>https://github.com/SwaprDAO/swapr-info</id>
+        <link href="https://github.com/SwaprDAO/swapr-info"/>
+        <updated>2022-07-13T12:15:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/100932053?v=4" width="64" height="64" alt=""/><br/><div>Multichain analytics dashboard for Swapr, deployed in a decentralized way through DAO consensus on swapr.eth</div>]]></content>
         <author>
-            <name>PipeWebMonetization</name>
-            <email>PipeWebMonetization@noreply.github.com</email>
-            <uri>https://github.com/PipeWebMonetization</uri>
+            <name>SwaprDAO</name>
+            <email>SwaprDAO@noreply.github.com</email>
+            <uri>https://github.com/SwaprDAO</uri>
         </author>
-        <published>2022-03-11T22:00:20.000Z</published>
+        <published>2021-08-30T08:45:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[herschel666/analytics: Personal, privacy-respecting website analytics service powered by @architect.]]></title>
-        <id>https://github.com/herschel666/analytics</id>
-        <link href="https://github.com/herschel666/analytics"/>
-        <updated>2022-01-11T03:03:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/520258?v=4" width="64" height="64" alt=""/><br/><div>Personal, privacy-respecting website analytics service powered by <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/architect/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/architect">@architect</a>.</div>]]></content>
+        <title type="html"><![CDATA[biexcellence/biexport-sac: biExport for SAP Analytics Cloud]]></title>
+        <id>https://github.com/biexcellence/biexport-sac</id>
+        <link href="https://github.com/biexcellence/biexport-sac"/>
+        <updated>2022-03-03T20:13:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12986558?v=4" width="64" height="64" alt=""/><br/><div>biExport for SAP Analytics Cloud</div>]]></content>
         <author>
-            <name>herschel666</name>
-            <email>herschel666@noreply.github.com</email>
-            <uri>https://github.com/herschel666</uri>
+            <name>biexcellence</name>
+            <email>biexcellence@noreply.github.com</email>
+            <uri>https://github.com/biexcellence</uri>
         </author>
-        <published>2020-08-24T19:46:17.000Z</published>
+        <published>2019-07-10T15:24:16.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TonikX/analytics_backend: Репозиторий для хранениря серверной части проекта ]]></title>
-        <id>https://github.com/TonikX/analytics_backend</id>
-        <link href="https://github.com/TonikX/analytics_backend"/>
-        <updated>2022-07-01T09:58:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23614490?u=e1cfc3d62541a129a1d812cf7aaf55cb44ea2f8d&v=4" width="64" height="64" alt=""/><br/><div>Репозиторий для хранениря серверной части проекта </div>]]></content>
+        <title type="html"><![CDATA[edx-olive/instructor-analytics]]></title>
+        <id>https://github.com/edx-olive/instructor-analytics</id>
+        <link href="https://github.com/edx-olive/instructor-analytics"/>
+        <updated>2022-08-10T12:11:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17503384?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>TonikX</name>
-            <email>TonikX@noreply.github.com</email>
-            <uri>https://github.com/TonikX</uri>
+            <name>edx-olive</name>
+            <email>edx-olive@noreply.github.com</email>
+            <uri>https://github.com/edx-olive</uri>
         </author>
-        <published>2020-04-25T15:25:59.000Z</published>
+        <published>2022-08-10T12:10:15.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[slimaneakalie/journify-analytics-js: Journify analytics SDK for JavaScript client]]></title>
-        <id>https://github.com/slimaneakalie/journify-analytics-js</id>
-        <link href="https://github.com/slimaneakalie/journify-analytics-js"/>
-        <updated>2022-07-21T14:26:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30215409?u=30efd2d3ec6fd1fbedb3e4ea02059d5e690a915e&v=4" width="64" height="64" alt=""/><br/><div>Journify analytics SDK for JavaScript client</div>]]></content>
+        <title type="html"><![CDATA[bouvet-apps/app-matomo: Easily add support for Matomo Analytics for your Enonic XP site.]]></title>
+        <id>https://github.com/bouvet-apps/app-matomo</id>
+        <link href="https://github.com/bouvet-apps/app-matomo"/>
+        <updated>2022-02-14T08:07:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24914399?v=4" width="64" height="64" alt=""/><br/><div>Easily add support for Matomo Analytics for your Enonic XP site.</div>]]></content>
         <author>
-            <name>slimaneakalie</name>
-            <email>slimaneakalie@noreply.github.com</email>
-            <uri>https://github.com/slimaneakalie</uri>
+            <name>bouvet-apps</name>
+            <email>bouvet-apps@noreply.github.com</email>
+            <uri>https://github.com/bouvet-apps</uri>
         </author>
-        <published>2022-07-21T11:20:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[grafana/grafana: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ]]></title>
-        <id>https://github.com/grafana/grafana</id>
-        <link href="https://github.com/grafana/grafana"/>
-        <updated>2022-08-10T22:21:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7195757?v=4" width="64" height="64" alt=""/><br/><div>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. </div>]]></content>
-        <author>
-            <name>grafana</name>
-            <email>grafana@noreply.github.com</email>
-            <uri>https://github.com/grafana</uri>
-        </author>
-        <published>2013-12-11T15:59:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[apricote/Listory: Track your Spotify listens]]></title>
-        <id>https://github.com/apricote/Listory</id>
-        <link href="https://github.com/apricote/Listory"/>
-        <updated>2022-06-30T06:27:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3393079?v=4" width="64" height="64" alt=""/><br/><div>Track your Spotify listens</div>]]></content>
-        <author>
-            <name>apricote</name>
-            <email>apricote@noreply.github.com</email>
-            <uri>https://github.com/apricote</uri>
-        </author>
-        <published>2020-01-25T21:19:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thomasstep/site-analytics: Completely serverless website analytics application]]></title>
-        <id>https://github.com/thomasstep/site-analytics</id>
-        <link href="https://github.com/thomasstep/site-analytics"/>
-        <updated>2022-08-07T01:31:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20632958?u=e77fb146476cbb7358bf606ad70c4beb715922f8&v=4" width="64" height="64" alt=""/><br/><div>Completely serverless website analytics application</div>]]></content>
-        <author>
-            <name>thomasstep</name>
-            <email>thomasstep@noreply.github.com</email>
-            <uri>https://github.com/thomasstep</uri>
-        </author>
-        <published>2022-04-08T12:05:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[malvre/teste-analytics: Exemplo de uso do Firebase Analytics em projetos Ionic 6/Capacitor 4]]></title>
-        <id>https://github.com/malvre/teste-analytics</id>
-        <link href="https://github.com/malvre/teste-analytics"/>
-        <updated>2022-08-10T21:29:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/588242?u=b92b28dde7c9522652461f4505bf207a7e4d7b59&v=4" width="64" height="64" alt=""/><br/><div>Exemplo de uso do Firebase Analytics em projetos Ionic 6/Capacitor 4</div>]]></content>
-        <author>
-            <name>malvre</name>
-            <email>malvre@noreply.github.com</email>
-            <uri>https://github.com/malvre</uri>
-        </author>
-        <published>2022-08-10T21:28:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[next-book/analytics: Self-hosted event tracking analytics for web books.]]></title>
-        <id>https://github.com/next-book/analytics</id>
-        <link href="https://github.com/next-book/analytics"/>
-        <updated>2022-08-08T20:14:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22192093?v=4" width="64" height="64" alt=""/><br/><div>Self-hosted event tracking analytics for web books.</div>]]></content>
-        <author>
-            <name>next-book</name>
-            <email>next-book@noreply.github.com</email>
-            <uri>https://github.com/next-book</uri>
-        </author>
-        <published>2022-07-26T18:49:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drexel-UHC/analytics-core]]></title>
-        <id>https://github.com/Drexel-UHC/analytics-core</id>
-        <link href="https://github.com/Drexel-UHC/analytics-core"/>
-        <updated>2022-08-09T22:25:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77120774?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Drexel-UHC</name>
-            <email>Drexel-UHC@noreply.github.com</email>
-            <uri>https://github.com/Drexel-UHC</uri>
-        </author>
-        <published>2022-08-02T13:04:16.000Z</published>
+        <published>2022-02-14T08:06:07.000Z</published>
     </entry>
 </feed>
