@@ -6,25 +6,190 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
-            "url": "https://github.com/aws-amplify/amplify-js",
-            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-09-01T22:59:00.000Z",
-            "date_published": "2017-10-02T22:17:14.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38332276?u=ecd5365fded186b948a1a829a7168b9b83debbb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Creating Cognito Authentication within Cloud Based AWS API</div>",
+            "url": "https://github.com/CRSpradlin/aws-cognito-app",
+            "title": "CRSpradlin/aws-cognito-app: Creating Cognito Authentication within Cloud Based AWS API",
+            "date_modified": "2022-06-29T14:30:09.000Z",
+            "date_published": "2021-09-19T04:03:45.000Z",
             "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
+                "name": "CRSpradlin",
+                "url": "https://github.com/CRSpradlin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52463756?u=f601a2a0c02493950786d1562ea02dff071c56d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gerenciamento de usuários por meio do Cognito e CASL</div>",
+            "url": "https://github.com/gugamainchein/cognito-casl",
+            "title": "gugamainchein/cognito-casl: Gerenciamento de usuários por meio do Cognito e CASL",
+            "date_modified": "2022-08-29T01:39:49.000Z",
+            "date_published": "2022-08-29T01:05:36.000Z",
+            "author": {
+                "name": "gugamainchein",
+                "url": "https://github.com/gugamainchein"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2022-05-31T01:22:38.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35606709?u=0905043fbe4c5060a0e8108380052816aee376a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A React and TypeScript application with Amazon Cognito authentication.</div>",
+            "url": "https://github.com/louis-young/react-typescript-amazon-cognito-authentication",
+            "title": "louis-young/react-typescript-amazon-cognito-authentication: A React and TypeScript application with Amazon Cognito authentication.",
+            "date_modified": "2022-07-15T12:49:20.000Z",
+            "date_published": "2022-07-15T12:23:26.000Z",
+            "author": {
+                "name": "louis-young",
+                "url": "https://github.com/louis-young"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60474870?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[READ ONLY] CognitoIdentityProvider client</div>",
+            "url": "https://github.com/async-aws/cognito-identity-provider",
+            "title": "async-aws/cognito-identity-provider: [READ ONLY] CognitoIdentityProvider client",
+            "date_modified": "2022-01-05T13:38:34.000Z",
+            "date_published": "2020-05-06T08:17:48.000Z",
+            "author": {
+                "name": "async-aws",
+                "url": "https://github.com/async-aws"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6522306?u=50881661a64ce3a9d860ebd98fdc93ffde629aad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microservices architectural approach utilizing various AWS services</div>",
+            "url": "https://github.com/mikeacosta/postcore-web",
+            "title": "mikeacosta/postcore-web: Microservices architectural approach utilizing various AWS services",
+            "date_modified": "2022-08-31T05:28:04.000Z",
+            "date_published": "2019-07-02T03:30:42.000Z",
+            "author": {
+                "name": "mikeacosta",
+                "url": "https://github.com/mikeacosta"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30438379?u=7cc28ee46e6c3cb477e920672e96e3cca4f2e0d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project test serverless aws with golang</div>",
+            "url": "https://github.com/quankori/go-aws-cognito",
+            "title": "quankori/go-aws-cognito: Project test serverless aws with golang",
+            "date_modified": "2022-09-02T16:14:59.000Z",
+            "date_published": "2022-09-01T18:44:41.000Z",
+            "author": {
+                "name": "quankori",
+                "url": "https://github.com/quankori"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87067258?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS wrappers to use in IDEA's back-ends</div>",
+            "url": "https://github.com/iter-idea/IDEA-AWS",
+            "title": "iter-idea/IDEA-AWS: AWS wrappers to use in IDEA's back-ends",
+            "date_modified": "2022-02-18T10:04:11.000Z",
+            "date_published": "2018-08-01T08:18:42.000Z",
+            "author": {
+                "name": "iter-idea",
+                "url": "https://github.com/iter-idea"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50478857?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </div>",
             "url": "https://github.com/supertokens/supertokens-core",
             "title": "supertokens/supertokens-core: Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
-            "date_modified": "2022-09-01T23:15:33.000Z",
+            "date_modified": "2022-09-02T23:14:03.000Z",
             "date_published": "2020-01-05T13:30:52.000Z",
             "author": {
                 "name": "supertokens",
                 "url": "https://github.com/supertokens"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8340205?u=7294eadd580f4083ea906161b9eabc03bf92c2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A demo of a angular integrate with AWS Cognito</div>",
+            "url": "https://github.com/terencetcf/aws-cognito-angular-demo",
+            "title": "terencetcf/aws-cognito-angular-demo: A demo of a angular integrate with AWS Cognito",
+            "date_modified": "2022-08-16T11:43:43.000Z",
+            "date_published": "2022-08-15T09:29:24.000Z",
+            "author": {
+                "name": "terencetcf",
+                "url": "https://github.com/terencetcf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106938330?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cognito_loginを実装してみる</div>",
+            "url": "https://github.com/iVinci-HidetakaAIZAWA/cognito_login",
+            "title": "iVinci-HidetakaAIZAWA/cognito_login: cognito_loginを実装してみる",
+            "date_modified": "2022-07-22T04:08:02.000Z",
+            "date_published": "2022-07-22T04:08:02.000Z",
+            "author": {
+                "name": "iVinci-HidetakaAIZAWA",
+                "url": "https://github.com/iVinci-HidetakaAIZAWA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11076093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[READ ONLY] Subtree split of the SocialiteProviders/Cognito Provider (see SocialiteProviders/Providers)</div>",
+            "url": "https://github.com/SocialiteProviders/Cognito",
+            "title": "SocialiteProviders/Cognito: [READ ONLY] Subtree split of the SocialiteProviders/Cognito Provider (see SocialiteProviders/Providers)",
+            "date_modified": "2022-03-19T17:43:47.000Z",
+            "date_published": "2021-10-06T04:46:24.000Z",
+            "author": {
+                "name": "SocialiteProviders",
+                "url": "https://github.com/SocialiteProviders"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4043827?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/joshbmarshall/cognitocmsapi",
+            "title": "joshbmarshall/cognitocmsapi",
+            "date_modified": "2022-06-23T11:42:51.000Z",
+            "date_published": "2022-03-13T12:22:25.000Z",
+            "author": {
+                "name": "joshbmarshall",
+                "url": "https://github.com/joshbmarshall"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92545443?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>STK + AWS Cognito example</div>",
+            "url": "https://github.com/serverless-toolkit/cognito-example",
+            "title": "serverless-toolkit/cognito-example: STK + AWS Cognito example",
+            "date_modified": "2022-08-30T08:19:13.000Z",
+            "date_published": "2022-08-28T20:05:08.000Z",
+            "author": {
+                "name": "serverless-toolkit",
+                "url": "https://github.com/serverless-toolkit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1867845?u=2dd0ed02c05ee12f61ffad32e3683ddeaf124c0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/poad/github-cognito-oidc-proxy",
+            "title": "poad/github-cognito-oidc-proxy",
+            "date_modified": "2022-09-01T00:09:36.000Z",
+            "date_published": "2022-08-30T22:01:29.000Z",
+            "author": {
+                "name": "poad",
+                "url": "https://github.com/poad"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
+            "url": "https://github.com/nearform/brokeneck",
+            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
+            "date_modified": "2022-08-22T09:16:53.000Z",
+            "date_published": "2020-11-29T21:56:55.000Z",
+            "author": {
+                "name": "nearform",
+                "url": "https://github.com/nearform"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
+            "url": "https://github.com/aws-amplify/amplify-js",
+            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
+            "date_modified": "2022-09-02T20:05:35.000Z",
+            "date_published": "2017-10-02T22:17:14.000Z",
+            "author": {
+                "name": "aws-amplify",
+                "url": "https://github.com/aws-amplify"
             }
         },
         {
@@ -58,171 +223,6 @@
             "author": {
                 "name": "czabriskie",
                 "url": "https://github.com/czabriskie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60474870?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[READ ONLY] CognitoIdentityProvider client</div>",
-            "url": "https://github.com/async-aws/cognito-identity-provider",
-            "title": "async-aws/cognito-identity-provider: [READ ONLY] CognitoIdentityProvider client",
-            "date_modified": "2022-01-05T13:38:34.000Z",
-            "date_published": "2020-05-06T08:17:48.000Z",
-            "author": {
-                "name": "async-aws",
-                "url": "https://github.com/async-aws"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92545443?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>STK + AWS Cognito example</div>",
-            "url": "https://github.com/serverless-toolkit/cognito-example",
-            "title": "serverless-toolkit/cognito-example: STK + AWS Cognito example",
-            "date_modified": "2022-08-30T08:19:13.000Z",
-            "date_published": "2022-08-28T20:05:08.000Z",
-            "author": {
-                "name": "serverless-toolkit",
-                "url": "https://github.com/serverless-toolkit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18689739?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ctx-core/cognito",
-            "title": "ctx-core/cognito",
-            "date_modified": "2022-01-08T04:07:10.000Z",
-            "date_published": "2019-12-02T17:11:53.000Z",
-            "author": {
-                "name": "ctx-core",
-                "url": "https://github.com/ctx-core"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105769413?u=84b9be9c71664b2a03019a6843eb33e02d314e1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Update the Image management application with user authentication.         User Creation   User Login   User forgot password        Also customise the JWT token to include custom user details and table details </div>",
-            "url": "https://github.com/jojojoseph11/AWS_Cognito_JWT_Token_Lambda",
-            "title": "jojojoseph11/AWS_Cognito_JWT_Token_Lambda: Update the Image management application with user authentication.         User Creation   User Login   User forgot password        Also customise the JWT token to include custom user details and table details ",
-            "date_modified": "2022-09-01T14:27:12.000Z",
-            "date_published": "2022-09-01T14:27:12.000Z",
-            "author": {
-                "name": "jojojoseph11",
-                "url": "https://github.com/jojojoseph11"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2022-05-31T01:22:38.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
-            "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1658416?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multicontent serverless cms on AWS with cognito, dynamodb and appsync based on AWS CDK</div>",
-            "url": "https://github.com/anddimario/stiva",
-            "title": "anddimario/stiva: Multicontent serverless cms on AWS with cognito, dynamodb and appsync based on AWS CDK",
-            "date_modified": "2022-08-30T11:35:21.000Z",
-            "date_published": "2018-06-09T13:50:23.000Z",
-            "author": {
-                "name": "anddimario",
-                "url": "https://github.com/anddimario"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3715817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JS wrapper around native java and objc Cognito ASF librarie</div>",
-            "url": "https://github.com/ConnectedHomes/react-native-cognito-asf-fingerprint",
-            "title": "ConnectedHomes/react-native-cognito-asf-fingerprint: JS wrapper around native java and objc Cognito ASF librarie",
-            "date_modified": "2022-08-16T09:58:40.000Z",
-            "date_published": "2020-09-21T13:27:00.000Z",
-            "author": {
-                "name": "ConnectedHomes",
-                "url": "https://github.com/ConnectedHomes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16176530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set up a modern codebase for cloud-native web app with authentication features by running one command</div>",
-            "url": "https://github.com/codeandpepper/janush",
-            "title": "codeandpepper/janush: Set up a modern codebase for cloud-native web app with authentication features by running one command",
-            "date_modified": "2022-08-12T11:30:20.000Z",
-            "date_published": "2021-09-04T08:22:18.000Z",
-            "author": {
-                "name": "codeandpepper",
-                "url": "https://github.com/codeandpepper"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66546942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use amazon aws cognito with React and Recoil</div>",
-            "url": "https://github.com/ghostincjp/cogreact",
-            "title": "ghostincjp/cogreact: Use amazon aws cognito with React and Recoil",
-            "date_modified": "2022-04-18T01:08:28.000Z",
-            "date_published": "2022-04-12T07:32:27.000Z",
-            "author": {
-                "name": "ghostincjp",
-                "url": "https://github.com/ghostincjp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7074268?u=ca03c14bce23fc6525a8aa458211cada40116cb9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/carstenborg/CognitoTest",
-            "title": "carstenborg/CognitoTest",
-            "date_modified": "2022-09-01T07:48:28.000Z",
-            "date_published": "2022-09-01T07:48:28.000Z",
-            "author": {
-                "name": "carstenborg",
-                "url": "https://github.com/carstenborg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1867845?u=2dd0ed02c05ee12f61ffad32e3683ddeaf124c0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/poad/github-cognito-oidc-proxy",
-            "title": "poad/github-cognito-oidc-proxy",
-            "date_modified": "2022-09-01T00:09:36.000Z",
-            "date_published": "2022-08-30T22:01:29.000Z",
-            "author": {
-                "name": "poad",
-                "url": "https://github.com/poad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
-            "url": "https://github.com/nearform/brokeneck",
-            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
-            "date_modified": "2022-08-22T09:16:53.000Z",
-            "date_published": "2020-11-29T21:56:55.000Z",
-            "author": {
-                "name": "nearform",
-                "url": "https://github.com/nearform"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3690342?u=8e1c8c34e2b1c11433f9e9515aff468b62f6aa4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python library for using AWS Cognito.</div>",
-            "url": "https://github.com/atomlong/python-pycognito",
-            "title": "atomlong/python-pycognito: Python library for using AWS Cognito.",
-            "date_modified": "2022-05-21T08:47:52.000Z",
-            "date_published": "2021-11-12T11:52:53.000Z",
-            "author": {
-                "name": "atomlong",
-                "url": "https://github.com/atomlong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81391401?u=ee1eee0ff65a13e5373e26a8d5d33245ec875711&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Samuel-Sulo/terraform-aws-cognito-user-pool",
-            "title": "Samuel-Sulo/terraform-aws-cognito-user-pool",
-            "date_modified": "2022-08-31T21:53:20.000Z",
-            "date_published": "2022-08-31T21:53:20.000Z",
-            "author": {
-                "name": "Samuel-Sulo",
-                "url": "https://github.com/Samuel-Sulo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8283698?u=0be9865a1418bec944babdc9a7436dc5b87b9991&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This video demonstrates how to use the AWS SDK and Cognito to create sign-up and login functionality in your Unity project.</div>",
-            "url": "https://github.com/BatteryAcid/unity-cognito-client",
-            "title": "BatteryAcid/unity-cognito-client: This video demonstrates how to use the AWS SDK and Cognito to create sign-up and login functionality in your Unity project.",
-            "date_modified": "2022-07-30T13:58:07.000Z",
-            "date_published": "2021-05-04T20:28:40.000Z",
-            "author": {
-                "name": "BatteryAcid",
-                "url": "https://github.com/BatteryAcid"
             }
         }
     ]
