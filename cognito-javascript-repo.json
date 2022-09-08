@@ -6,6 +6,171 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>",
+            "url": "https://github.com/tillkuhn/angkor",
+            "title": "tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 12), Spring Boot 2.5 (Kotlin), PostgreSQL 12, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS",
+            "date_modified": "2022-07-03T04:28:34.000Z",
+            "date_published": "2019-11-05T10:03:24.000Z",
+            "author": {
+                "name": "tillkuhn",
+                "url": "https://github.com/tillkuhn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11353678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stackx - Terraform - AWS - Cognito</div>",
+            "url": "https://github.com/ventx/terraform-aws-stackx-cognito",
+            "title": "ventx/terraform-aws-stackx-cognito: stackx - Terraform - AWS - Cognito",
+            "date_modified": "2022-09-07T20:39:20.000Z",
+            "date_published": "2022-09-07T20:39:14.000Z",
+            "author": {
+                "name": "ventx",
+                "url": "https://github.com/ventx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46210236?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A cloud-based web application where instructors can create courses, custom quizzes and generate/send student evaluation reports, and students can enrol for courses and attempt the quizzes. Developed using Angular, NodeJS, Docker, Serverless Framework and AWS Services: Cognito, DynamoDB, SNS (Simple Notification Service), Lambda, API Gateway, Elastic Container Service (ECS), Simple Storage Service (S3), Lex.</div>",
+            "url": "https://github.com/AdilOtha/quiz-app-fueled-by-AWS",
+            "title": "AdilOtha/quiz-app-fueled-by-AWS: A cloud-based web application where instructors can create courses, custom quizzes and generate/send student evaluation reports, and students can enrol for courses and attempt the quizzes. Developed using Angular, NodeJS, Docker, Serverless Framework and AWS Services: Cognito, DynamoDB, SNS (Simple Notification Service), Lambda, API Gateway, Elastic Container Service (ECS), Simple Storage Service (S3), Lex.",
+            "date_modified": "2022-08-12T15:55:42.000Z",
+            "date_published": "2022-08-12T15:49:13.000Z",
+            "author": {
+                "name": "AdilOtha",
+                "url": "https://github.com/AdilOtha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9872839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Lokicoule/nestjs-cognito-monorepo",
+            "title": "Lokicoule/nestjs-cognito-monorepo",
+            "date_modified": "2022-08-27T13:53:18.000Z",
+            "date_published": "2022-07-22T13:36:19.000Z",
+            "author": {
+                "name": "Lokicoule",
+                "url": "https://github.com/Lokicoule"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46224864?u=c3f1bc2f67ae7617d877bf76d41b6fe8683d1d74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sathiyaseelan253/AWS_CognitoPOC",
+            "title": "sathiyaseelan253/AWS_CognitoPOC",
+            "date_modified": "2022-09-07T13:39:46.000Z",
+            "date_published": "2022-09-07T13:16:12.000Z",
+            "author": {
+                "name": "sathiyaseelan253",
+                "url": "https://github.com/sathiyaseelan253"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50478857?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </div>",
+            "url": "https://github.com/supertokens/supertokens-core",
+            "title": "supertokens/supertokens-core: Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
+            "date_modified": "2022-09-07T22:08:01.000Z",
+            "date_published": "2020-01-05T13:30:52.000Z",
+            "author": {
+                "name": "supertokens",
+                "url": "https://github.com/supertokens"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46388613?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.</div>",
+            "url": "https://github.com/Liftric/cognito-idp",
+            "title": "Liftric/cognito-idp: Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.",
+            "date_modified": "2022-07-22T16:49:59.000Z",
+            "date_published": "2020-07-08T17:03:51.000Z",
+            "author": {
+                "name": "Liftric",
+                "url": "https://github.com/Liftric"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77633603?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"lock\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f512.png\">🔒</g-emoji> Py-MultiAuth - The ultimate Python Authentication toolkit (Basic, OAuth, GraphQL, REST, AWS, Cognito…) <g-emoji class=\"g-emoji\" alias=\"lock\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f512.png\">🔒</g-emoji></div>",
+            "url": "https://github.com/Escape-Technologies/py-multiauth",
+            "title": "Escape-Technologies/py-multiauth: 🔒 Py-MultiAuth - The ultimate Python Authentication toolkit (Basic, OAuth, GraphQL, REST, AWS, Cognito…) 🔒",
+            "date_modified": "2022-07-29T16:59:18.000Z",
+            "date_published": "2022-06-08T09:50:21.000Z",
+            "author": {
+                "name": "Escape-Technologies",
+                "url": "https://github.com/Escape-Technologies"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52904236?u=0c082a0374d644f7ae28fdf88e4a93b70afcf13c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AlvaroDavi5/AWS_S3_and_Cognito_LocalStack",
+            "title": "AlvaroDavi5/AWS_S3_and_Cognito_LocalStack",
+            "date_modified": "2022-09-07T08:13:52.000Z",
+            "date_published": "2022-08-26T02:23:27.000Z",
+            "author": {
+                "name": "AlvaroDavi5",
+                "url": "https://github.com/AlvaroDavi5"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49787913?u=fa46e6a58b69cc8f1b0378e6dfb21789c3dffe3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Cognito 서비스의 userpool과 access_token을 활용하는 Spring Boot 예제</div>",
+            "url": "https://github.com/BlackdeerY/aws-cognito",
+            "title": "BlackdeerY/aws-cognito: AWS Cognito 서비스의 userpool과 access_token을 활용하는 Spring Boot 예제",
+            "date_modified": "2022-08-15T15:47:53.000Z",
+            "date_published": "2022-08-15T15:45:36.000Z",
+            "author": {
+                "name": "BlackdeerY",
+                "url": "https://github.com/BlackdeerY"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92428640?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identity and Access Management Service</div>",
+            "url": "https://github.com/hwslabs/iam",
+            "title": "hwslabs/iam: Identity and Access Management Service",
+            "date_modified": "2022-07-28T08:20:55.000Z",
+            "date_published": "2022-02-03T14:02:08.000Z",
+            "author": {
+                "name": "hwslabs",
+                "url": "https://github.com/hwslabs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3299148?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A centralized login and SSO application to authenticate several websites and mobile apps.</div>",
+            "url": "https://github.com/awslabs/aws-amplify-identity-broker",
+            "title": "awslabs/aws-amplify-identity-broker: A centralized login and SSO application to authenticate several websites and mobile apps.",
+            "date_modified": "2022-09-07T13:35:06.000Z",
+            "date_published": "2020-08-19T22:09:48.000Z",
+            "author": {
+                "name": "awslabs",
+                "url": "https://github.com/awslabs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1867845?u=2dd0ed02c05ee12f61ffad32e3683ddeaf124c0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/poad/github-cognito-oidc-proxy",
+            "title": "poad/github-cognito-oidc-proxy",
+            "date_modified": "2022-09-04T01:36:08.000Z",
+            "date_published": "2022-08-30T22:01:29.000Z",
+            "author": {
+                "name": "poad",
+                "url": "https://github.com/poad"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20411077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/entest-hai/apigw-auth-cognito",
+            "title": "entest-hai/apigw-auth-cognito",
+            "date_modified": "2022-07-28T02:04:15.000Z",
+            "date_published": "2022-07-27T15:02:39.000Z",
+            "author": {
+                "name": "entest-hai",
+                "url": "https://github.com/entest-hai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1544687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>",
+            "url": "https://github.com/nearform/brokeneck",
+            "title": "nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito",
+            "date_modified": "2022-08-22T09:16:53.000Z",
+            "date_published": "2020-11-29T21:56:55.000Z",
+            "author": {
+                "name": "nearform",
+                "url": "https://github.com/nearform"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3299148?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Client demo code sample for the project \"AWS Amplify identity broker\" <a href=\"https://github.com/awslabs/aws-amplify-identity-broker\">https://github.com/awslabs/aws-amplify-identity-broker</a></div>",
             "url": "https://github.com/awslabs/aws-amplify-identity-broker-client",
             "title": "awslabs/aws-amplify-identity-broker-client: Client demo code sample for the project \"AWS Amplify identity broker\" https://github.com/awslabs/aws-amplify-identity-broker",
@@ -58,171 +223,6 @@
             "author": {
                 "name": "ctx-core",
                 "url": "https://github.com/ctx-core"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7347290?u=8cb4c5a896662ea39e64ba121de6b4487a62b261&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nkalupahana/aws-cognito-api-demo",
-            "title": "nkalupahana/aws-cognito-api-demo",
-            "date_modified": "2022-09-06T18:21:16.000Z",
-            "date_published": "2022-09-06T18:21:03.000Z",
-            "author": {
-                "name": "nkalupahana",
-                "url": "https://github.com/nkalupahana"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
-            "url": "https://github.com/aws-amplify/amplify-js",
-            "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-09-06T17:36:02.000Z",
-            "date_published": "2017-10-02T22:17:14.000Z",
-            "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69018716?u=85cc47d7a97abebb7ef6315fe1eadbb189389d1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GuilhermeBarroso-sys/amazon-cognito",
-            "title": "GuilhermeBarroso-sys/amazon-cognito",
-            "date_modified": "2022-09-06T16:07:46.000Z",
-            "date_published": "2022-09-06T13:15:31.000Z",
-            "author": {
-                "name": "GuilhermeBarroso-sys",
-                "url": "https://github.com/GuilhermeBarroso-sys"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87067258?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS wrappers to use in IDEA's back-ends</div>",
-            "url": "https://github.com/iter-idea/IDEA-AWS",
-            "title": "iter-idea/IDEA-AWS: AWS wrappers to use in IDEA's back-ends",
-            "date_modified": "2022-02-18T10:04:11.000Z",
-            "date_published": "2018-08-01T08:18:42.000Z",
-            "author": {
-                "name": "iter-idea",
-                "url": "https://github.com/iter-idea"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100762388?u=bee415d8b4a1a86b98b464ad2d6fb23c3ff054b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Cognito Authentication in PHP</div>",
-            "url": "https://github.com/amitmishralaitkor/aws-cognito-auth",
-            "title": "amitmishralaitkor/aws-cognito-auth: AWS Cognito Authentication in PHP",
-            "date_modified": "2022-09-06T12:54:11.000Z",
-            "date_published": "2022-09-06T12:51:24.000Z",
-            "author": {
-                "name": "amitmishralaitkor",
-                "url": "https://github.com/amitmishralaitkor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60474870?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[READ ONLY] CognitoIdentityProvider client</div>",
-            "url": "https://github.com/async-aws/cognito-identity-provider",
-            "title": "async-aws/cognito-identity-provider: [READ ONLY] CognitoIdentityProvider client",
-            "date_modified": "2022-01-05T13:38:34.000Z",
-            "date_published": "2020-05-06T08:17:48.000Z",
-            "author": {
-                "name": "async-aws",
-                "url": "https://github.com/async-aws"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50478857?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </div>",
-            "url": "https://github.com/supertokens/supertokens-core",
-            "title": "supertokens/supertokens-core: Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
-            "date_modified": "2022-09-07T00:12:30.000Z",
-            "date_published": "2020-01-05T13:30:52.000Z",
-            "author": {
-                "name": "supertokens",
-                "url": "https://github.com/supertokens"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1658416?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multicontent serverless cms on AWS with cognito, dynamodb and appsync based on AWS CDK</div>",
-            "url": "https://github.com/anddimario/stiva",
-            "title": "anddimario/stiva: Multicontent serverless cms on AWS with cognito, dynamodb and appsync based on AWS CDK",
-            "date_modified": "2022-08-30T11:35:21.000Z",
-            "date_published": "2018-06-09T13:50:23.000Z",
-            "author": {
-                "name": "anddimario",
-                "url": "https://github.com/anddimario"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72742883?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AmitSanu-Ops/aws_cognito",
-            "title": "AmitSanu-Ops/aws_cognito",
-            "date_modified": "2022-09-06T09:52:03.000Z",
-            "date_published": "2022-09-06T09:52:03.000Z",
-            "author": {
-                "name": "AmitSanu-Ops",
-                "url": "https://github.com/AmitSanu-Ops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5627860?u=a0249caa2ba51a88006b214ab0032e129b355d5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Shell/CLI with AWS Cognito authentication</div>",
-            "url": "https://github.com/jussiniinikoski/cognito-user-shell",
-            "title": "jussiniinikoski/cognito-user-shell: Shell/CLI with AWS Cognito authentication",
-            "date_modified": "2022-09-06T09:24:46.000Z",
-            "date_published": "2020-06-25T06:58:59.000Z",
-            "author": {
-                "name": "jussiniinikoski",
-                "url": "https://github.com/jussiniinikoski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92428640?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identity and Access Management Service</div>",
-            "url": "https://github.com/hwslabs/iam",
-            "title": "hwslabs/iam: Identity and Access Management Service",
-            "date_modified": "2022-07-28T08:20:55.000Z",
-            "date_published": "2022-02-03T14:02:08.000Z",
-            "author": {
-                "name": "hwslabs",
-                "url": "https://github.com/hwslabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77633603?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"lock\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f512.png\">🔒</g-emoji> Py-MultiAuth - The ultimate Python Authentication toolkit (Basic, OAuth, GraphQL, REST, AWS, Cognito…) <g-emoji class=\"g-emoji\" alias=\"lock\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f512.png\">🔒</g-emoji></div>",
-            "url": "https://github.com/Escape-Technologies/py-multiauth",
-            "title": "Escape-Technologies/py-multiauth: 🔒 Py-MultiAuth - The ultimate Python Authentication toolkit (Basic, OAuth, GraphQL, REST, AWS, Cognito…) 🔒",
-            "date_modified": "2022-07-29T16:59:18.000Z",
-            "date_published": "2022-06-08T09:50:21.000Z",
-            "author": {
-                "name": "Escape-Technologies",
-                "url": "https://github.com/Escape-Technologies"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101441934?u=9d1437ca912e1bd61e492d46289c8383db7beab5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boggle is a word search game, developed using React and AWS mechanisms like Lambda, API Gateway, Cognito, Elastic Beanstalk, S3 Bucket, DynamoDB, SNS, and Event Bridge. The users can play the game and view their scoreboard and leadership board. Users will receive weekly emails for the list of weekly game score leaders.</div>",
-            "url": "https://github.com/AnkushMudgal/boggle-aws",
-            "title": "AnkushMudgal/boggle-aws: Boggle is a word search game, developed using React and AWS mechanisms like Lambda, API Gateway, Cognito, Elastic Beanstalk, S3 Bucket, DynamoDB, SNS, and Event Bridge. The users can play the game and view their scoreboard and leadership board. Users will receive weekly emails for the list of weekly game score leaders.",
-            "date_modified": "2022-09-06T06:13:58.000Z",
-            "date_published": "2022-09-06T02:26:19.000Z",
-            "author": {
-                "name": "AnkushMudgal",
-                "url": "https://github.com/AnkushMudgal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52463756?u=f601a2a0c02493950786d1562ea02dff071c56d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gerenciamento de usuários por meio do Cognito e CASL</div>",
-            "url": "https://github.com/gugamainchein/cognito-casl",
-            "title": "gugamainchein/cognito-casl: Gerenciamento de usuários por meio do Cognito e CASL",
-            "date_modified": "2022-09-05T01:48:39.000Z",
-            "date_published": "2022-08-29T01:05:36.000Z",
-            "author": {
-                "name": "gugamainchein",
-                "url": "https://github.com/gugamainchein"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1867845?u=2dd0ed02c05ee12f61ffad32e3683ddeaf124c0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/poad/github-cognito-oidc-proxy",
-            "title": "poad/github-cognito-oidc-proxy",
-            "date_modified": "2022-09-04T01:36:08.000Z",
-            "date_published": "2022-08-30T22:01:29.000Z",
-            "author": {
-                "name": "poad",
-                "url": "https://github.com/poad"
             }
         }
     ]
