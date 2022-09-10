@@ -6,14 +6,36 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2086227?u=eb3d8b78dbdc1ba4569dd113bb8fadb8e92a5cc6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/tmorell/aws-serverless-router",
-            "title": "tmorell/aws-serverless-router",
-            "date_modified": "2022-09-08T22:57:04.000Z",
-            "date_published": "2022-09-08T22:48:25.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99307384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Baseline CDK project for standard HubSpot projects</div>",
+            "url": "https://github.com/cambium-advisors/cambium-baseline",
+            "title": "cambium-advisors/cambium-baseline: Baseline CDK project for standard HubSpot projects",
+            "date_modified": "2022-09-09T00:49:04.000Z",
+            "date_published": "2022-07-12T04:29:07.000Z",
             "author": {
-                "name": "tmorell",
-                "url": "https://github.com/tmorell"
+                "name": "cambium-advisors",
+                "url": "https://github.com/cambium-advisors"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84680760?u=efd131f19143f5dd11c1fcbfec3f73387ec3f7dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless Discord Bot designed for Cloudflare Workers.</div>",
+            "url": "https://github.com/Attituding/serverless-discord-bot",
+            "title": "Attituding/serverless-discord-bot: A serverless Discord Bot designed for Cloudflare Workers.",
+            "date_modified": "2022-07-02T05:33:21.000Z",
+            "date_published": "2022-06-29T15:57:07.000Z",
+            "author": {
+                "name": "Attituding",
+                "url": "https://github.com/Attituding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4154003?u=9314002b97b86b7ef9f21000970f1adb9fd15808&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emulate AWS λ and API Gateway locally when developing your Serverless project</div>",
+            "url": "https://github.com/dherault/serverless-offline",
+            "title": "dherault/serverless-offline: Emulate AWS λ and API Gateway locally when developing your Serverless project",
+            "date_modified": "2022-09-09T23:29:35.000Z",
+            "date_published": "2016-02-17T08:01:47.000Z",
+            "author": {
+                "name": "dherault",
+                "url": "https://github.com/dherault"
             }
         },
         {
@@ -39,25 +61,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1694740?u=7dcd18a910a7b7222dab8940b6db1737b80cf19b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple, private website for your curriculum vitae</div>",
-            "url": "https://github.com/theprojectsomething/cvms",
-            "title": "theprojectsomething/cvms: A simple, private website for your curriculum vitae",
-            "date_modified": "2022-09-08T23:49:29.000Z",
-            "date_published": "2022-08-23T06:22:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57308531?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a multi-project workspace (monorepo).</div>",
+            "url": "https://github.com/eng-dibo/dibo",
+            "title": "eng-dibo/dibo: a multi-project workspace (monorepo).",
+            "date_modified": "2022-06-15T22:24:13.000Z",
+            "date_published": "2021-04-26T14:55:13.000Z",
             "author": {
-                "name": "theprojectsomething",
-                "url": "https://github.com/theprojectsomething"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46299592?u=3a1dc3ee3abd2f38c84d00978b66cc874cbcaaaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/diegosantosouza/authorization-serverless-http-api",
-            "title": "diegosantosouza/authorization-serverless-http-api",
-            "date_modified": "2022-09-08T20:52:00.000Z",
-            "date_published": "2022-09-08T18:43:36.000Z",
-            "author": {
-                "name": "diegosantosouza",
-                "url": "https://github.com/diegosantosouza"
+                "name": "eng-dibo",
+                "url": "https://github.com/eng-dibo"
             }
         },
         {
@@ -72,69 +83,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5209935?u=f7eca2cc6f00e143fe49dba03dddb983e8392bab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"rocket\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f680.png\">🚀</g-emoji> Boilerplate and Starter for Serverless framework, ExpressJS and TypeScript <g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡️</g-emoji> Made with developer experience first: Serverless framework + Live reload + Offline support + ExpressJS + TypeScript + ESLint + Prettier + Husky + Commitlint + Lint-Staged + Jest + Dotenv + VSCode</div>",
-            "url": "https://github.com/ixartz/Serverless-Boilerplate-Express-TypeScript",
-            "title": "ixartz/Serverless-Boilerplate-Express-TypeScript: 🚀 Boilerplate and Starter for Serverless framework, ExpressJS and TypeScript ⚡️ Made with developer experience first: Serverless framework + Live reload + Offline support + ExpressJS + TypeScript + ESLint + Prettier + Husky + Commitlint + Lint-Staged + Jest + Dotenv + VSCode",
-            "date_modified": "2022-09-08T19:48:30.000Z",
-            "date_published": "2021-02-24T17:54:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88905828?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"sauropod\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f995.png\">🦕</g-emoji> Deno runtime for ▲ Vercel Serverless Functions.</div>",
+            "url": "https://github.com/vercel-community/deno",
+            "title": "vercel-community/deno: 🦕 Deno runtime for ▲ Vercel Serverless Functions.",
+            "date_modified": "2022-09-09T16:49:33.000Z",
+            "date_published": "2020-05-25T03:55:02.000Z",
             "author": {
-                "name": "ixartz",
-                "url": "https://github.com/ixartz"
+                "name": "vercel-community",
+                "url": "https://github.com/vercel-community"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3299148?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification</div>",
-            "url": "https://github.com/awslabs/fhir-works-on-aws-deployment",
-            "title": "awslabs/fhir-works-on-aws-deployment: A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification",
-            "date_modified": "2022-09-07T11:03:37.000Z",
-            "date_published": "2020-05-12T12:26:18.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4487493?u=30028011990c94385945e36e15ab469e8df66cc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless, AWS, NestJS, GraphQL and DynamoDB starter</div>",
+            "url": "https://github.com/hardyscc/aws-nestjs-starter",
+            "title": "hardyscc/aws-nestjs-starter: Serverless, AWS, NestJS, GraphQL and DynamoDB starter",
+            "date_modified": "2022-09-05T14:15:02.000Z",
+            "date_published": "2020-03-22T02:58:04.000Z",
             "author": {
-                "name": "awslabs",
-                "url": "https://github.com/awslabs"
+                "name": "hardyscc",
+                "url": "https://github.com/hardyscc"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66008528?u=b9a747ff69a9d5f19997680bde7feb24a9876fff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Photo Gallery powered by Notion, built with React, Next.js, tailwindcss, TypeScript, Notion-Api-Worker and more.</div>",
-            "url": "https://github.com/okisdev/Notion-Photo-React",
-            "title": "okisdev/Notion-Photo-React: A Photo Gallery powered by Notion, built with React, Next.js, tailwindcss, TypeScript, Notion-Api-Worker and more.",
-            "date_modified": "2022-09-03T19:14:14.000Z",
-            "date_published": "2022-01-03T15:23:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2285892?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless s3 local plugin.</div>",
+            "url": "https://github.com/ar90n/serverless-s3-local",
+            "title": "ar90n/serverless-s3-local: Serverless s3 local plugin.",
+            "date_modified": "2022-09-07T10:28:44.000Z",
+            "date_published": "2016-11-11T12:43:48.000Z",
             "author": {
-                "name": "okisdev",
-                "url": "https://github.com/okisdev"
+                "name": "ar90n",
+                "url": "https://github.com/ar90n"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72094596?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Typescript REST API showcasing using DynamoDB super charged with Momento </div>",
-            "url": "https://github.com/momentohq/serverless-api-demo",
-            "title": "momentohq/serverless-api-demo: Serverless Typescript REST API showcasing using DynamoDB super charged with Momento ",
-            "date_modified": "2022-08-25T19:28:25.000Z",
-            "date_published": "2022-07-08T02:13:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60898319?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open fair-code platform on top of headless commerce. High performant Astro + Vue PWA &amp; Jamstack storefront with built-in CMS. Integrations for payments, shipping, ERPs, CRMs and others. Truly extensible event-driven and serverless architecture. Easy and cheap deploy to Firebase.</div>",
+            "url": "https://github.com/ecomplus/cloud-commerce",
+            "title": "ecomplus/cloud-commerce: Open fair-code platform on top of headless commerce. High performant Astro + Vue PWA & Jamstack storefront with built-in CMS. Integrations for payments, shipping, ERPs, CRMs and others. Truly extensible event-driven and serverless architecture. Easy and cheap deploy to Firebase.",
+            "date_modified": "2022-08-26T10:01:49.000Z",
+            "date_published": "2021-06-04T01:11:42.000Z",
             "author": {
-                "name": "momentohq",
-                "url": "https://github.com/momentohq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66570915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"boom\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png\">💥</g-emoji> SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.</div>",
-            "url": "https://github.com/serverless-stack/sst",
-            "title": "serverless-stack/sst: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.",
-            "date_modified": "2022-09-08T23:48:11.000Z",
-            "date_published": "2020-08-04T20:28:14.000Z",
-            "author": {
-                "name": "serverless-stack",
-                "url": "https://github.com/serverless-stack"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.</div>",
-            "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js",
-            "title": "NordicSemiconductor/cloud-e2e-bdd-test-runner-js: Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.",
-            "date_modified": "2022-08-04T16:00:41.000Z",
-            "date_published": "2021-01-26T15:47:17.000Z",
-            "author": {
-                "name": "NordicSemiconductor",
-                "url": "https://github.com/NordicSemiconductor"
+                "name": "ecomplus",
+                "url": "https://github.com/ecomplus"
             }
         },
         {
@@ -149,80 +138,91 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.</div>",
-            "url": "https://github.com/aws-amplify/amplify-cli",
-            "title": "aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.",
-            "date_modified": "2022-09-08T15:57:15.000Z",
-            "date_published": "2018-08-23T16:33:10.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60228285?u=5a6df46e011fed4105a35dcf661257ef2f5ae60e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless stock market portfolio builder</div>",
+            "url": "https://github.com/BohdanKhv/market-watch",
+            "title": "BohdanKhv/market-watch: Serverless stock market portfolio builder",
+            "date_modified": "2022-09-08T00:23:49.000Z",
+            "date_published": "2022-09-03T23:27:00.000Z",
             "author": {
-                "name": "aws-amplify",
-                "url": "https://github.com/aws-amplify"
+                "name": "BohdanKhv",
+                "url": "https://github.com/BohdanKhv"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53885226?u=57cc705057ccb99c7c600ea7bfec3b8afe4779de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cripto RestAPI, to check criptocoins exchange rate</div>",
-            "url": "https://github.com/igfeitall/Cripto_Serverless",
-            "title": "igfeitall/Cripto_Serverless: Cripto RestAPI, to check criptocoins exchange rate",
-            "date_modified": "2022-09-07T04:58:51.000Z",
-            "date_published": "2022-09-06T16:54:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.</div>",
+            "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js",
+            "title": "NordicSemiconductor/cloud-e2e-bdd-test-runner-js: Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.",
+            "date_modified": "2022-08-04T16:00:41.000Z",
+            "date_published": "2021-01-26T15:47:17.000Z",
             "author": {
-                "name": "igfeitall",
-                "url": "https://github.com/igfeitall"
+                "name": "NordicSemiconductor",
+                "url": "https://github.com/NordicSemiconductor"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83778865?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instantly Create Multi-Cloud Serverless Applications</div>",
-            "url": "https://github.com/intellibus/stellarengine",
-            "title": "intellibus/stellarengine: Instantly Create Multi-Cloud Serverless Applications",
-            "date_modified": "2022-07-29T18:17:31.000Z",
-            "date_published": "2022-07-29T17:52:58.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108042454?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Destroys serverless stages' cloudformation stacks and resources</div>",
+            "url": "https://github.com/stratiformdigital/serverless-stage-destroyer",
+            "title": "stratiformdigital/serverless-stage-destroyer: Destroys serverless stages' cloudformation stacks and resources",
+            "date_modified": "2022-07-14T00:35:40.000Z",
+            "date_published": "2022-04-20T07:06:02.000Z",
             "author": {
-                "name": "intellibus",
-                "url": "https://github.com/intellibus"
+                "name": "stratiformdigital",
+                "url": "https://github.com/stratiformdigital"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8981287?u=4bf37a144d65af7f4d6aa1616fd734f83b566fac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Discord server registration service. Deployable to serverless platforms</div>",
-            "url": "https://github.com/jaasonw/acm-registration",
-            "title": "jaasonw/acm-registration: A Discord server registration service. Deployable to serverless platforms",
-            "date_modified": "2022-08-19T07:05:50.000Z",
-            "date_published": "2022-08-14T06:19:58.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6844498?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Azure Static Web Apps CLI <g-emoji class=\"g-emoji\" alias=\"sparkles\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2728.png\">✨</g-emoji></div>",
+            "url": "https://github.com/Azure/static-web-apps-cli",
+            "title": "Azure/static-web-apps-cli: Azure Static Web Apps CLI ✨",
+            "date_modified": "2022-09-10T00:14:29.000Z",
+            "date_published": "2020-06-26T20:48:08.000Z",
             "author": {
-                "name": "jaasonw",
-                "url": "https://github.com/jaasonw"
+                "name": "Azure",
+                "url": "https://github.com/Azure"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25003669?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Secure Backend Server for Web, Mobile &amp; Flutter Developers <g-emoji class=\"g-emoji\" alias=\"rocket\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f680.png\">🚀</g-emoji> AKA the 100% open-source Firebase alternative.</div>",
-            "url": "https://github.com/appwrite/appwrite",
-            "title": "appwrite/appwrite: Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
-            "date_modified": "2022-09-08T23:09:38.000Z",
-            "date_published": "2019-04-08T16:36:25.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33791916?u=08ed7364cdf660fc79abd33c987b08dfb7a422d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/criszelaya24/pokemon-api",
+            "title": "criszelaya24/pokemon-api",
+            "date_modified": "2022-09-09T22:35:41.000Z",
+            "date_published": "2022-09-07T14:47:17.000Z",
             "author": {
-                "name": "appwrite",
-                "url": "https://github.com/appwrite"
+                "name": "criszelaya24",
+                "url": "https://github.com/criszelaya24"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3209407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MINT App</div>",
-            "url": "https://github.com/CMSgov/mint-app",
-            "title": "CMSgov/mint-app: MINT App",
-            "date_modified": "2022-04-25T14:49:45.000Z",
-            "date_published": "2022-03-07T18:07:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25966?u=fd866ec42bdc141a9fe09e9039388f98bf80aa9c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Graphql-WS compatible Lambda Powered Subscriptions</div>",
+            "url": "https://github.com/reconbot/graphql-lambda-subscriptions",
+            "title": "reconbot/graphql-lambda-subscriptions: Graphql-WS compatible Lambda Powered Subscriptions",
+            "date_modified": "2022-08-29T11:35:40.000Z",
+            "date_published": "2021-08-06T20:41:47.000Z",
             "author": {
-                "name": "CMSgov",
-                "url": "https://github.com/CMSgov"
+                "name": "reconbot",
+                "url": "https://github.com/reconbot"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23035769?u=1cc7c120feb97e66904b90e5b71d28aaa3df4a70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/adityakrshnn/redditspeedbot-serverless",
-            "title": "adityakrshnn/redditspeedbot-serverless",
-            "date_modified": "2022-02-22T23:27:06.000Z",
-            "date_published": "2021-04-17T17:54:18.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/916280?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BCParks Attendance and Revenue Backend.</div>",
+            "url": "https://github.com/bcgov/bcparks-ar-api",
+            "title": "bcgov/bcparks-ar-api: BCParks Attendance and Revenue Backend.",
+            "date_modified": "2022-03-25T00:08:49.000Z",
+            "date_published": "2022-03-18T17:08:22.000Z",
             "author": {
-                "name": "adityakrshnn",
-                "url": "https://github.com/adityakrshnn"
+                "name": "bcgov",
+                "url": "https://github.com/bcgov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5392427?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/npslater/web3-dapp-serverless",
+            "title": "npslater/web3-dapp-serverless",
+            "date_modified": "2022-09-09T22:11:25.000Z",
+            "date_published": "2022-09-08T18:11:07.000Z",
+            "author": {
+                "name": "npslater",
+                "url": "https://github.com/npslater"
             }
         }
     ]
