@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/analytics-javascript-repo.json</id>
     <title>Analytics repositories</title>
-    <updated>2022-09-23T00:24:57.046Z</updated>
+    <updated>2022-09-24T00:24:11.209Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=analytics+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Analytics repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[push-to-master/Harvest: In recent times there has been a greater push towards sustainability and food sovereignty. As part of this, many people have begun growing food in gardens and public spaces. Harvest is an app to facilitate the process of growing and harvesting food. Among other features, users should be able to: Keep track of the food they have sowed/planted/harvested View analytics of their food yield (e.g. weight harvested this month, predictions for future yields, etc.) View planting information for listed foods (e.g. when to sow, when to harvest, etc.) View nutritional information for listed foods (e.g. calories, carbs, protein, fibre, etc.) Share their progress with other users etc.]]></title>
-        <id>https://github.com/push-to-master/Harvest</id>
-        <link href="https://github.com/push-to-master/Harvest"/>
-        <updated>2022-09-02T23:27:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111207723?v=4" width="64" height="64" alt=""/><br/><div>In recent times there has been a greater push towards sustainability and food sovereignty. As part of this, many people have begun growing food in gardens and public spaces. Harvest is an app to facilitate the process of growing and harvesting food. Among other features, users should be able to: Keep track of the food they have sowed/planted/harvested View analytics of their food yield (e.g. weight harvested this month, predictions for future yields, etc.) View planting information for listed foods (e.g. when to sow, when to harvest, etc.) View nutritional information for listed foods (e.g. calories, carbs, protein, fibre, etc.) Share their progress with other users etc.</div>]]></content>
+        <title type="html"><![CDATA[EOS-Nation/eos-blockchain-data: EOS Blockchain Data for Analytics]]></title>
+        <id>https://github.com/EOS-Nation/eos-blockchain-data</id>
+        <link href="https://github.com/EOS-Nation/eos-blockchain-data"/>
+        <updated>2022-08-23T01:01:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36919604?v=4" width="64" height="64" alt=""/><br/><div>EOS Blockchain Data for Analytics</div>]]></content>
         <author>
-            <name>push-to-master</name>
-            <email>push-to-master@noreply.github.com</email>
-            <uri>https://github.com/push-to-master</uri>
+            <name>EOS-Nation</name>
+            <email>EOS-Nation@noreply.github.com</email>
+            <uri>https://github.com/EOS-Nation</uri>
         </author>
-        <published>2022-08-14T00:22:06.000Z</published>
+        <published>2022-08-22T17:34:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.]]></title>
         <id>https://github.com/aws-amplify/amplify-cli</id>
         <link href="https://github.com/aws-amplify/amplify-cli"/>
-        <updated>2022-09-23T00:12:30.000Z</updated>
+        <updated>2022-09-23T07:06:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.</div>]]></content>
         <author>
             <name>aws-amplify</name>
@@ -47,23 +47,36 @@
         <published>2021-05-17T09:40:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Addono/docusaurus-plugin-goatcounter: Adds GoatCounter web analytics to Docusaurus]]></title>
-        <id>https://github.com/Addono/docusaurus-plugin-goatcounter</id>
-        <link href="https://github.com/Addono/docusaurus-plugin-goatcounter"/>
-        <updated>2022-05-27T22:02:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15435678?u=a128b67bb29f9d8d118bf5780d837516c97087ce&v=4" width="64" height="64" alt=""/><br/><div>Adds GoatCounter web analytics to Docusaurus</div>]]></content>
+        <title type="html"><![CDATA[PostHog/posthog: 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. ]]></title>
+        <id>https://github.com/PostHog/posthog</id>
+        <link href="https://github.com/PostHog/posthog"/>
+        <updated>2022-09-23T20:48:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60330232?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="hedgehog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f994.png">🦔</g-emoji> PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. </div>]]></content>
         <author>
-            <name>Addono</name>
-            <email>Addono@noreply.github.com</email>
-            <uri>https://github.com/Addono</uri>
+            <name>PostHog</name>
+            <email>PostHog@noreply.github.com</email>
+            <uri>https://github.com/PostHog</uri>
         </author>
-        <published>2020-10-03T12:57:03.000Z</published>
+        <published>2020-01-23T22:46:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grafana/grafana: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ]]></title>
+        <id>https://github.com/grafana/grafana</id>
+        <link href="https://github.com/grafana/grafana"/>
+        <updated>2022-09-23T23:57:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7195757?v=4" width="64" height="64" alt=""/><br/><div>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. </div>]]></content>
+        <author>
+            <name>grafana</name>
+            <email>grafana@noreply.github.com</email>
+            <uri>https://github.com/grafana</uri>
+        </author>
+        <published>2013-12-11T15:59:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[steven-tey/dub: An open-source link shortener with built-in analytics + free custom domains.]]></title>
         <id>https://github.com/steven-tey/dub</id>
         <link href="https://github.com/steven-tey/dub"/>
-        <updated>2022-09-23T00:24:17.000Z</updated>
+        <updated>2022-09-24T00:19:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28986134?u=0885347caed78f8492477cad092fad9628d102e9&v=4" width="64" height="64" alt=""/><br/><div>An open-source link shortener with built-in analytics + free custom domains.</div>]]></content>
         <author>
             <name>steven-tey</name>
@@ -73,198 +86,185 @@
         <published>2022-08-27T22:15:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[growthbook/growthbook: Open Source Feature Flagging and A/B Testing Platform]]></title>
-        <id>https://github.com/growthbook/growthbook</id>
-        <link href="https://github.com/growthbook/growthbook"/>
-        <updated>2022-09-22T22:57:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65404594?v=4" width="64" height="64" alt=""/><br/><div>Open Source Feature Flagging and A/B Testing Platform</div>]]></content>
+        <title type="html"><![CDATA[bitovi/opensource-analytics-dashboard]]></title>
+        <id>https://github.com/bitovi/opensource-analytics-dashboard</id>
+        <link href="https://github.com/bitovi/opensource-analytics-dashboard"/>
+        <updated>2022-08-16T19:51:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2782656?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>growthbook</name>
-            <email>growthbook@noreply.github.com</email>
-            <uri>https://github.com/growthbook</uri>
+            <name>bitovi</name>
+            <email>bitovi@noreply.github.com</email>
+            <uri>https://github.com/bitovi</uri>
         </author>
-        <published>2021-05-07T23:11:51.000Z</published>
+        <published>2022-08-12T17:50:36.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform]]></title>
-        <id>https://github.com/apache/superset</id>
-        <link href="https://github.com/apache/superset"/>
-        <updated>2022-09-22T23:24:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47359?v=4" width="64" height="64" alt=""/><br/><div>Apache Superset is a Data Visualization and Data Exploration Platform</div>]]></content>
+        <title type="html"><![CDATA[ihucos/counter.dev: Web Analytics made simple]]></title>
+        <id>https://github.com/ihucos/counter.dev</id>
+        <link href="https://github.com/ihucos/counter.dev"/>
+        <updated>2022-09-23T23:36:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2066372?u=f6f68d0ae69475e2966964a2983104d2f613fcd0&v=4" width="64" height="64" alt=""/><br/><div>Web Analytics made simple</div>]]></content>
         <author>
-            <name>apache</name>
-            <email>apache@noreply.github.com</email>
-            <uri>https://github.com/apache</uri>
+            <name>ihucos</name>
+            <email>ihucos@noreply.github.com</email>
+            <uri>https://github.com/ihucos</uri>
         </author>
-        <published>2015-07-21T18:55:34.000Z</published>
+        <published>2020-05-10T10:59:37.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[humanmade/aws-analytics: AWS Pinpoint analytics for WordPress]]></title>
-        <id>https://github.com/humanmade/aws-analytics</id>
-        <link href="https://github.com/humanmade/aws-analytics"/>
-        <updated>2022-01-06T15:06:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/644666?v=4" width="64" height="64" alt=""/><br/><div>AWS Pinpoint analytics for WordPress</div>]]></content>
+        <title type="html"><![CDATA[DevExpress-Examples/asp-net-web-forms-dashboard-perform-drill-down-in-code: How to perform a drill-down in ASP.NET Web Forms Dashboard on the client side.]]></title>
+        <id>https://github.com/DevExpress-Examples/asp-net-web-forms-dashboard-perform-drill-down-in-code</id>
+        <link href="https://github.com/DevExpress-Examples/asp-net-web-forms-dashboard-perform-drill-down-in-code"/>
+        <updated>2022-09-23T14:02:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25218516?v=4" width="64" height="64" alt=""/><br/><div>How to perform a drill-down in ASP.NET Web Forms Dashboard on the client side.</div>]]></content>
         <author>
-            <name>humanmade</name>
-            <email>humanmade@noreply.github.com</email>
-            <uri>https://github.com/humanmade</uri>
+            <name>DevExpress-Examples</name>
+            <email>DevExpress-Examples@noreply.github.com</email>
+            <uri>https://github.com/DevExpress-Examples</uri>
         </author>
-        <published>2019-01-10T14:19:53.000Z</published>
+        <published>2018-04-08T00:22:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[googleapis/nodejs-pubsub: Node.js client for Google Cloud Pub/Sub: Ingest event streams from anywhere, at any scale, for simple, reliable, real-time stream analytics.]]></title>
-        <id>https://github.com/googleapis/nodejs-pubsub</id>
-        <link href="https://github.com/googleapis/nodejs-pubsub"/>
-        <updated>2022-09-21T05:44:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16785467?v=4" width="64" height="64" alt=""/><br/><div>Node.js client for Google Cloud Pub/Sub: Ingest event streams from anywhere, at any scale, for simple, reliable, real-time stream analytics.</div>]]></content>
+        <title type="html"><![CDATA[LexMachinaInc/node-lexmachina-api-client: Client for Lex Machina Litigation Analytics API]]></title>
+        <id>https://github.com/LexMachinaInc/node-lexmachina-api-client</id>
+        <link href="https://github.com/LexMachinaInc/node-lexmachina-api-client"/>
+        <updated>2022-08-10T16:27:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1168494?v=4" width="64" height="64" alt=""/><br/><div>Client for Lex Machina Litigation Analytics API</div>]]></content>
         <author>
-            <name>googleapis</name>
-            <email>googleapis@noreply.github.com</email>
-            <uri>https://github.com/googleapis</uri>
+            <name>LexMachinaInc</name>
+            <email>LexMachinaInc@noreply.github.com</email>
+            <uri>https://github.com/LexMachinaInc</uri>
         </author>
-        <published>2017-07-26T20:50:19.000Z</published>
+        <published>2022-08-01T16:32:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[apricote/Listory: Track your Spotify listens]]></title>
-        <id>https://github.com/apricote/Listory</id>
-        <link href="https://github.com/apricote/Listory"/>
-        <updated>2022-09-15T04:12:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3393079?v=4" width="64" height="64" alt=""/><br/><div>Track your Spotify listens</div>]]></content>
+        <title type="html"><![CDATA[ToDestiny/SportSee---Analytics-Dashboard-with-React]]></title>
+        <id>https://github.com/ToDestiny/SportSee---Analytics-Dashboard-with-React</id>
+        <link href="https://github.com/ToDestiny/SportSee---Analytics-Dashboard-with-React"/>
+        <updated>2022-09-23T16:00:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24790975?u=e0ca165f9c79721a22ef4fc738fb00c76e686151&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>apricote</name>
-            <email>apricote@noreply.github.com</email>
-            <uri>https://github.com/apricote</uri>
+            <name>ToDestiny</name>
+            <email>ToDestiny@noreply.github.com</email>
+            <uri>https://github.com/ToDestiny</uri>
         </author>
-        <published>2020-01-25T21:19:02.000Z</published>
+        <published>2022-07-30T19:34:51.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GridProtectionAlliance/openXDA: eXtensible Disturbance Analytics]]></title>
-        <id>https://github.com/GridProtectionAlliance/openXDA</id>
-        <link href="https://github.com/GridProtectionAlliance/openXDA"/>
-        <updated>2022-01-08T05:10:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9203109?v=4" width="64" height="64" alt=""/><br/><div>eXtensible Disturbance Analytics</div>]]></content>
+        <title type="html"><![CDATA[clowder-framework/clowder: A data management system that allows users to share, annotate, organize and analyze large collections of datasets. It provides support for extensible metadata annotation using JSON-LD and a distribute analytics event bus for automatic curation of uploaded data.]]></title>
+        <id>https://github.com/clowder-framework/clowder</id>
+        <link href="https://github.com/clowder-framework/clowder"/>
+        <updated>2022-09-19T21:44:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51137373?v=4" width="64" height="64" alt=""/><br/><div>A data management system that allows users to share, annotate, organize and analyze large collections of datasets. It provides support for extensible metadata annotation using JSON-LD and a distribute analytics event bus for automatic curation of uploaded data.</div>]]></content>
         <author>
-            <name>GridProtectionAlliance</name>
-            <email>GridProtectionAlliance@noreply.github.com</email>
-            <uri>https://github.com/GridProtectionAlliance</uri>
+            <name>clowder-framework</name>
+            <email>clowder-framework@noreply.github.com</email>
+            <uri>https://github.com/clowder-framework</uri>
         </author>
-        <published>2015-08-17T01:25:04.000Z</published>
+        <published>2019-07-12T19:35:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[amplitude/Amplitude-JavaScript: JavaScript SDK for Amplitude]]></title>
-        <id>https://github.com/amplitude/Amplitude-JavaScript</id>
-        <link href="https://github.com/amplitude/Amplitude-JavaScript"/>
-        <updated>2022-09-12T17:57:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2291562?v=4" width="64" height="64" alt=""/><br/><div>JavaScript SDK for Amplitude</div>]]></content>
+        <title type="html"><![CDATA[cvisionai/tator: Video analytics web platform]]></title>
+        <id>https://github.com/cvisionai/tator</id>
+        <link href="https://github.com/cvisionai/tator"/>
+        <updated>2022-09-23T02:34:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41804717?v=4" width="64" height="64" alt=""/><br/><div>Video analytics web platform</div>]]></content>
         <author>
-            <name>amplitude</name>
-            <email>amplitude@noreply.github.com</email>
-            <uri>https://github.com/amplitude</uri>
+            <name>cvisionai</name>
+            <email>cvisionai@noreply.github.com</email>
+            <uri>https://github.com/cvisionai</uri>
         </author>
-        <published>2013-01-11T23:04:28.000Z</published>
+        <published>2019-09-14T12:02:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[statico/femtostats: 📊🌍 Super small, light, privacy-focused, self-hostable web statistics provider]]></title>
-        <id>https://github.com/statico/femtostats</id>
-        <link href="https://github.com/statico/femtostats"/>
-        <updated>2022-09-21T19:48:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/137158?u=41cef0497a9f888ccffcea62fd78df17a3572419&v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> Super small, light, privacy-focused, self-hostable web statistics provider</div>]]></content>
+        <title type="html"><![CDATA[emse-madd-gwu/2022-Fall: Fall 2022 section of EMSE 6035: Marketing Analytics for Design Decisions @ GWU]]></title>
+        <id>https://github.com/emse-madd-gwu/2022-Fall</id>
+        <link href="https://github.com/emse-madd-gwu/2022-Fall"/>
+        <updated>2022-08-31T20:01:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64257197?v=4" width="64" height="64" alt=""/><br/><div>Fall 2022 section of EMSE 6035: Marketing Analytics for Design Decisions @ GWU</div>]]></content>
         <author>
-            <name>statico</name>
-            <email>statico@noreply.github.com</email>
-            <uri>https://github.com/statico</uri>
+            <name>emse-madd-gwu</name>
+            <email>emse-madd-gwu@noreply.github.com</email>
+            <uri>https://github.com/emse-madd-gwu</uri>
         </author>
-        <published>2022-09-17T18:57:45.000Z</published>
+        <published>2022-06-30T10:49:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AudiusProject/protocol-dashboard: 🗳📈⚙️ The Audius Protocol Dashboard (Governance, Staking, and Analytics)]]></title>
-        <id>https://github.com/AudiusProject/protocol-dashboard</id>
-        <link href="https://github.com/AudiusProject/protocol-dashboard"/>
-        <updated>2022-07-30T07:14:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38231615?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳</g-emoji><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> The Audius Protocol Dashboard (Governance, Staking, and Analytics)</div>]]></content>
+        <title type="html"><![CDATA[riomaemoto/pool-analytics]]></title>
+        <id>https://github.com/riomaemoto/pool-analytics</id>
+        <link href="https://github.com/riomaemoto/pool-analytics"/>
+        <updated>2022-09-23T19:03:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64018311?u=437344dd1499f1bc5bdba4fc5d9622dbeacee0ff&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>AudiusProject</name>
-            <email>AudiusProject@noreply.github.com</email>
-            <uri>https://github.com/AudiusProject</uri>
+            <name>riomaemoto</name>
+            <email>riomaemoto@noreply.github.com</email>
+            <uri>https://github.com/riomaemoto</uri>
         </author>
-        <published>2020-10-22T18:00:30.000Z</published>
+        <published>2022-09-23T19:02:44.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TonikX/analytics_backend: Репозиторий для хранениря серверной части проекта ]]></title>
-        <id>https://github.com/TonikX/analytics_backend</id>
-        <link href="https://github.com/TonikX/analytics_backend"/>
-        <updated>2022-07-01T09:58:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23614490?u=e1cfc3d62541a129a1d812cf7aaf55cb44ea2f8d&v=4" width="64" height="64" alt=""/><br/><div>Репозиторий для хранениря серверной части проекта </div>]]></content>
+        <title type="html"><![CDATA[yash797/Sample-Testimonials: Web Development Intern Assignment || My Analytics School]]></title>
+        <id>https://github.com/yash797/Sample-Testimonials</id>
+        <link href="https://github.com/yash797/Sample-Testimonials"/>
+        <updated>2022-09-23T01:18:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80116786?u=9b9f2e5635b79e3eed3096909232a120bc37beeb&v=4" width="64" height="64" alt=""/><br/><div>Web Development Intern Assignment || My Analytics School</div>]]></content>
         <author>
-            <name>TonikX</name>
-            <email>TonikX@noreply.github.com</email>
-            <uri>https://github.com/TonikX</uri>
+            <name>yash797</name>
+            <email>yash797@noreply.github.com</email>
+            <uri>https://github.com/yash797</uri>
         </author>
-        <published>2020-04-25T15:25:59.000Z</published>
+        <published>2022-09-23T01:16:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JonasVargaski/finance-analytics-front]]></title>
-        <id>https://github.com/JonasVargaski/finance-analytics-front</id>
-        <link href="https://github.com/JonasVargaski/finance-analytics-front"/>
-        <updated>2022-08-25T23:20:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40606353?u=2bcdabe3e487c312eb20ac28b2e1fb3857365a51&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[Dhawaldeep/prithvi-analytics: Prithvi Analytics - Digital Surface Model Visualizer]]></title>
+        <id>https://github.com/Dhawaldeep/prithvi-analytics</id>
+        <link href="https://github.com/Dhawaldeep/prithvi-analytics"/>
+        <updated>2022-09-22T17:55:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32088421?u=7a06be7e0a465be876ae776b0e0cec1dd6c0a276&v=4" width="64" height="64" alt=""/><br/><div>Prithvi Analytics - Digital Surface Model Visualizer</div>]]></content>
         <author>
-            <name>JonasVargaski</name>
-            <email>JonasVargaski@noreply.github.com</email>
-            <uri>https://github.com/JonasVargaski</uri>
+            <name>Dhawaldeep</name>
+            <email>Dhawaldeep@noreply.github.com</email>
+            <uri>https://github.com/Dhawaldeep</uri>
         </author>
-        <published>2022-08-25T23:17:09.000Z</published>
+        <published>2022-09-22T17:55:19.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[at-internet/piano-analytics-js: Piano Analytics JavaScript SDK repository]]></title>
-        <id>https://github.com/at-internet/piano-analytics-js</id>
-        <link href="https://github.com/at-internet/piano-analytics-js"/>
-        <updated>2022-09-07T10:19:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13114223?v=4" width="64" height="64" alt=""/><br/><div>Piano Analytics JavaScript SDK repository</div>]]></content>
+        <title type="html"><![CDATA[floatingpurr/ita-vax-analytics: Statistiche pre-calcolate e riusabili sui dati della campagna vaccinale anti Covid in Italia.]]></title>
+        <id>https://github.com/floatingpurr/ita-vax-analytics</id>
+        <link href="https://github.com/floatingpurr/ita-vax-analytics"/>
+        <updated>2022-07-14T12:28:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14820600?u=99099eb61d92368f69341132112c28a74b13994c&v=4" width="64" height="64" alt=""/><br/><div>Statistiche pre-calcolate e riusabili sui dati della campagna vaccinale anti Covid in Italia.</div>]]></content>
         <author>
-            <name>at-internet</name>
-            <email>at-internet@noreply.github.com</email>
-            <uri>https://github.com/at-internet</uri>
+            <name>floatingpurr</name>
+            <email>floatingpurr@noreply.github.com</email>
+            <uri>https://github.com/floatingpurr</uri>
         </author>
-        <published>2022-01-25T07:58:28.000Z</published>
+        <published>2022-01-21T15:35:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[integrationsseminar/learning-analytics-backend: Repository for learning analytics backend]]></title>
-        <id>https://github.com/integrationsseminar/learning-analytics-backend</id>
-        <link href="https://github.com/integrationsseminar/learning-analytics-backend"/>
-        <updated>2022-09-12T19:27:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112953550?v=4" width="64" height="64" alt=""/><br/><div>Repository for learning analytics backend</div>]]></content>
+        <title type="html"><![CDATA[baray/ajjur: The most analytics-intensive self-hostable URL shortener, with an amazing UI]]></title>
+        <id>https://github.com/baray/ajjur</id>
+        <link href="https://github.com/baray/ajjur"/>
+        <updated>2022-09-23T17:49:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24416726?v=4" width="64" height="64" alt=""/><br/><div>The most analytics-intensive self-hostable URL shortener, with an amazing UI</div>]]></content>
         <author>
-            <name>integrationsseminar</name>
-            <email>integrationsseminar@noreply.github.com</email>
-            <uri>https://github.com/integrationsseminar</uri>
+            <name>baray</name>
+            <email>baray@noreply.github.com</email>
+            <uri>https://github.com/baray</uri>
         </author>
-        <published>2022-09-06T14:05:50.000Z</published>
+        <published>2022-09-23T14:46:31.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canner/vulcan-sql: Instant API on your data warehouse and data lake]]></title>
-        <id>https://github.com/Canner/vulcan-sql</id>
-        <link href="https://github.com/Canner/vulcan-sql"/>
-        <updated>2022-09-16T15:44:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7250217?v=4" width="64" height="64" alt=""/><br/><div>Instant API on your data warehouse and data lake</div>]]></content>
+        <title type="html"><![CDATA[gskril/dune: Node.js wrapper for the Dune Analytics API]]></title>
+        <id>https://github.com/gskril/dune</id>
+        <link href="https://github.com/gskril/dune"/>
+        <updated>2022-09-23T21:47:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35093316?u=07a0e87a3286c9ae56a775a678c66c84f9db00ac&v=4" width="64" height="64" alt=""/><br/><div>Node.js wrapper for the Dune Analytics API</div>]]></content>
         <author>
-            <name>Canner</name>
-            <email>Canner@noreply.github.com</email>
-            <uri>https://github.com/Canner</uri>
+            <name>gskril</name>
+            <email>gskril@noreply.github.com</email>
+            <uri>https://github.com/gskril</uri>
         </author>
-        <published>2022-04-27T09:33:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedHatInsights/tower-analytics-frontend-build]]></title>
-        <id>https://github.com/RedHatInsights/tower-analytics-frontend-build</id>
-        <link href="https://github.com/RedHatInsights/tower-analytics-frontend-build"/>
-        <updated>2022-08-08T20:15:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24939818?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>RedHatInsights</name>
-            <email>RedHatInsights@noreply.github.com</email>
-            <uri>https://github.com/RedHatInsights</uri>
-        </author>
-        <published>2019-02-20T21:42:38.000Z</published>
+        <published>2022-09-23T12:01:05.000Z</published>
     </entry>
 </feed>
