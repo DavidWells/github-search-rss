@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/saas-javascript-repo.json</id>
     <title>Saas repositories</title>
-    <updated>2022-09-29T00:33:21.397Z</updated>
+    <updated>2022-09-30T00:33:11.047Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=saas+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Saas repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[UnitedEffects/ueauth: UE Auth is a multi-tenant OIDC Provider, User Management, B2B Product Access, and Roles/Permissions Management system intended to create a single hybrid solution to serve as Identity and Access for both self-registered B2C Apps and Enterprise B2B Solutions. The feature set combines similar functionality you find in Commercial SaaS providers for Identity Management at far less cost, and provides all of the missing pieces enterprises typically end up having to develop on their own in a single package available to your organization through an Apache 2.0 license. ]]></title>
+        <id>https://github.com/UnitedEffects/ueauth</id>
+        <link href="https://github.com/UnitedEffects/ueauth"/>
+        <updated>2022-07-31T23:25:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15662367?v=4" width="64" height="64" alt=""/><br/><div>UE Auth is a multi-tenant OIDC Provider, User Management, B2B Product Access, and Roles/Permissions Management system intended to create a single hybrid solution to serve as Identity and Access for both self-registered B2C Apps and Enterprise B2B Solutions. The feature set combines similar functionality you find in Commercial SaaS providers for Identity Management at far less cost, and provides all of the missing pieces enterprises typically end up having to develop on their own in a single package available to your organization through an Apache 2.0 license. </div>]]></content>
+        <author>
+            <name>UnitedEffects</name>
+            <email>UnitedEffects@noreply.github.com</email>
+            <uri>https://github.com/UnitedEffects</uri>
+        </author>
+        <published>2020-03-23T03:38:36.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[adriaanvanrossum/saasforcovid.com: Fight COVID-19 together with these discounted SaaS products]]></title>
         <id>https://github.com/adriaanvanrossum/saasforcovid.com</id>
@@ -21,17 +34,30 @@
         <published>2020-03-30T19:50:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cayasso/saas: Saas template]]></title>
-        <id>https://github.com/cayasso/saas</id>
-        <link href="https://github.com/cayasso/saas"/>
-        <updated>2022-09-28T22:50:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42518?u=2164384e981756132c8b9d72d929b3e84f4cdbcd&v=4" width="64" height="64" alt=""/><br/><div>Saas template</div>]]></content>
+        <title type="html"><![CDATA[oslabs-beta/VaaS: Modular Kubernetes Management System with OpenFaaS Support]]></title>
+        <id>https://github.com/oslabs-beta/VaaS</id>
+        <link href="https://github.com/oslabs-beta/VaaS"/>
+        <updated>2022-09-29T19:23:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49566968?v=4" width="64" height="64" alt=""/><br/><div>Modular Kubernetes Management System with OpenFaaS Support</div>]]></content>
         <author>
-            <name>cayasso</name>
-            <email>cayasso@noreply.github.com</email>
-            <uri>https://github.com/cayasso</uri>
+            <name>oslabs-beta</name>
+            <email>oslabs-beta@noreply.github.com</email>
+            <uri>https://github.com/oslabs-beta</uri>
         </author>
-        <published>2022-09-28T22:42:10.000Z</published>
+        <published>2022-08-14T02:30:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Informatiqal/qlik-saas-api: Interact with Qlik Sense SaaS REST APIs]]></title>
+        <id>https://github.com/Informatiqal/qlik-saas-api</id>
+        <link href="https://github.com/Informatiqal/qlik-saas-api"/>
+        <updated>2022-07-16T07:11:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87044481?v=4" width="64" height="64" alt=""/><br/><div>Interact with Qlik Sense SaaS REST APIs</div>]]></content>
+        <author>
+            <name>Informatiqal</name>
+            <email>Informatiqal@noreply.github.com</email>
+            <uri>https://github.com/Informatiqal</uri>
+        </author>
+        <published>2021-08-21T09:02:32.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zoan-app/zoan: Zoan SaaS Platform]]></title>
@@ -47,186 +73,43 @@
         <published>2021-01-01T15:51:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kwantdev/saas-builder: KWANT Visual SaaS Builder]]></title>
-        <id>https://github.com/kwantdev/saas-builder</id>
-        <link href="https://github.com/kwantdev/saas-builder"/>
-        <updated>2022-08-18T01:22:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109392287?u=5983aafedfe531f225c046abbc7fc3e035ea37ca&v=4" width="64" height="64" alt=""/><br/><div>KWANT Visual SaaS Builder</div>]]></content>
+        <title type="html"><![CDATA[profolio-team/customer-admin: B2B SaaS project for make beautiful portfolio]]></title>
+        <id>https://github.com/profolio-team/customer-admin</id>
+        <link href="https://github.com/profolio-team/customer-admin"/>
+        <updated>2022-09-10T19:33:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95975900?v=4" width="64" height="64" alt=""/><br/><div>B2B SaaS project for make beautiful portfolio</div>]]></content>
         <author>
-            <name>kwantdev</name>
-            <email>kwantdev@noreply.github.com</email>
-            <uri>https://github.com/kwantdev</uri>
+            <name>profolio-team</name>
+            <email>profolio-team@noreply.github.com</email>
+            <uri>https://github.com/profolio-team</uri>
         </author>
-        <published>2022-07-18T23:05:36.000Z</published>
+        <published>2022-03-05T13:07:24.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TheNileDev/examples: Examples that demonstrate how to use Nile for infrastructure SaaS products]]></title>
-        <id>https://github.com/TheNileDev/examples</id>
-        <link href="https://github.com/TheNileDev/examples"/>
-        <updated>2022-09-21T14:40:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97133832?v=4" width="64" height="64" alt=""/><br/><div>Examples that demonstrate how to use Nile for infrastructure SaaS products</div>]]></content>
+        <title type="html"><![CDATA[turnly/turnly: A modern Open-Source Queue Management Systems (QMS)]]></title>
+        <id>https://github.com/turnly/turnly</id>
+        <link href="https://github.com/turnly/turnly"/>
+        <updated>2022-09-25T23:24:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89368914?v=4" width="64" height="64" alt=""/><br/><div>A modern Open-Source Queue Management Systems (QMS)</div>]]></content>
         <author>
-            <name>TheNileDev</name>
-            <email>TheNileDev@noreply.github.com</email>
-            <uri>https://github.com/TheNileDev</uri>
+            <name>turnly</name>
+            <email>turnly@noreply.github.com</email>
+            <uri>https://github.com/turnly</uri>
         </author>
-        <published>2022-03-22T22:19:55.000Z</published>
+        <published>2022-05-06T17:04:21.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[astrolabe/astrolabe: Astrolabe is an open-source Data-led Growth platform that helps SAAS Companies to leverage their Product, Marketing, Sales, and Customer Success Data to drive growth without expensive data scientists or engineers.]]></title>
-        <id>https://github.com/astrolabe/astrolabe</id>
-        <link href="https://github.com/astrolabe/astrolabe"/>
-        <updated>2022-09-28T13:39:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113112325?v=4" width="64" height="64" alt=""/><br/><div>Astrolabe is an open-source Data-led Growth platform that helps SAAS Companies to leverage their Product, Marketing, Sales, and Customer Success Data to drive growth without expensive data scientists or engineers.</div>]]></content>
+        <title type="html"><![CDATA[alexej-schelle/idr-web-spiders: IDR for Web Spiders is a technique to optimise the quality of information sent from your web page or SaaS application to public web spiders. ]]></title>
+        <id>https://github.com/alexej-schelle/idr-web-spiders</id>
+        <link href="https://github.com/alexej-schelle/idr-web-spiders"/>
+        <updated>2022-01-04T09:38:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94290038?u=e8454e6da87082db9a6df85f1365382f8149ccc9&v=4" width="64" height="64" alt=""/><br/><div>IDR for Web Spiders is a technique to optimise the quality of information sent from your web page or SaaS application to public web spiders. </div>]]></content>
         <author>
-            <name>astrolabe</name>
-            <email>astrolabe@noreply.github.com</email>
-            <uri>https://github.com/astrolabe</uri>
+            <name>alexej-schelle</name>
+            <email>alexej-schelle@noreply.github.com</email>
+            <uri>https://github.com/alexej-schelle</uri>
         </author>
-        <published>2022-09-19T13:19:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sonrhey/saas-app]]></title>
-        <id>https://github.com/sonrhey/saas-app</id>
-        <link href="https://github.com/sonrhey/saas-app"/>
-        <updated>2022-06-29T14:40:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31910946?u=9b42fe1cb844c349e5d8b841fb9db3128f465f93&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sonrhey</name>
-            <email>sonrhey@noreply.github.com</email>
-            <uri>https://github.com/sonrhey</uri>
-        </author>
-        <published>2022-06-29T12:23:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nickbel7/ntua-saas: Web-based platform (Software as a Service) for energy metrics across all EU countries like production and consumption. This project was part of the subject SaaS at NTUA (8th term)]]></title>
-        <id>https://github.com/nickbel7/ntua-saas</id>
-        <link href="https://github.com/nickbel7/ntua-saas"/>
-        <updated>2022-09-26T12:20:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49724459?u=2ea144e85a9ff812b01f03de8a5094edae34481c&v=4" width="64" height="64" alt=""/><br/><div>Web-based platform (Software as a Service) for energy metrics across all EU countries like production and consumption. This project was part of the subject SaaS at NTUA (8th term)</div>]]></content>
-        <author>
-            <name>nickbel7</name>
-            <email>nickbel7@noreply.github.com</email>
-            <uri>https://github.com/nickbel7</uri>
-        </author>
-        <published>2022-09-26T12:19:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[erxes/erxes: The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.]]></title>
-        <id>https://github.com/erxes/erxes</id>
-        <link href="https://github.com/erxes/erxes"/>
-        <updated>2022-09-28T17:23:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20272096?v=4" width="64" height="64" alt=""/><br/><div>The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.</div>]]></content>
-        <author>
-            <name>erxes</name>
-            <email>erxes@noreply.github.com</email>
-            <uri>https://github.com/erxes</uri>
-        </author>
-        <published>2016-11-11T06:54:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okampus/okampus: Student platform & digital workspace for schools - A SaaS solution to improve in-school communication 🚀 !]]></title>
-        <id>https://github.com/Okampus/okampus</id>
-        <link href="https://github.com/Okampus/okampus"/>
-        <updated>2022-09-14T18:42:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/105796068?v=4" width="64" height="64" alt=""/><br/><div>Student platform &amp; digital workspace for schools - A SaaS solution to improve in-school communication <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> !</div>]]></content>
-        <author>
-            <name>Okampus</name>
-            <email>Okampus@noreply.github.com</email>
-            <uri>https://github.com/Okampus</uri>
-        </author>
-        <published>2022-05-19T19:40:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kon-si/ntua_saas: Semester assignment for ECE NTUA 3399 Software as a Service]]></title>
-        <id>https://github.com/kon-si/ntua_saas</id>
-        <link href="https://github.com/kon-si/ntua_saas"/>
-        <updated>2022-09-28T16:04:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94307572?v=4" width="64" height="64" alt=""/><br/><div>Semester assignment for ECE NTUA 3399 Software as a Service</div>]]></content>
-        <author>
-            <name>kon-si</name>
-            <email>kon-si@noreply.github.com</email>
-            <uri>https://github.com/kon-si</uri>
-        </author>
-        <published>2022-09-28T15:04:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[patrickcoutinho/saas-next-supabase-stripe]]></title>
-        <id>https://github.com/patrickcoutinho/saas-next-supabase-stripe</id>
-        <link href="https://github.com/patrickcoutinho/saas-next-supabase-stripe"/>
-        <updated>2022-09-28T12:27:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57593442?u=15d3175ca8acd552a6ae1020e9e7c6030acdd4bb&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>patrickcoutinho</name>
-            <email>patrickcoutinho@noreply.github.com</email>
-            <uri>https://github.com/patrickcoutinho</uri>
-        </author>
-        <published>2022-09-28T12:27:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lmxia/teethlink: a saas about teeth crown problem diagnose]]></title>
-        <id>https://github.com/lmxia/teethlink</id>
-        <link href="https://github.com/lmxia/teethlink"/>
-        <updated>2022-09-25T11:52:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11245380?u=13274d6946018ba37b5da7341f4a06b2212ba248&v=4" width="64" height="64" alt=""/><br/><div>a saas about teeth crown problem diagnose</div>]]></content>
-        <author>
-            <name>lmxia</name>
-            <email>lmxia@noreply.github.com</email>
-            <uri>https://github.com/lmxia</uri>
-        </author>
-        <published>2022-09-22T13:32:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getlago/lago-front: Open Source Billing API for Product Led SaaS.]]></title>
-        <id>https://github.com/getlago/lago-front</id>
-        <link href="https://github.com/getlago/lago-front"/>
-        <updated>2022-09-26T13:03:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75492405?v=4" width="64" height="64" alt=""/><br/><div>Open Source Billing API for Product Led SaaS.</div>]]></content>
-        <author>
-            <name>getlago</name>
-            <email>getlago@noreply.github.com</email>
-            <uri>https://github.com/getlago</uri>
-        </author>
-        <published>2022-02-28T09:54:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stella-Aa/SAAS]]></title>
-        <id>https://github.com/Stella-Aa/SAAS</id>
-        <link href="https://github.com/Stella-Aa/SAAS"/>
-        <updated>2022-09-18T18:48:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111791958?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Stella-Aa</name>
-            <email>Stella-Aa@noreply.github.com</email>
-            <uri>https://github.com/Stella-Aa</uri>
-        </author>
-        <published>2022-08-23T17:26:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIJAYARAJ-M/saas]]></title>
-        <id>https://github.com/VIJAYARAJ-M/saas</id>
-        <link href="https://github.com/VIJAYARAJ-M/saas"/>
-        <updated>2022-09-28T09:24:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84378196?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>VIJAYARAJ-M</name>
-            <email>VIJAYARAJ-M@noreply.github.com</email>
-            <uri>https://github.com/VIJAYARAJ-M</uri>
-        </author>
-        <published>2022-09-28T08:59:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[daxiao-cloud/daxiaovisionui: 大晓视觉SaaS平台UI设计]]></title>
-        <id>https://github.com/daxiao-cloud/daxiaovisionui</id>
-        <link href="https://github.com/daxiao-cloud/daxiaovisionui"/>
-        <updated>2022-07-21T01:48:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109206741?v=4" width="64" height="64" alt=""/><br/><div>大晓视觉SaaS平台UI设计</div>]]></content>
-        <author>
-            <name>daxiao-cloud</name>
-            <email>daxiao-cloud@noreply.github.com</email>
-            <uri>https://github.com/daxiao-cloud</uri>
-        </author>
-        <published>2022-07-20T10:36:33.000Z</published>
+        <published>2021-11-19T12:24:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ParabolInc/parabol: Free online agile retrospective meeting tool]]></title>
@@ -242,29 +125,146 @@
         <published>2015-12-21T17:16:49.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rooxalot-dev/saas-studies: Project to test some Vercel features + work some ideas]]></title>
-        <id>https://github.com/rooxalot-dev/saas-studies</id>
-        <link href="https://github.com/rooxalot-dev/saas-studies"/>
-        <updated>2022-09-06T02:31:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56765781?u=dfcefd716f16d1269fa457294b398c5c81c4f92b&v=4" width="64" height="64" alt=""/><br/><div>Project to test some Vercel features + work some ideas</div>]]></content>
+        <title type="html"><![CDATA[TheNileDev/examples: Examples that demonstrate how to use Nile for infrastructure SaaS products]]></title>
+        <id>https://github.com/TheNileDev/examples</id>
+        <link href="https://github.com/TheNileDev/examples"/>
+        <updated>2022-09-29T13:15:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97133832?v=4" width="64" height="64" alt=""/><br/><div>Examples that demonstrate how to use Nile for infrastructure SaaS products</div>]]></content>
         <author>
-            <name>rooxalot-dev</name>
-            <email>rooxalot-dev@noreply.github.com</email>
-            <uri>https://github.com/rooxalot-dev</uri>
+            <name>TheNileDev</name>
+            <email>TheNileDev@noreply.github.com</email>
+            <uri>https://github.com/TheNileDev</uri>
         </author>
-        <published>2022-09-06T01:17:13.000Z</published>
+        <published>2022-03-22T22:19:55.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[steedos/steedos-platform: 华炎魔方元数据驱动低代码平台，Salesforce Platform 开源替代方案，全新支持 amis 微页面 /  Enterprise Low Code DevOps Platform, Open source alterative to Salesforce]]></title>
-        <id>https://github.com/steedos/steedos-platform</id>
-        <link href="https://github.com/steedos/steedos-platform"/>
-        <updated>2022-09-25T06:50:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3104826?v=4" width="64" height="64" alt=""/><br/><div>华炎魔方元数据驱动低代码平台，Salesforce Platform 开源替代方案，全新支持 amis 微页面 /  Enterprise Low Code DevOps Platform, Open source alterative to Salesforce</div>]]></content>
+        <title type="html"><![CDATA[juanrojas329/Tuxal: SaaS Product]]></title>
+        <id>https://github.com/juanrojas329/Tuxal</id>
+        <link href="https://github.com/juanrojas329/Tuxal"/>
+        <updated>2022-09-29T18:16:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3265089?u=7fdff8facb3c4efe4c5fa6a077cbada1dda55be0&v=4" width="64" height="64" alt=""/><br/><div>SaaS Product</div>]]></content>
         <author>
-            <name>steedos</name>
-            <email>steedos@noreply.github.com</email>
-            <uri>https://github.com/steedos</uri>
+            <name>juanrojas329</name>
+            <email>juanrojas329@noreply.github.com</email>
+            <uri>https://github.com/juanrojas329</uri>
         </author>
-        <published>2019-03-04T09:31:44.000Z</published>
+        <published>2022-09-29T18:14:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eclectic-coding/rails_saas]]></title>
+        <id>https://github.com/eclectic-coding/rails_saas</id>
+        <link href="https://github.com/eclectic-coding/rails_saas"/>
+        <updated>2022-04-16T11:16:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13651291?u=fd21500fafdf47435560c5384220644d3ed03358&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>eclectic-coding</name>
+            <email>eclectic-coding@noreply.github.com</email>
+            <uri>https://github.com/eclectic-coding</uri>
+        </author>
+        <published>2022-04-16T11:16:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JupiterOne/graph-google: A graph conversion tool for https://gsuite.google.com]]></title>
+        <id>https://github.com/JupiterOne/graph-google</id>
+        <link href="https://github.com/JupiterOne/graph-google"/>
+        <updated>2021-12-20T20:33:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44646512?v=4" width="64" height="64" alt=""/><br/><div>A graph conversion tool for <a href="https://gsuite.google.com" rel="nofollow">https://gsuite.google.com</a></div>]]></content>
+        <author>
+            <name>JupiterOne</name>
+            <email>JupiterOne@noreply.github.com</email>
+            <uri>https://github.com/JupiterOne</uri>
+        </author>
+        <published>2019-02-08T05:30:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fabiendevfront/billed_app: P09 - Débuggez et testez un SaaS RH]]></title>
+        <id>https://github.com/fabiendevfront/billed_app</id>
+        <link href="https://github.com/fabiendevfront/billed_app"/>
+        <updated>2022-09-20T14:03:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/98753348?u=d0f1e2430ce7dcbe35407491e79197547c4abfb1&v=4" width="64" height="64" alt=""/><br/><div>P09 - Débuggez et testez un SaaS RH</div>]]></content>
+        <author>
+            <name>fabiendevfront</name>
+            <email>fabiendevfront@noreply.github.com</email>
+            <uri>https://github.com/fabiendevfront</uri>
+        </author>
+        <published>2022-09-20T13:58:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sonrhey/saas-app]]></title>
+        <id>https://github.com/sonrhey/saas-app</id>
+        <link href="https://github.com/sonrhey/saas-app"/>
+        <updated>2022-06-29T14:40:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31910946?u=9b42fe1cb844c349e5d8b841fb9db3128f465f93&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>sonrhey</name>
+            <email>sonrhey@noreply.github.com</email>
+            <uri>https://github.com/sonrhey</uri>
+        </author>
+        <published>2022-06-29T12:23:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[percona-platform/saas-ui: SaaS UI]]></title>
+        <id>https://github.com/percona-platform/saas-ui</id>
+        <link href="https://github.com/percona-platform/saas-ui"/>
+        <updated>2022-03-03T14:54:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60408152?v=4" width="64" height="64" alt=""/><br/><div>SaaS UI</div>]]></content>
+        <author>
+            <name>percona-platform</name>
+            <email>percona-platform@noreply.github.com</email>
+            <uri>https://github.com/percona-platform</uri>
+        </author>
+        <published>2020-08-28T09:10:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[patrickcoutinho/saas-next-supabase-stripe]]></title>
+        <id>https://github.com/patrickcoutinho/saas-next-supabase-stripe</id>
+        <link href="https://github.com/patrickcoutinho/saas-next-supabase-stripe"/>
+        <updated>2022-09-28T12:27:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57593442?u=15d3175ca8acd552a6ae1020e9e7c6030acdd4bb&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>patrickcoutinho</name>
+            <email>patrickcoutinho@noreply.github.com</email>
+            <uri>https://github.com/patrickcoutinho</uri>
+        </author>
+        <published>2022-09-28T12:27:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[trustenterprises/hedera-serverless-api: Eliminate the cost of baking trust into your SaaS interacting with distributed ledger technology, Hedera Hashgraph. Deploy your own Serverless REST API in 2 minutes with webhook capabilities, with no cost or additional infrastructure. 🚀]]></title>
+        <id>https://github.com/trustenterprises/hedera-serverless-api</id>
+        <link href="https://github.com/trustenterprises/hedera-serverless-api"/>
+        <updated>2022-09-22T13:13:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74863633?v=4" width="64" height="64" alt=""/><br/><div>Eliminate the cost of baking trust into your SaaS interacting with distributed ledger technology, Hedera Hashgraph. Deploy your own Serverless REST API in 2 minutes with webhook capabilities, with no cost or additional infrastructure. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></div>]]></content>
+        <author>
+            <name>trustenterprises</name>
+            <email>trustenterprises@noreply.github.com</email>
+            <uri>https://github.com/trustenterprises</uri>
+        </author>
+        <published>2020-08-15T13:24:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[getlago/lago-front: Open Source Billing API for Product Led SaaS.]]></title>
+        <id>https://github.com/getlago/lago-front</id>
+        <link href="https://github.com/getlago/lago-front"/>
+        <updated>2022-09-29T09:51:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75492405?v=4" width="64" height="64" alt=""/><br/><div>Open Source Billing API for Product Led SaaS.</div>]]></content>
+        <author>
+            <name>getlago</name>
+            <email>getlago@noreply.github.com</email>
+            <uri>https://github.com/getlago</uri>
+        </author>
+        <published>2022-02-28T09:54:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nlbq/PortfolioBootstrapSaas]]></title>
+        <id>https://github.com/Nlbq/PortfolioBootstrapSaas</id>
+        <link href="https://github.com/Nlbq/PortfolioBootstrapSaas"/>
+        <updated>2022-07-14T11:17:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68994172?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nlbq</name>
+            <email>Nlbq@noreply.github.com</email>
+            <uri>https://github.com/Nlbq</uri>
+        </author>
+        <published>2022-07-14T11:16:37.000Z</published>
     </entry>
 </feed>
