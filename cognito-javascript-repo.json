@@ -6,6 +6,83 @@
     "description": "Cognito repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
+            "url": "https://github.com/henrist/cdk-cloudfront-auth",
+            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
+            "date_modified": "2022-10-12T16:26:47.000Z",
+            "date_published": "2020-07-11T01:58:54.000Z",
+            "author": {
+                "name": "henrist",
+                "url": "https://github.com/henrist"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/477051?u=87989d82bd0522c6221fc1306a35160cdf38bae0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/tknzk/cognito-sandbox",
+            "title": "tknzk/cognito-sandbox",
+            "date_modified": "2022-01-11T00:20:35.000Z",
+            "date_published": "2017-11-02T03:54:21.000Z",
+            "author": {
+                "name": "tknzk",
+                "url": "https://github.com/tknzk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88171449?u=1559951099a9577983648817a6c05f2a0b5d9ab8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mojtaba-Kazmi/amazonCognitoAuthenticationWithReactJS",
+            "title": "Mojtaba-Kazmi/amazonCognitoAuthenticationWithReactJS",
+            "date_modified": "2022-10-16T23:11:39.000Z",
+            "date_published": "2022-10-16T23:04:09.000Z",
+            "author": {
+                "name": "Mojtaba-Kazmi",
+                "url": "https://github.com/Mojtaba-Kazmi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97146523?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>React cloud native PWA that manages tasks in a two level hierarchy. Completed tasks are displayed on a calendar. Implemented using React Hooks and Context, React Router, React-DnD, React Beautiful DnD, Material UI and a serverless AWS backend. AWS includes Route 53, S3, API Gateway, Cognito, Lambda functions, RDS/Proxy with MySQL.</div>",
+            "url": "https://github.com/BillWilliams79/Darwin",
+            "title": "BillWilliams79/Darwin: React cloud native PWA that manages tasks in a two level hierarchy. Completed tasks are displayed on a calendar. Implemented using React Hooks and Context, React Router, React-DnD, React Beautiful DnD, Material UI and a serverless AWS backend. AWS includes Route 53, S3, API Gateway, Cognito, Lambda functions, RDS/Proxy with MySQL.",
+            "date_modified": "2022-09-19T15:31:16.000Z",
+            "date_published": "2022-09-16T19:58:27.000Z",
+            "author": {
+                "name": "BillWilliams79",
+                "url": "https://github.com/BillWilliams79"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1647094?u=d9ff2ef32dde48dfa64dda54bc39198bcadb9eb9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a demonstration for authorization using AWS IAM Identity Center (SSO) at CloudFront with Lambda@Edge.</div>",
+            "url": "https://github.com/msysh/aws-demo-cloudfront-lambda-edge-cognito-saml-auth",
+            "title": "msysh/aws-demo-cloudfront-lambda-edge-cognito-saml-auth: This is a demonstration for authorization using AWS IAM Identity Center (SSO) at CloudFront with Lambda@Edge.",
+            "date_modified": "2022-10-16T19:12:03.000Z",
+            "date_published": "2022-10-16T18:53:23.000Z",
+            "author": {
+                "name": "msysh",
+                "url": "https://github.com/msysh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78336445?u=f890d23bc4d2e5b35d2c72762d9fd09d171d8afd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/pabloantipan/hexal-aws-cognito",
+            "title": "pabloantipan/hexal-aws-cognito",
+            "date_modified": "2022-10-13T02:15:33.000Z",
+            "date_published": "2022-10-13T02:09:38.000Z",
+            "author": {
+                "name": "pabloantipan",
+                "url": "https://github.com/pabloantipan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9872839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Lokicoule/nestjs-cognito",
+            "title": "Lokicoule/nestjs-cognito",
+            "date_modified": "2022-10-08T11:12:06.000Z",
+            "date_published": "2022-07-22T13:36:19.000Z",
+            "author": {
+                "name": "Lokicoule",
+                "url": "https://github.com/Lokicoule"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37013747?u=5da5b6b5bc500ee912941fd8f24a90dc0ebe83b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cognito example in goland</div>",
             "url": "https://github.com/milennik/gonito",
             "title": "milennik/gonito: Cognito example in goland",
@@ -61,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/703354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CloudFront authorization with Cognito for CDK</div>",
-            "url": "https://github.com/henrist/cdk-cloudfront-auth",
-            "title": "henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK",
-            "date_modified": "2022-10-12T16:26:47.000Z",
-            "date_published": "2020-07-11T01:58:54.000Z",
-            "author": {
-                "name": "henrist",
-                "url": "https://github.com/henrist"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108147777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NGINX Plus OIDC w/ Amazon Cognito Integration</div>",
             "url": "https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito",
             "title": "nginx-openid-connect/nginx-oidc-amazon-cognito: NGINX Plus OIDC w/ Amazon Cognito Integration",
@@ -86,22 +152,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative JavaScript library for application development using cloud services.</div>",
             "url": "https://github.com/aws-amplify/amplify-js",
             "title": "aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.",
-            "date_modified": "2022-10-15T13:32:48.000Z",
+            "date_modified": "2022-10-16T23:06:11.000Z",
             "date_published": "2017-10-02T22:17:14.000Z",
             "author": {
                 "name": "aws-amplify",
                 "url": "https://github.com/aws-amplify"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97146523?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>React cloud native PWA that manages tasks in a two level hierarchy. Completed tasks are displayed on a calendar. Implemented using React Hooks and Context, React Router, React-DnD, React Beautiful DnD, Material UI and a serverless AWS backend. AWS includes Route 53, S3, API Gateway, Cognito, Lambda functions, RDS/Proxy with MySQL.</div>",
-            "url": "https://github.com/BillWilliams79/Darwin",
-            "title": "BillWilliams79/Darwin: React cloud native PWA that manages tasks in a two level hierarchy. Completed tasks are displayed on a calendar. Implemented using React Hooks and Context, React Router, React-DnD, React Beautiful DnD, Material UI and a serverless AWS backend. AWS includes Route 53, S3, API Gateway, Cognito, Lambda functions, RDS/Proxy with MySQL.",
-            "date_modified": "2022-09-19T15:31:16.000Z",
-            "date_published": "2022-09-16T19:58:27.000Z",
-            "author": {
-                "name": "BillWilliams79",
-                "url": "https://github.com/BillWilliams79"
             }
         },
         {
@@ -113,17 +168,6 @@
             "author": {
                 "name": "RosaErick",
                 "url": "https://github.com/RosaErick"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9872839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Lokicoule/nestjs-cognito",
-            "title": "Lokicoule/nestjs-cognito",
-            "date_modified": "2022-10-08T11:12:06.000Z",
-            "date_published": "2022-07-22T13:36:19.000Z",
-            "author": {
-                "name": "Lokicoule",
-                "url": "https://github.com/Lokicoule"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "blockdev723",
                 "url": "https://github.com/blockdev723"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48167381?u=a2443486eddc2c54efc944b0731498fd3aab372d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backend to be used in the Touch Sistemas project</div>",
-            "url": "https://github.com/gugazimmermann/touch-admin",
-            "title": "gugazimmermann/touch-admin: Backend to be used in the Touch Sistemas project",
-            "date_modified": "2022-09-30T16:12:47.000Z",
-            "date_published": "2022-09-30T16:10:11.000Z",
-            "author": {
-                "name": "gugazimmermann",
-                "url": "https://github.com/gugazimmermann"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2232217?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ASP.NET Core Identity Provider for Amazon Cognito</div>",
-            "url": "https://github.com/aws/aws-aspnet-cognito-identity-provider",
-            "title": "aws/aws-aspnet-cognito-identity-provider: ASP.NET Core Identity Provider for Amazon Cognito",
-            "date_modified": "2022-10-14T20:29:13.000Z",
-            "date_published": "2018-10-03T18:39:36.000Z",
-            "author": {
-                "name": "aws",
-                "url": "https://github.com/aws"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1130728?u=1aad471b6040b4de75c8864edc592b4c16b3bf8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>authentication-with-aws-cognito-passport-and-nestjs</div>",
-            "url": "https://github.com/fstbraz/authentication-with-aws-cognito-passport-and-nestjs",
-            "title": "fstbraz/authentication-with-aws-cognito-passport-and-nestjs: authentication-with-aws-cognito-passport-and-nestjs",
-            "date_modified": "2022-10-14T15:48:55.000Z",
-            "date_published": "2022-10-14T15:47:47.000Z",
-            "author": {
-                "name": "fstbraz",
-                "url": "https://github.com/fstbraz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22983889?u=a091bd78432d09c0098a0b21890a145999100850&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sebranchett/cognito-tudelft",
-            "title": "sebranchett/cognito-tudelft",
-            "date_modified": "2022-10-11T08:40:59.000Z",
-            "date_published": "2022-10-11T08:40:43.000Z",
-            "author": {
-                "name": "sebranchett",
-                "url": "https://github.com/sebranchett"
             }
         }
     ]
