@@ -2,88 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/lightweight-javascript-repo.json</id>
     <title>LightWeight JavaScript repositories</title>
-    <updated>2022-11-10T00:21:20.166Z</updated>
+    <updated>2022-11-11T00:22:54.261Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=lightweight+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>LightWeight JavaScript repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry]]></title>
-        <id>https://github.com/verdaccio/verdaccio</id>
-        <link href="https://github.com/verdaccio/verdaccio"/>
-        <updated>2022-11-09T22:39:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18487506?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji> A lightweight Node.js private proxy registry</div>]]></content>
+        <title type="html"><![CDATA[Alex-D/Trumbowyg: A lightweight and amazing WYSIWYG JavaScript editor under 10kB]]></title>
+        <id>https://github.com/Alex-D/Trumbowyg</id>
+        <link href="https://github.com/Alex-D/Trumbowyg"/>
+        <updated>2022-11-10T19:48:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/426843?u=1d9cd86448135a8b992038c8a43c5833a8157780&v=4" width="64" height="64" alt=""/><br/><div>A lightweight and amazing WYSIWYG JavaScript editor under 10kB</div>]]></content>
         <author>
-            <name>verdaccio</name>
-            <email>verdaccio@noreply.github.com</email>
-            <uri>https://github.com/verdaccio</uri>
+            <name>Alex-D</name>
+            <email>Alex-D@noreply.github.com</email>
+            <uri>https://github.com/Alex-D</uri>
         </author>
-        <published>2016-04-15T16:21:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[techno-tim/littlelink-server: A lightweight, open source, and self-hosted alternative to linktree in a Docker container!]]></title>
-        <id>https://github.com/techno-tim/littlelink-server</id>
-        <link href="https://github.com/techno-tim/littlelink-server"/>
-        <updated>2022-11-09T13:12:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60198665?v=4" width="64" height="64" alt=""/><br/><div>A lightweight, open source, and self-hosted alternative to linktree in a Docker container!</div>]]></content>
-        <author>
-            <name>techno-tim</name>
-            <email>techno-tim@noreply.github.com</email>
-            <uri>https://github.com/techno-tim</uri>
-        </author>
-        <published>2021-08-10T02:53:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jsuites/jsuites: jSuites is a collection of lightweight common required javascript web components. It is composed of fully responsive vanilla plugins to help you bring the best user experience to your projects, independent of the platform. Same JS codebase across different platforms.]]></title>
-        <id>https://github.com/jsuites/jsuites</id>
-        <link href="https://github.com/jsuites/jsuites"/>
-        <updated>2022-11-08T17:19:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75273648?v=4" width="64" height="64" alt=""/><br/><div>jSuites is a collection of lightweight common required javascript web components. It is composed of fully responsive vanilla plugins to help you bring the best user experience to your projects, independent of the platform. Same JS codebase across different platforms.</div>]]></content>
-        <author>
-            <name>jsuites</name>
-            <email>jsuites@noreply.github.com</email>
-            <uri>https://github.com/jsuites</uri>
-        </author>
-        <published>2019-05-08T18:00:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[weedz/git-good: Just a simple git client using electron and nodegit, focus on lightweight and performance]]></title>
-        <id>https://github.com/weedz/git-good</id>
-        <link href="https://github.com/weedz/git-good"/>
-        <updated>2022-03-28T23:15:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/634476?v=4" width="64" height="64" alt=""/><br/><div>Just a simple git client using electron and nodegit, focus on lightweight and performance</div>]]></content>
-        <author>
-            <name>weedz</name>
-            <email>weedz@noreply.github.com</email>
-            <uri>https://github.com/weedz</uri>
-        </author>
-        <published>2020-04-17T20:52:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cabinjs/axe: Logger-agnostic wrapper that normalizes logs regardless of arg style. Great for large dev teams, old/new projects, and works w/Pino, Bunyan, Winston, console, and more. It is lightweight, performant, highly-configurable, and automatically adds OS, CPU, and Git information to your logs. Hooks, dot-notation remap, omit, and pick of metadata.]]></title>
-        <id>https://github.com/cabinjs/axe</id>
-        <link href="https://github.com/cabinjs/axe"/>
-        <updated>2022-09-29T13:34:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5264309?v=4" width="64" height="64" alt=""/><br/><div>Logger-agnostic wrapper that normalizes logs regardless of arg style. Great for large dev teams, old/new projects, and works w/Pino, Bunyan, Winston, console, and more. It is lightweight, performant, highly-configurable, and automatically adds OS, CPU, and Git information to your logs. Hooks, dot-notation remap, omit, and pick of metadata.</div>]]></content>
-        <author>
-            <name>cabinjs</name>
-            <email>cabinjs@noreply.github.com</email>
-            <uri>https://github.com/cabinjs</uri>
-        </author>
-        <published>2017-09-07T06:49:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[davidcralph/leeks.js: Simple ANSI styling for your terminal]]></title>
-        <id>https://github.com/davidcralph/leeks.js</id>
-        <link href="https://github.com/davidcralph/leeks.js"/>
-        <updated>2022-10-15T10:34:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14052956?u=19679c8b7d66df22f387d266e6a26fc6bcaa3a01&v=4" width="64" height="64" alt=""/><br/><div>Simple ANSI styling for your terminal</div>]]></content>
-        <author>
-            <name>davidcralph</name>
-            <email>davidcralph@noreply.github.com</email>
-            <uri>https://github.com/davidcralph</uri>
-        </author>
-        <published>2019-04-06T17:16:33.000Z</published>
+        <published>2012-09-29T16:33:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rusmirnator/SimpleSQL: Lightweight SQL client tool.]]></title>
@@ -99,17 +34,56 @@
         <published>2022-09-26T15:46:37.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[maverick-js/maverick: (Coming Soon) Build functional, reactive, type-safe, lightweight, fast, and ssr-friendly web components. First-class integrations will be available for React, Preact, Vue, Svelte, and Solid JS.]]></title>
-        <id>https://github.com/maverick-js/maverick</id>
-        <link href="https://github.com/maverick-js/maverick"/>
-        <updated>2022-11-09T10:28:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108159116?v=4" width="64" height="64" alt=""/><br/><div>(Coming Soon) Build functional, reactive, type-safe, lightweight, fast, and ssr-friendly web components. First-class integrations will be available for React, Preact, Vue, Svelte, and Solid JS.</div>]]></content>
+        <title type="html"><![CDATA[r0d1on/chalkboard: touch-friendly lightweight chalkboard]]></title>
+        <id>https://github.com/r0d1on/chalkboard</id>
+        <link href="https://github.com/r0d1on/chalkboard"/>
+        <updated>2022-07-04T21:14:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3895928?u=27b46ab5d423e524258d4163cda58ab71060db76&v=4" width="64" height="64" alt=""/><br/><div>touch-friendly lightweight chalkboard</div>]]></content>
         <author>
-            <name>maverick-js</name>
-            <email>maverick-js@noreply.github.com</email>
-            <uri>https://github.com/maverick-js</uri>
+            <name>r0d1on</name>
+            <email>r0d1on@noreply.github.com</email>
+            <uri>https://github.com/r0d1on</uri>
         </author>
-        <published>2022-07-26T09:06:12.000Z</published>
+        <published>2020-06-07T22:20:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oslabs-beta/LatchQL: An open-source, free-to-use, lightweight middleware package that adds additional layers of security to authenticate/authorize and provide permissions for users to have different levels of access to a database through graphQL queries.]]></title>
+        <id>https://github.com/oslabs-beta/LatchQL</id>
+        <link href="https://github.com/oslabs-beta/LatchQL"/>
+        <updated>2022-11-10T23:09:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49566968?v=4" width="64" height="64" alt=""/><br/><div>An open-source, free-to-use, lightweight middleware package that adds additional layers of security to authenticate/authorize and provide permissions for users to have different levels of access to a database through graphQL queries.</div>]]></content>
+        <author>
+            <name>oslabs-beta</name>
+            <email>oslabs-beta@noreply.github.com</email>
+            <uri>https://github.com/oslabs-beta</uri>
+        </author>
+        <published>2022-10-17T21:05:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uxname/liteend: Lightweight GraphQL & Prisma.io node.js backend]]></title>
+        <id>https://github.com/uxname/liteend</id>
+        <link href="https://github.com/uxname/liteend"/>
+        <updated>2022-11-10T14:49:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2634142?u=808424db4fd6dbdf4b7b22018dae6806e0e2b76f&v=4" width="64" height="64" alt=""/><br/><div>Lightweight GraphQL &amp; Prisma.io node.js backend</div>]]></content>
+        <author>
+            <name>uxname</name>
+            <email>uxname@noreply.github.com</email>
+            <uri>https://github.com/uxname</uri>
+        </author>
+        <published>2020-03-08T18:38:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ozzs/monobox: An ad-free, lightweight music player that lets you play music from your local library on your mobile device.]]></title>
+        <id>https://github.com/ozzs/monobox</id>
+        <link href="https://github.com/ozzs/monobox"/>
+        <updated>2022-11-10T22:57:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11197251?u=19106cb162e669319cab852145c2990888a9bc8d&v=4" width="64" height="64" alt=""/><br/><div>An ad-free, lightweight music player that lets you play music from your local library on your mobile device.</div>]]></content>
+        <author>
+            <name>ozzs</name>
+            <email>ozzs@noreply.github.com</email>
+            <uri>https://github.com/ozzs</uri>
+        </author>
+        <published>2022-06-26T09:24:39.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[mattriley/node-module-composer: Bring order to chaos. Level up your JS application architecture with Module Composer, a tiny but powerful module composition utility based on functional dependency injection.]]></title>
@@ -125,88 +99,62 @@
         <published>2020-07-05T23:06:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[oslabs-beta/LatchQL: An open-source, free-to-use, lightweight middleware package that adds additional layers of security to authenticate/authorize and provide permissions for users to have different levels of access to a database through graphQL queries.]]></title>
-        <id>https://github.com/oslabs-beta/LatchQL</id>
-        <link href="https://github.com/oslabs-beta/LatchQL"/>
-        <updated>2022-11-10T00:15:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49566968?v=4" width="64" height="64" alt=""/><br/><div>An open-source, free-to-use, lightweight middleware package that adds additional layers of security to authenticate/authorize and provide permissions for users to have different levels of access to a database through graphQL queries.</div>]]></content>
+        <title type="html"><![CDATA[jsuites/jsuites: jSuites is a collection of lightweight common required javascript web components. It is composed of fully responsive vanilla plugins to help you bring the best user experience to your projects, independent of the platform. Same JS codebase across different platforms.]]></title>
+        <id>https://github.com/jsuites/jsuites</id>
+        <link href="https://github.com/jsuites/jsuites"/>
+        <updated>2022-11-08T17:19:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75273648?v=4" width="64" height="64" alt=""/><br/><div>jSuites is a collection of lightweight common required javascript web components. It is composed of fully responsive vanilla plugins to help you bring the best user experience to your projects, independent of the platform. Same JS codebase across different platforms.</div>]]></content>
         <author>
-            <name>oslabs-beta</name>
-            <email>oslabs-beta@noreply.github.com</email>
-            <uri>https://github.com/oslabs-beta</uri>
+            <name>jsuites</name>
+            <email>jsuites@noreply.github.com</email>
+            <uri>https://github.com/jsuites</uri>
         </author>
-        <published>2022-10-17T21:05:15.000Z</published>
+        <published>2019-05-08T18:00:48.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ozzs/monobox: A lightweight, self-hosted, ad-free player to play music from your local library on your mobile device, in a friendly and simple UI.]]></title>
-        <id>https://github.com/ozzs/monobox</id>
-        <link href="https://github.com/ozzs/monobox"/>
-        <updated>2022-11-09T19:09:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11197251?u=19106cb162e669319cab852145c2990888a9bc8d&v=4" width="64" height="64" alt=""/><br/><div>A lightweight, self-hosted, ad-free player to play music from your local library on your mobile device, in a friendly and simple UI.</div>]]></content>
+        <title type="html"><![CDATA[wxyz-abcd/node-haxball: A lightweight Haxball(www.haxball.com) host/client bot API  written by abc as a node.js module that will include every possible hack and functionality that you can imagine.]]></title>
+        <id>https://github.com/wxyz-abcd/node-haxball</id>
+        <link href="https://github.com/wxyz-abcd/node-haxball"/>
+        <updated>2022-11-10T18:11:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8694183?v=4" width="64" height="64" alt=""/><br/><div>A lightweight Haxball(<a href="http://www.haxball.com" rel="nofollow">www.haxball.com</a>) host/client bot API  written by abc as a node.js module that will include every possible hack and functionality that you can imagine.</div>]]></content>
         <author>
-            <name>ozzs</name>
-            <email>ozzs@noreply.github.com</email>
-            <uri>https://github.com/ozzs</uri>
+            <name>wxyz-abcd</name>
+            <email>wxyz-abcd@noreply.github.com</email>
+            <uri>https://github.com/wxyz-abcd</uri>
         </author>
-        <published>2022-06-26T09:24:39.000Z</published>
+        <published>2022-10-31T12:47:44.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nvuillam/node-java-caller: Lightweight cross-platform javascript module to easily call java from node sources. Automatically install java if not present]]></title>
-        <id>https://github.com/nvuillam/node-java-caller</id>
-        <link href="https://github.com/nvuillam/node-java-caller"/>
-        <updated>2022-11-05T10:40:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17500430?u=24ff06a935acf56fe06678874e2b297debb66fac&v=4" width="64" height="64" alt=""/><br/><div>Lightweight cross-platform javascript module to easily call java from node sources. Automatically install java if not present</div>]]></content>
+        <title type="html"><![CDATA[vidstack/player: (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.]]></title>
+        <id>https://github.com/vidstack/player</id>
+        <link href="https://github.com/vidstack/player"/>
+        <updated>2022-11-10T21:54:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73653316?v=4" width="64" height="64" alt=""/><br/><div>(Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.</div>]]></content>
         <author>
-            <name>nvuillam</name>
-            <email>nvuillam@noreply.github.com</email>
-            <uri>https://github.com/nvuillam</uri>
+            <name>vidstack</name>
+            <email>vidstack@noreply.github.com</email>
+            <uri>https://github.com/vidstack</uri>
         </author>
-        <published>2020-08-09T08:51:14.000Z</published>
+        <published>2021-01-25T22:50:37.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[r0d1on/chalkboard: touch-friendly lightweight chalkboard]]></title>
-        <id>https://github.com/r0d1on/chalkboard</id>
-        <link href="https://github.com/r0d1on/chalkboard"/>
-        <updated>2022-07-04T21:14:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3895928?u=27b46ab5d423e524258d4163cda58ab71060db76&v=4" width="64" height="64" alt=""/><br/><div>touch-friendly lightweight chalkboard</div>]]></content>
+        <title type="html"><![CDATA[web3ui/web3uikit: Lightweight reusable Web3 UI components for dapps. ]]></title>
+        <id>https://github.com/web3ui/web3uikit</id>
+        <link href="https://github.com/web3ui/web3uikit"/>
+        <updated>2022-11-10T07:31:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96818428?v=4" width="64" height="64" alt=""/><br/><div>Lightweight reusable Web3 UI components for dapps. </div>]]></content>
         <author>
-            <name>r0d1on</name>
-            <email>r0d1on@noreply.github.com</email>
-            <uri>https://github.com/r0d1on</uri>
+            <name>web3ui</name>
+            <email>web3ui@noreply.github.com</email>
+            <uri>https://github.com/web3ui</uri>
         </author>
-        <published>2020-06-07T22:20:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[clauderic/dnd-kit: The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.]]></title>
-        <id>https://github.com/clauderic/dnd-kit</id>
-        <link href="https://github.com/clauderic/dnd-kit"/>
-        <updated>2022-11-09T22:23:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1416436?u=10d4e0a90e238720d1b7407a48345de0c74aef04&v=4" width="64" height="64" alt=""/><br/><div>The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React.</div>]]></content>
-        <author>
-            <name>clauderic</name>
-            <email>clauderic@noreply.github.com</email>
-            <uri>https://github.com/clauderic</uri>
-        </author>
-        <published>2020-11-26T00:46:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zoeldevapps/adahide: A lightweight web wallet for Cardano cryptocurrency with Trezor, Ledger and BitBox02 support. Please note that the only valid domain for our wallet is adahide.io. Forked from adalite.io.]]></title>
-        <id>https://github.com/zoeldevapps/adahide</id>
-        <link href="https://github.com/zoeldevapps/adahide"/>
-        <updated>2022-11-08T12:42:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115613254?v=4" width="64" height="64" alt=""/><br/><div>A lightweight web wallet for Cardano cryptocurrency with Trezor, Ledger and BitBox02 support. Please note that the only valid domain for our wallet is adahide.io. Forked from adalite.io.</div>]]></content>
-        <author>
-            <name>zoeldevapps</name>
-            <email>zoeldevapps@noreply.github.com</email>
-            <uri>https://github.com/zoeldevapps</uri>
-        </author>
-        <published>2022-10-12T15:41:25.000Z</published>
+        <published>2021-12-29T09:10:21.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lit/lit: Lit is a simple library for building fast, lightweight web components.]]></title>
         <id>https://github.com/lit/lit</id>
         <link href="https://github.com/lit/lit"/>
-        <updated>2022-11-09T22:39:21.000Z</updated>
+        <updated>2022-11-10T22:20:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18489846?v=4" width="64" height="64" alt=""/><br/><div>Lit is a simple library for building fast, lightweight web components.</div>]]></content>
         <author>
             <name>lit</name>
@@ -216,55 +164,107 @@
         <published>2017-06-29T16:27:16.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[balzack/databag: A self-hosted federated lightweight messenger for the decentralized web.]]></title>
-        <id>https://github.com/balzack/databag</id>
-        <link href="https://github.com/balzack/databag"/>
-        <updated>2022-11-09T22:30:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96387156?u=ea35ac237032fd51c4ac81bd64f8140e67b63681&v=4" width="64" height="64" alt=""/><br/><div>A self-hosted federated lightweight messenger for the decentralized web.</div>]]></content>
+        <title type="html"><![CDATA[uvarov-frontend/vanilla-calendar: A simple but feature rich calendar without dependencies and «input» tag. A lightweight date and time picker written in pure JavaScript with using TypeScript.]]></title>
+        <id>https://github.com/uvarov-frontend/vanilla-calendar</id>
+        <link href="https://github.com/uvarov-frontend/vanilla-calendar"/>
+        <updated>2022-11-09T16:48:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/82662379?u=f9aa6dc8bf79fdb208ec4b0495b060a675048899&v=4" width="64" height="64" alt=""/><br/><div>A simple but feature rich calendar without dependencies and «input» tag. A lightweight date and time picker written in pure JavaScript with using TypeScript.</div>]]></content>
         <author>
-            <name>balzack</name>
-            <email>balzack@noreply.github.com</email>
-            <uri>https://github.com/balzack</uri>
+            <name>uvarov-frontend</name>
+            <email>uvarov-frontend@noreply.github.com</email>
+            <uri>https://github.com/uvarov-frontend</uri>
         </author>
-        <published>2021-12-20T21:45:16.000Z</published>
+        <published>2022-05-02T12:30:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a-blaho/drawsie: A lightweight diagramming library for TS]]></title>
-        <id>https://github.com/a-blaho/drawsie</id>
-        <link href="https://github.com/a-blaho/drawsie"/>
-        <updated>2022-11-09T21:24:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45385678?u=5bd861b75f089acc1e6e2fc5c86a0c516fa61562&v=4" width="64" height="64" alt=""/><br/><div>A lightweight diagramming library for TS</div>]]></content>
+        <title type="html"><![CDATA[vadymshymko/react-simply-carousel: A simple, lightweight, fully controlled isomorphic (with SSR support) React.js carousel component. Touch enabled and responsive. With support for autoplay and infinity options. Fully customizable]]></title>
+        <id>https://github.com/vadymshymko/react-simply-carousel</id>
+        <link href="https://github.com/vadymshymko/react-simply-carousel"/>
+        <updated>2022-10-05T14:39:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9752238?u=a111ec56ed2a528cdb95cc88ed89c5fdb00c1b69&v=4" width="64" height="64" alt=""/><br/><div>A simple, lightweight, fully controlled isomorphic (with SSR support) React.js carousel component. Touch enabled and responsive. With support for autoplay and infinity options. Fully customizable</div>]]></content>
         <author>
-            <name>a-blaho</name>
-            <email>a-blaho@noreply.github.com</email>
-            <uri>https://github.com/a-blaho</uri>
+            <name>vadymshymko</name>
+            <email>vadymshymko@noreply.github.com</email>
+            <uri>https://github.com/vadymshymko</uri>
         </author>
-        <published>2022-11-09T17:16:14.000Z</published>
+        <published>2018-04-23T20:09:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[carlssonemil/orion: Simple, lightweight & intuitive camouflage tracker for Call of Duty: Modern Warfare 2 (2022)]]></title>
-        <id>https://github.com/carlssonemil/orion</id>
-        <link href="https://github.com/carlssonemil/orion"/>
-        <updated>2022-11-08T17:29:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10532336?u=54b97ff4cea7f0ba4d4bcfdcc53c46b43d312e12&v=4" width="64" height="64" alt=""/><br/><div>Simple, lightweight &amp; intuitive camouflage tracker for Call of Duty: Modern Warfare 2 (2022)</div>]]></content>
+        <title type="html"><![CDATA[jooher/dap: Lightweight javascript framework for interactive data-driven web applications.]]></title>
+        <id>https://github.com/jooher/dap</id>
+        <link href="https://github.com/jooher/dap"/>
+        <updated>2021-12-11T20:54:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29740272?v=4" width="64" height="64" alt=""/><br/><div>Lightweight javascript framework for interactive data-driven web applications.</div>]]></content>
         <author>
-            <name>carlssonemil</name>
-            <email>carlssonemil@noreply.github.com</email>
-            <uri>https://github.com/carlssonemil</uri>
+            <name>jooher</name>
+            <email>jooher@noreply.github.com</email>
+            <uri>https://github.com/jooher</uri>
         </author>
-        <published>2022-10-31T21:30:26.000Z</published>
+        <published>2017-06-27T21:12:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[emberjs/data: A lightweight reactive data library for javascript applications. Designed over composable primitives.]]></title>
-        <id>https://github.com/emberjs/data</id>
-        <link href="https://github.com/emberjs/data"/>
-        <updated>2022-11-04T05:28:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1253363?v=4" width="64" height="64" alt=""/><br/><div>A lightweight reactive data library for javascript applications. Designed over composable primitives.</div>]]></content>
+        <title type="html"><![CDATA[curveball/a12n-server: An open source lightweight OAuth2 server]]></title>
+        <id>https://github.com/curveball/a12n-server</id>
+        <link href="https://github.com/curveball/a12n-server"/>
+        <updated>2022-11-07T06:42:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40708208?v=4" width="64" height="64" alt=""/><br/><div>An open source lightweight OAuth2 server</div>]]></content>
         <author>
-            <name>emberjs</name>
-            <email>emberjs@noreply.github.com</email>
-            <uri>https://github.com/emberjs</uri>
+            <name>curveball</name>
+            <email>curveball@noreply.github.com</email>
+            <uri>https://github.com/curveball</uri>
         </author>
-        <published>2011-12-20T01:50:40.000Z</published>
+        <published>2018-09-04T13:40:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[danloh/mdSilo-app: Lightweight mind silo on your desktop.]]></title>
+        <id>https://github.com/danloh/mdSilo-app</id>
+        <link href="https://github.com/danloh/mdSilo-app"/>
+        <updated>2022-11-10T16:29:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1472485?u=3e959a8dcbde3b9c17aa667baa90749489769ba6&v=4" width="64" height="64" alt=""/><br/><div>Lightweight mind silo on your desktop.</div>]]></content>
+        <author>
+            <name>danloh</name>
+            <email>danloh@noreply.github.com</email>
+            <uri>https://github.com/danloh</uri>
+        </author>
+        <published>2022-02-17T03:06:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webpack-contrib/mini-css-extract-plugin: Lightweight CSS extraction plugin]]></title>
+        <id>https://github.com/webpack-contrib/mini-css-extract-plugin</id>
+        <link href="https://github.com/webpack-contrib/mini-css-extract-plugin"/>
+        <updated>2022-11-08T21:09:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25012217?v=4" width="64" height="64" alt=""/><br/><div>Lightweight CSS extraction plugin</div>]]></content>
+        <author>
+            <name>webpack-contrib</name>
+            <email>webpack-contrib@noreply.github.com</email>
+            <uri>https://github.com/webpack-contrib</uri>
+        </author>
+        <published>2018-02-28T08:33:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[unjs/radix3: 🌳 Lightweight and fast router for JavaScript based on Radix Tree]]></title>
+        <id>https://github.com/unjs/radix3</id>
+        <link href="https://github.com/unjs/radix3"/>
+        <updated>2022-11-10T22:08:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80154025?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">🌳</g-emoji> Lightweight and fast router for JavaScript based on Radix Tree</div>]]></content>
+        <author>
+            <name>unjs</name>
+            <email>unjs@noreply.github.com</email>
+            <uri>https://github.com/unjs</uri>
+        </author>
+        <published>2021-11-24T23:02:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pinoodle/Enigma-Engine: A text adventure game engine created as a simple, modern, cross-platform, lightweight alternative to Quest (http://textadventures.co.uk/quest)]]></title>
+        <id>https://github.com/pinoodle/Enigma-Engine</id>
+        <link href="https://github.com/pinoodle/Enigma-Engine"/>
+        <updated>2022-07-25T20:42:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/103074631?v=4" width="64" height="64" alt=""/><br/><div>A text adventure game engine created as a simple, modern, cross-platform, lightweight alternative to Quest (<a href="http://textadventures.co.uk/quest" rel="nofollow">http://textadventures.co.uk/quest</a>)</div>]]></content>
+        <author>
+            <name>pinoodle</name>
+            <email>pinoodle@noreply.github.com</email>
+            <uri>https://github.com/pinoodle</uri>
+        </author>
+        <published>2022-04-23T10:00:29.000Z</published>
     </entry>
 </feed>
