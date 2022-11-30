@@ -2,62 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/analytics-javascript-repo.json</id>
     <title>Analytics repositories</title>
-    <updated>2022-11-29T00:19:48.675Z</updated>
+    <updated>2022-11-30T00:20:11.572Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=analytics+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Analytics repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[PostHog/posthog: 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. ]]></title>
-        <id>https://github.com/PostHog/posthog</id>
-        <link href="https://github.com/PostHog/posthog"/>
-        <updated>2022-11-29T00:15:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60330232?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="hedgehog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f994.png">🦔</g-emoji> PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. </div>]]></content>
+        <title type="html"><![CDATA[grafana/grafana: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ]]></title>
+        <id>https://github.com/grafana/grafana</id>
+        <link href="https://github.com/grafana/grafana"/>
+        <updated>2022-11-29T23:55:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7195757?v=4" width="64" height="64" alt=""/><br/><div>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. </div>]]></content>
         <author>
-            <name>PostHog</name>
-            <email>PostHog@noreply.github.com</email>
-            <uri>https://github.com/PostHog</uri>
+            <name>grafana</name>
+            <email>grafana@noreply.github.com</email>
+            <uri>https://github.com/grafana</uri>
         </author>
-        <published>2020-01-23T22:46:58.000Z</published>
+        <published>2013-12-11T15:59:56.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fluidefi/fluidefi-caspernet-aggregator-tools: FLUIDEFI analytics & portfolio management for DeFi Automatic Market Makers (AMM) on CasperNet]]></title>
-        <id>https://github.com/fluidefi/fluidefi-caspernet-aggregator-tools</id>
-        <link href="https://github.com/fluidefi/fluidefi-caspernet-aggregator-tools"/>
-        <updated>2022-09-01T11:43:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106989389?v=4" width="64" height="64" alt=""/><br/><div>FLUIDEFI analytics &amp; portfolio management for DeFi Automatic Market Makers (AMM) on CasperNet</div>]]></content>
+        <title type="html"><![CDATA[oscarmmv/Analytics-Insights]]></title>
+        <id>https://github.com/oscarmmv/Analytics-Insights</id>
+        <link href="https://github.com/oscarmmv/Analytics-Insights"/>
+        <updated>2022-11-11T04:28:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69000320?u=d6342880ef2f919a89d0cc25d38183e2ac3f1c1a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>fluidefi</name>
-            <email>fluidefi@noreply.github.com</email>
-            <uri>https://github.com/fluidefi</uri>
+            <name>oscarmmv</name>
+            <email>oscarmmv@noreply.github.com</email>
+            <uri>https://github.com/oscarmmv</uri>
         </author>
-        <published>2022-06-06T23:22:18.000Z</published>
+        <published>2022-11-10T22:38:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[growthbook/growthbook: Open Source Feature Flagging and A/B Testing Platform]]></title>
-        <id>https://github.com/growthbook/growthbook</id>
-        <link href="https://github.com/growthbook/growthbook"/>
-        <updated>2022-11-28T15:02:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65404594?v=4" width="64" height="64" alt=""/><br/><div>Open Source Feature Flagging and A/B Testing Platform</div>]]></content>
+        <title type="html"><![CDATA[kmadden84/weather-app: A weather app for the Agency Analytics test]]></title>
+        <id>https://github.com/kmadden84/weather-app</id>
+        <link href="https://github.com/kmadden84/weather-app"/>
+        <updated>2022-11-29T20:23:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49003301?v=4" width="64" height="64" alt=""/><br/><div>A weather app for the Agency Analytics test</div>]]></content>
         <author>
-            <name>growthbook</name>
-            <email>growthbook@noreply.github.com</email>
-            <uri>https://github.com/growthbook</uri>
+            <name>kmadden84</name>
+            <email>kmadden84@noreply.github.com</email>
+            <uri>https://github.com/kmadden84</uri>
         </author>
-        <published>2021-05-07T23:11:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[decileapp/decile: Simple, open-source analytics tool for any Postgres database.]]></title>
-        <id>https://github.com/decileapp/decile</id>
-        <link href="https://github.com/decileapp/decile"/>
-        <updated>2022-11-28T21:41:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115928892?v=4" width="64" height="64" alt=""/><br/><div>Simple, open-source analytics tool for any Postgres database.</div>]]></content>
-        <author>
-            <name>decileapp</name>
-            <email>decileapp@noreply.github.com</email>
-            <uri>https://github.com/decileapp</uri>
-        </author>
-        <published>2022-09-19T10:07:36.000Z</published>
+        <published>2022-11-29T20:21:41.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[drarunmitra/covid19_india_analytics_final]]></title>
@@ -73,43 +60,69 @@
         <published>2021-05-17T09:40:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RamRamez/twitter-analytics-backend: Twitter Analytics Backend]]></title>
-        <id>https://github.com/RamRamez/twitter-analytics-backend</id>
-        <link href="https://github.com/RamRamez/twitter-analytics-backend"/>
-        <updated>2022-11-22T23:44:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73441857?u=0282d37229fa143412267726cae1c3bcda6eea17&v=4" width="64" height="64" alt=""/><br/><div>Twitter Analytics Backend</div>]]></content>
+        <title type="html"><![CDATA[opub/mkrs.info: Dynamic listing of the Based MKRS NFT collection on Solana.]]></title>
+        <id>https://github.com/opub/mkrs.info</id>
+        <link href="https://github.com/opub/mkrs.info"/>
+        <updated>2022-09-25T12:35:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3865761?u=aea664531f99622209fbceefb209059981cf1f36&v=4" width="64" height="64" alt=""/><br/><div>Dynamic listing of the Based MKRS NFT collection on Solana.</div>]]></content>
         <author>
-            <name>RamRamez</name>
-            <email>RamRamez@noreply.github.com</email>
-            <uri>https://github.com/RamRamez</uri>
+            <name>opub</name>
+            <email>opub@noreply.github.com</email>
+            <uri>https://github.com/opub</uri>
         </author>
-        <published>2022-11-18T20:36:15.000Z</published>
+        <published>2022-09-19T00:29:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RamRamez/twitter-analytics-dashboard: Twitter analytics dashboard]]></title>
-        <id>https://github.com/RamRamez/twitter-analytics-dashboard</id>
-        <link href="https://github.com/RamRamez/twitter-analytics-dashboard"/>
-        <updated>2022-11-22T23:44:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73441857?u=0282d37229fa143412267726cae1c3bcda6eea17&v=4" width="64" height="64" alt=""/><br/><div>Twitter analytics dashboard</div>]]></content>
+        <title type="html"><![CDATA[Swetrix/swetrix-api: Swetrix Analytics API]]></title>
+        <id>https://github.com/Swetrix/swetrix-api</id>
+        <link href="https://github.com/Swetrix/swetrix-api"/>
+        <updated>2022-11-09T02:56:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88215783?v=4" width="64" height="64" alt=""/><br/><div>Swetrix Analytics API</div>]]></content>
         <author>
-            <name>RamRamez</name>
-            <email>RamRamez@noreply.github.com</email>
-            <uri>https://github.com/RamRamez</uri>
+            <name>Swetrix</name>
+            <email>Swetrix@noreply.github.com</email>
+            <uri>https://github.com/Swetrix</uri>
         </author>
-        <published>2022-11-15T20:59:55.000Z</published>
+        <published>2021-03-18T21:55:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
-        <id>https://github.com/aws-amplify/amplify-js</id>
-        <link href="https://github.com/aws-amplify/amplify-js"/>
-        <updated>2022-11-28T14:25:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
+        <title type="html"><![CDATA[apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform]]></title>
+        <id>https://github.com/apache/superset</id>
+        <link href="https://github.com/apache/superset"/>
+        <updated>2022-11-29T23:30:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47359?v=4" width="64" height="64" alt=""/><br/><div>Apache Superset is a Data Visualization and Data Exploration Platform</div>]]></content>
         <author>
-            <name>aws-amplify</name>
-            <email>aws-amplify@noreply.github.com</email>
-            <uri>https://github.com/aws-amplify</uri>
+            <name>apache</name>
+            <email>apache@noreply.github.com</email>
+            <uri>https://github.com/apache</uri>
         </author>
-        <published>2017-10-02T22:17:14.000Z</published>
+        <published>2015-07-21T18:55:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostHog/posthog: 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. ]]></title>
+        <id>https://github.com/PostHog/posthog</id>
+        <link href="https://github.com/PostHog/posthog"/>
+        <updated>2022-11-29T23:27:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60330232?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="hedgehog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f994.png">🦔</g-emoji> PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. </div>]]></content>
+        <author>
+            <name>PostHog</name>
+            <email>PostHog@noreply.github.com</email>
+            <uri>https://github.com/PostHog</uri>
+        </author>
+        <published>2020-01-23T22:46:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHACDataHub/datahub_portfolio: Github Pages for the Data Analytics team deployed here: https://phacdatahub.github.io/datahub_portfolio/]]></title>
+        <id>https://github.com/PHACDataHub/datahub_portfolio</id>
+        <link href="https://github.com/PHACDataHub/datahub_portfolio"/>
+        <updated>2022-11-17T23:37:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54681852?v=4" width="64" height="64" alt=""/><br/><div>Github Pages for the Data Analytics team deployed here: <a href="https://phacdatahub.github.io/datahub_portfolio/" rel="nofollow">https://phacdatahub.github.io/datahub_portfolio/</a></div>]]></content>
+        <author>
+            <name>PHACDataHub</name>
+            <email>PHACDataHub@noreply.github.com</email>
+            <uri>https://github.com/PHACDataHub</uri>
+        </author>
+        <published>2021-05-28T16:38:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[EOS-Nation/eos-blockchain-data: EOS Blockchain Data for Analytics]]></title>
@@ -125,146 +138,133 @@
         <published>2022-10-08T22:56:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[opub/mkrs.info: Dynamic listing of the Based MKRS NFT collection on Solana.]]></title>
-        <id>https://github.com/opub/mkrs.info</id>
-        <link href="https://github.com/opub/mkrs.info"/>
-        <updated>2022-09-25T12:35:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3865761?u=aea664531f99622209fbceefb209059981cf1f36&v=4" width="64" height="64" alt=""/><br/><div>Dynamic listing of the Based MKRS NFT collection on Solana.</div>]]></content>
+        <title type="html"><![CDATA[melzubeir/casalytica: an application-layer API to track on-chain content impressions and views]]></title>
+        <id>https://github.com/melzubeir/casalytica</id>
+        <link href="https://github.com/melzubeir/casalytica"/>
+        <updated>2022-11-29T21:20:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66845648?u=dfe304b52c5f93bd8fad5c21e5c779013f840dfb&v=4" width="64" height="64" alt=""/><br/><div>an application-layer API to track on-chain content impressions and views</div>]]></content>
         <author>
-            <name>opub</name>
-            <email>opub@noreply.github.com</email>
-            <uri>https://github.com/opub</uri>
+            <name>melzubeir</name>
+            <email>melzubeir@noreply.github.com</email>
+            <uri>https://github.com/melzubeir</uri>
         </author>
-        <published>2022-09-19T00:29:14.000Z</published>
+        <published>2022-11-10T23:35:51.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[grafana/grafana: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ]]></title>
-        <id>https://github.com/grafana/grafana</id>
-        <link href="https://github.com/grafana/grafana"/>
-        <updated>2022-11-28T23:18:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7195757?v=4" width="64" height="64" alt=""/><br/><div>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. </div>]]></content>
+        <title type="html"><![CDATA[cvisionai/tator: Video analytics web platform]]></title>
+        <id>https://github.com/cvisionai/tator</id>
+        <link href="https://github.com/cvisionai/tator"/>
+        <updated>2022-11-19T00:40:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41804717?v=4" width="64" height="64" alt=""/><br/><div>Video analytics web platform</div>]]></content>
         <author>
-            <name>grafana</name>
-            <email>grafana@noreply.github.com</email>
-            <uri>https://github.com/grafana</uri>
+            <name>cvisionai</name>
+            <email>cvisionai@noreply.github.com</email>
+            <uri>https://github.com/cvisionai</uri>
         </author>
-        <published>2013-12-11T15:59:56.000Z</published>
+        <published>2019-09-14T12:02:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform]]></title>
-        <id>https://github.com/apache/superset</id>
-        <link href="https://github.com/apache/superset"/>
-        <updated>2022-11-28T23:32:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47359?v=4" width="64" height="64" alt=""/><br/><div>Apache Superset is a Data Visualization and Data Exploration Platform</div>]]></content>
+        <title type="html"><![CDATA[LibreTexts/analytics-dashboard]]></title>
+        <id>https://github.com/LibreTexts/analytics-dashboard</id>
+        <link href="https://github.com/LibreTexts/analytics-dashboard"/>
+        <updated>2022-11-01T19:02:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42589275?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>apache</name>
-            <email>apache@noreply.github.com</email>
-            <uri>https://github.com/apache</uri>
+            <name>LibreTexts</name>
+            <email>LibreTexts@noreply.github.com</email>
+            <uri>https://github.com/LibreTexts</uri>
         </author>
-        <published>2015-07-21T18:55:34.000Z</published>
+        <published>2022-05-18T00:29:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[herschel666/analytics: Personal, privacy-respecting website analytics service powered by @architect.]]></title>
-        <id>https://github.com/herschel666/analytics</id>
-        <link href="https://github.com/herschel666/analytics"/>
-        <updated>2022-11-28T13:40:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/520258?v=4" width="64" height="64" alt=""/><br/><div>Personal, privacy-respecting website analytics service powered by <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/architect/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/architect">@architect</a>.</div>]]></content>
+        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
+        <id>https://github.com/aws-amplify/amplify-js</id>
+        <link href="https://github.com/aws-amplify/amplify-js"/>
+        <updated>2022-11-29T18:06:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
         <author>
-            <name>herschel666</name>
-            <email>herschel666@noreply.github.com</email>
-            <uri>https://github.com/herschel666</uri>
+            <name>aws-amplify</name>
+            <email>aws-amplify@noreply.github.com</email>
+            <uri>https://github.com/aws-amplify</uri>
         </author>
-        <published>2020-08-24T19:46:17.000Z</published>
+        <published>2017-10-02T22:17:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[johan-apo/experiments-in-react: A dummy repository to link to hosting providers in order to try and test features like analytics or WebGL.]]></title>
-        <id>https://github.com/johan-apo/experiments-in-react</id>
-        <link href="https://github.com/johan-apo/experiments-in-react"/>
-        <updated>2022-11-28T19:32:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46169687?u=02bc38a2671a5a770de475136eb8590615be4078&v=4" width="64" height="64" alt=""/><br/><div>A dummy repository to link to hosting providers in order to try and test features like analytics or WebGL.</div>]]></content>
+        <title type="html"><![CDATA[pickeloe5/count-von-count: Minim-analytics]]></title>
+        <id>https://github.com/pickeloe5/count-von-count</id>
+        <link href="https://github.com/pickeloe5/count-von-count"/>
+        <updated>2022-11-28T06:46:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14076162?u=2f2d36dbcf96e0026eb8b1047e6a23997ee33c57&v=4" width="64" height="64" alt=""/><br/><div>Minim-analytics</div>]]></content>
         <author>
-            <name>johan-apo</name>
-            <email>johan-apo@noreply.github.com</email>
-            <uri>https://github.com/johan-apo</uri>
+            <name>pickeloe5</name>
+            <email>pickeloe5@noreply.github.com</email>
+            <uri>https://github.com/pickeloe5</uri>
         </author>
-        <published>2022-11-28T19:27:46.000Z</published>
+        <published>2022-11-28T06:46:02.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[apricote/Listory: Track your Spotify listens]]></title>
-        <id>https://github.com/apricote/Listory</id>
-        <link href="https://github.com/apricote/Listory"/>
-        <updated>2022-09-15T04:12:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3393079?v=4" width="64" height="64" alt=""/><br/><div>Track your Spotify listens</div>]]></content>
+        <title type="html"><![CDATA[mistakia/league: A platform for fantasy football leagues, analytics, and prop betting.]]></title>
+        <id>https://github.com/mistakia/league</id>
+        <link href="https://github.com/mistakia/league"/>
+        <updated>2022-11-10T20:39:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1823355?u=dbd21b0b2ae94bb2658648b435a613bb30bf2bbd&v=4" width="64" height="64" alt=""/><br/><div>A platform for fantasy football leagues, analytics, and prop betting.</div>]]></content>
         <author>
-            <name>apricote</name>
-            <email>apricote@noreply.github.com</email>
-            <uri>https://github.com/apricote</uri>
+            <name>mistakia</name>
+            <email>mistakia@noreply.github.com</email>
+            <uri>https://github.com/mistakia</uri>
         </author>
-        <published>2020-01-25T21:19:02.000Z</published>
+        <published>2020-04-30T19:32:28.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniswap/analytics: Uniswap analytics]]></title>
-        <id>https://github.com/Uniswap/analytics</id>
-        <link href="https://github.com/Uniswap/analytics"/>
-        <updated>2022-11-15T21:28:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36115574?v=4" width="64" height="64" alt=""/><br/><div>Uniswap analytics</div>]]></content>
+        <title type="html"><![CDATA[techerbaretbeatrice/P12_developpez_un_tableau_de_bord_analytics_avec_react]]></title>
+        <id>https://github.com/techerbaretbeatrice/P12_developpez_un_tableau_de_bord_analytics_avec_react</id>
+        <link href="https://github.com/techerbaretbeatrice/P12_developpez_un_tableau_de_bord_analytics_avec_react"/>
+        <updated>2022-11-11T15:38:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75300898?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>Uniswap</name>
-            <email>Uniswap@noreply.github.com</email>
-            <uri>https://github.com/Uniswap</uri>
+            <name>techerbaretbeatrice</name>
+            <email>techerbaretbeatrice@noreply.github.com</email>
+            <uri>https://github.com/techerbaretbeatrice</uri>
         </author>
-        <published>2022-10-28T19:42:06.000Z</published>
+        <published>2022-11-11T15:27:46.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[megasanjay/analytics]]></title>
-        <id>https://github.com/megasanjay/analytics</id>
-        <link href="https://github.com/megasanjay/analytics"/>
-        <updated>2022-07-02T04:36:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21206996?u=c0dee7e6edfe38f6f0b840282d6679370b48aa8e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[TaloDev/backend: A self-hostable backend for your games]]></title>
+        <id>https://github.com/TaloDev/backend</id>
+        <link href="https://github.com/TaloDev/backend"/>
+        <updated>2022-10-09T10:15:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72621900?v=4" width="64" height="64" alt=""/><br/><div>A self-hostable backend for your games</div>]]></content>
         <author>
-            <name>megasanjay</name>
-            <email>megasanjay@noreply.github.com</email>
-            <uri>https://github.com/megasanjay</uri>
+            <name>TaloDev</name>
+            <email>TaloDev@noreply.github.com</email>
+            <uri>https://github.com/TaloDev</uri>
         </author>
-        <published>2022-06-15T07:10:24.000Z</published>
+        <published>2021-01-09T17:16:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[searchdiscovery/auto-qa-demo: A basic testbed for validation of website analytics instrumentation]]></title>
-        <id>https://github.com/searchdiscovery/auto-qa-demo</id>
-        <link href="https://github.com/searchdiscovery/auto-qa-demo"/>
-        <updated>2022-11-28T21:22:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63816991?v=4" width="64" height="64" alt=""/><br/><div>A basic testbed for validation of website analytics instrumentation</div>]]></content>
+        <title type="html"><![CDATA[next-book/analytics-site: Simple analytical platform for web-based books.]]></title>
+        <id>https://github.com/next-book/analytics-site</id>
+        <link href="https://github.com/next-book/analytics-site"/>
+        <updated>2022-11-11T20:08:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22192093?v=4" width="64" height="64" alt=""/><br/><div>Simple analytical platform for web-based books.</div>]]></content>
         <author>
-            <name>searchdiscovery</name>
-            <email>searchdiscovery@noreply.github.com</email>
-            <uri>https://github.com/searchdiscovery</uri>
+            <name>next-book</name>
+            <email>next-book@noreply.github.com</email>
+            <uri>https://github.com/next-book</uri>
         </author>
-        <published>2022-11-28T21:18:32.000Z</published>
+        <published>2022-11-07T14:06:49.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rello/analytics: Analytics - Open source data warehouse and reporting for Nextcloud]]></title>
-        <id>https://github.com/Rello/analytics</id>
-        <link href="https://github.com/Rello/analytics"/>
-        <updated>2022-11-06T22:31:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13385119?u=9ddce3a89af2f0fe28c703de4444dc53b72b78bb&v=4" width="64" height="64" alt=""/><br/><div>Analytics - Open source data warehouse and reporting for Nextcloud</div>]]></content>
+        <title type="html"><![CDATA[guruhq/fire-snake: GuruHQ's analytics tool]]></title>
+        <id>https://github.com/guruhq/fire-snake</id>
+        <link href="https://github.com/guruhq/fire-snake"/>
+        <updated>2022-11-29T16:40:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5881418?v=4" width="64" height="64" alt=""/><br/><div>GuruHQ's analytics tool</div>]]></content>
         <author>
-            <name>Rello</name>
-            <email>Rello@noreply.github.com</email>
-            <uri>https://github.com/Rello</uri>
+            <name>guruhq</name>
+            <email>guruhq@noreply.github.com</email>
+            <uri>https://github.com/guruhq</uri>
         </author>
-        <published>2019-10-08T19:01:42.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap/analytics-events: Uniswap analytics events]]></title>
-        <id>https://github.com/Uniswap/analytics-events</id>
-        <link href="https://github.com/Uniswap/analytics-events"/>
-        <updated>2022-11-13T09:32:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36115574?v=4" width="64" height="64" alt=""/><br/><div>Uniswap analytics events</div>]]></content>
-        <author>
-            <name>Uniswap</name>
-            <email>Uniswap@noreply.github.com</email>
-            <uri>https://github.com/Uniswap</uri>
-        </author>
-        <published>2022-11-07T18:25:54.000Z</published>
+        <published>2022-07-20T16:59:24.000Z</published>
     </entry>
 </feed>
