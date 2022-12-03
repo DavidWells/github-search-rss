@@ -2,49 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/cognito-javascript-repo.json</id>
     <title>Cognito repositories</title>
-    <updated>2022-12-02T00:18:25.363Z</updated>
+    <updated>2022-12-03T00:16:24.787Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=cognito+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Cognito repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[jorshali/aws-sam-rest-api-starter: TypeScript-based starter REST API project using AWS SAM that provides Cognito authentication, custom authorization, and a REST handling framework.]]></title>
-        <id>https://github.com/jorshali/aws-sam-rest-api-starter</id>
-        <link href="https://github.com/jorshali/aws-sam-rest-api-starter"/>
-        <updated>2022-11-23T14:31:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2658012?u=7c24bedf909abdf0b18846be2dfc815b161289bb&v=4" width="64" height="64" alt=""/><br/><div>TypeScript-based starter REST API project using AWS SAM that provides Cognito authentication, custom authorization, and a REST handling framework.</div>]]></content>
+        <title type="html"><![CDATA[tillkuhn/angkor: (Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 14), Spring Boot 2.7 (Kotlin), PostgreSQL 13, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS]]></title>
+        <id>https://github.com/tillkuhn/angkor</id>
+        <link href="https://github.com/tillkuhn/angkor"/>
+        <updated>2022-11-06T10:27:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7251093?u=3f7323a49de6b45d614c1a1732c757109bae421d&v=4" width="64" height="64" alt=""/><br/><div>(Almost) purely educational app to manage nice locations and recipes. Tech Stack:  Single-page app (Angular 14), Spring Boot 2.7 (Kotlin), PostgreSQL 13, Go, Mapbox GL JS, Cognito OAuth2, Docker, Terraform/AWS</div>]]></content>
         <author>
-            <name>jorshali</name>
-            <email>jorshali@noreply.github.com</email>
-            <uri>https://github.com/jorshali</uri>
+            <name>tillkuhn</name>
+            <email>tillkuhn@noreply.github.com</email>
+            <uri>https://github.com/tillkuhn</uri>
         </author>
-        <published>2022-11-16T20:34:10.000Z</published>
+        <published>2019-11-05T10:03:24.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[weis95/aws-cognito]]></title>
-        <id>https://github.com/weis95/aws-cognito</id>
-        <link href="https://github.com/weis95/aws-cognito"/>
-        <updated>2022-12-01T11:43:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41548530?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[toul-codes/lobsterer: A Twitter clone inspired by a twitter clone named crabber.net it aims to be spiritual successor of built with Golang, Gin & Gonic, DynamoDB and Cognito]]></title>
+        <id>https://github.com/toul-codes/lobsterer</id>
+        <link href="https://github.com/toul-codes/lobsterer"/>
+        <updated>2022-12-02T08:22:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21222409?u=56752cdd9971755ba8f2962c2cb1a1bdbde2cf5e&v=4" width="64" height="64" alt=""/><br/><div>A Twitter clone inspired by a twitter clone named crabber.net it aims to be spiritual successor of built with Golang, Gin &amp; Gonic, DynamoDB and Cognito</div>]]></content>
         <author>
-            <name>weis95</name>
-            <email>weis95@noreply.github.com</email>
-            <uri>https://github.com/weis95</uri>
+            <name>toul-codes</name>
+            <email>toul-codes@noreply.github.com</email>
+            <uri>https://github.com/toul-codes</uri>
         </author>
-        <published>2022-12-01T11:43:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
-        <id>https://github.com/aws-amplify/amplify-js</id>
-        <link href="https://github.com/aws-amplify/amplify-js"/>
-        <updated>2022-12-01T22:52:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
-        <author>
-            <name>aws-amplify</name>
-            <email>aws-amplify@noreply.github.com</email>
-            <uri>https://github.com/aws-amplify</uri>
-        </author>
-        <published>2017-10-02T22:17:14.000Z</published>
+        <published>2022-11-16T02:43:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mkohler4/crypto-serverless: This project defines the AWS infrastructure Cognito, Lambda, and exposes two API Gateways (Auth API and Protected API).]]></title>
@@ -60,6 +47,123 @@
         <published>2022-12-01T21:35:07.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[clouddrove/terraform-aws-cognito: Terraform module to create an Cognito resource on AWS.]]></title>
+        <id>https://github.com/clouddrove/terraform-aws-cognito</id>
+        <link href="https://github.com/clouddrove/terraform-aws-cognito"/>
+        <updated>2022-12-02T09:29:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45422299?v=4" width="64" height="64" alt=""/><br/><div>Terraform module to create an Cognito resource on AWS.</div>]]></content>
+        <author>
+            <name>clouddrove</name>
+            <email>clouddrove@noreply.github.com</email>
+            <uri>https://github.com/clouddrove</uri>
+        </author>
+        <published>2021-04-21T14:28:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olise756/Aws-Project: Building a Serverless Web Application with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito]]></title>
+        <id>https://github.com/Olise756/Aws-Project</id>
+        <link href="https://github.com/Olise756/Aws-Project"/>
+        <updated>2022-12-02T19:13:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/110761021?v=4" width="64" height="64" alt=""/><br/><div>Building a Serverless Web Application with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito</div>]]></content>
+        <author>
+            <name>Olise756</name>
+            <email>Olise756@noreply.github.com</email>
+            <uri>https://github.com/Olise756</uri>
+        </author>
+        <published>2022-12-02T17:43:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
+        <id>https://github.com/aws-amplify/amplify-js</id>
+        <link href="https://github.com/aws-amplify/amplify-js"/>
+        <updated>2022-12-02T21:02:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
+        <author>
+            <name>aws-amplify</name>
+            <email>aws-amplify@noreply.github.com</email>
+            <uri>https://github.com/aws-amplify</uri>
+        </author>
+        <published>2017-10-02T22:17:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weis95/cognito-api: Basic API requiring cognite JWT token]]></title>
+        <id>https://github.com/weis95/cognito-api</id>
+        <link href="https://github.com/weis95/cognito-api"/>
+        <updated>2022-12-02T18:12:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41548530?v=4" width="64" height="64" alt=""/><br/><div>Basic API requiring cognite JWT token</div>]]></content>
+        <author>
+            <name>weis95</name>
+            <email>weis95@noreply.github.com</email>
+            <uri>https://github.com/weis95</uri>
+        </author>
+        <published>2022-12-02T18:12:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[danilozanaga/CognitoAPI: Cognito API]]></title>
+        <id>https://github.com/danilozanaga/CognitoAPI</id>
+        <link href="https://github.com/danilozanaga/CognitoAPI"/>
+        <updated>2022-06-23T14:45:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19630004?v=4" width="64" height="64" alt=""/><br/><div>Cognito API</div>]]></content>
+        <author>
+            <name>danilozanaga</name>
+            <email>danilozanaga@noreply.github.com</email>
+            <uri>https://github.com/danilozanaga</uri>
+        </author>
+        <published>2022-06-23T14:42:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[marlkiller/aws-cognito-website]]></title>
+        <id>https://github.com/marlkiller/aws-cognito-website</id>
+        <link href="https://github.com/marlkiller/aws-cognito-website"/>
+        <updated>2022-12-02T12:24:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25897113?u=ae51a68aaee7975edc5ea08ac9a5f62eb4c03bd4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>marlkiller</name>
+            <email>marlkiller@noreply.github.com</email>
+            <uri>https://github.com/marlkiller</uri>
+        </author>
+        <published>2022-12-02T12:15:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avarios/AMAZON-OPENSEARCH-COGNITO]]></title>
+        <id>https://github.com/Avarios/AMAZON-OPENSEARCH-COGNITO</id>
+        <link href="https://github.com/Avarios/AMAZON-OPENSEARCH-COGNITO"/>
+        <updated>2022-08-19T10:24:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11066365?u=b53a4544d0ebea15b1625087981cf744aed3ce2e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Avarios</name>
+            <email>Avarios@noreply.github.com</email>
+            <uri>https://github.com/Avarios</uri>
+        </author>
+        <published>2022-08-05T09:23:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weis95/aws-cognito: Basic aws-cognito funcitonality for React/TS projects]]></title>
+        <id>https://github.com/weis95/aws-cognito</id>
+        <link href="https://github.com/weis95/aws-cognito"/>
+        <updated>2022-12-02T12:57:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41548530?v=4" width="64" height="64" alt=""/><br/><div>Basic aws-cognito funcitonality for React/TS projects</div>]]></content>
+        <author>
+            <name>weis95</name>
+            <email>weis95@noreply.github.com</email>
+            <uri>https://github.com/weis95</uri>
+        </author>
+        <published>2022-12-02T12:56:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eryk-vieira/go-cognito-jwt-validator: A simple library that validates a cognito JWT token]]></title>
+        <id>https://github.com/eryk-vieira/go-cognito-jwt-validator</id>
+        <link href="https://github.com/eryk-vieira/go-cognito-jwt-validator"/>
+        <updated>2022-12-02T11:39:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59400564?u=da0c127e6276a4306c1fcb09739103a5ef766a04&v=4" width="64" height="64" alt=""/><br/><div>A simple library that validates a cognito JWT token</div>]]></content>
+        <author>
+            <name>eryk-vieira</name>
+            <email>eryk-vieira@noreply.github.com</email>
+            <uri>https://github.com/eryk-vieira</uri>
+        </author>
+        <published>2022-12-02T01:24:18.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK]]></title>
         <id>https://github.com/henrist/cdk-cloudfront-auth</id>
         <link href="https://github.com/henrist/cdk-cloudfront-auth"/>
@@ -73,147 +177,17 @@
         <published>2020-07-11T01:58:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aws-samples/step-up-auth: How to implement Step-up Authentication using Amazon Cognito]]></title>
-        <id>https://github.com/aws-samples/step-up-auth</id>
-        <link href="https://github.com/aws-samples/step-up-auth"/>
-        <updated>2022-12-01T18:40:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="64" height="64" alt=""/><br/><div>How to implement Step-up Authentication using Amazon Cognito</div>]]></content>
+        <title type="html"><![CDATA[kazuma-fujita/nextjs-cognito-middleware-sample]]></title>
+        <id>https://github.com/kazuma-fujita/nextjs-cognito-middleware-sample</id>
+        <link href="https://github.com/kazuma-fujita/nextjs-cognito-middleware-sample"/>
+        <updated>2022-12-02T08:13:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7447589?u=3b8fa2272cdc557f62a394f1867ec8ce0ea305a8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>aws-samples</name>
-            <email>aws-samples@noreply.github.com</email>
-            <uri>https://github.com/aws-samples</uri>
+            <name>kazuma-fujita</name>
+            <email>kazuma-fujita@noreply.github.com</email>
+            <uri>https://github.com/kazuma-fujita</uri>
         </author>
-        <published>2022-03-11T19:27:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fabscale/ember-cognito-identity: Interact with AWS Cognito in your Ember app.]]></title>
-        <id>https://github.com/fabscale/ember-cognito-identity</id>
-        <link href="https://github.com/fabscale/ember-cognito-identity"/>
-        <updated>2022-01-04T08:35:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52446192?v=4" width="64" height="64" alt=""/><br/><div>Interact with AWS Cognito in your Ember app.</div>]]></content>
-        <author>
-            <name>fabscale</name>
-            <email>fabscale@noreply.github.com</email>
-            <uri>https://github.com/fabscale</uri>
-        </author>
-        <published>2019-07-02T08:39:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape-Technologies/py-multiauth: 🔒 Py-MultiAuth - The ultimate Python Authentication toolkit (Basic, OAuth, GraphQL, REST, AWS, Cognito…) 🔒]]></title>
-        <id>https://github.com/Escape-Technologies/py-multiauth</id>
-        <link href="https://github.com/Escape-Technologies/py-multiauth"/>
-        <updated>2022-11-25T11:02:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77633603?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Py-MultiAuth - The ultimate Python Authentication toolkit (Basic, OAuth, GraphQL, REST, AWS, Cognito…) <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></div>]]></content>
-        <author>
-            <name>Escape-Technologies</name>
-            <email>Escape-Technologies@noreply.github.com</email>
-            <uri>https://github.com/Escape-Technologies</uri>
-        </author>
-        <published>2022-06-08T09:50:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebranchett/cognito-tudelft]]></title>
-        <id>https://github.com/sebranchett/cognito-tudelft</id>
-        <link href="https://github.com/sebranchett/cognito-tudelft"/>
-        <updated>2022-10-11T08:40:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22983889?u=a091bd78432d09c0098a0b21890a145999100850&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sebranchett</name>
-            <email>sebranchett@noreply.github.com</email>
-            <uri>https://github.com/sebranchett</uri>
-        </author>
-        <published>2022-10-11T08:40:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[supertokens/supertokens-core: Open source alternative to Auth0 / Firebase Auth / AWS Cognito ]]></title>
-        <id>https://github.com/supertokens/supertokens-core</id>
-        <link href="https://github.com/supertokens/supertokens-core"/>
-        <updated>2022-12-01T22:46:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50478857?v=4" width="64" height="64" alt=""/><br/><div>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </div>]]></content>
-        <author>
-            <name>supertokens</name>
-            <email>supertokens@noreply.github.com</email>
-            <uri>https://github.com/supertokens</uri>
-        </author>
-        <published>2020-01-05T13:30:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hwslabs/iam: Identity and Access Management Service]]></title>
-        <id>https://github.com/hwslabs/iam</id>
-        <link href="https://github.com/hwslabs/iam"/>
-        <updated>2022-11-03T07:29:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/92428640?v=4" width="64" height="64" alt=""/><br/><div>Identity and Access Management Service</div>]]></content>
-        <author>
-            <name>hwslabs</name>
-            <email>hwslabs@noreply.github.com</email>
-            <uri>https://github.com/hwslabs</uri>
-        </author>
-        <published>2022-02-03T14:02:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lokicoule/nestjs-cognito: AWS Cognito utilities module for NestJS.]]></title>
-        <id>https://github.com/Lokicoule/nestjs-cognito</id>
-        <link href="https://github.com/Lokicoule/nestjs-cognito"/>
-        <updated>2022-11-30T18:31:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9872839?v=4" width="64" height="64" alt=""/><br/><div>AWS Cognito utilities module for NestJS.</div>]]></content>
-        <author>
-            <name>Lokicoule</name>
-            <email>Lokicoule@noreply.github.com</email>
-            <uri>https://github.com/Lokicoule</uri>
-        </author>
-        <published>2022-07-22T13:36:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dpansheriya/com.logilite.sso.cognito: SSO support for Cognito]]></title>
-        <id>https://github.com/dpansheriya/com.logilite.sso.cognito</id>
-        <link href="https://github.com/dpansheriya/com.logilite.sso.cognito"/>
-        <updated>2022-12-01T04:39:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7995590?u=ebbaf6aeeaa5b6aa813c3ca10369ce968bae9a31&v=4" width="64" height="64" alt=""/><br/><div>SSO support for Cognito</div>]]></content>
-        <author>
-            <name>dpansheriya</name>
-            <email>dpansheriya@noreply.github.com</email>
-            <uri>https://github.com/dpansheriya</uri>
-        </author>
-        <published>2022-12-01T04:30:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[joshbmarshall/cognitocmsapi]]></title>
-        <id>https://github.com/joshbmarshall/cognitocmsapi</id>
-        <link href="https://github.com/joshbmarshall/cognitocmsapi"/>
-        <updated>2022-06-23T11:42:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4043827?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>joshbmarshall</name>
-            <email>joshbmarshall@noreply.github.com</email>
-            <uri>https://github.com/joshbmarshall</uri>
-        </author>
-        <published>2022-03-13T12:22:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[poad/github-cognito-oidc-proxy]]></title>
-        <id>https://github.com/poad/github-cognito-oidc-proxy</id>
-        <link href="https://github.com/poad/github-cognito-oidc-proxy"/>
-        <updated>2022-09-04T01:36:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1867845?u=f70dc290bce8da25d0e5e316fdbb602ab6ff6c99&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>poad</name>
-            <email>poad@noreply.github.com</email>
-            <uri>https://github.com/poad</uri>
-        </author>
-        <published>2022-08-30T22:01:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito]]></title>
-        <id>https://github.com/nearform/brokeneck</id>
-        <link href="https://github.com/nearform/brokeneck"/>
-        <updated>2022-11-07T16:53:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1544687?v=4" width="64" height="64" alt=""/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>]]></content>
-        <author>
-            <name>nearform</name>
-            <email>nearform@noreply.github.com</email>
-            <uri>https://github.com/nearform</uri>
-        </author>
-        <published>2020-11-29T21:56:55.000Z</published>
+        <published>2022-12-02T08:11:57.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[space-metaverse/auth-frontend: Our modular Cognito based Auth portal to login and register users. Returns a JWT token to a redirect URL.]]></title>
@@ -229,42 +203,68 @@
         <published>2022-10-14T14:55:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[amigos-dev/dart_cognito_login_cli: A simple demo CLI app that logs into cognito in dart]]></title>
-        <id>https://github.com/amigos-dev/dart_cognito_login_cli</id>
-        <link href="https://github.com/amigos-dev/dart_cognito_login_cli"/>
-        <updated>2022-11-23T01:49:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108037818?v=4" width="64" height="64" alt=""/><br/><div>A simple demo CLI app that logs into cognito in dart</div>]]></content>
+        <title type="html"><![CDATA[GovTechSG/terraform-aws-elasticsearch-cognito]]></title>
+        <id>https://github.com/GovTechSG/terraform-aws-elasticsearch-cognito</id>
+        <link href="https://github.com/GovTechSG/terraform-aws-elasticsearch-cognito"/>
+        <updated>2021-10-23T08:27:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12439141?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>amigos-dev</name>
-            <email>amigos-dev@noreply.github.com</email>
-            <uri>https://github.com/amigos-dev</uri>
+            <name>GovTechSG</name>
+            <email>GovTechSG@noreply.github.com</email>
+            <uri>https://github.com/GovTechSG</uri>
         </author>
-        <published>2022-11-22T22:43:05.000Z</published>
+        <published>2021-10-23T07:49:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Djumabaevs/aws_cognito_amplify]]></title>
-        <id>https://github.com/Djumabaevs/aws_cognito_amplify</id>
-        <link href="https://github.com/Djumabaevs/aws_cognito_amplify"/>
-        <updated>2022-11-27T12:55:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76224728?u=3db243788cc7960dcee40d0fbf5f3e1f017d2d78&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[poad/github-cognito-oidc-proxy]]></title>
+        <id>https://github.com/poad/github-cognito-oidc-proxy</id>
+        <link href="https://github.com/poad/github-cognito-oidc-proxy"/>
+        <updated>2022-09-04T01:36:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1867845?u=f70dc290bce8da25d0e5e316fdbb602ab6ff6c99&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>Djumabaevs</name>
-            <email>Djumabaevs@noreply.github.com</email>
-            <uri>https://github.com/Djumabaevs</uri>
+            <name>poad</name>
+            <email>poad@noreply.github.com</email>
+            <uri>https://github.com/poad</uri>
         </author>
-        <published>2022-11-27T12:54:57.000Z</published>
+        <published>2022-08-30T22:01:29.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ctx-core/cognito]]></title>
-        <id>https://github.com/ctx-core/cognito</id>
-        <link href="https://github.com/ctx-core/cognito"/>
-        <updated>2022-01-08T04:07:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18689739?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[smitgabani/codingMile_backend: Backend API for Coding MIle]]></title>
+        <id>https://github.com/smitgabani/codingMile_backend</id>
+        <link href="https://github.com/smitgabani/codingMile_backend"/>
+        <updated>2022-11-28T21:26:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63806909?u=810c050259f8abd8959ec9b1651ca13fdbecc9dc&v=4" width="64" height="64" alt=""/><br/><div>Backend API for Coding MIle</div>]]></content>
         <author>
-            <name>ctx-core</name>
-            <email>ctx-core@noreply.github.com</email>
-            <uri>https://github.com/ctx-core</uri>
+            <name>smitgabani</name>
+            <email>smitgabani@noreply.github.com</email>
+            <uri>https://github.com/smitgabani</uri>
         </author>
-        <published>2019-12-02T17:11:53.000Z</published>
+        <published>2022-11-27T01:18:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nearform/brokeneck: Admin UI for Auth0, Azure AD and AWS Cognito]]></title>
+        <id>https://github.com/nearform/brokeneck</id>
+        <link href="https://github.com/nearform/brokeneck"/>
+        <updated>2022-11-07T16:53:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1544687?v=4" width="64" height="64" alt=""/><br/><div>Admin UI for Auth0, Azure AD and AWS Cognito</div>]]></content>
+        <author>
+            <name>nearform</name>
+            <email>nearform@noreply.github.com</email>
+            <uri>https://github.com/nearform</uri>
+        </author>
+        <published>2020-11-29T21:56:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jorshali/aws-sam-rest-api-starter: TypeScript-based starter REST API project using AWS SAM that provides Cognito authentication, custom authorization, and a REST handling framework.]]></title>
+        <id>https://github.com/jorshali/aws-sam-rest-api-starter</id>
+        <link href="https://github.com/jorshali/aws-sam-rest-api-starter"/>
+        <updated>2022-11-23T14:31:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2658012?u=7c24bedf909abdf0b18846be2dfc815b161289bb&v=4" width="64" height="64" alt=""/><br/><div>TypeScript-based starter REST API project using AWS SAM that provides Cognito authentication, custom authorization, and a REST handling framework.</div>]]></content>
+        <author>
+            <name>jorshali</name>
+            <email>jorshali@noreply.github.com</email>
+            <uri>https://github.com/jorshali</uri>
+        </author>
+        <published>2022-11-16T20:34:10.000Z</published>
     </entry>
 </feed>
