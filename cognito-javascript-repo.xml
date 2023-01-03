@@ -2,205 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/cognito-javascript-repo.json</id>
     <title>Cognito repositories</title>
-    <updated>2023-01-02T00:17:24.694Z</updated>
+    <updated>2023-01-03T00:16:36.927Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=cognito+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>Cognito repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[ezduzit4me/go-cognito-sdk]]></title>
-        <id>https://github.com/ezduzit4me/go-cognito-sdk</id>
-        <link href="https://github.com/ezduzit4me/go-cognito-sdk"/>
-        <updated>2023-01-01T23:57:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61637409?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[Live-Hack-CVE/CVE-2022-4200: The Login with Cognito WordPress plugin through 1.4.8 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup). CVE project by @Sn0wAlice]]></title>
+        <id>https://github.com/Live-Hack-CVE/CVE-2022-4200</id>
+        <link href="https://github.com/Live-Hack-CVE/CVE-2022-4200"/>
+        <updated>2023-01-03T00:06:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121191732?v=4" width="64" height="64" alt=""/><br/><div>The Login with Cognito WordPress plugin through 1.4.8 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup). CVE project by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/Sn0wAlice/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Sn0wAlice">@Sn0wAlice</a>
+</div>]]></content>
         <author>
-            <name>ezduzit4me</name>
-            <email>ezduzit4me@noreply.github.com</email>
-            <uri>https://github.com/ezduzit4me</uri>
+            <name>Live-Hack-CVE</name>
+            <email>Live-Hack-CVE@noreply.github.com</email>
+            <uri>https://github.com/Live-Hack-CVE</uri>
         </author>
-        <published>2022-12-16T06:54:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fitzerc/AmznCognitoPoc: Sample code for Cognito integration. Not intended for production use.]]></title>
-        <id>https://github.com/fitzerc/AmznCognitoPoc</id>
-        <link href="https://github.com/fitzerc/AmznCognitoPoc"/>
-        <updated>2023-01-01T23:14:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5330433?v=4" width="64" height="64" alt=""/><br/><div>Sample code for Cognito integration. Not intended for production use.</div>]]></content>
-        <author>
-            <name>fitzerc</name>
-            <email>fitzerc@noreply.github.com</email>
-            <uri>https://github.com/fitzerc</uri>
-        </author>
-        <published>2023-01-01T23:03:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kimharr24/Syllabus-NEU: NEU Class Syllabus Catalogue | Front-End Built with React, Typescript, Material UI | Back-End Built With Express, Amazon Cognito, DynamoDB]]></title>
-        <id>https://github.com/kimharr24/Syllabus-NEU</id>
-        <link href="https://github.com/kimharr24/Syllabus-NEU"/>
-        <updated>2022-12-27T15:00:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73801512?u=da01e8fc238813f7680f912d6d2f1ae93641882f&v=4" width="64" height="64" alt=""/><br/><div>NEU Class Syllabus Catalogue | Front-End Built with React, Typescript, Material UI | Back-End Built With Express, Amazon Cognito, DynamoDB</div>]]></content>
-        <author>
-            <name>kimharr24</name>
-            <email>kimharr24@noreply.github.com</email>
-            <uri>https://github.com/kimharr24</uri>
-        </author>
-        <published>2022-12-27T02:19:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoderClaw/aws-demo: cognito and angular demo]]></title>
-        <id>https://github.com/CoderClaw/aws-demo</id>
-        <link href="https://github.com/CoderClaw/aws-demo"/>
-        <updated>2023-01-01T19:06:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/100720457?v=4" width="64" height="64" alt=""/><br/><div>cognito and angular demo</div>]]></content>
-        <author>
-            <name>CoderClaw</name>
-            <email>CoderClaw@noreply.github.com</email>
-            <uri>https://github.com/CoderClaw</uri>
-        </author>
-        <published>2023-01-01T19:06:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fabscale/ember-cognito-identity: Interact with AWS Cognito in your Ember app.]]></title>
-        <id>https://github.com/fabscale/ember-cognito-identity</id>
-        <link href="https://github.com/fabscale/ember-cognito-identity"/>
-        <updated>2022-01-04T08:35:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52446192?v=4" width="64" height="64" alt=""/><br/><div>Interact with AWS Cognito in your Ember app.</div>]]></content>
-        <author>
-            <name>fabscale</name>
-            <email>fabscale@noreply.github.com</email>
-            <uri>https://github.com/fabscale</uri>
-        </author>
-        <published>2019-07-02T08:39:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRSpradlin/aws-cognito-app: Creating Cognito Authentication within Cloud Based AWS API]]></title>
-        <id>https://github.com/CRSpradlin/aws-cognito-app</id>
-        <link href="https://github.com/CRSpradlin/aws-cognito-app"/>
-        <updated>2022-06-29T14:30:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38332276?u=eb1477b9e9653e744d3100e49c41aab7b7dae888&v=4" width="64" height="64" alt=""/><br/><div>Creating Cognito Authentication within Cloud Based AWS API</div>]]></content>
-        <author>
-            <name>CRSpradlin</name>
-            <email>CRSpradlin@noreply.github.com</email>
-            <uri>https://github.com/CRSpradlin</uri>
-        </author>
-        <published>2021-09-19T04:03:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17ms/zeronote: RESTful API utilizing PKCE-enhanced OAuth2 via AWS Cognito]]></title>
-        <id>https://github.com/17ms/zeronote</id>
-        <link href="https://github.com/17ms/zeronote"/>
-        <updated>2023-01-01T16:25:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/79069176?v=4" width="64" height="64" alt=""/><br/><div>RESTful API utilizing PKCE-enhanced OAuth2 via AWS Cognito</div>]]></content>
-        <author>
-            <name>17ms</name>
-            <email>17ms@noreply.github.com</email>
-            <uri>https://github.com/17ms</uri>
-        </author>
-        <published>2022-09-21T21:01:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK]]></title>
-        <id>https://github.com/henrist/cdk-cloudfront-auth</id>
-        <link href="https://github.com/henrist/cdk-cloudfront-auth"/>
-        <updated>2022-12-09T02:33:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/703354?v=4" width="64" height="64" alt=""/><br/><div>CloudFront authorization with Cognito for CDK</div>]]></content>
-        <author>
-            <name>henrist</name>
-            <email>henrist@noreply.github.com</email>
-            <uri>https://github.com/henrist</uri>
-        </author>
-        <published>2020-07-11T01:58:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oleksiivelychko/go-cli-aws-toolkit: Comprehensive CLI application manages a variety of implemented AWS services like Cognito, S3 and DynamoDB.]]></title>
-        <id>https://github.com/oleksiivelychko/go-cli-aws-toolkit</id>
-        <link href="https://github.com/oleksiivelychko/go-cli-aws-toolkit"/>
-        <updated>2023-01-01T10:14:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94033630?u=0277929bba20caf770daf01f1b4885d9fc1bc413&v=4" width="64" height="64" alt=""/><br/><div>Comprehensive CLI application manages a variety of implemented AWS services like Cognito, S3 and DynamoDB.</div>]]></content>
-        <author>
-            <name>oleksiivelychko</name>
-            <email>oleksiivelychko@noreply.github.com</email>
-            <uri>https://github.com/oleksiivelychko</uri>
-        </author>
-        <published>2022-05-27T06:21:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[goldstack/cognito-nodejs-template: User Management with Cognito with Node.js / React]]></title>
-        <id>https://github.com/goldstack/cognito-nodejs-template</id>
-        <link href="https://github.com/goldstack/cognito-nodejs-template"/>
-        <updated>2022-12-25T01:41:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66645074?u=1aa629961f7cc4ec0967661f11f19556036344c4&v=4" width="64" height="64" alt=""/><br/><div>User Management with Cognito with Node.js / React</div>]]></content>
-        <author>
-            <name>goldstack</name>
-            <email>goldstack@noreply.github.com</email>
-            <uri>https://github.com/goldstack</uri>
-        </author>
-        <published>2022-12-24T23:19:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[asadagaha/react_cognito]]></title>
-        <id>https://github.com/asadagaha/react_cognito</id>
-        <link href="https://github.com/asadagaha/react_cognito"/>
-        <updated>2023-01-01T05:03:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52685588?u=35d00ecfeaae35633ff7e2cb90e428eda1bbc2dc&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>asadagaha</name>
-            <email>asadagaha@noreply.github.com</email>
-            <uri>https://github.com/asadagaha</uri>
-        </author>
-        <published>2022-12-30T10:53:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[simonpratt/cognito-auth: An opinionated implementation of login / auth with AWS cognito]]></title>
-        <id>https://github.com/simonpratt/cognito-auth</id>
-        <link href="https://github.com/simonpratt/cognito-auth"/>
-        <updated>2022-02-13T10:46:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19920260?v=4" width="64" height="64" alt=""/><br/><div>An opinionated implementation of login / auth with AWS cognito</div>]]></content>
-        <author>
-            <name>simonpratt</name>
-            <email>simonpratt@noreply.github.com</email>
-            <uri>https://github.com/simonpratt</uri>
-        </author>
-        <published>2021-06-25T09:23:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[simonmcallister0210/cognito-srp-helper: A helper for SRP authentication in AWS Cognito]]></title>
-        <id>https://github.com/simonmcallister0210/cognito-srp-helper</id>
-        <link href="https://github.com/simonmcallister0210/cognito-srp-helper"/>
-        <updated>2022-12-30T21:33:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56324559?u=8edffaacf3ad84646edf15a42be6e5fcbd28a147&v=4" width="64" height="64" alt=""/><br/><div>A helper for SRP authentication in AWS Cognito</div>]]></content>
-        <author>
-            <name>simonmcallister0210</name>
-            <email>simonmcallister0210@noreply.github.com</email>
-            <uri>https://github.com/simonmcallister0210</uri>
-        </author>
-        <published>2022-10-24T23:14:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jamolpe/fastify-cognito-template: Fastify template for cognito]]></title>
-        <id>https://github.com/jamolpe/fastify-cognito-template</id>
-        <link href="https://github.com/jamolpe/fastify-cognito-template"/>
-        <updated>2022-12-21T22:42:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12414295?u=b5b732931ab3ea6b3fde3e51d1ebfb261d794420&v=4" width="64" height="64" alt=""/><br/><div>Fastify template for cognito</div>]]></content>
-        <author>
-            <name>jamolpe</name>
-            <email>jamolpe@noreply.github.com</email>
-            <uri>https://github.com/jamolpe</uri>
-        </author>
-        <published>2022-12-21T22:23:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DanielLongo/FARM-Stack: Python Fastapi, React, React-Native, Docker, GCP Cloud Run]]></title>
-        <id>https://github.com/DanielLongo/FARM-Stack</id>
-        <link href="https://github.com/DanielLongo/FARM-Stack"/>
-        <updated>2022-12-30T10:19:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16641213?u=6dffe29f2deeb288140aa9ae6d3dba5ef5ea062b&v=4" width="64" height="64" alt=""/><br/><div>Python Fastapi, React, React-Native, Docker, GCP Cloud Run</div>]]></content>
-        <author>
-            <name>DanielLongo</name>
-            <email>DanielLongo@noreply.github.com</email>
-            <uri>https://github.com/DanielLongo</uri>
-        </author>
-        <published>2022-12-04T06:12:01.000Z</published>
+        <published>2023-01-03T00:06:37.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lokicoule/nestjs-cognito: AWS Cognito utilities module for NestJS.]]></title>
@@ -216,6 +35,136 @@
         <published>2022-07-22T13:36:19.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[alfiomartini/cognito-hosted-ui: simple prototype to present the basic functionality of an aws cognito hosted-ui.]]></title>
+        <id>https://github.com/alfiomartini/cognito-hosted-ui</id>
+        <link href="https://github.com/alfiomartini/cognito-hosted-ui"/>
+        <updated>2023-01-02T21:59:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51006393?u=b73b897ceb376ea35a126d23025dd706195bbd34&v=4" width="64" height="64" alt=""/><br/><div>simple prototype to present the basic functionality of an aws cognito hosted-ui.</div>]]></content>
+        <author>
+            <name>alfiomartini</name>
+            <email>alfiomartini@noreply.github.com</email>
+            <uri>https://github.com/alfiomartini</uri>
+        </author>
+        <published>2023-01-02T21:57:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kyhau/aws-cognito-token-verification-serverside: Python implementation to process the Amazon Cognito ID token and the access token on the server side.]]></title>
+        <id>https://github.com/kyhau/aws-cognito-token-verification-serverside</id>
+        <link href="https://github.com/kyhau/aws-cognito-token-verification-serverside"/>
+        <updated>2022-12-14T22:45:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5346476?u=945bbc804ab43b3f4800af4ef11743b21c1f685d&v=4" width="64" height="64" alt=""/><br/><div>Python implementation to process the Amazon Cognito ID token and the access token on the server side.</div>]]></content>
+        <author>
+            <name>kyhau</name>
+            <email>kyhau@noreply.github.com</email>
+            <uri>https://github.com/kyhau</uri>
+        </author>
+        <published>2017-10-09T09:16:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[henrist/cdk-cloudfront-auth: CloudFront authorization with Cognito for CDK]]></title>
+        <id>https://github.com/henrist/cdk-cloudfront-auth</id>
+        <link href="https://github.com/henrist/cdk-cloudfront-auth"/>
+        <updated>2023-01-02T04:01:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/703354?v=4" width="64" height="64" alt=""/><br/><div>CloudFront authorization with Cognito for CDK</div>]]></content>
+        <author>
+            <name>henrist</name>
+            <email>henrist@noreply.github.com</email>
+            <uri>https://github.com/henrist</uri>
+        </author>
+        <published>2020-07-11T01:58:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kimharr24/Syllabus-NEU: NEU Class Syllabus Catalogue | Front-End Built with React, Typescript, Material UI | Back-End Built With Express, Amazon Cognito, DynamoDB]]></title>
+        <id>https://github.com/kimharr24/Syllabus-NEU</id>
+        <link href="https://github.com/kimharr24/Syllabus-NEU"/>
+        <updated>2022-12-27T15:00:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73801512?u=da01e8fc238813f7680f912d6d2f1ae93641882f&v=4" width="64" height="64" alt=""/><br/><div>NEU Class Syllabus Catalogue | Front-End Built with React, Typescript, Material UI | Back-End Built With Express, Amazon Cognito, DynamoDB</div>]]></content>
+        <author>
+            <name>kimharr24</name>
+            <email>kimharr24@noreply.github.com</email>
+            <uri>https://github.com/kimharr24</uri>
+        </author>
+        <published>2022-12-27T02:19:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tonporaqui/aws-serverless-auth-x: API GETWAY COGNITO CDK AWS]]></title>
+        <id>https://github.com/tonporaqui/aws-serverless-auth-x</id>
+        <link href="https://github.com/tonporaqui/aws-serverless-auth-x"/>
+        <updated>2023-01-02T19:06:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7048226?u=7acb21b199df69558b3a234a75c822b0f693054a&v=4" width="64" height="64" alt=""/><br/><div>API GETWAY COGNITO CDK AWS</div>]]></content>
+        <author>
+            <name>tonporaqui</name>
+            <email>tonporaqui@noreply.github.com</email>
+            <uri>https://github.com/tonporaqui</uri>
+        </author>
+        <published>2023-01-02T19:06:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[winanjuar/kezbek-authenticator: Auth using AWS Cognito]]></title>
+        <id>https://github.com/winanjuar/kezbek-authenticator</id>
+        <link href="https://github.com/winanjuar/kezbek-authenticator"/>
+        <updated>2023-01-02T03:29:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42574079?u=fdd96a273c95abd5f2cfeeded47cd76dcb69ca50&v=4" width="64" height="64" alt=""/><br/><div>Auth using AWS Cognito</div>]]></content>
+        <author>
+            <name>winanjuar</name>
+            <email>winanjuar@noreply.github.com</email>
+            <uri>https://github.com/winanjuar</uri>
+        </author>
+        <published>2023-01-02T03:28:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[brunnofoggia/serverless-lab-aws-ts-sqs-cognito-paramstore]]></title>
+        <id>https://github.com/brunnofoggia/serverless-lab-aws-ts-sqs-cognito-paramstore</id>
+        <link href="https://github.com/brunnofoggia/serverless-lab-aws-ts-sqs-cognito-paramstore"/>
+        <updated>2023-01-02T16:08:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12822853?u=bd8491623ad5b3a4ebfed9ba7bfdbc23b42cb399&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>brunnofoggia</name>
+            <email>brunnofoggia@noreply.github.com</email>
+            <uri>https://github.com/brunnofoggia</uri>
+        </author>
+        <published>2023-01-02T16:07:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
+        <id>https://github.com/aws-amplify/amplify-js</id>
+        <link href="https://github.com/aws-amplify/amplify-js"/>
+        <updated>2023-01-02T18:35:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
+        <author>
+            <name>aws-amplify</name>
+            <email>aws-amplify@noreply.github.com</email>
+            <uri>https://github.com/aws-amplify</uri>
+        </author>
+        <published>2017-10-02T22:17:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[faraz2022skipq/ToDo-List: A serverless to-do list app. This app allows user to read, add, update, or delete data which is stored in AWS NoSQL database i.e. DynamoDB.]]></title>
+        <id>https://github.com/faraz2022skipq/ToDo-List</id>
+        <link href="https://github.com/faraz2022skipq/ToDo-List"/>
+        <updated>2022-12-24T20:17:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/105546558?v=4" width="64" height="64" alt=""/><br/><div>A serverless to-do list app. This app allows user to read, add, update, or delete data which is stored in AWS NoSQL database i.e. DynamoDB.</div>]]></content>
+        <author>
+            <name>faraz2022skipq</name>
+            <email>faraz2022skipq@noreply.github.com</email>
+            <uri>https://github.com/faraz2022skipq</uri>
+        </author>
+        <published>2022-12-17T15:02:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senzing/aws-lambda-cognito-authorizer: Lambda function for authorizing via AWS Cognito]]></title>
+        <id>https://github.com/Senzing/aws-lambda-cognito-authorizer</id>
+        <link href="https://github.com/Senzing/aws-lambda-cognito-authorizer"/>
+        <updated>2022-12-07T07:09:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43552726?v=4" width="64" height="64" alt=""/><br/><div>Lambda function for authorizing via AWS Cognito</div>]]></content>
+        <author>
+            <name>Senzing</name>
+            <email>Senzing@noreply.github.com</email>
+            <uri>https://github.com/Senzing</uri>
+        </author>
+        <published>2021-06-15T17:43:49.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[shairbekov-bakyt/webClient-Cognito-auth]]></title>
         <id>https://github.com/shairbekov-bakyt/webClient-Cognito-auth</id>
         <link href="https://github.com/shairbekov-bakyt/webClient-Cognito-auth"/>
@@ -229,42 +178,94 @@
         <published>2022-12-28T18:57:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[joshbmarshall/cognitocmsapi]]></title>
-        <id>https://github.com/joshbmarshall/cognitocmsapi</id>
-        <link href="https://github.com/joshbmarshall/cognitocmsapi"/>
-        <updated>2022-06-23T11:42:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4043827?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[imyashkale/go-cognito: Amazon Cognito ]]></title>
+        <id>https://github.com/imyashkale/go-cognito</id>
+        <link href="https://github.com/imyashkale/go-cognito"/>
+        <updated>2023-01-02T13:39:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33906873?v=4" width="64" height="64" alt=""/><br/><div>Amazon Cognito </div>]]></content>
         <author>
-            <name>joshbmarshall</name>
-            <email>joshbmarshall@noreply.github.com</email>
-            <uri>https://github.com/joshbmarshall</uri>
+            <name>imyashkale</name>
+            <email>imyashkale@noreply.github.com</email>
+            <uri>https://github.com/imyashkale</uri>
         </author>
-        <published>2022-03-13T12:22:25.000Z</published>
+        <published>2023-01-02T13:28:41.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shakthisachintha/stellar-drive: Stellar drive is a cloud storage it uses AWS S3 bucket to store the files and Cognito service to secure the access.]]></title>
-        <id>https://github.com/shakthisachintha/stellar-drive</id>
-        <link href="https://github.com/shakthisachintha/stellar-drive"/>
-        <updated>2022-12-31T04:43:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43114582?u=e03b1025a31d3f92418b7d4680cff27c70171bc8&v=4" width="64" height="64" alt=""/><br/><div>Stellar drive is a cloud storage it uses AWS S3 bucket to store the files and Cognito service to secure the access.</div>]]></content>
+        <title type="html"><![CDATA[BlitzBudget/other-lambda-functions: Authorize API headers with Cognito]]></title>
+        <id>https://github.com/BlitzBudget/other-lambda-functions</id>
+        <link href="https://github.com/BlitzBudget/other-lambda-functions"/>
+        <updated>2022-11-22T12:27:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102297011?v=4" width="64" height="64" alt=""/><br/><div>Authorize API headers with Cognito</div>]]></content>
         <author>
-            <name>shakthisachintha</name>
-            <email>shakthisachintha@noreply.github.com</email>
-            <uri>https://github.com/shakthisachintha</uri>
+            <name>BlitzBudget</name>
+            <email>BlitzBudget@noreply.github.com</email>
+            <uri>https://github.com/BlitzBudget</uri>
         </author>
-        <published>2022-12-26T09:34:50.000Z</published>
+        <published>2019-11-30T22:42:13.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.]]></title>
-        <id>https://github.com/aws-amplify/amplify-js</id>
-        <link href="https://github.com/aws-amplify/amplify-js"/>
-        <updated>2023-01-01T18:24:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41077760?v=4" width="64" height="64" alt=""/><br/><div>A declarative JavaScript library for application development using cloud services.</div>]]></content>
+        <title type="html"><![CDATA[taorusb/aws-auth: Project represents simple integration AWS cognito with spring security]]></title>
+        <id>https://github.com/taorusb/aws-auth</id>
+        <link href="https://github.com/taorusb/aws-auth"/>
+        <updated>2022-12-27T11:31:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61055630?v=4" width="64" height="64" alt=""/><br/><div>Project represents simple integration AWS cognito with spring security</div>]]></content>
         <author>
-            <name>aws-amplify</name>
-            <email>aws-amplify@noreply.github.com</email>
-            <uri>https://github.com/aws-amplify</uri>
+            <name>taorusb</name>
+            <email>taorusb@noreply.github.com</email>
+            <uri>https://github.com/taorusb</uri>
         </author>
-        <published>2017-10-02T22:17:14.000Z</published>
+        <published>2022-12-27T11:31:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[async-aws/cognito-identity-provider: [READ ONLY] CognitoIdentityProvider client]]></title>
+        <id>https://github.com/async-aws/cognito-identity-provider</id>
+        <link href="https://github.com/async-aws/cognito-identity-provider"/>
+        <updated>2022-01-05T13:38:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60474870?v=4" width="64" height="64" alt=""/><br/><div>[READ ONLY] CognitoIdentityProvider client</div>]]></content>
+        <author>
+            <name>async-aws</name>
+            <email>async-aws@noreply.github.com</email>
+            <uri>https://github.com/async-aws</uri>
+        </author>
+        <published>2020-05-06T08:17:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DanielLongo/FARM-Stack: Python Fastapi, React, React-Native, Docker, GCP Cloud Run]]></title>
+        <id>https://github.com/DanielLongo/FARM-Stack</id>
+        <link href="https://github.com/DanielLongo/FARM-Stack"/>
+        <updated>2022-12-30T10:19:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16641213?u=6dffe29f2deeb288140aa9ae6d3dba5ef5ea062b&v=4" width="64" height="64" alt=""/><br/><div>Python Fastapi, React, React-Native, Docker, GCP Cloud Run</div>]]></content>
+        <author>
+            <name>DanielLongo</name>
+            <email>DanielLongo@noreply.github.com</email>
+            <uri>https://github.com/DanielLongo</uri>
+        </author>
+        <published>2022-12-04T06:12:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[awslabs/aws-jwt-verify: JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, and RS512]]></title>
+        <id>https://github.com/awslabs/aws-jwt-verify</id>
+        <link href="https://github.com/awslabs/aws-jwt-verify"/>
+        <updated>2023-01-02T10:15:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="64" height="64" alt=""/><br/><div>JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, and RS512</div>]]></content>
+        <author>
+            <name>awslabs</name>
+            <email>awslabs@noreply.github.com</email>
+            <uri>https://github.com/awslabs</uri>
+        </author>
+        <published>2021-09-16T15:53:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oleksiivelychko/go-cli-aws-toolkit: Comprehensive CLI application manages a variety of implemented AWS services like Cognito, S3 and DynamoDB.]]></title>
+        <id>https://github.com/oleksiivelychko/go-cli-aws-toolkit</id>
+        <link href="https://github.com/oleksiivelychko/go-cli-aws-toolkit"/>
+        <updated>2023-01-01T10:14:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94033630?u=0277929bba20caf770daf01f1b4885d9fc1bc413&v=4" width="64" height="64" alt=""/><br/><div>Comprehensive CLI application manages a variety of implemented AWS services like Cognito, S3 and DynamoDB.</div>]]></content>
+        <author>
+            <name>oleksiivelychko</name>
+            <email>oleksiivelychko@noreply.github.com</email>
+            <uri>https://github.com/oleksiivelychko</uri>
+        </author>
+        <published>2022-05-27T06:21:30.000Z</published>
     </entry>
 </feed>
