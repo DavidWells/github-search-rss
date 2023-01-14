@@ -6,17 +6,6 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85312489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/maheshbhandari433/netlify-serverless",
-            "title": "maheshbhandari433/netlify-serverless",
-            "date_modified": "2023-01-13T00:13:18.000Z",
-            "date_published": "2023-01-08T18:29:18.000Z",
-            "author": {
-                "name": "maheshbhandari433",
-                "url": "https://github.com/maheshbhandari433"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278432?u=dd437e74427fddade6146e47ada192213310eff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CDK Constructs for Serverless Demo</div>",
             "url": "https://github.com/pahud/cdk-simple-serverless",
             "title": "pahud/cdk-simple-serverless: CDK Constructs for Serverless Demo",
@@ -25,72 +14,6 @@
             "author": {
                 "name": "pahud",
                 "url": "https://github.com/pahud"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5221537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>serverless plugin to make serverless-sns-sqs-lambda events</div>",
-            "url": "https://github.com/agiledigital/serverless-sns-sqs-lambda",
-            "title": "agiledigital/serverless-sns-sqs-lambda: serverless plugin to make serverless-sns-sqs-lambda events",
-            "date_modified": "2022-11-15T15:10:25.000Z",
-            "date_published": "2019-09-05T23:02:00.000Z",
-            "author": {
-                "name": "agiledigital",
-                "url": "https://github.com/agiledigital"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57114?u=5522499f6546a5c8307460a18653178b6b454780&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to sync local directories and S3 prefixes for Serverless Framework <g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji></div>",
-            "url": "https://github.com/k1LoW/serverless-s3-sync",
-            "title": "k1LoW/serverless-s3-sync: A plugin to sync local directories and S3 prefixes for Serverless Framework :zap:",
-            "date_modified": "2022-12-31T03:44:36.000Z",
-            "date_published": "2017-07-26T09:20:05.000Z",
-            "author": {
-                "name": "k1LoW",
-                "url": "https://github.com/k1LoW"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72094596?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official JavaScript SDK for Momento Serverless Cache</div>",
-            "url": "https://github.com/momentohq/client-sdk-javascript",
-            "title": "momentohq/client-sdk-javascript: Official JavaScript SDK for Momento Serverless Cache",
-            "date_modified": "2023-01-08T05:07:05.000Z",
-            "date_published": "2021-10-07T17:32:58.000Z",
-            "author": {
-                "name": "momentohq",
-                "url": "https://github.com/momentohq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/761456?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo contains a version of <a href=\"https://github.com/hashicorp/cdktf-integration-serverless-example\">https://github.com/hashicorp/cdktf-integration-serverless-example</a> that only focuses on multi-stack deployments</div>",
-            "url": "https://github.com/hashicorp/cdktf-multistack-serverless-example",
-            "title": "hashicorp/cdktf-multistack-serverless-example: This repo contains a version of https://github.com/hashicorp/cdktf-integration-serverless-example that only focuses on multi-stack deployments",
-            "date_modified": "2022-10-18T23:48:03.000Z",
-            "date_published": "2022-04-22T12:25:49.000Z",
-            "author": {
-                "name": "hashicorp",
-                "url": "https://github.com/hashicorp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6154722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Azure Static Web Apps extension for VS Code</div>",
-            "url": "https://github.com/microsoft/vscode-azurestaticwebapps",
-            "title": "microsoft/vscode-azurestaticwebapps: Azure Static Web Apps extension for VS Code",
-            "date_modified": "2023-01-11T23:23:30.000Z",
-            "date_published": "2020-03-30T20:21:22.000Z",
-            "author": {
-                "name": "microsoft",
-                "url": "https://github.com/microsoft"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33294334?u=72f747f61e37faa4c71a2046c18ef27e3e563fb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/fmsrodrigues/ew-serverless",
-            "title": "fmsrodrigues/ew-serverless",
-            "date_modified": "2023-01-12T00:52:10.000Z",
-            "date_published": "2023-01-12T00:49:06.000Z",
-            "author": {
-                "name": "fmsrodrigues",
-                "url": "https://github.com/fmsrodrigues"
             }
         },
         {
@@ -105,14 +28,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69360379?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Application Load Balancer and API Gateway - Lambda dev tool for Serverless. Allows Express synthax in handlers. Supports packaging, local invoking and offline real ALB and APG lambda server mocking.</div>",
-            "url": "https://github.com/Inqnuam/serverless-aws-lambda",
-            "title": "Inqnuam/serverless-aws-lambda: AWS Application Load Balancer and API Gateway - Lambda dev tool for Serverless. Allows Express synthax in handlers. Supports packaging, local invoking and offline real ALB and APG lambda server mocking.",
-            "date_modified": "2022-09-30T04:08:37.000Z",
-            "date_published": "2022-08-17T19:29:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19410720?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full-stack TypeScript video board web app built on Angular and AWS</div>",
+            "url": "https://github.com/quipt/monorepo",
+            "title": "quipt/monorepo: A full-stack TypeScript video board web app built on Angular and AWS",
+            "date_modified": "2023-01-07T11:29:42.000Z",
+            "date_published": "2021-03-08T13:00:39.000Z",
             "author": {
-                "name": "Inqnuam",
-                "url": "https://github.com/Inqnuam"
+                "name": "quipt",
+                "url": "https://github.com/quipt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25966?u=fd866ec42bdc141a9fe09e9039388f98bf80aa9c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Graphql-WS compatible Lambda Powered Subscriptions</div>",
+            "url": "https://github.com/reconbot/graphql-lambda-subscriptions",
+            "title": "reconbot/graphql-lambda-subscriptions: Graphql-WS compatible Lambda Powered Subscriptions",
+            "date_modified": "2022-12-24T14:14:12.000Z",
+            "date_published": "2021-08-06T20:41:47.000Z",
+            "author": {
+                "name": "reconbot",
+                "url": "https://github.com/reconbot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106432792?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deploy Serverless Functions at the Edge. Current status: Dev</div>",
+            "url": "https://github.com/lagonapp/lagon",
+            "title": "lagonapp/lagon: Deploy Serverless Functions at the Edge. Current status: Dev",
+            "date_modified": "2023-01-13T23:56:15.000Z",
+            "date_published": "2022-06-20T06:08:05.000Z",
+            "author": {
+                "name": "lagonapp",
+                "url": "https://github.com/lagonapp"
             }
         },
         {
@@ -127,58 +72,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97243572?u=8217c43f64161c668e640b742a3c9430c9535877&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/amandapccs/aula-serverless-api",
-            "title": "amandapccs/aula-serverless-api",
-            "date_modified": "2023-01-10T20:07:14.000Z",
-            "date_published": "2023-01-10T20:03:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59330424?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/amajakai14/line-web-serverless",
+            "title": "amajakai14/line-web-serverless",
+            "date_modified": "2023-01-05T07:23:09.000Z",
+            "date_published": "2023-01-05T07:23:01.000Z",
             "author": {
-                "name": "amandapccs",
-                "url": "https://github.com/amandapccs"
+                "name": "amajakai14",
+                "url": "https://github.com/amajakai14"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2232217?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser</div>",
-            "url": "https://github.com/aws/aws-toolkit-vscode",
-            "title": "aws/aws-toolkit-vscode: Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser",
-            "date_modified": "2023-01-11T21:47:12.000Z",
-            "date_published": "2018-07-20T20:09:29.000Z",
-            "author": {
-                "name": "aws",
-                "url": "https://github.com/aws"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22569638?u=de6975e808171cf3c193605603e64029d7c73ed0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Azure functions serverless API for generative art NFTs. Listens for transactions from the blockchain and re-renders the art based on the inputs, pre-determined by artist's script.</div>",
-            "url": "https://github.com/drake-nathan/matto-api-azure",
-            "title": "drake-nathan/matto-api-azure: Azure functions serverless API for generative art NFTs. Listens for transactions from the blockchain and re-renders the art based on the inputs, pre-determined by artist's script.",
-            "date_modified": "2022-10-21T20:31:46.000Z",
-            "date_published": "2022-09-27T02:00:03.000Z",
-            "author": {
-                "name": "drake-nathan",
-                "url": "https://github.com/drake-nathan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.</div>",
-            "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js",
-            "title": "NordicSemiconductor/asset-tracker-cloud-aws-js: A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript.",
-            "date_modified": "2022-12-23T09:51:37.000Z",
-            "date_published": "2021-01-26T15:44:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.</div>",
+            "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js",
+            "title": "NordicSemiconductor/cloud-e2e-bdd-test-runner-js: Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.",
+            "date_modified": "2022-12-23T09:57:51.000Z",
+            "date_published": "2021-01-26T15:47:17.000Z",
             "author": {
                 "name": "NordicSemiconductor",
                 "url": "https://github.com/NordicSemiconductor"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45860984?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/twilio-labs/frontline-airtable-serverless-quickstart",
-            "title": "twilio-labs/frontline-airtable-serverless-quickstart",
-            "date_modified": "2023-01-12T22:25:22.000Z",
-            "date_published": "2022-07-25T22:34:53.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114284263?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open Source Serverless API boilerplate built with Node.js / TypeScript running on AWS</div>",
+            "url": "https://github.com/volca-io/volca-core",
+            "title": "volca-io/volca-core: Open Source Serverless API boilerplate built with Node.js / TypeScript running on AWS",
+            "date_modified": "2022-12-22T13:11:40.000Z",
+            "date_published": "2022-10-02T13:18:51.000Z",
             "author": {
-                "name": "twilio-labs",
-                "url": "https://github.com/twilio-labs"
+                "name": "volca-io",
+                "url": "https://github.com/volca-io"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12608521?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"cloud_with_lightning\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f329.png\">🌩</g-emoji> Cloud-scale load testing</div>",
+            "url": "https://github.com/artilleryio/artillery",
+            "title": "artilleryio/artillery: 🌩 Cloud-scale load testing",
+            "date_modified": "2023-01-12T15:43:24.000Z",
+            "date_published": "2015-05-28T12:31:42.000Z",
+            "author": {
+                "name": "artilleryio",
+                "url": "https://github.com/artilleryio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3808429?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.</div>",
+            "url": "https://github.com/webiny/webiny-js",
+            "title": "webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.",
+            "date_modified": "2023-01-13T05:53:57.000Z",
+            "date_published": "2018-01-09T13:09:44.000Z",
+            "author": {
+                "name": "webiny",
+                "url": "https://github.com/webiny"
             }
         },
         {
@@ -193,36 +138,91 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3299148?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification</div>",
-            "url": "https://github.com/awslabs/fhir-works-on-aws-deployment",
-            "title": "awslabs/fhir-works-on-aws-deployment: A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification",
-            "date_modified": "2023-01-12T22:25:07.000Z",
-            "date_published": "2020-05-12T12:26:18.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20054833?u=3a84417d29efba04b5a33b4bc50e02234fcd9d5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API Serverless da tabela taco Unicamp</div>",
+            "url": "https://github.com/brunoamadormdc/tabela_taco",
+            "title": "brunoamadormdc/tabela_taco: API Serverless da tabela taco Unicamp",
+            "date_modified": "2023-01-11T14:00:22.000Z",
+            "date_published": "2023-01-11T13:53:23.000Z",
             "author": {
-                "name": "awslabs",
-                "url": "https://github.com/awslabs"
+                "name": "brunoamadormdc",
+                "url": "https://github.com/brunoamadormdc"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102048837?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MACPro Platform is building an npm module to be consumed by other projects (not restricted to macpro)</div>",
-            "url": "https://github.com/Enterprise-CMCS/macpro-serverless-running-stages",
-            "title": "Enterprise-CMCS/macpro-serverless-running-stages: MACPro Platform is building an npm module to be consumed by other projects (not restricted to macpro)",
-            "date_modified": "2023-01-12T20:57:49.000Z",
-            "date_published": "2023-01-09T20:47:58.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24939410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Insipired by aws-serverless-express to work with Fastify with inject functionality.</div>",
+            "url": "https://github.com/fastify/aws-lambda-fastify",
+            "title": "fastify/aws-lambda-fastify: Insipired by aws-serverless-express to work with Fastify with inject functionality.",
+            "date_modified": "2022-12-30T22:40:16.000Z",
+            "date_published": "2019-07-12T12:42:50.000Z",
             "author": {
-                "name": "Enterprise-CMCS",
-                "url": "https://github.com/Enterprise-CMCS"
+                "name": "fastify",
+                "url": "https://github.com/fastify"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3808429?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.</div>",
-            "url": "https://github.com/webiny/webiny-js",
-            "title": "webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.",
-            "date_modified": "2023-01-12T22:16:45.000Z",
-            "date_published": "2018-01-09T13:09:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86472453?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A complete AppleII+ assembler debugger and emulator environment, browser-native JavaScript (serverless).</div>",
+            "url": "https://github.com/RetroAppleJS/RetroAppleJS.github.io",
+            "title": "RetroAppleJS/RetroAppleJS.github.io: A complete AppleII+ assembler debugger and emulator environment, browser-native JavaScript (serverless).",
+            "date_modified": "2022-07-06T07:53:59.000Z",
+            "date_published": "2021-06-22T11:19:09.000Z",
             "author": {
-                "name": "webiny",
-                "url": "https://github.com/webiny"
+                "name": "RetroAppleJS",
+                "url": "https://github.com/RetroAppleJS"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33986491?u=fc4995ee3e4ec593d0a0f8cd10a97187b7338bb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lebrancconvas/Serverless-GCP",
+            "title": "lebrancconvas/Serverless-GCP",
+            "date_modified": "2023-01-13T21:58:55.000Z",
+            "date_published": "2023-01-13T21:19:19.000Z",
+            "author": {
+                "name": "lebrancconvas",
+                "url": "https://github.com/lebrancconvas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72094596?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official JavaScript SDK for Momento Serverless Cache</div>",
+            "url": "https://github.com/momentohq/client-sdk-javascript",
+            "title": "momentohq/client-sdk-javascript: Official JavaScript SDK for Momento Serverless Cache",
+            "date_modified": "2023-01-08T05:07:05.000Z",
+            "date_published": "2021-10-07T17:32:58.000Z",
+            "author": {
+                "name": "momentohq",
+                "url": "https://github.com/momentohq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43791938?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connect APIs, remarkably fast.  Free for developers.</div>",
+            "url": "https://github.com/PipedreamHQ/pipedream",
+            "title": "PipedreamHQ/pipedream: Connect APIs, remarkably fast.  Free for developers.",
+            "date_modified": "2023-01-13T23:08:01.000Z",
+            "date_published": "2020-01-22T00:28:31.000Z",
+            "author": {
+                "name": "PipedreamHQ",
+                "url": "https://github.com/PipedreamHQ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1207339?u=6cfd68217288f3ead5465d70e7ebc0fa01386d19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MTGA share is a serverless tool for sharing decks and drafts</div>",
+            "url": "https://github.com/isharacomix/mtgashare",
+            "title": "isharacomix/mtgashare: MTGA share is a serverless tool for sharing decks and drafts",
+            "date_modified": "2022-12-14T22:55:30.000Z",
+            "date_published": "2018-12-02T21:59:30.000Z",
+            "author": {
+                "name": "isharacomix",
+                "url": "https://github.com/isharacomix"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46299592?u=3a1dc3ee3abd2f38c84d00978b66cc874cbcaaaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/diegosantosouza/authorization-serverless-http-api",
+            "title": "diegosantosouza/authorization-serverless-http-api",
+            "date_modified": "2022-09-08T20:52:00.000Z",
+            "date_published": "2022-09-08T18:43:36.000Z",
+            "author": {
+                "name": "diegosantosouza",
+                "url": "https://github.com/diegosantosouza"
             }
         }
     ]
