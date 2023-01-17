@@ -6,28 +6,6 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26760571?u=70ed69fa4309f3e169a31a95a9f89032c00f96ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/erezrokah/serverless-plugin-api-gateway-integrations",
-            "title": "erezrokah/serverless-plugin-api-gateway-integrations",
-            "date_modified": "2022-12-14T23:03:15.000Z",
-            "date_published": "2019-07-21T16:09:23.000Z",
-            "author": {
-                "name": "erezrokah",
-                "url": "https://github.com/erezrokah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7892489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Intelligently prepare Node.js Lambda functions for deployment</div>",
-            "url": "https://github.com/netlify/zip-it-and-ship-it",
-            "title": "netlify/zip-it-and-ship-it: Intelligently prepare Node.js Lambda functions for deployment",
-            "date_modified": "2023-01-10T04:39:08.000Z",
-            "date_published": "2018-12-19T08:20:40.000Z",
-            "author": {
-                "name": "netlify",
-                "url": "https://github.com/netlify"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/379814?u=6d486f21f7e5e4fdf3931a192fe1f5f2b28c244e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Streamlink as a Serverless Service</div>",
             "url": "https://github.com/mrgrain/streamlink-serverless",
             "title": "mrgrain/streamlink-serverless: Streamlink as a Serverless Service",
@@ -50,36 +28,91 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36513094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless CQRS Event Sourcing Framework Powered By AWS</div>",
-            "url": "https://github.com/declanprice/projector",
-            "title": "declanprice/projector: Serverless CQRS Event Sourcing Framework Powered By AWS",
-            "date_modified": "2023-01-15T00:39:44.000Z",
-            "date_published": "2023-01-11T11:36:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43639?u=b15333a3009c02afc3692d3669b83af798a90b6c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Receive verified Shopify order creation webhooks and make Trello cards out of them.</div>",
+            "url": "https://github.com/hectcastro/shopify-trello-bridge",
+            "title": "hectcastro/shopify-trello-bridge: Receive verified Shopify order creation webhooks and make Trello cards out of them.",
+            "date_modified": "2023-01-09T10:25:20.000Z",
+            "date_published": "2021-05-31T01:40:31.000Z",
             "author": {
-                "name": "declanprice",
-                "url": "https://github.com/declanprice"
+                "name": "hectcastro",
+                "url": "https://github.com/hectcastro"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5268914?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A template microservice API using TypeScript</div>",
-            "url": "https://github.com/jordanmurkin/microservice-api-serverless-typescript",
-            "title": "jordanmurkin/microservice-api-serverless-typescript: A template microservice API using TypeScript",
-            "date_modified": "2023-01-15T23:54:01.000Z",
-            "date_published": "2023-01-15T23:39:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83778865?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instantly Create Multi-Cloud Serverless Applications</div>",
+            "url": "https://github.com/intellibus/stellarengine",
+            "title": "intellibus/stellarengine: Instantly Create Multi-Cloud Serverless Applications",
+            "date_modified": "2023-01-07T17:06:42.000Z",
+            "date_published": "2022-07-29T17:52:58.000Z",
             "author": {
-                "name": "jordanmurkin",
-                "url": "https://github.com/jordanmurkin"
+                "name": "intellibus",
+                "url": "https://github.com/intellibus"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20893087?u=02acb7a5fb92ad72f1cac200b4b397635d66f9e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project is a POC for a serverless solution. The full serverless architecture is based on AWS/</div>",
-            "url": "https://github.com/iErnesto/auctions-serverless",
-            "title": "iErnesto/auctions-serverless: This project is a POC for a serverless solution. The full serverless architecture is based on AWS/",
-            "date_modified": "2023-01-04T03:05:40.000Z",
-            "date_published": "2023-01-04T02:49:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26263265?u=30cd3fecc69579f19d05b26068231bb00572d373&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lambda deployments for Nextjs12 &amp; Nextjs13 (standalone). Easy CLI commands to get your standalone Next output to run in AWS Lambda (not <a class=\"user-mention\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/edge/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/edge\">@edge</a>)!</div>",
+            "url": "https://github.com/sladg/nextjs-lambda",
+            "title": "sladg/nextjs-lambda: Lambda deployments for Nextjs12 & Nextjs13 (standalone). Easy CLI commands to get your standalone Next output to run in AWS Lambda (not @Edge)!",
+            "date_modified": "2023-01-16T20:43:42.000Z",
+            "date_published": "2022-08-04T10:47:49.000Z",
             "author": {
-                "name": "iErnesto",
-                "url": "https://github.com/iErnesto"
+                "name": "sladg",
+                "url": "https://github.com/sladg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67382652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Dopex API</div>",
+            "url": "https://github.com/dopex-io/dopex-api",
+            "title": "dopex-io/dopex-api: The Dopex API",
+            "date_modified": "2022-10-31T21:57:48.000Z",
+            "date_published": "2021-06-29T01:23:02.000Z",
+            "author": {
+                "name": "dopex-io",
+                "url": "https://github.com/dopex-io"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115024906?u=e85f34b6d90c9bc9bd9650ccd5c153f4da097003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>prototype from John Smilga serverless functions course</div>",
+            "url": "https://github.com/lesterw53679/serverless-fuction-netlify",
+            "title": "lesterw53679/serverless-fuction-netlify: prototype from John Smilga serverless functions course",
+            "date_modified": "2023-01-11T10:39:24.000Z",
+            "date_published": "2023-01-09T21:56:13.000Z",
+            "author": {
+                "name": "lesterw53679",
+                "url": "https://github.com/lesterw53679"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54116971?u=d18d6db1558e328ea5cae1b20abf608db6dd44a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework.</div>",
+            "url": "https://github.com/francivaldolima/serverless",
+            "title": "francivaldolima/serverless: Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework.",
+            "date_modified": "2023-01-16T23:32:12.000Z",
+            "date_published": "2023-01-16T23:30:28.000Z",
+            "author": {
+                "name": "francivaldolima",
+                "url": "https://github.com/francivaldolima"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103056003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flashcards serverless application</div>",
+            "url": "https://github.com/ColinMattutini/Flashcards",
+            "title": "ColinMattutini/Flashcards: Flashcards serverless application",
+            "date_modified": "2023-01-16T23:29:14.000Z",
+            "date_published": "2023-01-14T20:47:34.000Z",
+            "author": {
+                "name": "ColinMattutini",
+                "url": "https://github.com/ColinMattutini"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GraphQL Serverless function for serving data about the Apollo missions.</div>",
+            "url": "https://github.com/sjungling/spaceapi-missions-graphql",
+            "title": "sjungling/spaceapi-missions-graphql: GraphQL Serverless function for serving data about the Apollo missions.",
+            "date_modified": "2023-01-02T19:10:59.000Z",
+            "date_published": "2020-12-04T05:03:08.000Z",
+            "author": {
+                "name": "sjungling",
+                "url": "https://github.com/sjungling"
             }
         },
         {
@@ -94,135 +127,102 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122111269?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Serverless infrastructure configuration best practices framework-agnostic analyzer</div>",
-            "url": "https://github.com/sls-mentor/sls-mentor",
-            "title": "sls-mentor/sls-mentor: AWS Serverless infrastructure configuration best practices framework-agnostic analyzer",
-            "date_modified": "2023-01-12T22:59:56.000Z",
-            "date_published": "2022-05-20T12:51:13.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22569638?u=de6975e808171cf3c193605603e64029d7c73ed0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Azure functions serverless API for generative art NFTs. Listens for transactions from the blockchain and re-renders the art based on the inputs, pre-determined by artist's script.</div>",
+            "url": "https://github.com/drake-nathan/matto-api-azure",
+            "title": "drake-nathan/matto-api-azure: Azure functions serverless API for generative art NFTs. Listens for transactions from the blockchain and re-renders the art based on the inputs, pre-determined by artist's script.",
+            "date_modified": "2022-10-21T20:31:46.000Z",
+            "date_published": "2022-09-27T02:00:03.000Z",
             "author": {
-                "name": "sls-mentor",
-                "url": "https://github.com/sls-mentor"
+                "name": "drake-nathan",
+                "url": "https://github.com/drake-nathan"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69360379?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Application Load Balancer and API Gateway - Lambda dev tool for Serverless. Allows Express synthax in handlers. Supports packaging, local invoking and offline real ALB and APG lambda server mocking.</div>",
-            "url": "https://github.com/Inqnuam/serverless-aws-lambda",
-            "title": "Inqnuam/serverless-aws-lambda: AWS Application Load Balancer and API Gateway - Lambda dev tool for Serverless. Allows Express synthax in handlers. Supports packaging, local invoking and offline real ALB and APG lambda server mocking.",
-            "date_modified": "2022-09-30T04:08:37.000Z",
-            "date_published": "2022-08-17T19:29:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63167145?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Aadil151/serverless-stack-client",
+            "title": "Aadil151/serverless-stack-client",
+            "date_modified": "2022-12-25T17:13:22.000Z",
+            "date_published": "2022-12-23T23:34:58.000Z",
             "author": {
-                "name": "Inqnuam",
-                "url": "https://github.com/Inqnuam"
+                "name": "Aadil151",
+                "url": "https://github.com/Aadil151"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5564788?u=7d6e0e52671abb4841b9e61b73a19e535c382cab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Estate Manage One Stop Solution: Tenants receive notices in mobile app and book estate amenities. This is the backend repo based on Cloudflare Workers. Another repo is tenant mobile app</div>",
-            "url": "https://github.com/simonho288/EstateManage_backend",
-            "title": "simonho288/EstateManage_backend: Estate Manage One Stop Solution: Tenants receive notices in mobile app and book estate amenities. This is the backend repo based on Cloudflare Workers. Another repo is tenant mobile app",
-            "date_modified": "2023-01-05T06:19:26.000Z",
-            "date_published": "2022-11-23T02:11:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23003787?u=10afe30b5f437bbab6601eebc63a29bee36152e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless Discord bot for learning and fun. Hosted in AWS on Lambda and DynamoDB.</div>",
+            "url": "https://github.com/NicPWNs/Discord-BTM-Bot",
+            "title": "NicPWNs/Discord-BTM-Bot: A serverless Discord bot for learning and fun. Hosted in AWS on Lambda and DynamoDB.",
+            "date_modified": "2023-01-16T09:17:23.000Z",
+            "date_published": "2022-07-28T00:16:00.000Z",
             "author": {
-                "name": "simonho288",
-                "url": "https://github.com/simonho288"
+                "name": "NicPWNs",
+                "url": "https://github.com/NicPWNs"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102226726?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！</div>",
-            "url": "https://github.com/labring/laf",
-            "title": "labring/laf: laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！",
-            "date_modified": "2023-01-15T13:33:37.000Z",
-            "date_published": "2021-03-07T11:13:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1234102?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> AWS Lambda@Edge serverless application router.</div>",
+            "url": "https://github.com/nuxy/lambda-lambda-lambda",
+            "title": "nuxy/lambda-lambda-lambda: :zap: AWS Lambda@Edge serverless application router.",
+            "date_modified": "2022-12-14T23:54:09.000Z",
+            "date_published": "2021-10-23T21:09:53.000Z",
             "author": {
-                "name": "labring",
-                "url": "https://github.com/labring"
+                "name": "nuxy",
+                "url": "https://github.com/nuxy"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41553612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Export node.js applications into serverless compatible functions</div>",
-            "url": "https://github.com/stormkit-io/serverless",
-            "title": "stormkit-io/serverless: Export node.js applications into serverless compatible functions",
-            "date_modified": "2022-12-05T12:33:21.000Z",
-            "date_published": "2022-06-04T21:31:45.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26562317?u=23794269ed24325759f5d3b140c3cdf72a984150&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/velopace/aws-serverless",
+            "title": "velopace/aws-serverless",
+            "date_modified": "2023-01-16T21:56:07.000Z",
+            "date_published": "2023-01-16T20:35:45.000Z",
             "author": {
-                "name": "stormkit-io",
-                "url": "https://github.com/stormkit-io"
+                "name": "velopace",
+                "url": "https://github.com/velopace"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32023347?u=1b064d1a516c9085116ba57cc40acb4ef15ba5e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MarceloVilela/ignite-serverless-todo",
-            "title": "MarceloVilela/ignite-serverless-todo",
-            "date_modified": "2023-01-15T16:55:30.000Z",
-            "date_published": "2023-01-15T16:52:49.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13420273?u=bb2282aa96b3bb3ab46dfea19944ce6152b8b62e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless web app to organize and stream media from anywhere.</div>",
+            "url": "https://github.com/jonhue/plaain",
+            "title": "jonhue/plaain: A serverless web app to organize and stream media from anywhere.",
+            "date_modified": "2022-12-14T22:58:27.000Z",
+            "date_published": "2019-03-10T08:19:02.000Z",
             "author": {
-                "name": "MarceloVilela",
-                "url": "https://github.com/MarceloVilela"
+                "name": "jonhue",
+                "url": "https://github.com/jonhue"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20054833?u=3a84417d29efba04b5a33b4bc50e02234fcd9d5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API Serverless da tabela taco Unicamp</div>",
-            "url": "https://github.com/brunoamadormdc/tabela_taco",
-            "title": "brunoamadormdc/tabela_taco: API Serverless da tabela taco Unicamp",
-            "date_modified": "2023-01-11T14:00:22.000Z",
-            "date_published": "2023-01-11T13:53:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86738291?u=5b4cd683f90a56efab923c96505d72e1309358ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boxinary app built with Svelte + TypeScript + WindiCSS + SvelteKit and CockroachDB (Serverless). </div>",
+            "url": "https://github.com/OGShawnLee/boxinary",
+            "title": "OGShawnLee/boxinary: Boxinary app built with Svelte + TypeScript + WindiCSS + SvelteKit and CockroachDB (Serverless). ",
+            "date_modified": "2022-10-19T00:56:56.000Z",
+            "date_published": "2022-09-16T00:51:38.000Z",
             "author": {
-                "name": "brunoamadormdc",
-                "url": "https://github.com/brunoamadormdc"
+                "name": "OGShawnLee",
+                "url": "https://github.com/OGShawnLee"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64281914?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition &amp; Integration.</div>",
-            "url": "https://github.com/wundergraph/wundergraph",
-            "title": "wundergraph/wundergraph: Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.",
-            "date_modified": "2023-01-15T22:14:57.000Z",
-            "date_published": "2022-05-24T14:45:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36513094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless CQRS Event Sourcing Framework Powered By AWS</div>",
+            "url": "https://github.com/declanprice/projector",
+            "title": "declanprice/projector: Serverless CQRS Event Sourcing Framework Powered By AWS",
+            "date_modified": "2023-01-15T00:39:44.000Z",
+            "date_published": "2023-01-11T11:36:37.000Z",
             "author": {
-                "name": "wundergraph",
-                "url": "https://github.com/wundergraph"
+                "name": "declanprice",
+                "url": "https://github.com/declanprice"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86210653?u=fc77413fd7c83385c5b21a366c2024d61ff5b270&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cleginaldo-dev/app-serverless",
-            "title": "cleginaldo-dev/app-serverless",
-            "date_modified": "2023-01-15T21:10:10.000Z",
-            "date_published": "2023-01-15T21:07:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101190589?u=792884f85c64d81278b802e190b7c0b2d34a6b80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Carrot Market Clone using NextJS, Prisma, PlanetScale,, and Cloudflare</div>",
+            "url": "https://github.com/theoryoflinus/carrot-market-clone",
+            "title": "theoryoflinus/carrot-market-clone: Serverless Carrot Market Clone using NextJS, Prisma, PlanetScale,, and Cloudflare",
+            "date_modified": "2023-01-15T19:33:14.000Z",
+            "date_published": "2023-01-15T19:33:06.000Z",
             "author": {
-                "name": "cleginaldo-dev",
-                "url": "https://github.com/cleginaldo-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53570046?u=1ca1879ab4997d2613b909da18e5649155289dd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementação de uma API para um ecommerce utilizando arquitetura Serverless</div>",
-            "url": "https://github.com/LucasGSilva21/base-log",
-            "title": "LucasGSilva21/base-log: Implementação de uma API para um ecommerce utilizando arquitetura Serverless",
-            "date_modified": "2022-11-19T16:13:48.000Z",
-            "date_published": "2022-09-23T23:53:00.000Z",
-            "author": {
-                "name": "LucasGSilva21",
-                "url": "https://github.com/LucasGSilva21"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60075796?u=5c1c7dda0a64deb0d1d4057817e5390f31c1d91f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless vircadia domain sandbox with a dynamic ambience.</div>",
-            "url": "https://github.com/AleziaKurdis/inertia",
-            "title": "AleziaKurdis/inertia: Serverless vircadia domain sandbox with a dynamic ambience.",
-            "date_modified": "2022-05-08T01:37:09.000Z",
-            "date_published": "2021-06-12T02:22:37.000Z",
-            "author": {
-                "name": "AleziaKurdis",
-                "url": "https://github.com/AleziaKurdis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67950090?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless market-place-like web platform using NextJS, Tailwind, Prisma, PlanetScale and Cloudflare</div>",
-            "url": "https://github.com/MinhaLee94/market-place",
-            "title": "MinhaLee94/market-place: Serverless market-place-like web platform using NextJS, Tailwind, Prisma, PlanetScale and Cloudflare",
-            "date_modified": "2023-01-13T04:27:25.000Z",
-            "date_published": "2023-01-07T05:09:07.000Z",
-            "author": {
-                "name": "MinhaLee94",
-                "url": "https://github.com/MinhaLee94"
+                "name": "theoryoflinus",
+                "url": "https://github.com/theoryoflinus"
             }
         }
     ]
