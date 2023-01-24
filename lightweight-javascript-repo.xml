@@ -2,237 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/lightweight-javascript-repo.json</id>
     <title>LightWeight JavaScript repositories</title>
-    <updated>2023-01-23T00:17:14.770Z</updated>
+    <updated>2023-01-24T00:18:00.301Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=lightweight+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>LightWeight JavaScript repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[zakerytclarke/teapot: Lightweight NLP Service]]></title>
-        <id>https://github.com/zakerytclarke/teapot</id>
-        <link href="https://github.com/zakerytclarke/teapot"/>
-        <updated>2023-01-22T23:38:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30702789?u=1bf99a7213d19fca79c9dee903f89378e164094c&v=4" width="64" height="64" alt=""/><br/><div>Lightweight NLP Service</div>]]></content>
+        <title type="html"><![CDATA[expatjedi/paper-wallet: Lightweight, open-source, universal paper wallet generator]]></title>
+        <id>https://github.com/expatjedi/paper-wallet</id>
+        <link href="https://github.com/expatjedi/paper-wallet"/>
+        <updated>2023-01-10T20:46:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44485135?u=6b71fdde56a4087a2bd97fe1a968fc6372248b5c&v=4" width="64" height="64" alt=""/><br/><div>Lightweight, open-source, universal paper wallet generator</div>]]></content>
         <author>
-            <name>zakerytclarke</name>
-            <email>zakerytclarke@noreply.github.com</email>
-            <uri>https://github.com/zakerytclarke</uri>
+            <name>expatjedi</name>
+            <email>expatjedi@noreply.github.com</email>
+            <uri>https://github.com/expatjedi</uri>
         </author>
-        <published>2023-01-22T22:52:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry]]></title>
-        <id>https://github.com/verdaccio/verdaccio</id>
-        <link href="https://github.com/verdaccio/verdaccio"/>
-        <updated>2023-01-21T20:38:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18487506?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji> A lightweight Node.js private proxy registry</div>]]></content>
-        <author>
-            <name>verdaccio</name>
-            <email>verdaccio@noreply.github.com</email>
-            <uri>https://github.com/verdaccio</uri>
-        </author>
-        <published>2016-04-15T16:21:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jareddb/ShoppingList: A basic, lightweight shopping list app using .Net Core and Angular]]></title>
-        <id>https://github.com/jareddb/ShoppingList</id>
-        <link href="https://github.com/jareddb/ShoppingList"/>
-        <updated>2023-01-19T03:08:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32050222?u=1318bde755234ab9f159e0ac6a9fd3e4d10f687e&v=4" width="64" height="64" alt=""/><br/><div>A basic, lightweight shopping list app using .Net Core and Angular</div>]]></content>
-        <author>
-            <name>jareddb</name>
-            <email>jareddb@noreply.github.com</email>
-            <uri>https://github.com/jareddb</uri>
-        </author>
-        <published>2023-01-19T03:08:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Josuto/nestjs-abstract-repository: Lightweight abstract MongoDB/Mongoose repository implementation in NestJS]]></title>
-        <id>https://github.com/Josuto/nestjs-abstract-repository</id>
-        <link href="https://github.com/Josuto/nestjs-abstract-repository"/>
-        <updated>2022-12-05T10:33:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6097850?u=f5c80e4a3cc9468bcf8bd2723356a0ff0dabc79d&v=4" width="64" height="64" alt=""/><br/><div>Lightweight abstract MongoDB/Mongoose repository implementation in NestJS</div>]]></content>
-        <author>
-            <name>Josuto</name>
-            <email>Josuto@noreply.github.com</email>
-            <uri>https://github.com/Josuto</uri>
-        </author>
-        <published>2022-10-04T16:46:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uxname/liteend: Lightweight GraphQL & Prisma.io node.js backend]]></title>
-        <id>https://github.com/uxname/liteend</id>
-        <link href="https://github.com/uxname/liteend"/>
-        <updated>2023-01-11T15:22:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2634142?u=808424db4fd6dbdf4b7b22018dae6806e0e2b76f&v=4" width="64" height="64" alt=""/><br/><div>Lightweight GraphQL &amp; Prisma.io node.js backend</div>]]></content>
-        <author>
-            <name>uxname</name>
-            <email>uxname@noreply.github.com</email>
-            <uri>https://github.com/uxname</uri>
-        </author>
-        <published>2020-03-08T18:38:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[replugged-org/replugged: A lightweight @discord client mod focused on simplicity and performance.]]></title>
-        <id>https://github.com/replugged-org/replugged</id>
-        <link href="https://github.com/replugged-org/replugged"/>
-        <updated>2023-01-22T17:00:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109933208?v=4" width="64" height="64" alt=""/><br/><div>A lightweight <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/discord/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/discord">@discord</a> client mod focused on simplicity and performance.</div>]]></content>
-        <author>
-            <name>replugged-org</name>
-            <email>replugged-org@noreply.github.com</email>
-            <uri>https://github.com/replugged-org</uri>
-        </author>
-        <published>2022-07-25T02:30:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dunks1980/bay.js: An easy to use, lightweight library for web-components.]]></title>
-        <id>https://github.com/Dunks1980/bay.js</id>
-        <link href="https://github.com/Dunks1980/bay.js"/>
-        <updated>2023-01-21T19:27:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25410046?u=b8da1ac122e2bc5d73cb717f6bbeb4b3798df6ec&v=4" width="64" height="64" alt=""/><br/><div>An easy to use, lightweight library for web-components.</div>]]></content>
-        <author>
-            <name>Dunks1980</name>
-            <email>Dunks1980@noreply.github.com</email>
-            <uri>https://github.com/Dunks1980</uri>
-        </author>
-        <published>2022-11-12T20:08:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wopian/kitsu: 🦊 A simple, lightweight & framework agnostic JSON:API client]]></title>
-        <id>https://github.com/wopian/kitsu</id>
-        <link href="https://github.com/wopian/kitsu"/>
-        <updated>2023-01-21T12:34:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3440094?u=da686402140b5b093549e42fbb05d73ea51621ba&v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">🦊</g-emoji> A simple, lightweight &amp; framework agnostic JSON:API client</div>]]></content>
-        <author>
-            <name>wopian</name>
-            <email>wopian@noreply.github.com</email>
-            <uri>https://github.com/wopian</uri>
-        </author>
-        <published>2017-04-28T19:23:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jonasfrey/denojs_crudcracker: lightweight crud]]></title>
-        <id>https://github.com/jonasfrey/denojs_crudcracker</id>
-        <link href="https://github.com/jonasfrey/denojs_crudcracker"/>
-        <updated>2022-12-12T21:31:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16288044?u=db55b07aecc5eba64f8c4a4155522dc5623d0ff6&v=4" width="64" height="64" alt=""/><br/><div>lightweight crud</div>]]></content>
-        <author>
-            <name>jonasfrey</name>
-            <email>jonasfrey@noreply.github.com</email>
-            <uri>https://github.com/jonasfrey</uri>
-        </author>
-        <published>2022-12-12T21:30:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heyeso/search-component: search-component is a lightweight and customizable react component that allows you to easily integrate a search feature into your react app.]]></title>
-        <id>https://github.com/Heyeso/search-component</id>
-        <link href="https://github.com/Heyeso/search-component"/>
-        <updated>2023-01-22T22:53:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60695851?u=a18e073a786d40261550815221262b48bc2386d5&v=4" width="64" height="64" alt=""/><br/><div>search-component is a lightweight and customizable react component that allows you to easily integrate a search feature into your react app.</div>]]></content>
-        <author>
-            <name>Heyeso</name>
-            <email>Heyeso@noreply.github.com</email>
-            <uri>https://github.com/Heyeso</uri>
-        </author>
-        <published>2023-01-22T22:43:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[webstech/test-smtp-server: Lightweight package to support running an SMTP server in parallel with tests sending emails.]]></title>
-        <id>https://github.com/webstech/test-smtp-server</id>
-        <link href="https://github.com/webstech/test-smtp-server"/>
-        <updated>2022-01-10T22:49:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7956947?u=2f956b4252ef740a9135dafa492ece88391863cf&v=4" width="64" height="64" alt=""/><br/><div>Lightweight package to support running an SMTP server in parallel with tests sending emails.</div>]]></content>
-        <author>
-            <name>webstech</name>
-            <email>webstech@noreply.github.com</email>
-            <uri>https://github.com/webstech</uri>
-        </author>
-        <published>2021-11-02T04:45:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[r0d1on/chalkboard: touch-friendly lightweight chalkboard]]></title>
-        <id>https://github.com/r0d1on/chalkboard</id>
-        <link href="https://github.com/r0d1on/chalkboard"/>
-        <updated>2023-01-05T21:58:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3895928?u=27b46ab5d423e524258d4163cda58ab71060db76&v=4" width="64" height="64" alt=""/><br/><div>touch-friendly lightweight chalkboard</div>]]></content>
-        <author>
-            <name>r0d1on</name>
-            <email>r0d1on@noreply.github.com</email>
-            <uri>https://github.com/r0d1on</uri>
-        </author>
-        <published>2020-06-07T22:20:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[siyual-park/cheeket.js: A lightweight and extensible dependency injection container for TypeScript/JavaScript for constructor injection as functional.]]></title>
-        <id>https://github.com/siyual-park/cheeket.js</id>
-        <link href="https://github.com/siyual-park/cheeket.js"/>
-        <updated>2022-12-14T23:27:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21099176?u=288be8bd952a3a10948d24016e8bb73484366948&v=4" width="64" height="64" alt=""/><br/><div>A lightweight and extensible dependency injection container for TypeScript/JavaScript for constructor injection as functional.</div>]]></content>
-        <author>
-            <name>siyual-park</name>
-            <email>siyual-park@noreply.github.com</email>
-            <uri>https://github.com/siyual-park</uri>
-        </author>
-        <published>2020-10-24T10:51:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nolanlawson/emoji-picker-element: A lightweight emoji picker for the modern web]]></title>
-        <id>https://github.com/nolanlawson/emoji-picker-element</id>
-        <link href="https://github.com/nolanlawson/emoji-picker-element"/>
-        <updated>2023-01-17T22:00:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/283842?v=4" width="64" height="64" alt=""/><br/><div>A lightweight emoji picker for the modern web</div>]]></content>
-        <author>
-            <name>nolanlawson</name>
-            <email>nolanlawson@noreply.github.com</email>
-            <uri>https://github.com/nolanlawson</uri>
-        </author>
-        <published>2020-05-07T03:17:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ukorvl/react-on-screen: Lightweight typescript library to detect React elements visibility]]></title>
-        <id>https://github.com/ukorvl/react-on-screen</id>
-        <link href="https://github.com/ukorvl/react-on-screen"/>
-        <updated>2023-01-16T09:17:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71327746?v=4" width="64" height="64" alt=""/><br/><div>Lightweight typescript library to detect React elements visibility</div>]]></content>
-        <author>
-            <name>ukorvl</name>
-            <email>ukorvl@noreply.github.com</email>
-            <uri>https://github.com/ukorvl</uri>
-        </author>
-        <published>2022-12-02T22:08:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[belgattitude/httpx: Plain http exceptions for node, deno, edge and browsers. SSR friendly, no deps, lightweight, typescript and more.]]></title>
-        <id>https://github.com/belgattitude/httpx</id>
-        <link href="https://github.com/belgattitude/httpx"/>
-        <updated>2023-01-18T08:18:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/259798?u=125b7f769e81a53a34e355fef427a14540c49fce&v=4" width="64" height="64" alt=""/><br/><div>Plain http exceptions for node, deno, edge and browsers. SSR friendly, no deps, lightweight, typescript and more.</div>]]></content>
-        <author>
-            <name>belgattitude</name>
-            <email>belgattitude@noreply.github.com</email>
-            <uri>https://github.com/belgattitude</uri>
-        </author>
-        <published>2022-11-21T15:33:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KittyGiraudel/a11y-dialog: A very lightweight and flexible accessible modal dialog script.]]></title>
-        <id>https://github.com/KittyGiraudel/a11y-dialog</id>
-        <link href="https://github.com/KittyGiraudel/a11y-dialog"/>
-        <updated>2023-01-20T21:21:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1889710?u=6b40c13072a8669b3cb336b4028253d5aaf94a60&v=4" width="64" height="64" alt=""/><br/><div>A very lightweight and flexible accessible modal dialog script.</div>]]></content>
-        <author>
-            <name>KittyGiraudel</name>
-            <email>KittyGiraudel@noreply.github.com</email>
-            <uri>https://github.com/KittyGiraudel</uri>
-        </author>
-        <published>2016-02-11T11:01:11.000Z</published>
+        <published>2020-06-13T02:10:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[leeoniya/uPlot: 📈 A small, fast chart for time series, lines, areas, ohlc & bars]]></title>
         <id>https://github.com/leeoniya/uPlot</id>
         <link href="https://github.com/leeoniya/uPlot"/>
-        <updated>2023-01-22T14:06:17.000Z</updated>
+        <updated>2023-01-23T17:29:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43234?u=49f10c1db35f1a4f328346b597cc763f695bb29d&v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> A small, fast chart for time series, lines, areas, ohlc &amp; bars</div>]]></content>
         <author>
             <name>leeoniya</name>
@@ -242,29 +34,237 @@
         <published>2019-09-27T18:45:21.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ArmCord/ArmCord: ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.]]></title>
-        <id>https://github.com/ArmCord/ArmCord</id>
-        <link href="https://github.com/ArmCord/ArmCord"/>
-        <updated>2023-01-21T19:44:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/85643862?v=4" width="64" height="64" alt=""/><br/><div>ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.</div>]]></content>
+        <title type="html"><![CDATA[maverick-js/maverick: (Coming Soon) Build functional, reactive, type-safe, lightweight, and fast UI libraries.]]></title>
+        <id>https://github.com/maverick-js/maverick</id>
+        <link href="https://github.com/maverick-js/maverick"/>
+        <updated>2023-01-23T09:14:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108159116?v=4" width="64" height="64" alt=""/><br/><div>(Coming Soon) Build functional, reactive, type-safe, lightweight, and fast UI libraries.</div>]]></content>
         <author>
-            <name>ArmCord</name>
-            <email>ArmCord@noreply.github.com</email>
-            <uri>https://github.com/ArmCord</uri>
+            <name>maverick-js</name>
+            <email>maverick-js@noreply.github.com</email>
+            <uri>https://github.com/maverick-js</uri>
         </author>
-        <published>2020-11-16T13:33:38.000Z</published>
+        <published>2022-07-26T09:06:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[knopkem/dicomweb-pacs: Easy to use DICOMWEB enabled PACS with DIMSE services based on sqlite database]]></title>
-        <id>https://github.com/knopkem/dicomweb-pacs</id>
-        <link href="https://github.com/knopkem/dicomweb-pacs"/>
-        <updated>2023-01-16T07:49:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/994526?u=9f76677523a608a52bbd4a7239cdea23b4996dfd&v=4" width="64" height="64" alt=""/><br/><div>Easy to use DICOMWEB enabled PACS with DIMSE services based on sqlite database</div>]]></content>
+        <title type="html"><![CDATA[JohnSebastian3/better-budget: A lightweight budgeting app]]></title>
+        <id>https://github.com/JohnSebastian3/better-budget</id>
+        <link href="https://github.com/JohnSebastian3/better-budget"/>
+        <updated>2023-01-20T19:55:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52939776?u=e29664b6df428090a34b19209561c47e2f78c189&v=4" width="64" height="64" alt=""/><br/><div>A lightweight budgeting app</div>]]></content>
         <author>
-            <name>knopkem</name>
-            <email>knopkem@noreply.github.com</email>
-            <uri>https://github.com/knopkem</uri>
+            <name>JohnSebastian3</name>
+            <email>JohnSebastian3@noreply.github.com</email>
+            <uri>https://github.com/JohnSebastian3</uri>
         </author>
-        <published>2020-09-27T21:56:44.000Z</published>
+        <published>2022-12-07T18:16:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eddiecorrigall/database-revisions: A lightweight database migration tool for SQL and no-SQL databases ]]></title>
+        <id>https://github.com/eddiecorrigall/database-revisions</id>
+        <link href="https://github.com/eddiecorrigall/database-revisions"/>
+        <updated>2023-01-17T05:07:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4554187?u=b352bf570e1191d6db38d5803a7e314533cfd375&v=4" width="64" height="64" alt=""/><br/><div>A lightweight database migration tool for SQL and no-SQL databases </div>]]></content>
+        <author>
+            <name>eddiecorrigall</name>
+            <email>eddiecorrigall@noreply.github.com</email>
+            <uri>https://github.com/eddiecorrigall</uri>
+        </author>
+        <published>2023-01-09T03:24:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nestjs/cqrs: A lightweight CQRS module for Nest framework (node.js) :balloon:]]></title>
+        <id>https://github.com/nestjs/cqrs</id>
+        <link href="https://github.com/nestjs/cqrs"/>
+        <updated>2023-01-23T02:07:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28507035?v=4" width="64" height="64" alt=""/><br/><div>A lightweight CQRS module for Nest framework (node.js) <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji></div>]]></content>
+        <author>
+            <name>nestjs</name>
+            <email>nestjs@noreply.github.com</email>
+            <uri>https://github.com/nestjs</uri>
+        </author>
+        <published>2017-05-06T18:08:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[krisk/Fuse: Lightweight fuzzy-search, in JavaScript]]></title>
+        <id>https://github.com/krisk/Fuse</id>
+        <link href="https://github.com/krisk/Fuse"/>
+        <updated>2023-01-23T23:33:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/565580?u=34e344f5964d24064e49e19aa59244c1e57cdbd6&v=4" width="64" height="64" alt=""/><br/><div>Lightweight fuzzy-search, in JavaScript</div>]]></content>
+        <author>
+            <name>krisk</name>
+            <email>krisk@noreply.github.com</email>
+            <uri>https://github.com/krisk</uri>
+        </author>
+        <published>2012-05-28T04:31:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Josuto/nestjs-abstract-repository: Lightweight polymorphic and generic MongoDB repository implementation in NestJS]]></title>
+        <id>https://github.com/Josuto/nestjs-abstract-repository</id>
+        <link href="https://github.com/Josuto/nestjs-abstract-repository"/>
+        <updated>2023-01-23T11:28:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6097850?u=f5c80e4a3cc9468bcf8bd2723356a0ff0dabc79d&v=4" width="64" height="64" alt=""/><br/><div>Lightweight polymorphic and generic MongoDB repository implementation in NestJS</div>]]></content>
+        <author>
+            <name>Josuto</name>
+            <email>Josuto@noreply.github.com</email>
+            <uri>https://github.com/Josuto</uri>
+        </author>
+        <published>2022-10-04T16:46:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aktiun/chartfactor-node: Reference implementation of a ChartFactor Node server running ChartFactor data providers on the server-side to power lightweight visual analytics.]]></title>
+        <id>https://github.com/Aktiun/chartfactor-node</id>
+        <link href="https://github.com/Aktiun/chartfactor-node"/>
+        <updated>2021-12-23T00:10:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19650412?v=4" width="64" height="64" alt=""/><br/><div>Reference implementation of a ChartFactor Node server running ChartFactor data providers on the server-side to power lightweight visual analytics.</div>]]></content>
+        <author>
+            <name>Aktiun</name>
+            <email>Aktiun@noreply.github.com</email>
+            <uri>https://github.com/Aktiun</uri>
+        </author>
+        <published>2021-11-08T01:13:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IamSebastianDev/byndly: Byndly is a lightweight, minimal & dependency free development server with change detection.]]></title>
+        <id>https://github.com/IamSebastianDev/byndly</id>
+        <link href="https://github.com/IamSebastianDev/byndly"/>
+        <updated>2022-07-10T16:54:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48380512?u=f04ec4b7b82a10c4c65069868dbed18b109bc57f&v=4" width="64" height="64" alt=""/><br/><div>Byndly is a lightweight, minimal &amp; dependency free development server with change detection.</div>]]></content>
+        <author>
+            <name>IamSebastianDev</name>
+            <email>IamSebastianDev@noreply.github.com</email>
+            <uri>https://github.com/IamSebastianDev</uri>
+        </author>
+        <published>2022-07-09T20:15:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[simonihmig/ember-stargate: Modern lightweight portals for Ember]]></title>
+        <id>https://github.com/simonihmig/ember-stargate</id>
+        <link href="https://github.com/simonihmig/ember-stargate"/>
+        <updated>2023-01-07T01:50:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1325249?u=3943afbe9aae269d0b1442ab8a01b9468408d602&v=4" width="64" height="64" alt=""/><br/><div>Modern lightweight portals for Ember</div>]]></content>
+        <author>
+            <name>simonihmig</name>
+            <email>simonihmig@noreply.github.com</email>
+            <uri>https://github.com/simonihmig</uri>
+        </author>
+        <published>2020-06-17T20:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sapachev/error-pages: Lightweight tool to create static HTTP Error Pages in minimalistic adaptive and accessible design with customization and localization support.]]></title>
+        <id>https://github.com/sapachev/error-pages</id>
+        <link href="https://github.com/sapachev/error-pages"/>
+        <updated>2023-01-23T21:31:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52501715?v=4" width="64" height="64" alt=""/><br/><div>Lightweight tool to create static HTTP Error Pages in minimalistic adaptive and accessible design with customization and localization support.</div>]]></content>
+        <author>
+            <name>sapachev</name>
+            <email>sapachev@noreply.github.com</email>
+            <uri>https://github.com/sapachev</uri>
+        </author>
+        <published>2023-01-20T20:16:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[spierala/mini-rx-store: Lightweight Redux Store based on RxJS]]></title>
+        <id>https://github.com/spierala/mini-rx-store</id>
+        <link href="https://github.com/spierala/mini-rx-store"/>
+        <updated>2023-01-07T12:42:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1272446?v=4" width="64" height="64" alt=""/><br/><div>Lightweight Redux Store based on RxJS</div>]]></content>
+        <author>
+            <name>spierala</name>
+            <email>spierala@noreply.github.com</email>
+            <uri>https://github.com/spierala</uri>
+        </author>
+        <published>2020-01-27T21:36:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InnovA2/winston-pg: A lightweight TypeScript winston transport for PostgreSQL database]]></title>
+        <id>https://github.com/InnovA2/winston-pg</id>
+        <link href="https://github.com/InnovA2/winston-pg"/>
+        <updated>2022-02-05T11:04:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81924873?v=4" width="64" height="64" alt=""/><br/><div>A lightweight TypeScript winston transport for PostgreSQL database</div>]]></content>
+        <author>
+            <name>InnovA2</name>
+            <email>InnovA2@noreply.github.com</email>
+            <uri>https://github.com/InnovA2</uri>
+        </author>
+        <published>2021-09-13T21:17:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShafSpecs/remix-pwa: A lightweight, standalone package to integrate full PWA features into Remix 💿]]></title>
+        <id>https://github.com/ShafSpecs/remix-pwa</id>
+        <link href="https://github.com/ShafSpecs/remix-pwa"/>
+        <updated>2023-01-23T13:22:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69679506?u=61712d6dab1c3e5639511478c152abdf1267e337&v=4" width="64" height="64" alt=""/><br/><div>A lightweight, standalone package to integrate full PWA features into Remix <g-emoji class="g-emoji" alias="cd" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bf.png">💿</g-emoji></div>]]></content>
+        <author>
+            <name>ShafSpecs</name>
+            <email>ShafSpecs@noreply.github.com</email>
+            <uri>https://github.com/ShafSpecs</uri>
+        </author>
+        <published>2022-02-15T10:39:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NESTJSColab/ddd: A lightweight DDD module for Nest framework (node.js) ]]></title>
+        <id>https://github.com/NESTJSColab/ddd</id>
+        <link href="https://github.com/NESTJSColab/ddd"/>
+        <updated>2023-01-10T14:05:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115355486?v=4" width="64" height="64" alt=""/><br/><div>A lightweight DDD module for Nest framework (node.js) </div>]]></content>
+        <author>
+            <name>NESTJSColab</name>
+            <email>NESTJSColab@noreply.github.com</email>
+            <uri>https://github.com/NESTJSColab</uri>
+        </author>
+        <published>2022-12-21T16:39:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lit/lit: Lit is a simple library for building fast, lightweight web components.]]></title>
+        <id>https://github.com/lit/lit</id>
+        <link href="https://github.com/lit/lit"/>
+        <updated>2023-01-23T20:09:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18489846?v=4" width="64" height="64" alt=""/><br/><div>Lit is a simple library for building fast, lightweight web components.</div>]]></content>
+        <author>
+            <name>lit</name>
+            <email>lit@noreply.github.com</email>
+            <uri>https://github.com/lit</uri>
+        </author>
+        <published>2017-06-29T16:27:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[theMarzon/Dynamoon: 🚀 A lightweight, fast and efficient framework for building Discord bots using discord.js]]></title>
+        <id>https://github.com/theMarzon/Dynamoon</id>
+        <link href="https://github.com/theMarzon/Dynamoon"/>
+        <updated>2023-01-23T22:03:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/83615552?u=76702d3fc733cd6156294855b6cc7e2e0ad50d9a&v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> A lightweight, fast and efficient framework for building Discord bots using discord.js</div>]]></content>
+        <author>
+            <name>theMarzon</name>
+            <email>theMarzon@noreply.github.com</email>
+            <uri>https://github.com/theMarzon</uri>
+        </author>
+        <published>2022-02-10T16:38:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[brew-coffee/coffee-bolt: Lightweight coffee order bot - to be run on NodeJs server]]></title>
+        <id>https://github.com/brew-coffee/coffee-bolt</id>
+        <link href="https://github.com/brew-coffee/coffee-bolt"/>
+        <updated>2023-01-23T21:54:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104714209?v=4" width="64" height="64" alt=""/><br/><div>Lightweight coffee order bot - to be run on NodeJs server</div>]]></content>
+        <author>
+            <name>brew-coffee</name>
+            <email>brew-coffee@noreply.github.com</email>
+            <uri>https://github.com/brew-coffee</uri>
+        </author>
+        <published>2023-01-21T10:41:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinovyatkin/appsync-client-node: Lightweight client for AWS AppSync that only depends on @aws-sdk v3. Built for Node.js lambda! ]]></title>
+        <id>https://github.com/tinovyatkin/appsync-client-node</id>
+        <link href="https://github.com/tinovyatkin/appsync-client-node"/>
+        <updated>2022-12-15T04:41:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5350898?u=80fc4387da60a2beb1ef77e7826a285040be4e9d&v=4" width="64" height="64" alt=""/><br/><div>Lightweight client for AWS AppSync that only depends on @aws-sdk v3. Built for Node.js lambda! </div>]]></content>
+        <author>
+            <name>tinovyatkin</name>
+            <email>tinovyatkin@noreply.github.com</email>
+            <uri>https://github.com/tinovyatkin</uri>
+        </author>
+        <published>2022-12-11T08:06:57.000Z</published>
     </entry>
 </feed>
