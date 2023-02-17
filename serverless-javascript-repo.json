@@ -6,17 +6,6 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104690270?u=7b063e0b823fc0119ec53e845bb0e50a20ada812&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project uses authorization to validate users.   This project is serverless.   This project uses DynamoDB as Database, AWS Lambda and AWS Gateway as REST controllers , Node JS and React as frontend.</div>",
-            "url": "https://github.com/razborovdb/cryptowallet",
-            "title": "razborovdb/cryptowallet: This project uses authorization to validate users.   This project is serverless.   This project uses DynamoDB as Database, AWS Lambda and AWS Gateway as REST controllers , Node JS and React as frontend.",
-            "date_modified": "2023-02-16T00:13:58.000Z",
-            "date_published": "2023-02-16T00:12:38.000Z",
-            "author": {
-                "name": "razborovdb",
-                "url": "https://github.com/razborovdb"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60898319?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open fair-code platform on top of headless commerce. High performant Astro + Vue PWA &amp; Jamstack storefront with built-in CMS. Integrations for payments, shipping, ERPs, CRMs and others. Truly extensible event-driven and serverless architecture. Easy and cheap deploy to Firebase.</div>",
             "url": "https://github.com/ecomplus/cloud-commerce",
             "title": "ecomplus/cloud-commerce: Open fair-code platform on top of headless commerce. High performant Astro + Vue PWA & Jamstack storefront with built-in CMS. Integrations for payments, shipping, ERPs, CRMs and others. Truly extensible event-driven and serverless architecture. Easy and cheap deploy to Firebase.",
@@ -28,14 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1459952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS Template for creating microservices</div>",
-            "url": "https://github.com/aligent/serverless-aws-nodejs-service-template",
-            "title": "aligent/serverless-aws-nodejs-service-template: AWS Template for creating microservices",
-            "date_modified": "2023-01-18T09:44:36.000Z",
-            "date_published": "2020-08-18T05:05:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/705098?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CDKでAuroraServerlessV2を立ててみる</div>",
+            "url": "https://github.com/take-takashi/sample-cdk-AuroraServerlessV2",
+            "title": "take-takashi/sample-cdk-AuroraServerlessV2: CDKでAuroraServerlessV2を立ててみる",
+            "date_modified": "2023-02-16T15:35:23.000Z",
+            "date_published": "2023-02-16T15:05:13.000Z",
             "author": {
-                "name": "aligent",
-                "url": "https://github.com/aligent"
+                "name": "take-takashi",
+                "url": "https://github.com/take-takashi"
             }
         },
         {
@@ -50,28 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38386696?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reimplementation of MetaCall FaaS platform written in TypeScript.</div>",
-            "url": "https://github.com/metacall/faas",
-            "title": "metacall/faas: Reimplementation of MetaCall FaaS platform written in TypeScript.",
-            "date_modified": "2023-02-12T12:18:30.000Z",
-            "date_published": "2021-06-10T14:59:03.000Z",
-            "author": {
-                "name": "metacall",
-                "url": "https://github.com/metacall"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64256485?u=729d5d4a99d25bb3723a80e5d496979c6b0d52b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SMS delivery using serverless AWS</div>",
-            "url": "https://github.com/tigeryant/aws-sms-delivery",
-            "title": "tigeryant/aws-sms-delivery: SMS delivery using serverless AWS",
-            "date_modified": "2023-02-15T00:02:23.000Z",
-            "date_published": "2023-02-14T18:21:55.000Z",
-            "author": {
-                "name": "tigeryant",
-                "url": "https://github.com/tigeryant"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41077760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.</div>",
             "url": "https://github.com/aws-amplify/amplify-cli",
             "title": "aws-amplify/amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.",
@@ -83,58 +50,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26049341?u=56aa2b5872fbdaa9fdef4d8251fb17570fdb15f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boilerplate for using AWS CDK v2 with NodejsFunction construct and Middy middleware engine</div>",
-            "url": "https://github.com/AndrzejKomarnicki/awscdk-nodejsfunction-middy",
-            "title": "AndrzejKomarnicki/awscdk-nodejsfunction-middy: Boilerplate for using AWS CDK v2 with NodejsFunction construct and Middy middleware engine",
-            "date_modified": "2023-01-14T21:25:23.000Z",
-            "date_published": "2022-02-18T00:40:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1742579?u=efe2682b9f6978ab46265a4b959f5dd018a8bfbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool Swap backend using Serverless Framework</div>",
+            "url": "https://github.com/ashleywxwx/tool-swap-serverless",
+            "title": "ashleywxwx/tool-swap-serverless: Tool Swap backend using Serverless Framework",
+            "date_modified": "2023-02-17T00:07:51.000Z",
+            "date_published": "2023-02-17T00:06:10.000Z",
             "author": {
-                "name": "AndrzejKomarnicki",
-                "url": "https://github.com/AndrzejKomarnicki"
+                "name": "ashleywxwx",
+                "url": "https://github.com/ashleywxwx"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122109415?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official landing page repository for Nimbus, the innovative AWS serverless component monitoring tool.</div>",
-            "url": "https://github.com/NimbusOS/landingpage",
-            "title": "NimbusOS/landingpage: The official landing page repository for Nimbus, the innovative AWS serverless component monitoring tool.",
-            "date_modified": "2023-02-04T16:37:24.000Z",
-            "date_published": "2023-01-06T15:52:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10293534?u=379d7fd3b57680740bc4f33c08504d075002e645&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Função Lambda em Node JS </div>",
+            "url": "https://github.com/fernandobritto/payable-node",
+            "title": "fernandobritto/payable-node: Função Lambda em Node JS ",
+            "date_modified": "2023-02-17T00:05:43.000Z",
+            "date_published": "2020-02-25T22:30:19.000Z",
             "author": {
-                "name": "NimbusOS",
-                "url": "https://github.com/NimbusOS"
+                "name": "fernandobritto",
+                "url": "https://github.com/fernandobritto"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59118497?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless functions that form the Yu-Gi-Oh Bot service</div>",
-            "url": "https://github.com/YuGiOhBot3000/yugiohbot",
-            "title": "YuGiOhBot3000/yugiohbot: Serverless functions that form the Yu-Gi-Oh Bot service",
-            "date_modified": "2022-02-05T12:58:02.000Z",
-            "date_published": "2022-02-01T21:40:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82409290?u=06aea0eb9a2c9b02442ae982144f37f35f6743e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic Serverless Framework Demo</div>",
+            "url": "https://github.com/luizramirez/serverless-framework",
+            "title": "luizramirez/serverless-framework: Basic Serverless Framework Demo",
+            "date_modified": "2022-07-11T22:59:09.000Z",
+            "date_published": "2022-07-07T18:49:23.000Z",
             "author": {
-                "name": "YuGiOhBot3000",
-                "url": "https://github.com/YuGiOhBot3000"
+                "name": "luizramirez",
+                "url": "https://github.com/luizramirez"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98158725?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free and open ecosystem for API composition. Deploy and connect all your systems (REST, GraphQL, SQL, S3, WASM, custom scripts, etc.) in a breeze.</div>",
-            "url": "https://github.com/metatypedev/metatype",
-            "title": "metatypedev/metatype: Free and open ecosystem for API composition. Deploy and connect all your systems (REST, GraphQL, SQL, S3, WASM, custom scripts, etc.) in a breeze.",
-            "date_modified": "2023-01-31T19:54:45.000Z",
-            "date_published": "2022-06-05T00:57:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66570915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"boom\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png\">💥</g-emoji> SST makes it easy to build full-stack serverless apps.</div>",
+            "url": "https://github.com/serverless-stack/sst",
+            "title": "serverless-stack/sst: 💥 SST makes it easy to build full-stack serverless apps.",
+            "date_modified": "2023-02-16T20:34:32.000Z",
+            "date_published": "2020-08-04T20:28:14.000Z",
             "author": {
-                "name": "metatypedev",
-                "url": "https://github.com/metatypedev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16259639?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless application for submitting and managing submissions to the US Covid Atlas oral histories project.</div>",
-            "url": "https://github.com/GeoDaCenter/covid-histories",
-            "title": "GeoDaCenter/covid-histories: Serverless application for submitting and managing submissions to the US Covid Atlas oral histories project.",
-            "date_modified": "2023-01-31T19:44:24.000Z",
-            "date_published": "2022-04-11T20:15:24.000Z",
-            "author": {
-                "name": "GeoDaCenter",
-                "url": "https://github.com/GeoDaCenter"
+                "name": "serverless-stack",
+                "url": "https://github.com/serverless-stack"
             }
         },
         {
@@ -149,80 +105,124 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33217104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.</div>",
-            "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js",
-            "title": "NordicSemiconductor/cloud-e2e-bdd-test-runner-js: Implementation of a test-runner for end-to-end tests of cloud-native applications using Gherkin features.",
-            "date_modified": "2023-01-31T18:42:34.000Z",
-            "date_published": "2021-01-26T15:47:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68124989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JSON Schema Collections and type for serverless framework.</div>",
+            "url": "https://github.com/distinction-dev/serverless-schema",
+            "title": "distinction-dev/serverless-schema: JSON Schema Collections and type for serverless framework.",
+            "date_modified": "2023-02-06T12:54:50.000Z",
+            "date_published": "2023-01-17T09:01:35.000Z",
             "author": {
-                "name": "NordicSemiconductor",
-                "url": "https://github.com/NordicSemiconductor"
+                "name": "distinction-dev",
+                "url": "https://github.com/distinction-dev"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99494700?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>No-code Business Automation Tool. An open source alternative to Zapier.</div>",
-            "url": "https://github.com/activepieces/activepieces",
-            "title": "activepieces/activepieces: No-code Business Automation Tool. An open source alternative to Zapier.",
-            "date_modified": "2023-02-15T23:13:45.000Z",
-            "date_published": "2022-12-03T02:52:46.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83778865?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Cloud Serverless Framework</div>",
+            "url": "https://github.com/intellibus/solarsystem",
+            "title": "intellibus/solarsystem: Multi-Cloud Serverless Framework",
+            "date_modified": "2023-01-31T20:08:08.000Z",
+            "date_published": "2022-07-29T17:36:41.000Z",
             "author": {
-                "name": "activepieces",
-                "url": "https://github.com/activepieces"
+                "name": "intellibus",
+                "url": "https://github.com/intellibus"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115549996?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Wing Programming Language</div>",
-            "url": "https://github.com/winglang/wing",
-            "title": "winglang/wing: The Wing Programming Language",
-            "date_modified": "2023-02-15T17:29:06.000Z",
-            "date_published": "2022-06-29T18:19:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103056003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flashcards serverless application</div>",
+            "url": "https://github.com/ColinMattutini/Flashcards",
+            "title": "ColinMattutini/Flashcards: Flashcards serverless application",
+            "date_modified": "2023-01-16T23:29:14.000Z",
+            "date_published": "2023-01-14T20:47:34.000Z",
             "author": {
-                "name": "winglang",
-                "url": "https://github.com/winglang"
+                "name": "ColinMattutini",
+                "url": "https://github.com/ColinMattutini"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10283167?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/edwil13x/typescript-serverless",
-            "title": "edwil13x/typescript-serverless",
-            "date_modified": "2023-02-15T22:28:10.000Z",
-            "date_published": "2023-02-09T06:27:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13420273?u=bb2282aa96b3bb3ab46dfea19944ce6152b8b62e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless web app to organize and stream media from anywhere.</div>",
+            "url": "https://github.com/jonhue/plaain",
+            "title": "jonhue/plaain: A serverless web app to organize and stream media from anywhere.",
+            "date_modified": "2023-02-08T06:55:04.000Z",
+            "date_published": "2019-03-10T08:19:02.000Z",
             "author": {
-                "name": "edwil13x",
-                "url": "https://github.com/edwil13x"
+                "name": "jonhue",
+                "url": "https://github.com/jonhue"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2469523?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boilerplate for deploying a REST API in AWS using node.js</div>",
-            "url": "https://github.com/buede/aws-api-boilerplate",
-            "title": "buede/aws-api-boilerplate: Boilerplate for deploying a REST API in AWS using node.js",
-            "date_modified": "2023-01-31T18:39:15.000Z",
-            "date_published": "2020-12-20T20:07:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52392004?u=1692f553f1fa11d05866f0fca866b7d15bfd0e42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It is a simple serverless arhcitecture for voice book creatoer.</div>",
+            "url": "https://github.com/kyopark2014/simple-serverless-storytime",
+            "title": "kyopark2014/simple-serverless-storytime: It is a simple serverless arhcitecture for voice book creatoer.",
+            "date_modified": "2023-02-12T15:19:26.000Z",
+            "date_published": "2022-02-19T23:02:23.000Z",
             "author": {
-                "name": "buede",
-                "url": "https://github.com/buede"
+                "name": "kyopark2014",
+                "url": "https://github.com/kyopark2014"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3209407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MINT App</div>",
-            "url": "https://github.com/CMSgov/mint-app",
-            "title": "CMSgov/mint-app: MINT App",
-            "date_modified": "2023-02-12T22:24:28.000Z",
-            "date_published": "2022-03-07T18:07:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43758785?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DX Multi-Channel Messaging</div>",
+            "url": "https://github.com/osu-wams/dx-mcm",
+            "title": "osu-wams/dx-mcm: DX Multi-Channel Messaging",
+            "date_modified": "2022-02-23T19:15:10.000Z",
+            "date_published": "2020-04-03T18:47:40.000Z",
             "author": {
-                "name": "CMSgov",
-                "url": "https://github.com/CMSgov"
+                "name": "osu-wams",
+                "url": "https://github.com/osu-wams"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111641511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flexible router for building HTTP interaction-based Discord bots with ease.</div>",
-            "url": "https://github.com/Disploy/disploy",
-            "title": "Disploy/disploy: Flexible router for building HTTP interaction-based Discord bots with ease.",
-            "date_modified": "2023-01-31T19:58:39.000Z",
-            "date_published": "2022-10-22T03:06:14.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19890291?u=48aeeb3985fb16f7dee2b827d4be962ccd421f1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A online mobile RPG game engine and infrastructure as code monorepo. Built using Unreal 5, AWS CDKv2, and Typescript.</div>",
+            "url": "https://github.com/hxtree/cats-cradle",
+            "title": "hxtree/cats-cradle: A online mobile RPG game engine and infrastructure as code monorepo. Built using Unreal 5, AWS CDKv2, and Typescript.",
+            "date_modified": "2023-02-10T13:36:47.000Z",
+            "date_published": "2021-12-16T04:06:13.000Z",
             "author": {
-                "name": "Disploy",
-                "url": "https://github.com/Disploy"
+                "name": "hxtree",
+                "url": "https://github.com/hxtree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16259639?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless application for submitting and managing submissions to the US Covid Atlas oral histories project.</div>",
+            "url": "https://github.com/GeoDaCenter/covid-histories",
+            "title": "GeoDaCenter/covid-histories: Serverless application for submitting and managing submissions to the US Covid Atlas oral histories project.",
+            "date_modified": "2023-01-31T19:44:24.000Z",
+            "date_published": "2022-04-11T20:15:24.000Z",
+            "author": {
+                "name": "GeoDaCenter",
+                "url": "https://github.com/GeoDaCenter"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99688529?u=274d4fd2d8d62b893c3b87296447f92af28c097e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The client api routes. serverless framework</div>",
+            "url": "https://github.com/gabquelyn/Langivi-client",
+            "title": "gabquelyn/Langivi-client: The client api routes. serverless framework",
+            "date_modified": "2023-02-16T14:22:54.000Z",
+            "date_published": "2023-02-16T14:17:29.000Z",
+            "author": {
+                "name": "gabquelyn",
+                "url": "https://github.com/gabquelyn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43791938?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connect APIs, remarkably fast.  Free for developers.</div>",
+            "url": "https://github.com/PipedreamHQ/pipedream",
+            "title": "PipedreamHQ/pipedream: Connect APIs, remarkably fast.  Free for developers.",
+            "date_modified": "2023-02-16T23:19:17.000Z",
+            "date_published": "2020-01-22T00:28:31.000Z",
+            "author": {
+                "name": "PipedreamHQ",
+                "url": "https://github.com/PipedreamHQ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A demo web application that shows how to implement a basic video + chat application using the AWS serverless application model (SAM) and Javascript (React).</div>",
+            "url": "https://github.com/aws-samples/amazon-ivs-chat-web-demo",
+            "title": "aws-samples/amazon-ivs-chat-web-demo: A demo web application that shows how to implement a basic video + chat application using the AWS serverless application model (SAM) and Javascript (React).",
+            "date_modified": "2023-01-04T10:26:06.000Z",
+            "date_published": "2022-04-20T18:42:32.000Z",
+            "author": {
+                "name": "aws-samples",
+                "url": "https://github.com/aws-samples"
             }
         }
     ]
