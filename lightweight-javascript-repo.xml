@@ -2,49 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davidwells.github.io/github-search-rss/lightweight-javascript-repo.json</id>
     <title>LightWeight JavaScript repositories</title>
-    <updated>2023-03-09T00:18:59.738Z</updated>
+    <updated>2023-03-10T00:18:45.587Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?o=desc&amp;q=lightweight+language%3Ajavascript+language%3Atypescript+sort%3Aupdated-desc&amp;s=updated&amp;type=Repositories"/>
     <subtitle>LightWeight JavaScript repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry]]></title>
-        <id>https://github.com/verdaccio/verdaccio</id>
-        <link href="https://github.com/verdaccio/verdaccio"/>
-        <updated>2023-03-08T15:15:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18487506?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji> A lightweight Node.js private proxy registry</div>]]></content>
+        <title type="html"><![CDATA[Aktiun/chartfactor-node: Reference implementation of a ChartFactor Node server running ChartFactor data providers on the server-side to power lightweight visual analytics.]]></title>
+        <id>https://github.com/Aktiun/chartfactor-node</id>
+        <link href="https://github.com/Aktiun/chartfactor-node"/>
+        <updated>2021-12-23T00:10:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19650412?v=4" width="64" height="64" alt=""/><br/><div>Reference implementation of a ChartFactor Node server running ChartFactor data providers on the server-side to power lightweight visual analytics.</div>]]></content>
         <author>
-            <name>verdaccio</name>
-            <email>verdaccio@noreply.github.com</email>
-            <uri>https://github.com/verdaccio</uri>
+            <name>Aktiun</name>
+            <email>Aktiun@noreply.github.com</email>
+            <uri>https://github.com/Aktiun</uri>
         </author>
-        <published>2016-04-15T16:21:12.000Z</published>
+        <published>2021-11-08T01:13:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DanConwayDev/nostr-profile-manager: Lightweight typescript micro app for basic nostr profile management]]></title>
-        <id>https://github.com/DanConwayDev/nostr-profile-manager</id>
-        <link href="https://github.com/DanConwayDev/nostr-profile-manager"/>
-        <updated>2023-03-06T16:13:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114834599?v=4" width="64" height="64" alt=""/><br/><div>Lightweight typescript micro app for basic nostr profile management</div>]]></content>
+        <title type="html"><![CDATA[nestjs/cqrs: A lightweight CQRS module for Nest framework (node.js) :balloon:]]></title>
+        <id>https://github.com/nestjs/cqrs</id>
+        <link href="https://github.com/nestjs/cqrs"/>
+        <updated>2023-03-08T06:42:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28507035?v=4" width="64" height="64" alt=""/><br/><div>A lightweight CQRS module for Nest framework (node.js) <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji></div>]]></content>
         <author>
-            <name>DanConwayDev</name>
-            <email>DanConwayDev@noreply.github.com</email>
-            <uri>https://github.com/DanConwayDev</uri>
+            <name>nestjs</name>
+            <email>nestjs@noreply.github.com</email>
+            <uri>https://github.com/nestjs</uri>
         </author>
-        <published>2023-03-06T15:32:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xiaoyang-sde/reflare: Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers]]></title>
-        <id>https://github.com/xiaoyang-sde/reflare</id>
-        <link href="https://github.com/xiaoyang-sde/reflare"/>
-        <updated>2023-03-08T15:07:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13134143?u=ee712ce025ed803881c9ee0b3cb5cd5a14204954&v=4" width="64" height="64" alt=""/><br/><div>Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers</div>]]></content>
-        <author>
-            <name>xiaoyang-sde</name>
-            <email>xiaoyang-sde@noreply.github.com</email>
-            <uri>https://github.com/xiaoyang-sde</uri>
-        </author>
-        <published>2017-09-09T15:42:01.000Z</published>
+        <published>2017-05-06T18:08:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[siyual-park/cheeket.js: A lightweight and extensible dependency injection container for TypeScript/JavaScript for constructor injection as functional.]]></title>
@@ -60,17 +47,30 @@
         <published>2020-10-24T10:51:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SofianChouaib/alwan: A simple, lightweight, customizable, touch friendly color picker, written in vanilla javascript with zero dependencies.]]></title>
-        <id>https://github.com/SofianChouaib/alwan</id>
-        <link href="https://github.com/SofianChouaib/alwan"/>
-        <updated>2023-02-27T18:54:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34110490?v=4" width="64" height="64" alt=""/><br/><div>A simple, lightweight, customizable, touch friendly color picker, written in vanilla javascript with zero dependencies.</div>]]></content>
+        <title type="html"><![CDATA[mdsanima-lab/k3s-demo-apps: Deploying Demo Apps in Lightweight Kubernetes K3S Cluster.]]></title>
+        <id>https://github.com/mdsanima-lab/k3s-demo-apps</id>
+        <link href="https://github.com/mdsanima-lab/k3s-demo-apps"/>
+        <updated>2023-03-09T22:11:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/124449544?v=4" width="64" height="64" alt=""/><br/><div>Deploying Demo Apps in Lightweight Kubernetes K3S Cluster.</div>]]></content>
         <author>
-            <name>SofianChouaib</name>
-            <email>SofianChouaib@noreply.github.com</email>
-            <uri>https://github.com/SofianChouaib</uri>
+            <name>mdsanima-lab</name>
+            <email>mdsanima-lab@noreply.github.com</email>
+            <uri>https://github.com/mdsanima-lab</uri>
         </author>
-        <published>2022-08-31T13:02:11.000Z</published>
+        <published>2023-03-09T13:23:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[birchill/bugsnag-zero: Lightweight Bugsnag client]]></title>
+        <id>https://github.com/birchill/bugsnag-zero</id>
+        <link href="https://github.com/birchill/bugsnag-zero"/>
+        <updated>2023-01-29T07:13:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52702476?v=4" width="64" height="64" alt=""/><br/><div>Lightweight Bugsnag client</div>]]></content>
+        <author>
+            <name>birchill</name>
+            <email>birchill@noreply.github.com</email>
+            <uri>https://github.com/birchill</uri>
+        </author>
+        <published>2021-07-23T08:05:41.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[itsmelion/flamework: Ultra simple, lightweight, fast Grid framework. Flexbox based.]]></title>
@@ -86,84 +86,6 @@
         <published>2017-07-15T19:29:36.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jburrow/monaco-editor-code-review: Lightweight extension for monaco-editor to allow commenting off code.]]></title>
-        <id>https://github.com/jburrow/monaco-editor-code-review</id>
-        <link href="https://github.com/jburrow/monaco-editor-code-review"/>
-        <updated>2022-12-05T07:26:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1444266?u=5b8abde7832dfbd4a5c720494b75c0d4a4c92356&v=4" width="64" height="64" alt=""/><br/><div>Lightweight extension for monaco-editor to allow commenting off code.</div>]]></content>
-        <author>
-            <name>jburrow</name>
-            <email>jburrow@noreply.github.com</email>
-            <uri>https://github.com/jburrow</uri>
-        </author>
-        <published>2019-05-09T08:17:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[decatur/gridchen: Very lightweight and fast editable web grid with strict MS-Excel adherence to user experience. Very modern (web components, es6 modules) with no dependencies.]]></title>
-        <id>https://github.com/decatur/gridchen</id>
-        <link href="https://github.com/decatur/gridchen"/>
-        <updated>2023-03-08T22:14:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1004866?u=785bbce81bb9a8936beef3ecb77b4e82ce3938bd&v=4" width="64" height="64" alt=""/><br/><div>Very lightweight and fast editable web grid with strict MS-Excel adherence to user experience. Very modern (web components, es6 modules) with no dependencies.</div>]]></content>
-        <author>
-            <name>decatur</name>
-            <email>decatur@noreply.github.com</email>
-            <uri>https://github.com/decatur</uri>
-        </author>
-        <published>2019-05-08T08:16:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lit/lit: Lit is a simple library for building fast, lightweight web components.]]></title>
-        <id>https://github.com/lit/lit</id>
-        <link href="https://github.com/lit/lit"/>
-        <updated>2023-03-08T23:46:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18489846?v=4" width="64" height="64" alt=""/><br/><div>Lit is a simple library for building fast, lightweight web components.</div>]]></content>
-        <author>
-            <name>lit</name>
-            <email>lit@noreply.github.com</email>
-            <uri>https://github.com/lit</uri>
-        </author>
-        <published>2017-06-29T16:27:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dimnez/Catyen: ✏️📐lightweight library for canvas handling in typescript]]></title>
-        <id>https://github.com/Dimnez/Catyen</id>
-        <link href="https://github.com/Dimnez/Catyen"/>
-        <updated>2022-02-06T15:58:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5229028?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png">✏️</g-emoji><g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">📐</g-emoji>lightweight library for canvas handling in typescript</div>]]></content>
-        <author>
-            <name>Dimnez</name>
-            <email>Dimnez@noreply.github.com</email>
-            <uri>https://github.com/Dimnez</uri>
-        </author>
-        <published>2017-03-02T21:42:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jens-maus/RaspberryMatic: :house: A lightweight, buildroot-based Linux operating system alternative for your CCU3, ELV-Charly or for running your "HomeMatic CCU" IoT central as a pure virtual appliance (using Proxmox VE, VirtualBox, Docker/OCI, Kubernetes/K8s, Home Assistant, vmWare ESXi, etc.) or on your own RaspberryPi, Tinkerboard, ODROID, etc. SBC device...]]></title>
-        <id>https://github.com/jens-maus/RaspberryMatic</id>
-        <link href="https://github.com/jens-maus/RaspberryMatic"/>
-        <updated>2023-03-08T22:09:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5887769?v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji> A lightweight, buildroot-based Linux operating system alternative for your CCU3, ELV-Charly or for running your "HomeMatic CCU" IoT central as a pure virtual appliance (using Proxmox VE, VirtualBox, Docker/OCI, Kubernetes/K8s, Home Assistant, vmWare ESXi, etc.) or on your own RaspberryPi, Tinkerboard, ODROID, etc. SBC device...</div>]]></content>
-        <author>
-            <name>jens-maus</name>
-            <email>jens-maus@noreply.github.com</email>
-            <uri>https://github.com/jens-maus</uri>
-        </author>
-        <published>2016-06-22T13:33:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spierala/mini-rx-store: Lightweight Redux Store based on RxJS]]></title>
-        <id>https://github.com/spierala/mini-rx-store</id>
-        <link href="https://github.com/spierala/mini-rx-store"/>
-        <updated>2023-02-27T22:09:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1272446?v=4" width="64" height="64" alt=""/><br/><div>Lightweight Redux Store based on RxJS</div>]]></content>
-        <author>
-            <name>spierala</name>
-            <email>spierala@noreply.github.com</email>
-            <uri>https://github.com/spierala</uri>
-        </author>
-        <published>2020-01-27T21:36:20.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[spargojs/spargo: The lightweight JavaScript framework for inserting a little reactivity into some markup.]]></title>
         <id>https://github.com/spargojs/spargo</id>
         <link href="https://github.com/spargojs/spargo"/>
@@ -177,94 +99,172 @@
         <published>2023-03-03T19:42:13.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[playcanvas/engine: Fast and lightweight JavaScript game engine built on WebGL and glTF]]></title>
-        <id>https://github.com/playcanvas/engine</id>
-        <link href="https://github.com/playcanvas/engine"/>
-        <updated>2023-03-08T21:53:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1030579?v=4" width="64" height="64" alt=""/><br/><div>Fast and lightweight JavaScript game engine built on WebGL and glTF</div>]]></content>
+        <title type="html"><![CDATA[replugged-org/replugged: A lightweight Discord client mod focused on simplicity and performance.]]></title>
+        <id>https://github.com/replugged-org/replugged</id>
+        <link href="https://github.com/replugged-org/replugged"/>
+        <updated>2023-03-09T12:57:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109933208?v=4" width="64" height="64" alt=""/><br/><div>A lightweight Discord client mod focused on simplicity and performance.</div>]]></content>
         <author>
-            <name>playcanvas</name>
-            <email>playcanvas@noreply.github.com</email>
-            <uri>https://github.com/playcanvas</uri>
+            <name>replugged-org</name>
+            <email>replugged-org@noreply.github.com</email>
+            <uri>https://github.com/replugged-org</uri>
         </author>
-        <published>2014-05-12T11:24:30.000Z</published>
+        <published>2022-07-25T02:30:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[exadel-inc/esl: Lightweight and flexible UI component library based on web components technology for creating basic UX modules]]></title>
-        <id>https://github.com/exadel-inc/esl</id>
-        <link href="https://github.com/exadel-inc/esl"/>
-        <updated>2023-03-08T21:02:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51965010?v=4" width="64" height="64" alt=""/><br/><div>Lightweight and flexible UI component library based on web components technology for creating basic UX modules</div>]]></content>
+        <title type="html"><![CDATA[rewinaz/aterera: Aterera is easy lightweight note taking web app]]></title>
+        <id>https://github.com/rewinaz/aterera</id>
+        <link href="https://github.com/rewinaz/aterera"/>
+        <updated>2023-03-04T19:12:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/79724392?v=4" width="64" height="64" alt=""/><br/><div>Aterera is easy lightweight note taking web app</div>]]></content>
         <author>
-            <name>exadel-inc</name>
-            <email>exadel-inc@noreply.github.com</email>
-            <uri>https://github.com/exadel-inc</uri>
+            <name>rewinaz</name>
+            <email>rewinaz@noreply.github.com</email>
+            <uri>https://github.com/rewinaz</uri>
         </author>
-        <published>2020-12-23T15:13:35.000Z</published>
+        <published>2023-03-03T17:40:37.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AugustinMoinat/BackupFall-html-js: Highline backup fall simulator, lightweight, still not validated by experiments]]></title>
-        <id>https://github.com/AugustinMoinat/BackupFall-html-js</id>
-        <link href="https://github.com/AugustinMoinat/BackupFall-html-js"/>
-        <updated>2023-03-08T20:34:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/91473867?v=4" width="64" height="64" alt=""/><br/><div>Highline backup fall simulator, lightweight, still not validated by experiments</div>]]></content>
+        <title type="html"><![CDATA[franndjoo/jet-file: Jet file is a lightweight utility designed for realtime services, data viability and security. It's designed to work using JSON as a file format.]]></title>
+        <id>https://github.com/franndjoo/jet-file</id>
+        <link href="https://github.com/franndjoo/jet-file"/>
+        <updated>2022-12-26T14:02:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46529917?u=c7a60181e05479d8234fb27bf2baa15c9392b1b4&v=4" width="64" height="64" alt=""/><br/><div>Jet file is a lightweight utility designed for realtime services, data viability and security. It's designed to work using JSON as a file format.</div>]]></content>
         <author>
-            <name>AugustinMoinat</name>
-            <email>AugustinMoinat@noreply.github.com</email>
-            <uri>https://github.com/AugustinMoinat</uri>
+            <name>franndjoo</name>
+            <email>franndjoo@noreply.github.com</email>
+            <uri>https://github.com/franndjoo</uri>
         </author>
-        <published>2023-03-08T20:30:31.000Z</published>
+        <published>2022-04-24T20:20:44.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[testcontainers/testcontainers-node: Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.]]></title>
-        <id>https://github.com/testcontainers/testcontainers-node</id>
-        <link href="https://github.com/testcontainers/testcontainers-node"/>
-        <updated>2023-03-08T20:14:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13393021?v=4" width="64" height="64" alt=""/><br/><div>Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.</div>]]></content>
+        <title type="html"><![CDATA[Adedoyin-Emmanuel/databaseJS: A simple, lightweight JS library that makes localStorage manupulation easy]]></title>
+        <id>https://github.com/Adedoyin-Emmanuel/databaseJS</id>
+        <link href="https://github.com/Adedoyin-Emmanuel/databaseJS"/>
+        <updated>2023-03-01T22:08:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88517758?u=470f5d60553d11791a4bdd08364c424b8d25de45&v=4" width="64" height="64" alt=""/><br/><div>A simple, lightweight JS library that makes localStorage manupulation easy</div>]]></content>
         <author>
-            <name>testcontainers</name>
-            <email>testcontainers@noreply.github.com</email>
-            <uri>https://github.com/testcontainers</uri>
+            <name>Adedoyin-Emmanuel</name>
+            <email>Adedoyin-Emmanuel@noreply.github.com</email>
+            <uri>https://github.com/Adedoyin-Emmanuel</uri>
         </author>
-        <published>2018-01-05T18:23:43.000Z</published>
+        <published>2023-01-17T04:21:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[davidjerleke/embla-carousel: www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.]]></title>
-        <id>https://github.com/davidjerleke/embla-carousel</id>
-        <link href="https://github.com/davidjerleke/embla-carousel"/>
-        <updated>2023-03-08T20:41:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11529148?u=94446866c576d620cbd33e62834c480091fedcf0&v=4" width="64" height="64" alt=""/><br/><div><a href="http://www.embla-carousel.com" rel="nofollow">www.embla-carousel.com</a> — A lightweight carousel library with fluid motion and great swipe precision.</div>]]></content>
+        <title type="html"><![CDATA[SofianChouaib/alwan: A simple, lightweight, customizable, touch friendly color picker, written in vanilla javascript with zero dependencies.]]></title>
+        <id>https://github.com/SofianChouaib/alwan</id>
+        <link href="https://github.com/SofianChouaib/alwan"/>
+        <updated>2023-02-27T18:54:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34110490?v=4" width="64" height="64" alt=""/><br/><div>A simple, lightweight, customizable, touch friendly color picker, written in vanilla javascript with zero dependencies.</div>]]></content>
         <author>
-            <name>davidjerleke</name>
-            <email>davidjerleke@noreply.github.com</email>
-            <uri>https://github.com/davidjerleke</uri>
+            <name>SofianChouaib</name>
+            <email>SofianChouaib@noreply.github.com</email>
+            <uri>https://github.com/SofianChouaib</uri>
         </author>
-        <published>2019-03-18T18:34:50.000Z</published>
+        <published>2022-08-31T13:02:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mikaelvesavuori/catalogist: Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.]]></title>
-        <id>https://github.com/mikaelvesavuori/catalogist</id>
-        <link href="https://github.com/mikaelvesavuori/catalogist"/>
-        <updated>2023-01-07T21:19:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23580994?u=f0c36772e539105f73230678e8c86909a841377e&v=4" width="64" height="64" alt=""/><br/><div>Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.</div>]]></content>
+        <title type="html"><![CDATA[manan-m-shah/joks: A lightweight and simple package manager for Node.js]]></title>
+        <id>https://github.com/manan-m-shah/joks</id>
+        <link href="https://github.com/manan-m-shah/joks"/>
+        <updated>2023-03-05T11:43:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/92121415?u=ad80243ce608528b7864b02130d13931222dcfc0&v=4" width="64" height="64" alt=""/><br/><div>A lightweight and simple package manager for Node.js</div>]]></content>
         <author>
-            <name>mikaelvesavuori</name>
-            <email>mikaelvesavuori@noreply.github.com</email>
-            <uri>https://github.com/mikaelvesavuori</uri>
+            <name>manan-m-shah</name>
+            <email>manan-m-shah@noreply.github.com</email>
+            <uri>https://github.com/manan-m-shah</uri>
         </author>
-        <published>2022-01-12T10:30:22.000Z</published>
+        <published>2023-03-05T09:16:28.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[danielfebrero/zenithic: Zenithic is a lightweight, fast, and highly customizable JavaScript framework designed as an alternative to React and other existing competitors.]]></title>
-        <id>https://github.com/danielfebrero/zenithic</id>
-        <link href="https://github.com/danielfebrero/zenithic"/>
-        <updated>2023-03-01T06:39:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20900798?u=597d351f510b8f8599b759f79e5503921bbbcb1a&v=4" width="64" height="64" alt=""/><br/><div>Zenithic is a lightweight, fast, and highly customizable JavaScript framework designed as an alternative to React and other existing competitors.</div>]]></content>
+        <title type="html"><![CDATA[ChrisForeman/firestore-repo: A lightweight framework for making DDD with Firestore easier via the repository pattern.]]></title>
+        <id>https://github.com/ChrisForeman/firestore-repo</id>
+        <link href="https://github.com/ChrisForeman/firestore-repo"/>
+        <updated>2023-01-19T16:19:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47287326?u=e17c08ac2ca71dfebf06a9640671bb4ac62c4c8b&v=4" width="64" height="64" alt=""/><br/><div>A lightweight framework for making DDD with Firestore easier via the repository pattern.</div>]]></content>
         <author>
-            <name>danielfebrero</name>
-            <email>danielfebrero@noreply.github.com</email>
-            <uri>https://github.com/danielfebrero</uri>
+            <name>ChrisForeman</name>
+            <email>ChrisForeman@noreply.github.com</email>
+            <uri>https://github.com/ChrisForeman</uri>
         </author>
-        <published>2023-02-23T10:01:22.000Z</published>
+        <published>2022-02-04T22:27:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pbkompasz/github-calendar-heatmap: A lightweight calendar heatmap Vue 3 component built on SVG, inspired by julienr114's vue-calendar-heatmap and github's contribution calendar graph]]></title>
+        <id>https://github.com/pbkompasz/github-calendar-heatmap</id>
+        <link href="https://github.com/pbkompasz/github-calendar-heatmap"/>
+        <updated>2023-01-07T14:47:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47194071?v=4" width="64" height="64" alt=""/><br/><div>A lightweight calendar heatmap Vue 3 component built on SVG, inspired by julienr114's vue-calendar-heatmap and github's contribution calendar graph</div>]]></content>
+        <author>
+            <name>pbkompasz</name>
+            <email>pbkompasz@noreply.github.com</email>
+            <uri>https://github.com/pbkompasz</uri>
+        </author>
+        <published>2022-02-21T15:27:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[belgattitude/httpx: Plain http exceptions for node, deno, edge and browsers. SSR friendly, no deps, lightweight, typescript and more.]]></title>
+        <id>https://github.com/belgattitude/httpx</id>
+        <link href="https://github.com/belgattitude/httpx"/>
+        <updated>2023-03-07T05:04:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/259798?u=7a263c86a9ab0ef9cd14911e521b677c14c905bd&v=4" width="64" height="64" alt=""/><br/><div>Plain http exceptions for node, deno, edge and browsers. SSR friendly, no deps, lightweight, typescript and more.</div>]]></content>
+        <author>
+            <name>belgattitude</name>
+            <email>belgattitude@noreply.github.com</email>
+            <uri>https://github.com/belgattitude</uri>
+        </author>
+        <published>2022-11-21T15:33:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[easesu/ts-mock-server: A lightweight server to create mock data from typescript definitions.]]></title>
+        <id>https://github.com/easesu/ts-mock-server</id>
+        <link href="https://github.com/easesu/ts-mock-server"/>
+        <updated>2023-03-09T19:47:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3414182?u=66dc24bf1c47d57c5f70a7a19c58bdf342224b9d&v=4" width="64" height="64" alt=""/><br/><div>A lightweight server to create mock data from typescript definitions.</div>]]></content>
+        <author>
+            <name>easesu</name>
+            <email>easesu@noreply.github.com</email>
+            <uri>https://github.com/easesu</uri>
+        </author>
+        <published>2023-03-09T19:27:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mkosir/react-parallax-tilt: 👀  Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB)]]></title>
+        <id>https://github.com/mkosir/react-parallax-tilt</id>
+        <link href="https://github.com/mkosir/react-parallax-tilt"/>
+        <updated>2023-03-10T00:18:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3073826?u=6a21671985cca1a6eaa91f8f86a949991a88e337&v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji>  Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB)</div>]]></content>
+        <author>
+            <name>mkosir</name>
+            <email>mkosir@noreply.github.com</email>
+            <uri>https://github.com/mkosir</uri>
+        </author>
+        <published>2019-08-07T09:32:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[matthewmarion/Clok: Clok is a beautiful, lightweight time-tracking app for freelancers.]]></title>
+        <id>https://github.com/matthewmarion/Clok</id>
+        <link href="https://github.com/matthewmarion/Clok"/>
+        <updated>2023-03-09T19:40:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19583152?u=f0bab08c9823433b844ff792e685ce87aac07a61&v=4" width="64" height="64" alt=""/><br/><div>Clok is a beautiful, lightweight time-tracking app for freelancers.</div>]]></content>
+        <author>
+            <name>matthewmarion</name>
+            <email>matthewmarion@noreply.github.com</email>
+            <uri>https://github.com/matthewmarion</uri>
+        </author>
+        <published>2018-03-09T21:12:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NivEz/telenode: Lightweight Telegram API framework for Node.js]]></title>
+        <id>https://github.com/NivEz/telenode</id>
+        <link href="https://github.com/NivEz/telenode"/>
+        <updated>2023-02-27T20:21:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86365162?u=9c6f4153fc3c03df497d9c992e84788521bbbb2a&v=4" width="64" height="64" alt=""/><br/><div>Lightweight Telegram API framework for Node.js</div>]]></content>
+        <author>
+            <name>NivEz</name>
+            <email>NivEz@noreply.github.com</email>
+            <uri>https://github.com/NivEz</uri>
+        </author>
+        <published>2023-01-20T13:33:42.000Z</published>
     </entry>
 </feed>
