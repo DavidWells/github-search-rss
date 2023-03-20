@@ -6,14 +6,14 @@
     "description": "Serverless repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/476009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository template for new Project Helix services (deployed as universal Serverless actions)</div>",
-            "url": "https://github.com/adobe/franklin-service",
-            "title": "adobe/franklin-service: A repository template for new Project Helix services (deployed as universal Serverless actions)",
-            "date_modified": "2023-02-15T21:14:18.000Z",
-            "date_published": "2019-06-12T12:21:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58527932?u=76b5198d1467800e803a99a26cdc49517fce4fda&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple \"TODO\" application using AWS Lambda and Serverless framework</div>",
+            "url": "https://github.com/michaelhpet/serverless_todo-udacity",
+            "title": "michaelhpet/serverless_todo-udacity: A simple \"TODO\" application using AWS Lambda and Serverless framework",
+            "date_modified": "2023-03-19T10:20:08.000Z",
+            "date_published": "2023-02-23T21:54:41.000Z",
             "author": {
-                "name": "adobe",
-                "url": "https://github.com/adobe"
+                "name": "michaelhpet",
+                "url": "https://github.com/michaelhpet"
             }
         },
         {
@@ -39,25 +39,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1140709?u=0893ac54685d2308b5b3cd55f348753fdb0ab9a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless service layer for the Code and Coffee website for custom code and APIs.</div>",
-            "url": "https://github.com/Bjtowne/Code-and-Coffee-Service",
-            "title": "Bjtowne/Code-and-Coffee-Service: A serverless service layer for the Code and Coffee website for custom code and APIs.",
-            "date_modified": "2023-03-10T03:42:22.000Z",
-            "date_published": "2023-03-09T03:36:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105909665?u=c9238dcf8eee09f59c3e123b9bd53b9056637286&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>make twitter with next.js, tailwind, prisma(serverless)</div>",
+            "url": "https://github.com/bigwave-cho/nextwitter",
+            "title": "bigwave-cho/nextwitter: make twitter with next.js, tailwind, prisma(serverless)",
+            "date_modified": "2023-03-20T00:09:35.000Z",
+            "date_published": "2023-03-19T23:55:05.000Z",
             "author": {
-                "name": "Bjtowne",
-                "url": "https://github.com/Bjtowne"
+                "name": "bigwave-cho",
+                "url": "https://github.com/bigwave-cho"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74387598?u=eff12d8f35a57f72d6b2aba3a3643bf0d68d5ea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Primeiro projeto de serverless usando lambda</div>",
-            "url": "https://github.com/CarlosCandele/dio-projeto-serverless-aws",
-            "title": "CarlosCandele/dio-projeto-serverless-aws: Primeiro projeto de serverless usando lambda",
-            "date_modified": "2023-03-19T00:02:58.000Z",
-            "date_published": "2023-03-18T23:57:20.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/309723?u=6d58ccfc0f51348b99988a98f7dd8bb2d3c23b0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A resource-oriented abstraction layer for serverless platforms (WIP)</div>",
+            "url": "https://github.com/hasundue/flash",
+            "title": "hasundue/flash: A resource-oriented abstraction layer for serverless platforms (WIP)",
+            "date_modified": "2023-03-13T08:26:13.000Z",
+            "date_published": "2022-06-24T00:23:42.000Z",
             "author": {
-                "name": "CarlosCandele",
-                "url": "https://github.com/CarlosCandele"
+                "name": "hasundue",
+                "url": "https://github.com/hasundue"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82050124?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Migration of bahai-library.com from legacy LAMP stack to AWS</div>",
+            "url": "https://github.com/BahaiLibraryOnline/bahai-library-online-serverless",
+            "title": "BahaiLibraryOnline/bahai-library-online-serverless: Migration of bahai-library.com from legacy LAMP stack to AWS",
+            "date_modified": "2023-03-17T07:59:23.000Z",
+            "date_published": "2023-02-21T16:21:32.000Z",
+            "author": {
+                "name": "BahaiLibraryOnline",
+                "url": "https://github.com/BahaiLibraryOnline"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26760571?u=70ed69fa4309f3e169a31a95a9f89032c00f96ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/erezrokah/cdk-serverless-example",
+            "title": "erezrokah/cdk-serverless-example",
+            "date_modified": "2023-03-11T12:21:05.000Z",
+            "date_published": "2019-01-15T19:22:00.000Z",
+            "author": {
+                "name": "erezrokah",
+                "url": "https://github.com/erezrokah"
             }
         },
         {
@@ -72,25 +94,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5279123?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Send CloudWatch Alarms to Microsoft Teams via an SNS topic.</div>",
-            "url": "https://github.com/idealo/cloudwatch-alarm-to-ms-teams",
-            "title": "idealo/cloudwatch-alarm-to-ms-teams: Send CloudWatch Alarms to Microsoft Teams via an SNS topic.",
-            "date_modified": "2023-01-31T19:16:14.000Z",
-            "date_published": "2021-11-05T12:18:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6343174?u=8ba7569ae8e642d0a89affcd2c9d4c50b175eade&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless backend for EVETrade.space</div>",
+            "url": "https://github.com/awhipp/evetrade_api",
+            "title": "awhipp/evetrade_api: Serverless backend for EVETrade.space",
+            "date_modified": "2023-03-01T04:26:59.000Z",
+            "date_published": "2022-04-08T22:18:05.000Z",
             "author": {
-                "name": "idealo",
-                "url": "https://github.com/idealo"
+                "name": "awhipp",
+                "url": "https://github.com/awhipp"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35275717?u=02c2f1a7903da22adaf3786d87ab17d7ef0e73e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Run serverless Wordpress on top of AWS Lambda</div>",
-            "url": "https://github.com/otterDeveloper/wordpress-on-aws-lambda",
-            "title": "otterDeveloper/wordpress-on-aws-lambda: Run serverless Wordpress on top of AWS Lambda",
-            "date_modified": "2023-03-18T23:49:30.000Z",
-            "date_published": "2023-03-16T05:35:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6256145?u=9dcb410a814e5a2adb20680c2e7530968069af09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Next.js authentication boilerplate with SSG rendering and Edge middleware with serverless functions</div>",
+            "url": "https://github.com/scottjason/nextjs-edge-runtime",
+            "title": "scottjason/nextjs-edge-runtime: Next.js authentication boilerplate with SSG rendering and Edge middleware with serverless functions",
+            "date_modified": "2023-03-19T23:06:08.000Z",
+            "date_published": "2023-03-19T22:25:09.000Z",
             "author": {
-                "name": "otterDeveloper",
-                "url": "https://github.com/otterDeveloper"
+                "name": "scottjason",
+                "url": "https://github.com/scottjason"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14226275?u=6ee71c12c2a1ce9e24910cb957daf2f4d9c1d6e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Telegram bot for development tools.</div>",
+            "url": "https://github.com/xxgicoxx/devtools-bot",
+            "title": "xxgicoxx/devtools-bot: Serverless Telegram bot for development tools.",
+            "date_modified": "2022-04-04T19:34:31.000Z",
+            "date_published": "2021-04-02T18:47:10.000Z",
+            "author": {
+                "name": "xxgicoxx",
+                "url": "https://github.com/xxgicoxx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14226275?u=6ee71c12c2a1ce9e24910cb957daf2f4d9c1d6e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless Telegram bot for searching subtitles from OpenSubtitles.</div>",
+            "url": "https://github.com/xxgicoxx/opensubtitles-bot",
+            "title": "xxgicoxx/opensubtitles-bot: Serverless Telegram bot for searching subtitles from OpenSubtitles.",
+            "date_modified": "2023-03-19T23:05:28.000Z",
+            "date_published": "2021-03-18T20:53:18.000Z",
+            "author": {
+                "name": "xxgicoxx",
+                "url": "https://github.com/xxgicoxx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23062776?u=47d4512f6d40c560b3d45e98252601ed7cfd7f51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless API developed with JS for use in Cloudflare</div>",
+            "url": "https://github.com/candisuuu/movie-night-api",
+            "title": "candisuuu/movie-night-api: A serverless API developed with JS for use in Cloudflare",
+            "date_modified": "2023-03-09T03:34:27.000Z",
+            "date_published": "2023-03-09T03:34:20.000Z",
+            "author": {
+                "name": "candisuuu",
+                "url": "https://github.com/candisuuu"
             }
         },
         {
@@ -105,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58527932?u=f142673d2ba2c018a4310b380c9f2a57e32a1253&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple \"TODO\" application using AWS Lambda and Serverless framework</div>",
-            "url": "https://github.com/michaelhpet/todos-udacity-serverless",
-            "title": "michaelhpet/todos-udacity-serverless: A simple \"TODO\" application using AWS Lambda and Serverless framework",
-            "date_modified": "2023-02-23T21:55:28.000Z",
-            "date_published": "2023-02-23T21:54:41.000Z",
-            "author": {
-                "name": "michaelhpet",
-                "url": "https://github.com/michaelhpet"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16259639?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverless application for submitting and managing submissions to the US Covid Atlas oral histories project.</div>",
             "url": "https://github.com/GeoDaCenter/covid-histories",
             "title": "GeoDaCenter/covid-histories: Serverless application for submitting and managing submissions to the US Covid Atlas oral histories project.",
@@ -127,102 +171,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99088096?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Camada serverless responsavel pelo command e query</div>",
-            "url": "https://github.com/Dispag/application",
-            "title": "Dispag/application: Camada serverless responsavel pelo command e query",
-            "date_modified": "2022-09-07T23:26:37.000Z",
-            "date_published": "2022-02-06T00:58:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65465380?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ONVU Stream cloud native serverless upload and streaming playback service on AWS. It's a front-to-back full stack portfolio project.</div>",
+            "url": "https://github.com/algoflows/onvu-stream",
+            "title": "algoflows/onvu-stream: ONVU Stream cloud native serverless upload and streaming playback service on AWS. It's a front-to-back full stack portfolio project.",
+            "date_modified": "2023-01-31T21:12:58.000Z",
+            "date_published": "2022-11-27T22:01:35.000Z",
             "author": {
-                "name": "Dispag",
-                "url": "https://github.com/Dispag"
+                "name": "algoflows",
+                "url": "https://github.com/algoflows"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58787260?u=ad00a3826bbab78a6b3d1f71ec61d4a3d6b8cc10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microservicio para la gestión de usuarios replicando y modificando parte de la arquitectura de desarrollo de ML  implementada con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, entre otros. </div>",
-            "url": "https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS",
-            "title": "andresWeitzel/Microservice_Mercadolibre_Users_AWS: Microservicio para la gestión de usuarios replicando y modificando parte de la arquitectura de desarrollo de ML  implementada con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, entre otros. ",
-            "date_modified": "2023-03-12T17:40:58.000Z",
-            "date_published": "2023-02-05T16:39:43.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120222010?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mad-serverless-react-s23/serverless-lab-5",
+            "title": "mad-serverless-react-s23/serverless-lab-5",
+            "date_modified": "2023-03-17T21:43:32.000Z",
+            "date_published": "2023-03-17T21:43:23.000Z",
             "author": {
-                "name": "andresWeitzel",
-                "url": "https://github.com/andresWeitzel"
+                "name": "mad-serverless-react-s23",
+                "url": "https://github.com/mad-serverless-react-s23"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61924961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>KlaudSol CMS is a Headless and Serverless CMS (Content Management System). A great alternative to WordPress and Strapi.</div>",
-            "url": "https://github.com/klaudsol/klaudsol-cms",
-            "title": "klaudsol/klaudsol-cms: KlaudSol CMS is a Headless and Serverless CMS (Content Management System). A great alternative to WordPress and Strapi.",
-            "date_modified": "2023-03-14T02:00:42.000Z",
-            "date_published": "2022-08-21T21:05:10.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17705297?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Samples for using Corticon.js decision services.</div>",
+            "url": "https://github.com/corticon/corticon.js-samples",
+            "title": "corticon/corticon.js-samples: Samples for using Corticon.js decision services.",
+            "date_modified": "2023-03-17T18:53:41.000Z",
+            "date_published": "2020-04-06T11:36:05.000Z",
             "author": {
-                "name": "klaudsol",
-                "url": "https://github.com/klaudsol"
+                "name": "corticon",
+                "url": "https://github.com/corticon"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12076880?u=55a8ad3b0477d0f4c93358831794b933304e2abc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MarkCondello/serverless-notes-api",
-            "title": "MarkCondello/serverless-notes-api",
-            "date_modified": "2023-02-28T03:26:15.000Z",
-            "date_published": "2023-02-28T03:24:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66570915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"boom\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png\">💥</g-emoji> SST makes it easy to build full-stack serverless apps.</div>",
+            "url": "https://github.com/serverless-stack/sst",
+            "title": "serverless-stack/sst: 💥 SST makes it easy to build full-stack serverless apps.",
+            "date_modified": "2023-03-19T22:14:45.000Z",
+            "date_published": "2020-08-04T20:28:14.000Z",
             "author": {
-                "name": "MarkCondello",
-                "url": "https://github.com/MarkCondello"
+                "name": "serverless-stack",
+                "url": "https://github.com/serverless-stack"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8854618?u=52473bdfe7d9b8ceef78b2a38fb3825f971f067a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/neverendingqs/serverless-dotenv-example",
-            "title": "neverendingqs/serverless-dotenv-example",
-            "date_modified": "2023-02-23T08:19:55.000Z",
-            "date_published": "2021-03-18T01:31:02.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1140709?u=0893ac54685d2308b5b3cd55f348753fdb0ab9a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A serverless service layer for the Code and Coffee website for custom code and APIs.</div>",
+            "url": "https://github.com/Bjtowne/Code-and-Coffee-Service",
+            "title": "Bjtowne/Code-and-Coffee-Service: A serverless service layer for the Code and Coffee website for custom code and APIs.",
+            "date_modified": "2023-03-10T03:42:22.000Z",
+            "date_published": "2023-03-09T03:36:04.000Z",
             "author": {
-                "name": "neverendingqs",
-                "url": "https://github.com/neverendingqs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99125819?u=11b5065ca390c35a8003eed6fb9ddb95f12b10ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kotyamur/serverless-academy",
-            "title": "kotyamur/serverless-academy",
-            "date_modified": "2023-02-09T23:18:44.000Z",
-            "date_published": "2023-02-07T13:36:12.000Z",
-            "author": {
-                "name": "kotyamur",
-                "url": "https://github.com/kotyamur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8854618?u=52473bdfe7d9b8ceef78b2a38fb3825f971f067a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set default attributes a given CloudFormation resource should have based on type</div>",
-            "url": "https://github.com/neverendingqs/serverless-default-aws-resource-attributes",
-            "title": "neverendingqs/serverless-default-aws-resource-attributes: Set default attributes a given CloudFormation resource should have based on type",
-            "date_modified": "2023-03-17T12:48:20.000Z",
-            "date_published": "2021-07-05T02:12:35.000Z",
-            "author": {
-                "name": "neverendingqs",
-                "url": "https://github.com/neverendingqs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58787260?u=ad00a3826bbab78a6b3d1f71ec61d4a3d6b8cc10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>App para la ejecución de operaciones y eventos programados sobre base de datos implementado con NodeJs, DynamoDB, Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, Scheduled events, entre otros. </div>",
-            "url": "https://github.com/andresWeitzel/Schedule_Events_DynamoDB_AWS",
-            "title": "andresWeitzel/Schedule_Events_DynamoDB_AWS: App para la ejecución de operaciones y eventos programados sobre base de datos implementado con NodeJs, DynamoDB, Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, Scheduled events, entre otros. ",
-            "date_modified": "2023-03-18T01:44:23.000Z",
-            "date_published": "2023-03-18T01:28:10.000Z",
-            "author": {
-                "name": "andresWeitzel",
-                "url": "https://github.com/andresWeitzel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2357930?u=54643677274a65004362f195a0d2e25d33f23db8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A second attempt at a serverless react website on AWS</div>",
-            "url": "https://github.com/spencer-carver/next-website",
-            "title": "spencer-carver/next-website: A second attempt at a serverless react website on AWS",
-            "date_modified": "2023-01-31T19:40:56.000Z",
-            "date_published": "2022-03-25T02:56:10.000Z",
-            "author": {
-                "name": "spencer-carver",
-                "url": "https://github.com/spencer-carver"
+                "name": "Bjtowne",
+                "url": "https://github.com/Bjtowne"
             }
         }
     ]
